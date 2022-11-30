@@ -2409,20 +2409,20 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 797,Milwaukee,13039,Justina Hernandez,Redshirt Freshman,"Carol Stream, Ill.",Glenbard North,,"5'8""",Guard,25,https://www.mkepanthers.com/sports/womens-basketball/roster/justina-hernandez/13039,2022-23
 797,Milwaukee,13042,Kendall Nead,Sophomore,"Johnston, Iowa",Johnston,,"5'11""",Guard,30,https://www.mkepanthers.com/sports/womens-basketball/roster/kendall-nead/13042,2022-23
 797,Milwaukee,13043,Megan Walstad,Redshirt Senior,"Apple Valley, Minn.",Eastview,,"6'2""",Forward,33,https://www.mkepanthers.com/sports/womens-basketball/roster/megan-walstad/13043,2022-23
-441,Montana,6527,Sammy Fatkin,Fifth Year,,,,"5'11""",G,00,https://www.gogriz.com/sports/womens-basketball/roster/sammy-fatkin/6527,2022-23
-441,Montana,6533,Libby Stump,Freshman,,,,"5'8""",G,1,https://www.gogriz.com/sports/womens-basketball/roster/libby-stump/6533,2022-23
-441,Montana,6534,Mack Konig,Freshman,,,,"5'9""",G,2,https://www.gogriz.com/sports/womens-basketball/roster/mack-konig/6534,2022-23
-441,Montana,6536,Draya Wacker,Freshman,,,,"5'8""",G,3,https://www.gogriz.com/sports/womens-basketball/roster/draya-wacker/6536,2022-23
-441,Montana,6532,Katerina Tsineke,Senior,,,,"5'9""",G,5,https://www.gogriz.com/sports/womens-basketball/roster/katerina-tsineke/6532,2022-23
-441,Montana,6529,Haley Huard,Sophomore,,,,"6'1""",G,10,https://www.gogriz.com/sports/womens-basketball/roster/haley-huard/6529,2022-23
-441,Montana,6538,Keeli Burton-Oliver,Redshirt Freshman,,,,"6'2""",F,13,https://www.gogriz.com/sports/womens-basketball/roster/keeli-burton-oliver/6538,2022-23
-441,Montana,6726,Lauren Dick,Freshman,,,,"5'10""",G,14,https://www.gogriz.com/sports/womens-basketball/roster/lauren-dick/6726,2022-23
-441,Montana,6528,Carmen Gfeller,Redshirt Senior,,,,"6'1""",F,20,https://www.gogriz.com/sports/womens-basketball/roster/carmen-gfeller/6528,2022-23
-441,Montana,6535,Gina Marxen,Redshirt Junior,,,,"5'8""",G,22,https://www.gogriz.com/sports/womens-basketball/roster/gina-marxen/6535,2022-23
-441,Montana,6525,Willa Albrecht,Redshirt Sophomore,,,,"6'0""",F,23,https://www.gogriz.com/sports/womens-basketball/roster/willa-albrecht/6525,2022-23
-441,Montana,6531,Lisa Kiefer,Sophomore,,,,"6'3""",F,24,https://www.gogriz.com/sports/womens-basketball/roster/lisa-kiefer/6531,2022-23
-441,Montana,6537,Alex Pirog,Freshman,,,,"6'3""",F,34,https://www.gogriz.com/sports/womens-basketball/roster/alex-pirog/6537,2022-23
-441,Montana,6526,Dani Bartsch,Sophomore,,,,"6'2""",F,40,https://www.gogriz.com/sports/womens-basketball/roster/dani-bartsch/6526,2022-23
+441,Montana,6527,Sammy Fatkin,Fifth Year,"Snohomish, Wash.",,,"5'11""",G,0,https://www.gogriz.com/sports/womens-basketball/roster/sammy-fatkin/6527,2022-23
+441,Montana,6533,Libby Stump,Freshman,"Ferndale, Wash.",,,"5'8""",G,1,https://www.gogriz.com/sports/womens-basketball/roster/libby-stump/6533,2022-23
+441,Montana,6534,Mack Konig,Freshman,"Milton, Ontario",,,"5'9""",G,2,https://www.gogriz.com/sports/womens-basketball/roster/mack-konig/6534,2022-23
+441,Montana,6536,Draya Wacker,Freshman,"Melstone, Mont.",,,"5'8""",G,3,https://www.gogriz.com/sports/womens-basketball/roster/draya-wacker/6536,2022-23
+441,Montana,6532,Katerina Tsineke,Senior,"Thessaloniki, Greece",,,"5'9""",G,5,https://www.gogriz.com/sports/womens-basketball/roster/katerina-tsineke/6532,2022-23
+441,Montana,6529,Haley Huard,Sophomore,"Highlands Ranch, Colo.",,,"6'1""",G,10,https://www.gogriz.com/sports/womens-basketball/roster/haley-huard/6529,2022-23
+441,Montana,6538,Keeli Burton-Oliver,Redshirt Freshman,"Sammamish, Wash.",,,"6'2""",F,13,https://www.gogriz.com/sports/womens-basketball/roster/keeli-burton-oliver/6538,2022-23
+441,Montana,6726,Lauren Dick,Freshman,"Missoula, Mont.",,,"5'10""",G,14,https://www.gogriz.com/sports/womens-basketball/roster/lauren-dick/6726,2022-23
+441,Montana,6528,Carmen Gfeller,Redshirt Senior,"Colfax, Wash.",,,"6'1""",F,20,https://www.gogriz.com/sports/womens-basketball/roster/carmen-gfeller/6528,2022-23
+441,Montana,6535,Gina Marxen,Redshirt Junior,"Sammamish, Wash.",,,"5'8""",G,22,https://www.gogriz.com/sports/womens-basketball/roster/gina-marxen/6535,2022-23
+441,Montana,6525,Willa Albrecht,Redshirt Sophomore,"Billings, Mont.",,,"6'0""",F,23,https://www.gogriz.com/sports/womens-basketball/roster/willa-albrecht/6525,2022-23
+441,Montana,6531,Lisa Kiefer,Sophomore,"Marburg, Germany",,,"6'3""",F,24,https://www.gogriz.com/sports/womens-basketball/roster/lisa-kiefer/6531,2022-23
+441,Montana,6537,Alex Pirog,Freshman,"Highlands Ranch, Colo.",,,"6'3""",F,34,https://www.gogriz.com/sports/womens-basketball/roster/alex-pirog/6537,2022-23
+441,Montana,6526,Dani Bartsch,Sophomore,"Helena, Mont.",,,"6'2""",F,40,https://www.gogriz.com/sports/womens-basketball/roster/dani-bartsch/6526,2022-23
 8567,Mount St. Joseph,4691,Morgan Jenkins,Freshman,"Erlanger, KY",Lloyd Memorial,,"5'10""",Guard,0,https://www.msjlions.com/sports/womens-basketball/roster/morgan-jenkins/4691,2022-23
 8567,Mount St. Joseph,4702,Karlee Mills,Freshman,"Fairfield, OH",Fairfield,,"5'3""",Guard,1,https://www.msjlions.com/sports/womens-basketball/roster/karlee-mills/4702,2022-23
 8567,Mount St. Joseph,4699,Peyton Spaulding,Freshman,"Lecanto, FL",Lecanto,,"5'1""",Guard,2,https://www.msjlions.com/sports/womens-basketball/roster/peyton-spaulding/4699,2022-23
@@ -3613,20 +3613,20 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 536,UT-Rio Grande Valley,8653,Halie Jones,Junior,"Wichita, KS",Maize High School,Maize High School,"5'10""",Guard,24,https://www.goutrgv.com/sports/womens-basketball/roster/halie-jones/8653,2022-23
 536,UT-Rio Grande Valley,8667,Mariam Traore,Sophomore,Mali,,Clarendon College,"6'0""",Guard/Forward,25,https://www.goutrgv.com/sports/womens-basketball/roster/mariam-traore/8667,2022-23
 536,UT-Rio Grande Valley,8668,Deborah Ogayemi,Sophomore,"Waterford, Ireland",,Tyler Junior College,"5'11""",Forward,33,https://www.goutrgv.com/sports/womens-basketball/roster/deborah-ogayemi/8668,2022-23
-706,UT-San Antonio,7304,Elyssa Coleman,Redshirt Sophomore,,,,"6'3""",Forward,0,https://www.goutsa.com/sports/womens-basketball/roster/elyssa-coleman/7304,2022-23
-706,UT-San Antonio,7303,Hailey Atwood,Senior,,,,"5'8""",Guard,1,https://www.goutsa.com/sports/womens-basketball/roster/hailey-atwood/7303,2022-23
-706,UT-San Antonio,7309,Alexis Parker,Freshman,,,,"5'9""",Guard,2,https://www.goutsa.com/sports/womens-basketball/roster/alexis-parker/7309,2022-23
-706,UT-San Antonio,7315,Siena Guttadauro,Freshman,,,,"5'6""",Guard,4,https://www.goutsa.com/sports/womens-basketball/roster/siena-guttadauro/7315,2022-23
-706,UT-San Antonio,7312,Madison Cockrell,Freshman,,,,"5'4""",Guard,5,https://www.goutsa.com/sports/womens-basketball/roster/madison-cockrell/7312,2022-23
-706,UT-San Antonio,7308,Queen Ulabo,Senior,,,,"5'10""",Guard,10,https://www.goutsa.com/sports/womens-basketball/roster/queen-ulabo/7308,2022-23
-706,UT-San Antonio,7314,Sidney Love,Freshman,,,,"5'8""",Guard,11,https://www.goutsa.com/sports/womens-basketball/roster/sidney-love/7314,2022-23
-706,UT-San Antonio,7316,Maya Linton,Freshman,,,,"6'0""",Forward,20,https://www.goutsa.com/sports/womens-basketball/roster/maya-linton/7316,2022-23
-706,UT-San Antonio,7307,Deborah Nwakamma,Senior,,,,"5'8""",Guard,21,https://www.goutsa.com/sports/womens-basketball/roster/deborah-nwakamma/7307,2022-23
-706,UT-San Antonio,7311,Kyra White,Junior,,,,"5'9""",Guard,22,https://www.goutsa.com/sports/womens-basketball/roster/kyra-white/7311,2022-23
-706,UT-San Antonio,7306,Kyleigh McGuire,Junior,,,,"5'10""",Forward,23,https://www.goutsa.com/sports/womens-basketball/roster/kyleigh-mcguire/7306,2022-23
-706,UT-San Antonio,7305,Kennedy Harrell,Junior,,,,"6'1""",Forward,24,https://www.goutsa.com/sports/womens-basketball/roster/kennedy-harrell/7305,2022-23
-706,UT-San Antonio,7313,Nissa Sam-Grant,Junior,,,,"6'4""",Center,30,https://www.goutsa.com/sports/womens-basketball/roster/nissa-sam-grant/7313,2022-23
-706,UT-San Antonio,7310,Jordyn Jenkins,Junior,,,,"6'0""",Forward,32,https://www.goutsa.com/sports/womens-basketball/roster/jordyn-jenkins/7310,2022-23
+706,UT-San Antonio,7304,Elyssa Coleman,Redshirt Sophomore,"Houston, Texas",,,"6'3""",Forward,0,https://www.goutsa.com/sports/womens-basketball/roster/elyssa-coleman/7304,2022-23
+706,UT-San Antonio,7303,Hailey Atwood,Senior,"Austin, Texas",,,"5'8""",Guard,1,https://www.goutsa.com/sports/womens-basketball/roster/hailey-atwood/7303,2022-23
+706,UT-San Antonio,7309,Alexis Parker,Freshman,"San Antonio, Texas",,,"5'9""",Guard,2,https://www.goutsa.com/sports/womens-basketball/roster/alexis-parker/7309,2022-23
+706,UT-San Antonio,7315,Siena Guttadauro,Freshman,"San Jose, Calif.",,,"5'6""",Guard,4,https://www.goutsa.com/sports/womens-basketball/roster/siena-guttadauro/7315,2022-23
+706,UT-San Antonio,7312,Madison Cockrell,Freshman,"Dallas, Texas",,,"5'4""",Guard,5,https://www.goutsa.com/sports/womens-basketball/roster/madison-cockrell/7312,2022-23
+706,UT-San Antonio,7308,Queen Ulabo,Senior,"Yenagoa, Nigeria",,,"5'10""",Guard,10,https://www.goutsa.com/sports/womens-basketball/roster/queen-ulabo/7308,2022-23
+706,UT-San Antonio,7314,Sidney Love,Freshman,"Cibolo, Texas",,,"5'8""",Guard,11,https://www.goutsa.com/sports/womens-basketball/roster/sidney-love/7314,2022-23
+706,UT-San Antonio,7316,Maya Linton,Freshman,"Duncanville, Texas",,,"6'0""",Forward,20,https://www.goutsa.com/sports/womens-basketball/roster/maya-linton/7316,2022-23
+706,UT-San Antonio,7307,Deborah Nwakamma,Senior,"Lago, Nigeria",,,"5'8""",Guard,21,https://www.goutsa.com/sports/womens-basketball/roster/deborah-nwakamma/7307,2022-23
+706,UT-San Antonio,7311,Kyra White,Junior,"Converse, Texas",,,"5'9""",Guard,22,https://www.goutsa.com/sports/womens-basketball/roster/kyra-white/7311,2022-23
+706,UT-San Antonio,7306,Kyleigh McGuire,Junior,"Houston, Texas",,,"5'10""",Forward,23,https://www.goutsa.com/sports/womens-basketball/roster/kyleigh-mcguire/7306,2022-23
+706,UT-San Antonio,7305,Kennedy Harrell,Junior,"Chicago, Ill.",,,"6'1""",Forward,24,https://www.goutsa.com/sports/womens-basketball/roster/kennedy-harrell/7305,2022-23
+706,UT-San Antonio,7313,Nissa Sam-Grant,Junior,"Toronto, Ontario",,,"6'4""",Center,30,https://www.goutsa.com/sports/womens-basketball/roster/nissa-sam-grant/7313,2022-23
+706,UT-San Antonio,7310,Jordyn Jenkins,Junior,"Kent, Wash.",,,"6'0""",Forward,32,https://www.goutsa.com/sports/womens-basketball/roster/jordyn-jenkins/7310,2022-23
 738,Vermont,9539,Aryana Dizon,Sophomore,"Tampa, Fla.",Carrollwood Day School,,"6'2""",Forward,2,https://www.uvmathletics.com/sports/womens-basketball/roster/aryana-dizon/9539,2022-23
 738,Vermont,9622,Carla Celaya,First Year,"Barcelona, Spain",Barcelona,,"5'11""",Guard,3,https://www.uvmathletics.com/sports/womens-basketball/roster/carla-celaya/9622,2022-23
 738,Vermont,9729,Andjela Matic,First Year,"Ub, Serbia",Sabac,,"5'8""",Guard,4,https://www.uvmathletics.com/sports/womens-basketball/roster/andjela-matic/9729,2022-23
