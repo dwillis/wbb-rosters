@@ -6515,26 +6515,26 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 24317,Lesley,,Jordan Blair,Junior,"Melbourne, FL",Holy Trinity High School,,5'4,Guard,24,https://www.lesleyathletics.com/sports/wbkb/2022-23/bios/blair_jordan_bk09,2022-23
 24317,Lesley,,Olivia Gannon,Freshman,"Taunton, MA",Taunton High School,,5'9,Forward,32,https://www.lesleyathletics.com/sports/wbkb/2022-23/bios/gannon_olivia_ftcd,2022-23
 24317,Lesley,,Sydnie Drezek,Senior,"Seymour, CT",Seymour High School,,5'8,Guard,44,https://www.lesleyathletics.com/sports/wbkb/2022-23/bios/drezek_sydnie_pgyj,2022-23
-24400,Concordia (TX),6291,Jayla Aldridge,Sophomore,"Giddings, Texas",NA,Giddings HS,"5'6""",Guard,2,https://www.concordia.edu/sports/womens-basketball/roster/jayla-aldridge/6291,2022-23
-24400,Concordia (TX),6292,Jessica Amezaga,Junior,"El Paso, Texas",NA,Burges HS,"5'5""",Guard,10,https://www.concordia.edu/sports/womens-basketball/roster/jessica-amezaga/6292,2022-23
-24400,Concordia (TX),6312,Bailey Andrews,Junior,"Houston, Texas",NA,Jacksonville College,"5'8""",Guard,21,https://www.concordia.edu/sports/womens-basketball/roster/bailey-andrews/6312,2022-23
-24400,Concordia (TX),6317,Mackenzie Berger,Freshman,"Moulton, Texas",NA,Moulton HS,"5'7""",Guard,15,https://www.concordia.edu/sports/womens-basketball/roster/mackenzie-berger/6317,2022-23
-24400,Concordia (TX),6315,Jordan Bravo,Freshman,"Mcallen, Texas",NA,Sharyland Pioneer HS,"5'9""",Guard,23,https://www.concordia.edu/sports/womens-basketball/roster/jordan-bravo/6315,2022-23
-24400,Concordia (TX),6294,Chelsea Cogborn,Senior,"Houston, Texas",NA,Oak Ridge HS,"5'11""",Forward,33,https://www.concordia.edu/sports/womens-basketball/roster/chelsea-cogborn/6294,2022-23
-24400,Concordia (TX),6295,Allese Crutcher,Sophomore,"Buda, Texas",NA,Crockett HS,"5'11""",Forward,12,https://www.concordia.edu/sports/womens-basketball/roster/allese-crutcher/6295,2022-23
-24400,Concordia (TX),6296,Kennedy Donovan,Senior,"Dripping Springs, Texas",NA,Dripping Springs HS,"5'7""",Guard,3,https://www.concordia.edu/sports/womens-basketball/roster/kennedy-donovan/6296,2022-23
-24400,Concordia (TX),6313,Britney Gonzalez,Junior,"Dallas, Texas",NA,Jacksonville College,"5'0""",Guard,30,https://www.concordia.edu/sports/womens-basketball/roster/britney-gonzalez/6313,2022-23
-24400,Concordia (TX),6311,Aniya Hicks,Sophomore,"Pasadena, Califonia",NA,Canyon HS,"5'8""",Forward,20,https://www.concordia.edu/sports/womens-basketball/roster/aniya-hicks/6311,2022-23
-24400,Concordia (TX),6314,Faith Horton,Freshman,"McKinney, Texas",NA,McKinney Boyd HS,"5'5""",Guard,5,https://www.concordia.edu/sports/womens-basketball/roster/faith-horton/6314,2022-23
-24400,Concordia (TX),6318,Sam Ising,Freshman,"Dallas, Texas",NA,Hebron HS,"6'3""",Post,34,https://www.concordia.edu/sports/womens-basketball/roster/sam-ising/6318,2022-23
-24400,Concordia (TX),6301,Mikayla Johnson,Sophomore,"Round Rock, Texas",NA,Cedar Ridge HS,"5'5""",Guard,0,https://www.concordia.edu/sports/womens-basketball/roster/mikayla-johnson/6301,2022-23
-24400,Concordia (TX),6310,Alena Johnston,Junior,"Rockwall, Texas",NA,Temple College / Huston-Tillotson,"5'5""",Guard,24,https://www.concordia.edu/sports/womens-basketball/roster/alena-johnston/6310,2022-23
-24400,Concordia (TX),6303,Madi Maxwell,Senior,"Wichita Falls, Texas",NA,Godley HS,"5'6""",Guard,11,https://www.concordia.edu/sports/womens-basketball/roster/madi-maxwell/6303,2022-23
-24400,Concordia (TX),6309,Abby Parra,Freshman,"San Antonio, Texas",NA,Cornerstone Christian Schools,"5'6""",Guard,13,https://www.concordia.edu/sports/womens-basketball/roster/abby-parra/6309,2022-23
-24400,Concordia (TX),6304,Havyn Perez,Senior,"Seminole, Texas",NA,Seminole HS,"5'6""",Guard,4,https://www.concordia.edu/sports/womens-basketball/roster/havyn-perez/6304,2022-23
-24400,Concordia (TX),6305,Zakari Perry,Junior,"Victoria, Texas",NA,Victoria East HS,"5'8""",Guard,22,https://www.concordia.edu/sports/womens-basketball/roster/zakari-perry/6305,2022-23
-24400,Concordia (TX),6306,Irianna Rollins,Sophomore,"Pflugerville, Texas",NA,Connally HS,"6'0""",Center,35,https://www.concordia.edu/sports/womens-basketball/roster/irianna-rollins/6306,2022-23
-24400,Concordia (TX),6316,Kyndall Williams,Junior,"Fishers, Indiana",NA,Hamilton Southeastern HS,"5'10""",Forward,14,https://www.concordia.edu/sports/womens-basketball/roster/kyndall-williams/6316,2022-23
+24400,Concordia (TX),6291,Jayla Aldridge,Sophomore,"Giddings, Texas",,Giddings HS,"5'6""",Guard,2,https://www.concordia.edu/sports/womens-basketball/roster/jayla-aldridge/6291,2022-23
+24400,Concordia (TX),6292,Jessica Amezaga,Junior,"El Paso, Texas",,Burges HS,"5'5""",Guard,10,https://www.concordia.edu/sports/womens-basketball/roster/jessica-amezaga/6292,2022-23
+24400,Concordia (TX),6312,Bailey Andrews,Junior,"Houston, Texas",,Jacksonville College,"5'8""",Guard,21,https://www.concordia.edu/sports/womens-basketball/roster/bailey-andrews/6312,2022-23
+24400,Concordia (TX),6317,Mackenzie Berger,Freshman,"Moulton, Texas",,Moulton HS,"5'7""",Guard,15,https://www.concordia.edu/sports/womens-basketball/roster/mackenzie-berger/6317,2022-23
+24400,Concordia (TX),6315,Jordan Bravo,Freshman,"Mcallen, Texas",,Sharyland Pioneer HS,"5'9""",Guard,23,https://www.concordia.edu/sports/womens-basketball/roster/jordan-bravo/6315,2022-23
+24400,Concordia (TX),6294,Chelsea Cogborn,Senior,"Houston, Texas",,Oak Ridge HS,"5'11""",Forward,33,https://www.concordia.edu/sports/womens-basketball/roster/chelsea-cogborn/6294,2022-23
+24400,Concordia (TX),6295,Allese Crutcher,Sophomore,"Buda, Texas",,Crockett HS,"5'11""",Forward,12,https://www.concordia.edu/sports/womens-basketball/roster/allese-crutcher/6295,2022-23
+24400,Concordia (TX),6296,Kennedy Donovan,Senior,"Dripping Springs, Texas",,Dripping Springs HS,"5'7""",Guard,3,https://www.concordia.edu/sports/womens-basketball/roster/kennedy-donovan/6296,2022-23
+24400,Concordia (TX),6313,Britney Gonzalez,Junior,"Dallas, Texas",,Jacksonville College,"5'0""",Guard,30,https://www.concordia.edu/sports/womens-basketball/roster/britney-gonzalez/6313,2022-23
+24400,Concordia (TX),6311,Aniya Hicks,Sophomore,"Pasadena, Califonia",,Canyon HS,"5'8""",Forward,20,https://www.concordia.edu/sports/womens-basketball/roster/aniya-hicks/6311,2022-23
+24400,Concordia (TX),6314,Faith Horton,Freshman,"McKinney, Texas",,McKinney Boyd HS,"5'5""",Guard,5,https://www.concordia.edu/sports/womens-basketball/roster/faith-horton/6314,2022-23
+24400,Concordia (TX),6318,Sam Ising,Freshman,"Dallas, Texas",,Hebron HS,"6'3""",Post,34,https://www.concordia.edu/sports/womens-basketball/roster/sam-ising/6318,2022-23
+24400,Concordia (TX),6301,Mikayla Johnson,Sophomore,"Round Rock, Texas",,Cedar Ridge HS,"5'5""",Guard,0,https://www.concordia.edu/sports/womens-basketball/roster/mikayla-johnson/6301,2022-23
+24400,Concordia (TX),6310,Alena Johnston,Junior,"Rockwall, Texas",,Temple College / Huston-Tillotson,"5'5""",Guard,24,https://www.concordia.edu/sports/womens-basketball/roster/alena-johnston/6310,2022-23
+24400,Concordia (TX),6303,Madi Maxwell,Senior,"Wichita Falls, Texas",,Godley HS,"5'6""",Guard,11,https://www.concordia.edu/sports/womens-basketball/roster/madi-maxwell/6303,2022-23
+24400,Concordia (TX),6309,Abby Parra,Freshman,"San Antonio, Texas",,Cornerstone Christian Schools,"5'6""",Guard,13,https://www.concordia.edu/sports/womens-basketball/roster/abby-parra/6309,2022-23
+24400,Concordia (TX),6304,Havyn Perez,Senior,"Seminole, Texas",,Seminole HS,"5'6""",Guard,4,https://www.concordia.edu/sports/womens-basketball/roster/havyn-perez/6304,2022-23
+24400,Concordia (TX),6305,Zakari Perry,Junior,"Victoria, Texas",,Victoria East HS,"5'8""",Guard,22,https://www.concordia.edu/sports/womens-basketball/roster/zakari-perry/6305,2022-23
+24400,Concordia (TX),6306,Irianna Rollins,Sophomore,"Pflugerville, Texas",,Connally HS,"6'0""",Center,35,https://www.concordia.edu/sports/womens-basketball/roster/irianna-rollins/6306,2022-23
+24400,Concordia (TX),6316,Kyndall Williams,Junior,"Fishers, Indiana",,Hamilton Southeastern HS,"5'10""",Forward,14,https://www.concordia.edu/sports/womens-basketball/roster/kyndall-williams/6316,2022-23
 246,Gannon,8685,Faith  Williams,Senior,"Grafton, Ohio",Elyria Catholic,,"5'6""",Point,3,https://www.gannonsports.com/sports/womens-basketball/roster/faith-williams/8685,2022-23
 246,Gannon,8684,Maddy Wheatley,Junior,"Canberra, Australia",UCSSC Lake Ginninderra,,"5'11""",Guard,4,https://www.gannonsports.com/sports/womens-basketball/roster/maddy-wheatley/8684,2022-23
 246,Gannon,8679,Margo Loutzenhiser,Senior,"Russell, Pa.",Warren Area,,"5'8""",Guard,5,https://www.gannonsports.com/sports/womens-basketball/roster/margo-loutzenhiser/8679,2022-23
