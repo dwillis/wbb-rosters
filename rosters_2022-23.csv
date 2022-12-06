@@ -3985,19 +3985,19 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 1057,Drury,6139,Mia Henderson,Senior,"St. Joseph, MO",Benton,,"5'11""",Forward,32,https://www.drurypanthers.com/sports/womens-basketball/roster/mia-henderson/6139,2022-23
 1057,Drury,6138,Alana Findley,Senior,"Fair Grove, MO",Fair Grove,,"5'10""",Forward,40,https://www.drurypanthers.com/sports/womens-basketball/roster/alana-findley/6138,2022-23
 1057,Drury,6143,Aiden Moxness,Sophomore,"Lenexa, KS",Shawnee Mission West,,"6'4""",Center,54,https://www.drurypanthers.com/sports/womens-basketball/roster/aiden-moxness/6143,2022-23
-1059,D'Youville,,Isabella Kostyal,Fr,Poughkeepsie,N.Y.,,5-9,G/F,2,https://www.dyc.edu/sports/wbkb/2022-23/bios/kostyal_isabella_zrte,2022-23
-1059,D'Youville,,Stella Mollica,Jr,Shillington,Pa.,,5-4,G,3,https://www.dyc.edu/sports/wbkb/2022-23/bios/mollica_stella_cr7x,2022-23
-1059,D'Youville,,Haley Kirisits,Sr,Lancaster,N.Y.,,5-11,G/F,4,https://www.dyc.edu/sports/wbkb/2022-23/bios/kirisits_haley_qlqo,2022-23
-1059,D'Youville,,Anna Jankovic,Jr,Averill Park,N.Y.,,5-9,G,10,https://www.dyc.edu/sports/wbkb/2022-23/bios/jankovic_anna_ipob,2022-23
-1059,D'Youville,,Izabella Zirzow,Fr,Bristolville,Ohio,,6-0,F/G,11,https://www.dyc.edu/sports/wbkb/2022-23/bios/zirzow_izabella_8dd6,2022-23
-1059,D'Youville,,Brianne Moxley,Jr,Penfield,N.Y.,,5-9,G,13,https://www.dyc.edu/sports/wbkb/2022-23/bios/moxley_brianne_557p,2022-23
-1059,D'Youville,,Haleigh Schafer,So,Eggharbor City,N.J.,,5-9,G,20,https://www.dyc.edu/sports/wbkb/2022-23/bios/schafer_haleigh_br3z,2022-23
-1059,D'Youville,,Jaelyn Vleer-Elliott,So,Waterville,N.Y.,,6-1,F,21,https://www.dyc.edu/sports/wbkb/2022-23/bios/vleer-elliott_jaelyn_5a3w,2022-23
-1059,D'Youville,,Tamia Murphy,So,Winnetka,Calif.,,5-10,F,22,https://www.dyc.edu/sports/wbkb/2022-23/bios/murphy_tamia_ixvw,2022-23
-1059,D'Youville,,Madison Clark,Fr,Goshen,N.Y.,,5-8,G,23,https://www.dyc.edu/sports/wbkb/2022-23/bios/clark_madison_exus,2022-23
-1059,D'Youville,,Morgan Giancaterino,Fr,Orchard Park,N.Y.,,5-9,G,25,https://www.dyc.edu/sports/wbkb/2022-23/bios/giancaterino_morgan_d4pj,2022-23
-1059,D'Youville,,Bailey Carlson,So,Clermont,Fla.,,5-11,G/F,31,https://www.dyc.edu/sports/wbkb/2022-23/bios/carlson_bailey_4eka,2022-23
-1059,D'Youville,,Sofie Fuglsang,So,Oberanven,Luxembourg,,6-1,F,33,https://www.dyc.edu/sports/wbkb/2022-23/bios/fuglsang_sofie_5sx3,2022-23
+1059,D'Youville,,Isabella Kostyal,Fr,"Poughkeepsie,N.Y.",,,5-9,G/F,2,https://www.dyc.edu/sports/wbkb/2022-23/bios/kostyal_isabella_zrte,2022-23
+1059,D'Youville,,Stella Mollica,Jr,"Shillington,Pa.",,,5-4,G,3,https://www.dyc.edu/sports/wbkb/2022-23/bios/mollica_stella_cr7x,2022-23
+1059,D'Youville,,Haley Kirisits,Sr,"Lancaster,N.Y.",,,5-11,G/F,4,https://www.dyc.edu/sports/wbkb/2022-23/bios/kirisits_haley_qlqo,2022-23
+1059,D'Youville,,Anna Jankovic,Jr,"Averill Park,N.Y.",,,5-9,G,10,https://www.dyc.edu/sports/wbkb/2022-23/bios/jankovic_anna_ipob,2022-23
+1059,D'Youville,,Izabella Zirzow,Fr,"Bristolville,Ohio",,,6-0,F/G,11,https://www.dyc.edu/sports/wbkb/2022-23/bios/zirzow_izabella_8dd6,2022-23
+1059,D'Youville,,Brianne Moxley,Jr,"Penfield,N.Y.",,,5-9,G,13,https://www.dyc.edu/sports/wbkb/2022-23/bios/moxley_brianne_557p,2022-23
+1059,D'Youville,,Haleigh Schafer,So,"Eggharbor City,N.J.",,,5-9,G,20,https://www.dyc.edu/sports/wbkb/2022-23/bios/schafer_haleigh_br3z,2022-23
+1059,D'Youville,,Jaelyn Vleer-Elliott,So,"Waterville,N.Y.",,,6-1,F,21,https://www.dyc.edu/sports/wbkb/2022-23/bios/vleer-elliott_jaelyn_5a3w,2022-23
+1059,D'Youville,,Tamia Murphy,So,"Winnetka,Calif.",,,5-10,F,22,https://www.dyc.edu/sports/wbkb/2022-23/bios/murphy_tamia_ixvw,2022-23
+1059,D'Youville,,Madison Clark,Fr,"Goshen,N.Y.",,,5-8,G,23,https://www.dyc.edu/sports/wbkb/2022-23/bios/clark_madison_exus,2022-23
+1059,D'Youville,,Morgan Giancaterino,Fr,"Orchard Park,N.Y.",,,5-9,G,25,https://www.dyc.edu/sports/wbkb/2022-23/bios/giancaterino_morgan_d4pj,2022-23
+1059,D'Youville,,Bailey Carlson,So,"Clermont,Fla.",,,5-11,G/F,31,https://www.dyc.edu/sports/wbkb/2022-23/bios/carlson_bailey_4eka,2022-23
+1059,D'Youville,,Sofie Fuglsang,So,"Oberanven,Luxembourg",,,6-1,F,33,https://www.dyc.edu/sports/wbkb/2022-23/bios/fuglsang_sofie_5sx3,2022-23
 106,Cal U (PA),6652,Hayden Robinson,Junior,"Pittsburgh, Pa.",Avonworth,,"5'9""",Guard/Forward,1,https://www.calvulcans.com/sports/womens-basketball/roster/hayden-robinson/6652,2022-23
 106,Cal U (PA),6639,Ciaira Loyd,Senior,"Scranton, Pa.",Scranton,,"5'7""",Guard,2,https://www.calvulcans.com/sports/womens-basketball/roster/ciaira-loyd/6639,2022-23
 106,Cal U (PA),6653,Alicia Young,Freshman,"McKees Rocks, Pa.",Sto-Rox,,"5'10""",Guard/Forward,3,https://www.calvulcans.com/sports/womens-basketball/roster/alicia-young/6653,2022-23
