@@ -3350,7 +3350,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 104,UC Santa Barbara,,Kennedy Johnson,Sophomore,"Hayward, Calif.",Bishop O'Dowd HS,,5-11,Guard,21,https://www.ucsbgauchos.com/sports/w-baskbl/2022-23/bios/johnson_kennedy_izi1,2022-23
 104,UC Santa Barbara,,Alexis Whitfield,Sophomore,"West Hills, Calif.",Washington,,6-2,Forward,23,https://www.ucsbgauchos.com/sports/w-baskbl/2022-23/bios/whitfield_alexis_tgz6,2022-23
 104,UC Santa Barbara,,Analillia Cabuena,Sophomore,"Stockton, Calif.",Lincoln HS,,6-0,Forward,25,https://www.ucsbgauchos.com/sports/w-baskbl/2022-23/bios/cabuena_analillia_2lga,2022-23
-104,UC Santa Barbara,,Ila Lane,Senior,Moraga,Woodside Priory School,,6-4,Forward/Center,31,https://www.ucsbgauchos.com/sports/w-baskbl/2022-23/bios/lane_ila_2sc9,2022-23
+104,UC Santa Barbara,,Ila Lane,Senior,"Moraga, Calif.",Woodside Priory School,,6-4,Forward/Center,31,https://www.ucsbgauchos.com/sports/w-baskbl/2022-23/bios/lane_ila_2sc9,2022-23
 104,UC Santa Barbara,,Jessica Grant,Freshman,"San Marcos, Calif.",Mission Hills HS,,5-8,Guard,32,https://www.ucsbgauchos.com/sports/w-baskbl/2022-23/bios/grant_jessica_8480,2022-23
 104,UC Santa Barbara,,Skylar Burke,Freshman,"Couer d'Alene, Ida.",Couer d'Alene HS,,5-8,Guard,55,https://www.ucsbgauchos.com/sports/w-baskbl/2022-23/bios/burke_skylar_065n,2022-23
 219,Evansville,5785,Kynidi Mason Striverson,Freshman,"Sellersburg, Ind.",,Silver Creek HS,"5'8""",Guard,0,https://www.gopurpleaces.com/sports/womens-basketball/roster/kynidi-mason-striverson/5785,2022-23
@@ -3749,21 +3749,21 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 260,Gonzaga,4329,Brynna Maxwell,Graduate Student,"Gig Harbor, Wash.",Gig Harbor,Utah,"6'0""",Guard,22,https://www.gozags.com/sports/womens-basketball/roster/brynna-maxwell/4329,2022-23
 260,Gonzaga,4328,McKayla Williams,Junior,"Los Angeles, CA",Winward,,"6'1""",Guard,24,https://www.gozags.com/sports/womens-basketball/roster/mckayla-williams/4328,2022-23
 260,Gonzaga,4324,Bree Salenbien,Sophomore,"Adrian, Mich.",Lenawee Christian,,"6'2""",Guard,35,https://www.gozags.com/sports/womens-basketball/roster/bree-salenbien/4324,2022-23
-100,Cal State LA,4003,Tiara Scott,Senior,Torrance,St. Anthony HS,Sacramento State,"5'4""",G,0,https://www.lagoldeneagles.com/sports/womens-basketball/roster/tiara-scott/4003,2022-23
-100,Cal State LA,4004,Raya Smith,Sophomore,Moreno Valley,King HS,,"5'4""",G,1,https://www.lagoldeneagles.com/sports/womens-basketball/roster/raya-smith/4004,2022-23
-100,Cal State LA,4007,Paola Roa,Junior,Newport Beach,Huntington Beach HS,Irvine Valley College,"5'7""",G,2,https://www.lagoldeneagles.com/sports/womens-basketball/roster/paola-roa/4007,2022-23
-100,Cal State LA,4005,Yesenia Smith,Junior,San Diego,Christian HS,,"5'6""",G,3,https://www.lagoldeneagles.com/sports/womens-basketball/roster/yesenia-smith/4005,2022-23
-100,Cal State LA,4006,Iyanna Lamb,Sophomore,Norwalk,Long Beach Poly HS,,"5'3""",G,5,https://www.lagoldeneagles.com/sports/womens-basketball/roster/iyanna-lamb/4006,2022-23
-100,Cal State LA,4008,Ashley Orozco,Junior,Canoga Park,Bishop Alemany HS,Moorpark College,"5'4""",G,10,https://www.lagoldeneagles.com/sports/womens-basketball/roster/ashley-orozco/4008,2022-23
-100,Cal State LA,4009,Lily Buggs,Sophomore,Long Beach,Long Beach Poly HS,,"5'9""",G,11,https://www.lagoldeneagles.com/sports/womens-basketball/roster/lily-buggs/4009,2022-23
-100,Cal State LA,4010,Silivia Fonongaloa,Freshman,Pittsburg,Salesian College Prep,,"6'1""",C,12,https://www.lagoldeneagles.com/sports/womens-basketball/roster/silivia-fonongaloa/4010,2022-23
-100,Cal State LA,4011,Anai Washington,Senior,Corona,Norco HS,Irvine Valley College,"5'6""",G,13,https://www.lagoldeneagles.com/sports/womens-basketball/roster/anai-washington/4011,2022-23
-100,Cal State LA,4012,Jada Johnson,Senior,Fresno,Merced HS,Merced College,"6'0""",F,14,https://www.lagoldeneagles.com/sports/womens-basketball/roster/jada-johnson/4012,2022-23
-100,Cal State LA,4013,Melena Bland,Senior,San Marcos,Mission Hills HS,Palomar College,"5'9""",G,21,https://www.lagoldeneagles.com/sports/womens-basketball/roster/melena-bland/4013,2022-23
+100,Cal State LA,4003,Tiara Scott,Senior,"Torrance, CA",St. Anthony HS,Sacramento State,"5'4""",G,0,https://www.lagoldeneagles.com/sports/womens-basketball/roster/tiara-scott/4003,2022-23
+100,Cal State LA,4004,Raya Smith,Sophomore,"Moreno Valley, CA",King HS,,"5'4""",G,1,https://www.lagoldeneagles.com/sports/womens-basketball/roster/raya-smith/4004,2022-23
+100,Cal State LA,4007,Paola Roa,Junior,"Newport Beach, CA",Huntington Beach HS,Irvine Valley College,"5'7""",G,2,https://www.lagoldeneagles.com/sports/womens-basketball/roster/paola-roa/4007,2022-23
+100,Cal State LA,4005,Yesenia Smith,Junior,"San Diego, CA",Christian HS,,"5'6""",G,3,https://www.lagoldeneagles.com/sports/womens-basketball/roster/yesenia-smith/4005,2022-23
+100,Cal State LA,4006,Iyanna Lamb,Sophomore,"Norwalk, CA",Long Beach Poly HS,,"5'3""",G,5,https://www.lagoldeneagles.com/sports/womens-basketball/roster/iyanna-lamb/4006,2022-23
+100,Cal State LA,4008,Ashley Orozco,Junior,"Canoga Park, CA",Bishop Alemany HS,Moorpark College,"5'4""",G,10,https://www.lagoldeneagles.com/sports/womens-basketball/roster/ashley-orozco/4008,2022-23
+100,Cal State LA,4009,Lily Buggs,Sophomore,"Long Beach, CA",Long Beach Poly HS,,"5'9""",G,11,https://www.lagoldeneagles.com/sports/womens-basketball/roster/lily-buggs/4009,2022-23
+100,Cal State LA,4010,Silivia Fonongaloa,Freshman,"Pittsburg, CA",Salesian College Prep,,"6'1""",C,12,https://www.lagoldeneagles.com/sports/womens-basketball/roster/silivia-fonongaloa/4010,2022-23
+100,Cal State LA,4011,Anai Washington,Senior,"Corona, CA",Norco HS,Irvine Valley College,"5'6""",G,13,https://www.lagoldeneagles.com/sports/womens-basketball/roster/anai-washington/4011,2022-23
+100,Cal State LA,4012,Jada Johnson,Senior,"Fresno, CA",Merced HS,Merced College,"6'0""",F,14,https://www.lagoldeneagles.com/sports/womens-basketball/roster/jada-johnson/4012,2022-23
+100,Cal State LA,4013,Melena Bland,Senior,"San Marcos, CA",Mission Hills HS,Palomar College,"5'9""",G,21,https://www.lagoldeneagles.com/sports/womens-basketball/roster/melena-bland/4013,2022-23
 100,Cal State LA,4014,Nicole Flennaugh,Junior,"Portland, Ore.",Westview HS,,"5'7""",G,22,https://www.lagoldeneagles.com/sports/womens-basketball/roster/nicole-flennaugh/4014,2022-23
-100,Cal State LA,4015,Olivia Hodges,Freshman,Pasadena,Pasadena HS,,"6'0""",F,23,https://www.lagoldeneagles.com/sports/womens-basketball/roster/olivia-hodges/4015,2022-23
-100,Cal State LA,4016,Nevaeh Asiasi,Freshman,Pittsburg,Salesian College Prep,,"5'8""",G,24,https://www.lagoldeneagles.com/sports/womens-basketball/roster/nevaeh-asiasi/4016,2022-23
-100,Cal State LA,4017,Amaya Fuentes,Freshman,Ventura,Ventura HS,,"6'3""",C,42,https://www.lagoldeneagles.com/sports/womens-basketball/roster/amaya-fuentes/4017,2022-23
+100,Cal State LA,4015,Olivia Hodges,Freshman,"Pasadena, CA",Pasadena HS,,"6'0""",F,23,https://www.lagoldeneagles.com/sports/womens-basketball/roster/olivia-hodges/4015,2022-23
+100,Cal State LA,4016,Nevaeh Asiasi,Freshman,"Pittsburg, CA",Salesian College Prep,,"5'8""",G,24,https://www.lagoldeneagles.com/sports/womens-basketball/roster/nevaeh-asiasi/4016,2022-23
+100,Cal State LA,4017,Amaya Fuentes,Freshman,"Ventura, CA",Ventura HS,,"6'3""",C,42,https://www.lagoldeneagles.com/sports/womens-basketball/roster/amaya-fuentes/4017,2022-23
 1000,Carson-Newman,,Harli Smith,Junior,"Jamestown, Tenn.",York Institute,,5-9,G,00,https://www.cneagles.com/sports/w-baskbl/2022-23/bios/smith_harli_90tx,2022-23
 1000,Carson-Newman,,Makayla Alvey,Sophomore,"Dandridge, Tenn.",Jefferson County,Lipscomb,5-9,G,1,https://www.cneagles.com/sports/w-baskbl/2022-23/bios/alvey_makayla_ipjc,2022-23
 1000,Carson-Newman,,Kali McMahan,Freshman,"Dandridge, Tenn.",Jefferson County,,6-1,F,3,https://www.cneagles.com/sports/w-baskbl/2022-23/bios/mcmahan_kali_3p2x,2022-23
