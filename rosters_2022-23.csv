@@ -1373,7 +1373,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 81,Bryant,,Nicole Gallagher,Sr.,"Foxboro, Mass.",Tabor Academy,,5-8,G,21,https://www.bryantbulldogs.com/sports/wbkb/2022-23/bios/gallagher_nicole_vng5,2022-23
 81,Bryant,,Megan Bodziony,Jr.,"Wakefield, R.I.",St. Andrew's School (Fordham),,5-10,G,24,https://www.bryantbulldogs.com/sports/wbkb/2022-23/bios/bodziony_megan_axjh,2022-23
 81,Bryant,,Alejandra Ferreirós,Fr.,"Madrid, Spain",Colegio Estudiantes,,6-1,F,31,https://www.bryantbulldogs.com/sports/wbkb/2022-23/bios/ferreiros_alejandra_ga4e,2022-23
-81,Bryant,,Marta Neira Martinez,So.,"Barcelona, Spain",-,,6-0,G,33,https://www.bryantbulldogs.com/sports/wbkb/2022-23/bios/neira_martinez_marta_h4lp,2022-23
+81,Bryant,,Marta Neira Martinez,So.,"Barcelona, Spain",,,6-0,G,33,https://www.bryantbulldogs.com/sports/wbkb/2022-23/bios/neira_martinez_marta_h4lp,2022-23
 81,Bryant,,Stephanie Mayerhofer,Jr.,"Red Bank, N.J.",Middletown South,,5-7,G,42,https://www.bryantbulldogs.com/sports/wbkb/2022-23/bios/mayerhofer_stephanie_p9o8,2022-23
 83,Bucknell,8618,Emma Theodorsson,Freshman,"Moon Township, Pa.",Moon,,"6'1""",Forward/Guard,0,https://www.bucknellbison.com/sports/womens-basketball/roster/emma-theodorsson/8618,2022-23
 83,Bucknell,8617,Remi Sisselman,Sophomore,"Long Island, N.Y.",Half Hollow Hills East,,"6'0""",Forward/Guard,1,https://www.bucknellbison.com/sports/womens-basketball/roster/remi-sisselman/8617,2022-23
@@ -1483,7 +1483,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 148,Cleveland State,,Jordana Reisma,Freshman,"Brown Deer, Wis.",Brown Deer,,6-3,Forward,10,https://www.csuvikings.com/sports/w-baskbl/2022-23/bios/reisma_jordana_v6gn,2022-23
 148,Cleveland State,,Aminata Ly,Redshirt-Junior,"Dakar, Senegal",Green Forest Christian Academy (Ga.),,6-4,Center,11,https://www.csuvikings.com/sports/w-baskbl/2022-23/bios/ly_aminata_n2nr,2022-23
 148,Cleveland State,,Sara Guerreiro,Junior,"Seixal, Portugal",Escola Básica e Secundária Amélia Rey Colasso (USF),,5-10,Guard,12,https://www.csuvikings.com/sports/w-baskbl/2022-23/bios/guerreiro_sara_gdvh,2022-23
-148,Cleveland State,,Barbara Zieniewska,Graduate,"Sokolow Podlaski, Poland",-,,6-0,Guard,13,https://www.csuvikings.com/sports/w-baskbl/2022-23/bios/zieniewska_barbara_ut2a,2022-23
+148,Cleveland State,,Barbara Zieniewska,Graduate,"Sokolow Podlaski, Poland",,,6-0,Guard,13,https://www.csuvikings.com/sports/w-baskbl/2022-23/bios/zieniewska_barbara_ut2a,2022-23
 148,Cleveland State,,Brittni Moore,Senior,"Memphis, Tenn.",White Station (UT Martin),,5-10,Forward,15,https://www.csuvikings.com/sports/w-baskbl/2022-23/bios/moore_brittni_3ghc,2022-23
 148,Cleveland State,,Shadiya Thomas,Junior,"Cypress, Texas",Cypress Ranch (Tyler Junior College),,5-8,Guard,20,https://www.csuvikings.com/sports/w-baskbl/2022-23/bios/thomas_shadiya_46b3,2022-23
 148,Cleveland State,,Faith Burch,Redshirt-Freshman,"Warren, Ohio",Harding,,6-1,Forward,22,https://www.csuvikings.com/sports/w-baskbl/2022-23/bios/burch_faith_ehg2,2022-23
@@ -6468,7 +6468,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 241,Franklin Pierce,,Anna Badosa Soler,Jr.,"Girona, Spain",Angloamericano,,5-9,G,22,https://www.fpuravens.com/sports/wbkb/2022-23/bios/badosa_soler_anna_wpf5,2022-23
 241,Franklin Pierce,,Abby Rice,Fr.,"Silver Creek, N.Y.",Silver Creek,,5-11,G/F,23,https://www.fpuravens.com/sports/wbkb/2022-23/bios/rice_abby_7vcs,2022-23
 241,Franklin Pierce,,Gisela Vazquez Segura,Jr.,"Igualada, Spain",Institut Joaquim Blume,,5-11,F,24,https://www.fpuravens.com/sports/wbkb/2022-23/bios/vazquez_segura_gisela_90t2,2022-23
-241,Franklin Pierce,,Keely Toohey,So.,"McCrae, Australia",-,,5-7,G,31,https://www.fpuravens.com/sports/wbkb/2022-23/bios/toohey_keely_831q,2022-23
+241,Franklin Pierce,,Keely Toohey,So.,"McCrae, Australia",,,5-7,G,31,https://www.fpuravens.com/sports/wbkb/2022-23/bios/toohey_keely_831q,2022-23
 241,Franklin Pierce,,Ashley Smith,Jr.,"Holden, Mass.",West Boylston,,6-1,F/C,32,https://www.fpuravens.com/sports/wbkb/2022-23/bios/smith_ashley_k9a6,2022-23
 241,Franklin Pierce,,Demi Albon,Fr.,"Craigeburn, Australia",Craigeburn Secondary,,6-1,F,34,https://www.fpuravens.com/sports/wbkb/2022-23/bios/albon_demi_v1yh,2022-23
 241,Franklin Pierce,,Colette Mulderig,Jr.,"Scranton, Pa.",Scranton,,6-4,F/C,44,https://www.fpuravens.com/sports/wbkb/2022-23/bios/mulderig_colette_zp40,2022-23
@@ -7722,7 +7722,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 443,Moravian,,Emily Markowski,Sr.,"Branchburg, N.J.",Somerville,,5-9,F,5,https://www.moraviansports.com/sports/wbkb/2022-23/bios/markowski_emily_d8t2,2022-23
 443,Moravian,,Brielle Guarente,So.,"West Caldwell, N.J.",James Caldwell,,5-10,F,10,https://www.moraviansports.com/sports/wbkb/2022-23/bios/guarente_brielle_r0vm,2022-23
 443,Moravian,,Mikayla Anderson,So.,"Garnet Valley, Pa.",Garnet Valley,,5-6,G,12,https://www.moraviansports.com/sports/wbkb/2022-23/bios/anderson_mikayla_yz5o,2022-23
-443,Moravian,,Nicole Rendina,Fr.,"Red Bank, N.J.",-,,5-6,G,13,https://www.moraviansports.com/sports/wbkb/2022-23/bios/rendina_nicole_roae,2022-23
+443,Moravian,,Nicole Rendina,Fr.,"Red Bank, N.J.",,,5-6,G,13,https://www.moraviansports.com/sports/wbkb/2022-23/bios/rendina_nicole_roae,2022-23
 443,Moravian,,Reganne Flannery,Jr.,"Lansdale, Pa.",Gwynedd Mercy Academy,,5-6,G,14,https://www.moraviansports.com/sports/wbkb/2022-23/bios/flannery_reganne_1tyg,2022-23
 443,Moravian,,Sarah Miniter,Fr.,"Boonton, N.J.",Mountain Lakes,,5-5,G,15,https://www.moraviansports.com/sports/wbkb/2022-23/bios/miniter_sarah_guuq,2022-23
 443,Moravian,,Tessa Zamolyi,Gr.,"Bethlehem, Pa.",Bethlehem Catholic,,5-10,F,20,https://www.moraviansports.com/sports/wbkb/2022-23/bios/zamolyi_tessa_j0ax,2022-23
@@ -9019,24 +9019,24 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 408,Mercyhurst,13723,Grace Clary,Sophomore,"Whitehall, Pa.",Whitehall,,"5'10""",G,23,https://www.hurstathletics.com/sports/womens-basketball/roster/grace-clary/13723,2022-23
 408,Mercyhurst,13729,Lexi Wagner,Graduate Student,"Galesville, PA",G-E-T,,"5'10""",G,31,https://www.hurstathletics.com/sports/womens-basketball/roster/lexi-wagner/13729,2022-23
 408,Mercyhurst,13724,Sarah Hortin,Sophomore,"Rockville, Md.",Connelly School of the Holy Child,,"6'0""",F,33,https://www.hurstathletics.com/sports/womens-basketball/roster/sarah-hortin/13724,2022-23
-408,Mercyhurst,13730,Bailey Kuhns,Freshman,,,,"5'11""",F,34,https://www.hurstathletics.com/sports/womens-basketball/roster/bailey-kuhns/13730,2022-23
+408,Mercyhurst,13730,Bailey Kuhns,Freshman,"Mount Pleasant, Pa.",Greensburg Central Catholic,,"5'11""",F,34,https://www.hurstathletics.com/sports/womens-basketball/roster/bailey-kuhns/13730,2022-23
 408,Mercyhurst,13725,Grace Centrulla,Sophomore,"Cincinnati, Ohio",Mount Notre Dame High School,,"6'0""",F,44,https://www.hurstathletics.com/sports/womens-basketball/roster/grace-centrulla/13725,2022-23
 408,Mercyhurst,13726,Lauren Klare,Sophomore,"Cincinnati, Ohio",Ursuline Academy,,"5'10""",G,45,https://www.hurstathletics.com/sports/womens-basketball/roster/lauren-klare/13726,2022-23
-409,Meredith,,Rylie Wade,Fr.,"Roanoke Rapids, N.C.",-,,5'10,F,1,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/wade_rylie_nqxs,2022-23
-409,Meredith,,Kylie Wade,Fr.,"Roanoke Rapids, N.C.",-,,6'0,F,2,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/wade_kylie_4f1t,2022-23
-409,Meredith,,Kirsten Whitehead,Fr.,"Westminster, Md.",-,,5'1,G,4,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/whitehead_kirsten_ib0b,2022-23
+409,Meredith,,Rylie Wade,Fr.,"Roanoke Rapids, N.C.",,,5'10,F,1,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/wade_rylie_nqxs,2022-23
+409,Meredith,,Kylie Wade,Fr.,"Roanoke Rapids, N.C.",,,6'0,F,2,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/wade_kylie_4f1t,2022-23
+409,Meredith,,Kirsten Whitehead,Fr.,"Westminster, Md.",,,5'1,G,4,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/whitehead_kirsten_ib0b,2022-23
 409,Meredith,,Barresha Jones,So.,"Jacksonville, Fla.",Sandalwood,,5-7,G,5,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/jones_barresha_5fwe,2022-23
 409,Meredith,,Mikayla Thompson,Sr.,"Clayton, N.C.",Corinth Holders,,5-6,G,10,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/thompson_mikayla_nvba,2022-23
 409,Meredith,,Madi Leonard,Jr.,"Louisburg, N.C.",Louisburg,,5-5,G,11,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/leonard_madi_zz58,2022-23
 409,Meredith,,Grace Ledford,So.,"Raleigh, N.C.",Broughton,,5-3,G,12,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/ledford_grace_3hul,2022-23
 409,Meredith,,Piper Carriere,Jr.,"Jacksonville, Fla.",The Bolles School,,5-2,G,13,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/carriere_piper_pi11,2022-23
 409,Meredith,,Emma Lodge,So.,"Sanford, N.C.",Lee Christian,,5-9,G,14,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/lodge_emma_ptfm,2022-23
-409,Meredith,,Kendalyn Dixon,Fr.,"Beaufort, N.C.",-,,5'8,F,20,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/dixon_kendalyn_vnci,2022-23
-409,Meredith,,Danae Hawkins,Fr.,"Fayetteville, N.C.",-,,5'5,G,21,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/hawkins_danae_wgf0,2022-23
+409,Meredith,,Kendalyn Dixon,Fr.,"Beaufort, N.C.",,,5'8,F,20,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/dixon_kendalyn_vnci,2022-23
+409,Meredith,,Danae Hawkins,Fr.,"Fayetteville, N.C.",,,5'5,G,21,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/hawkins_danae_wgf0,2022-23
 409,Meredith,,De'ja Morgan,Jr.,"Raleigh, N.C.",Southeast Raleigh,,5-7,G,23,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/morgan_de-ja_p111,2022-23
 409,Meredith,,Kate Perko,Sr.,"Fayetteville, N.C.",Terry Sanford,,5-11,F,24,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/perko_kate_k4p9,2022-23
-409,Meredith,,Emme Baber,Fr.,"Morehead City, N.C.",-,,5'5,G,30,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/barber_emme_dri1,2022-23
-409,Meredith,,Emilee Lewis,Fr.,"Wake Forest, N.C.",-,,5'10,G,32,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/lewis_emilee_ba3l,2022-23
+409,Meredith,,Emme Baber,Fr.,"Morehead City, N.C.",,,5'5,G,30,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/barber_emme_dri1,2022-23
+409,Meredith,,Emilee Lewis,Fr.,"Wake Forest, N.C.",,,5'10,G,32,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/lewis_emilee_ba3l,2022-23
 409,Meredith,,Danika Ray,Jr.,"Albemarle, N.C.",Gray Stone Day School,,5-10,F,34,https://www.goavengingangels.com/sports/wbkb/2022-23/bios/ray_danika_hzqa,2022-23
 41,Augustana (SD),10509,Aby Phipps,Sophomore,"Sioux Falls, S.D.",Harrisburg,,"6'0""",Forward,2,https://www.goaugie.com/sports/womens-basketball/roster/aby-phipps/10509,2022-23
 41,Augustana (SD),10512,Kelsey Willems,Redshirt Freshman,"Chaska, Minn.",Chaska,,"5'8""",Guard,5,https://www.goaugie.com/sports/womens-basketball/roster/kelsey-willems/10512,2022-23
@@ -10591,13 +10591,13 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 615,St. Olaf,11869,Sarah Tangen,Sophomore,"Frazee, Minn.",Detroit Lakes,,"5'9""",Guard,35,https://www.stolaf.edu/sports/womens-basketball/roster/sarah-tangen/11869,2022-23
 615,St. Olaf,11862,Cayden Botten,Junior,"Cold Spring, Minn.",ROCORI,,"6'0""",Forward,41,https://www.stolaf.edu/sports/womens-basketball/roster/cayden-botten/11862,2022-23
 615,St. Olaf,11867,Sophia Kormann,Sophomore,"Maple Grove, Minn.",Maple Grove,,"6'0""",Forward,42,https://www.stolaf.edu/sports/womens-basketball/roster/sophia-kormann/11867,2022-23
-623,Salve Regina,,Marissa Forino,Fr.,"Watertown, Mass.",-,,5'4,Guard,1,https://www.salveathletics.com/sports/wbkb/2022-23/bios/forino_marissa_5yxv,2022-23
+623,Salve Regina,,Marissa Forino,Fr.,"Watertown, Mass.",,,5'4,Guard,1,https://www.salveathletics.com/sports/wbkb/2022-23/bios/forino_marissa_5yxv,2022-23
 623,Salve Regina,,Morgan Shuey,Sr.,"Corning, Iowa",Southwest Valley,,5'7,Guard,3,https://www.salveathletics.com/sports/wbkb/2022-23/bios/shuey_morgan_kvyc,2022-23
 623,Salve Regina,,Sofia Neary,Fr.,"Wayne, N.J.",Wayne Valley,,6'0,Forward,5,https://www.salveathletics.com/sports/wbkb/2022-23/bios/neary_sofia_4voi,2022-23
 623,Salve Regina,,Briana Neary,Jr.,"Wayne, N.J.",Wayne Valley,,6'0,Forward,11,https://www.salveathletics.com/sports/wbkb/2022-23/bios/neary_briana_tgpn,2022-23
 623,Salve Regina,,Hannah Autenrieth,Sr.,"Hooksett, N.H.",Manchester Central,,5'11,Forward/Center,13,https://www.salveathletics.com/sports/wbkb/2022-23/bios/autenrieth_hannah_yqzu,2022-23
 623,Salve Regina,,Amanda Folan,Jr.,"North Attleboro, Mass.",Bishop Feehan,,5'4,Guard,20,https://www.salveathletics.com/sports/wbkb/2022-23/bios/folan_amanda_zhuf,2022-23
-623,Salve Regina,,Victoria Bird,Fr.,"West Warwick, R.I.",-,,5'8,Guard,21,https://www.salveathletics.com/sports/wbkb/2022-23/bios/bird_victoria_5ppj,2022-23
+623,Salve Regina,,Victoria Bird,Fr.,"West Warwick, R.I.",,,5'8,Guard,21,https://www.salveathletics.com/sports/wbkb/2022-23/bios/bird_victoria_5ppj,2022-23
 623,Salve Regina,,Ashley Rourke,So.,"Londonderry, N.H.",Londonderry,,5'9,Forward,22,https://www.salveathletics.com/sports/wbkb/2022-23/bios/rourke_ashley_0itb,2022-23
 623,Salve Regina,,Mia Farley,So.,"Albany, N.Y.",Academy of the Holy Names,,5'6,Guard,23,https://www.salveathletics.com/sports/wbkb/2022-23/bios/farley_mia_2yxe,2022-23
 623,Salve Regina,,Magda Tabak,Sr.,"Portsmouth, R.I.",Portsmouth,,5'10,Forward,24,https://www.salveathletics.com/sports/wbkb/2022-23/bios/tabak_magda_tu6w,2022-23
@@ -11885,7 +11885,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 8398,Hilbert,3377,Belle Oakley,Sophomore,"Springville, NY",Springville Griffith Institute,,"5'10""",Forward,22,https://www.hilberthawks.com/sports/womens-basketball/roster/belle-oakley/3377,2022-23
 8398,Hilbert,3412,Jocelyn Poindexter,Freshman,"Tarentum, PA",Highland,,"6'2""",Center,23,https://www.hilberthawks.com/sports/womens-basketball/roster/jocelyn-poindexter/3412,2022-23
 8398,Hilbert,3381,McKenzie Walker,Sophomore,"North Evans, NY",Lakeshore,,"5'5""",Guard,24,https://www.hilberthawks.com/sports/womens-basketball/roster/mckenzie-walker/3381,2022-23
-8398,Hilbert,3417,Noelle Fulle,Freshman,,Alden,,"5'7""",Guard,25,https://www.hilberthawks.com/sports/womens-basketball/roster/noelle-fulle/3417,2022-23
+8398,Hilbert,3417,Noelle Fulle,Freshman,"Alden, NY",Alden,,"5'7""",Guard,25,https://www.hilberthawks.com/sports/womens-basketball/roster/noelle-fulle/3417,2022-23
 8398,Hilbert,3374,Katie Kociszewski,Sophomore,"Cheektowaga, NY",West Seneca East,,"5'11""",Forward,32,https://www.hilberthawks.com/sports/womens-basketball/roster/katie-kociszewski/3374,2022-23
 84,Buena Vista,8572,Anna Lundahl,Sophomore,"Wakefield, Neb.",Wakefield,,"5'11""",F,0,https://www.bvuathletics.com/sports/womens-basketball/roster/anna-lundahl/8572,2022-23
 84,Buena Vista,8574,Addison Weber,Junior,"Le Mars, Iowa",Gehlen Catholic,,"5'5""",G,1,https://www.bvuathletics.com/sports/womens-basketball/roster/addison-weber/8574,2022-23
@@ -12949,7 +12949,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 1001,Catawba,,Elizabeth Mitchum,Fr,"Moncks Corner, SC",St. John’s Christian Academy HS,,5-8,G,13,https://www.catawbaathletics.com/sports/wbkb/2022-23/bios/mitchum_elizabeth_bi8t,2022-23
 1001,Catawba,,Saniya Wilson,Fr,"Gastonia, NC",Kings Mountain HS,,5-5,G,15,https://www.catawbaathletics.com/sports/wbkb/2022-23/bios/wilson_saniya_dxfb,2022-23
 1001,Catawba,,Mazie Helpman,Fr,"Bryson City, NC",Swain County HS,,5-10,G,20,https://www.catawbaathletics.com/sports/wbkb/2022-23/bios/helpman_mazie_tuj1,2022-23
-1001,Catawba,,Chloe Mullins,Jr,"Dublin, Ireland",-,,5-11,F,21,https://www.catawbaathletics.com/sports/wbkb/2022-23/bios/mullins_chloe_5cml,2022-23
+1001,Catawba,,Chloe Mullins,Jr,"Dublin, Ireland",,,5-11,F,21,https://www.catawbaathletics.com/sports/wbkb/2022-23/bios/mullins_chloe_5cml,2022-23
 1001,Catawba,,Abi Svenson,Fr,"Locust, NC","Locust, NC Carolina Christian / 1 of 1 Prep",,5-10,G,22,https://www.catawbaathletics.com/sports/wbkb/2022-23/bios/svenson_abi_fc3y,2022-23
 1001,Catawba,,Jada Porter,So,"Grovetown, GA",Grovetown,,5-9,G,23,https://www.catawbaathletics.com/sports/wbkb/2022-23/bios/porter_jada_hjah,2022-23
 1001,Catawba,,Mary Spry,Fr,"Faith, NC",Jesse Carson HS,,6-0,C,24,https://www.catawbaathletics.com/sports/wbkb/2022-23/bios/spry_mary_g19e,2022-23
