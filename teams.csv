@@ -106,7 +106,7 @@ Carthage,Carthage_WBB,https://athletics.carthage.edu/sports/womens-basketball,12
 CWRU,CWRUWBB,https://athletics.case.edu/sports/wbkb/index,122,,,OH,UAA,III
 Castleton,CastletonWBB,https://castletonsports.com/sports/womens-basketball,123,,,VT,Little East,III
 Catholic,CatholicU_WBB,https://www.catholicathletics.com/sports/wbkb/index,124,,,DC,Landmark,III
-Centenary (LA),CentenaryWBB,https://centenarycyclones.com/sports/womens-basketball,125,Centenary (LA),,LA,SCAC,III
+Centenary (LA),CentenaryWBB,https://www.gocentenary.com/sports/wbkb/index,125,Centenary (LA),,LA,SCAC,III
 Central Connecticut,ccsu_wbb,https://ccsubluedevils.com/sports/wbkb/index,127,,,CT,NEC,I
 Central Florida,ucf_wbb,https://ucfknights.com/sports/womens-basketball,128,Ucf,,FL,AAC,I
 Central Michigan,cmuwbball,https://cmuchippewas.com/sports/womens-basketball,129,Central Mich.,,MI,MAC,I
@@ -775,7 +775,7 @@ Wingate,WingateWBB,https://wingatebulldogs.com/sports/womens-basketball,1462,,,N
 Goucher,GoucherWBB,https://athletics.goucher.edu/sports/wbkb/index,1467,,,MD,Landmark,III
 Arkansas-Pine Bluff,uapbwbb,https://uapblionsroar.com/sports/womens-basketball,2678,Arkansas-Pine Bluff,,AR,SWAC,I
 Belmont Abbey,AbbeyWBB,https://abbeyathletics.com/sports/womens-basketball,2683,Belmont Abbey,,NC,Conference Carolinas,II
-Franklin,FCGrizWBB,https://franklingrizzlies.com/sports/wbkb/index,2694,,,OH,HCAC,III
+Franklin,FCGrizWBB,https://franklingrizzlies.com/sports/wbkb/index,2694,,,IN,HCAC,III
 IUPUI,IUPUILadyJags,https://iupuijags.com/sports/womens-basketball,2699,Iupui,FALSE,IN,Horizon,I
 Kansas City,KCRoosWBB,https://kcroos.com/sports/womens-basketball,2707,Kansas City,,MO,Summit League,I
 North Florida,ospreywbb,https://unfospreys.com/sports/womens-basketball,2711,North Florida,,FL,ASUN,I
@@ -829,7 +829,7 @@ Pitt.-Greensburg,UPG_WBB,https://pittgreensburgathletics.com/sports/womens-baske
 Wheeling,WU_WBB,https://wucardinals.com/sports/womens-basketball,12799,Wheeling,,WV,MEC,II
 Northeastern St.,RiverHawksWBK,https://goriverhawksgo.com/sports/womens-basketball,12810,Northeastern St.,,OK,Mid-America Intercollegiate,II
 Tusculum,TusculumWBB,https://www.tusculumpioneers.com/sports/wbkb/index,12830,,,TN,SAC,II
-Centenary (NJ),CyclonesWBB,,12884,,,NJ,Atlantic East,III
+Centenary (NJ),CyclonesWBB,https://centenarycyclones.com/sports/womens-basketball,12884,,,NJ,Atlantic East,III
 Anderson (SC),AUTrojansWBB,https://www.autrojans.com/sports/wbkb/index,13028,Anderson (SC),,SC,SAC,II
 Lees-McRae,LMCWBB,https://lmcbobcats.com/sports/womens-basketball,13302,Lees-McRae,,NC,Conference Carolinas,II
 Cedar Crest,cccwbb,https://cedarcrestathletics.com/sports/womens-basketball,14795,,,PA,CSAC,III
