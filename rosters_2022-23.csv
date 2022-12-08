@@ -283,7 +283,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 311,Iowa State,,Nyamer Diew,Jr.,"Marshall, Minn.",Sioux City East,,"6' 2""",F,1,https://www.cyclones.com/sports/womens-basketball/roster/nyamer-diew/12041,2022-23
 311,Iowa State,,Denae Fritz,R-Fr.,"Maryville, Tenn.",Maryville High,,"5' 11""",G,3,https://www.cyclones.com/sports/womens-basketball/roster/denae-fritz/12044,2022-23
 311,Iowa State,,Shantavia Dawkins,Fr.,"Brampton, Ontario, Canada",Southwest Academy,,"5' 7""",G,4,https://www.cyclones.com/sports/womens-basketball/roster/shantavia-dawkins/12053,2022-23
-311,Iowa State,,Stephanie Soares,Sr.,"Sao Paulo, Brazil",Homeschool,,"6' 6""",F/C,10,https://www.cyclones.com/sports/womens-basketball/roster/stephanie-soares/12052,2022-23
+311,Iowa State,,Stephanie Soares,Sr.,"Sao Paulo, Brazil",Homeschool,"The Master's University","6' 6""",F/C,10,https://www.cyclones.com/sports/womens-basketball/roster/stephanie-soares/12052,2022-23
 311,Iowa State,,Emily Ryan,Jr.,"Claflin, Kansas",Central Plains,,"5' 11""",G,11,https://www.cyclones.com/sports/womens-basketball/roster/emily-ryan/12049,2022-23
 311,Iowa State,,Mary Kate King,So.,"Dubuque, Iowa",Wahlert Catholic,,"5' 3""",G,12,https://www.cyclones.com/sports/womens-basketball/roster/mary-kate-king/12048,2022-23
 311,Iowa State,,Maggie Espenmiller-McGraw,Sr.,"Indianola, Iowa",Southeast Polk,,"5' 10""",G,13,https://www.cyclones.com/sports/womens-basketball/roster/maggie-espenmiller-mcgraw/12043,2022-23
@@ -1012,16 +1012,16 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 651,South Florida,13598,Carla Brito,Freshman,"Las Palmas, Spain",,Spar Gran Canaria,"5'11""",Wing,55,https://www.gousfbulls.com/sports/womens-basketball/roster/carla-brito/13598,2022-23
 732,Utah,13309,Isabel Palmer,Junior,"Newcastle, Australia",,Basketball Australia Centre of Excellence,"5'9""",Guard,1,https://www.utahutes.com/sports/womens-basketball/roster/isabel-palmer/13309,2022-23
 732,Utah,13311,Inês Vieira,Sophomore,"The Madeira Island, Portugal",,Quinta Lombos,"5'6""",Guard,2,https://www.utahutes.com/sports/womens-basketball/roster/in-ecircs-vieira/13311,2022-23
-732,Utah,13314,Lani White,Freshman,"Irvine, Calif.",,Mater Dei HS,"5'11""",Guard,3,https://www.utahutes.com/sports/womens-basketball/roster/lani-white/13314,2022-23
-732,Utah,13306,Gianna Kneepkens,Sophomore,"Duluth, Minn.",,Duluth Marshall HS,"5'11""",Guard,5,https://www.utahutes.com/sports/womens-basketball/roster/gianna-kneepkens/13306,2022-23
-732,Utah,13313,Naya Ojukwu,Freshman,"Meridian, Idaho",,Mountain View HS,"6'0""",Forward,13,https://www.utahutes.com/sports/womens-basketball/roster/naya-ojukwu/13313,2022-23
-732,Utah,13305,Jenna Johnson,Sophomore,"Medina, Minn.",,Wayzata HS,"6'2""",Forward,22,https://www.utahutes.com/sports/womens-basketball/roster/jenna-johnson/13305,2022-23
-732,Utah,13308,Kennady McQueen,Sophomore,"Henefer, Utah",,North Summit HS,"5'10""",Guard,24,https://www.utahutes.com/sports/womens-basketball/roster/kennady-mcqueen/13308,2022-23
+732,Utah,13314,Lani White,Freshman,"Irvine, Calif.",Mater Dei HS,,"5'11""",Guard,3,https://www.utahutes.com/sports/womens-basketball/roster/lani-white/13314,2022-23
+732,Utah,13306,Gianna Kneepkens,Sophomore,"Duluth, Minn.",Duluth Marshall HS,,"5'11""",Guard,5,https://www.utahutes.com/sports/womens-basketball/roster/gianna-kneepkens/13306,2022-23
+732,Utah,13313,Naya Ojukwu,Freshman,"Meridian, Idaho",Mountain View HS,,"6'0""",Forward,13,https://www.utahutes.com/sports/womens-basketball/roster/naya-ojukwu/13313,2022-23
+732,Utah,13305,Jenna Johnson,Sophomore,"Medina, Minn.",Wayzata HS,,"6'2""",Forward,22,https://www.utahutes.com/sports/womens-basketball/roster/jenna-johnson/13305,2022-23
+732,Utah,13308,Kennady McQueen,Sophomore,"Henefer, Utah",North Summit HS,,"5'10""",Guard,24,https://www.utahutes.com/sports/womens-basketball/roster/kennady-mcqueen/13308,2022-23
 732,Utah,13317,Néné Sow,Sophomore,"Brussels, Belgium",,Northeastern Oklahoma,"6'8""",Center,25,https://www.utahutes.com/sports/womens-basketball/roster/n-n-sow/13317,2022-23
-732,Utah,13315,Teya Sidberry,Freshman,"Salt Lake City, Utah",,Judge Memorial HS,"6'1""",Forward,32,https://www.utahutes.com/sports/womens-basketball/roster/teya-sidberry/13315,2022-23
-732,Utah,13312,Dasia Young,Junior,"Jonesboro, Ark.",,UT Martin,"5'11""",Forward,34,https://www.utahutes.com/sports/womens-basketball/roster/dasia-young/13312,2022-23
-732,Utah,13316,Alissa Pili,Junior,"Anchorage, Alaska",,USC,"6'2""",Forward,35,https://www.utahutes.com/sports/womens-basketball/roster/alissa-pili/13316,2022-23
-732,Utah,13307,Peyton McFarland,Junior,"Boise, Idaho",,Boise HS,"6'4""",Forward,42,https://www.utahutes.com/sports/womens-basketball/roster/peyton-mcfarland/13307,2022-23
+732,Utah,13315,Teya Sidberry,Freshman,"Salt Lake City, Utah",Judge Memorial HS,,"6'1""",Forward,32,https://www.utahutes.com/sports/womens-basketball/roster/teya-sidberry/13315,2022-23
+732,Utah,13312,Dasia Young,Junior,"Jonesboro, Ark.",Nettleton HS,UT Martin,"5'11""",Forward,34,https://www.utahutes.com/sports/womens-basketball/roster/dasia-young/13312,2022-23
+732,Utah,13316,Alissa Pili,Junior,"Anchorage, Alaska",Dimond HS,USC,"6'2""",Forward,35,https://www.utahutes.com/sports/womens-basketball/roster/alissa-pili/13316,2022-23
+732,Utah,13307,Peyton McFarland,Junior,"Boise, Idaho",Boise HS,,"6'4""",Forward,42,https://www.utahutes.com/sports/womens-basketball/roster/peyton-mcfarland/13307,2022-23
 732,Utah,13310,Kelsey Rees,Sophomore,"Glenelg North, South Australia",,Basketball Australia Centre of Excellence,"6'5""",Forward,53,https://www.utahutes.com/sports/womens-basketball/roster/kelsey-rees/13310,2022-23
 702,Texas-Arlington,11532,Stephanie Mosley,Sophomore,"Mansfield, Texas",Timberview,,"6'0""",G,0,https://www.utamavs.com/sports/womens-basketball/roster/stephanie-mosley/11532,2022-23
 702,Texas-Arlington,11540,Kamaria Gipson,Junior,"Beeville, Texas",A.C. Jones,San Diego State,"6'3""",C,1,https://www.utamavs.com/sports/womens-basketball/roster/kamaria-gipson/11540,2022-23
@@ -3539,7 +3539,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 657,Southern Cal,12899,Madison Campbell,Redshirt Junior,"Fresno, Calif.",Clovis West HS,,"5'11""",Guard,23,https://www.usctrojans.com/sports/womens-basketball/roster/madison-campbell/12899,2022-23
 657,Southern Cal,12909,Okako Adika,Graduate Student,"Holstebro, Denmark",Lemvig Gymnasium,,"6'0""",Guard/Forward,24,https://www.usctrojans.com/sports/womens-basketball/roster/okako-adika/12909,2022-23
 657,Southern Cal,12901,Alyson Miura,Senior,"Clackamas, Ore.",LaSalle Prep,,"5'9""",Guard,25,https://www.usctrojans.com/sports/womens-basketball/roster/alyson-miura/12901,2022-23
-657,Southern Cal,12910,Kadi Sissoko,Graduate Student,"Paris, France",Marcelin Berthelot,,"6'2""",Forward,30,https://www.usctrojans.com/sports/womens-basketball/roster/kadi-sissoko/12910,2022-23
+657,Southern Cal,12910,Kadi Sissoko,Graduate Student,"Paris, France",Marcelin Berthelot,Minnesota,"6'2""",Forward,30,https://www.usctrojans.com/sports/womens-basketball/roster/kadi-sissoko/12910,2022-23
 657,Southern Cal,12898,Clarice Akunwafo,Sophomore,"Inglewood, Calif.",Rolling Hills Prep,,"6'6""",Center,34,https://www.usctrojans.com/sports/womens-basketball/roster/clarice-akunwafo/12898,2022-23
 657,Southern Cal,12911,Rokia Doumbia,Graduate Student,"Bamako, Mali",IMG Academy,,"5'9""",Guard,52,https://www.usctrojans.com/sports/womens-basketball/roster/rokia-doumbia/12911,2022-23
 627,San Diego,10988,Kiera Oakry,Redshirt Senior,"San Diego, CA",La Jolla Country Day,,"5'10""",Guard,0,https://www.usdtoreros.com/sports/womens-basketball/roster/kiera-oakry/10988,2022-23
