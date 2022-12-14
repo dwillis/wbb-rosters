@@ -3597,20 +3597,20 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 536,UT-Rio Grande Valley,8653,Halie Jones,Junior,"Wichita, KS",Maize High School,Maize High School,"5'10""",Guard,24,https://www.goutrgv.com/sports/womens-basketball/roster/halie-jones/8653,2022-23
 536,UT-Rio Grande Valley,8667,Mariam Traore,Sophomore,Mali,,Clarendon College,"6'0""",Guard/Forward,25,https://www.goutrgv.com/sports/womens-basketball/roster/mariam-traore/8667,2022-23
 536,UT-Rio Grande Valley,8668,Deborah Ogayemi,Sophomore,"Waterford, Ireland",,Tyler Junior College,"5'11""",Forward,33,https://www.goutrgv.com/sports/womens-basketball/roster/deborah-ogayemi/8668,2022-23
-706,UT-San Antonio,7304,Elyssa Coleman,Redshirt Sophomore,"Houston, Texas",,,"6'3""",Forward,0,https://www.goutsa.com/sports/womens-basketball/roster/elyssa-coleman/7304,2022-23
-706,UT-San Antonio,7303,Hailey Atwood,Senior,"Austin, Texas",,,"5'8""",Guard,1,https://www.goutsa.com/sports/womens-basketball/roster/hailey-atwood/7303,2022-23
-706,UT-San Antonio,7309,Alexis Parker,Freshman,"San Antonio, Texas",,,"5'9""",Guard,2,https://www.goutsa.com/sports/womens-basketball/roster/alexis-parker/7309,2022-23
-706,UT-San Antonio,7315,Siena Guttadauro,Freshman,"San Jose, Calif.",,,"5'6""",Guard,4,https://www.goutsa.com/sports/womens-basketball/roster/siena-guttadauro/7315,2022-23
-706,UT-San Antonio,7312,Madison Cockrell,Freshman,"Dallas, Texas",,,"5'4""",Guard,5,https://www.goutsa.com/sports/womens-basketball/roster/madison-cockrell/7312,2022-23
-706,UT-San Antonio,7308,Queen Ulabo,Senior,"Yenagoa, Nigeria",,,"5'10""",Guard,10,https://www.goutsa.com/sports/womens-basketball/roster/queen-ulabo/7308,2022-23
-706,UT-San Antonio,7314,Sidney Love,Freshman,"Cibolo, Texas",,,"5'8""",Guard,11,https://www.goutsa.com/sports/womens-basketball/roster/sidney-love/7314,2022-23
-706,UT-San Antonio,7316,Maya Linton,Freshman,"Duncanville, Texas",,,"6'0""",Forward,20,https://www.goutsa.com/sports/womens-basketball/roster/maya-linton/7316,2022-23
-706,UT-San Antonio,7307,Deborah Nwakamma,Senior,"Lago, Nigeria",,,"5'8""",Guard,21,https://www.goutsa.com/sports/womens-basketball/roster/deborah-nwakamma/7307,2022-23
-706,UT-San Antonio,7311,Kyra White,Junior,"Converse, Texas",,,"5'9""",Guard,22,https://www.goutsa.com/sports/womens-basketball/roster/kyra-white/7311,2022-23
-706,UT-San Antonio,7306,Kyleigh McGuire,Junior,"Houston, Texas",,,"5'10""",Forward,23,https://www.goutsa.com/sports/womens-basketball/roster/kyleigh-mcguire/7306,2022-23
-706,UT-San Antonio,7305,Kennedy Harrell,Junior,"Chicago, Ill.",,,"6'1""",Forward,24,https://www.goutsa.com/sports/womens-basketball/roster/kennedy-harrell/7305,2022-23
-706,UT-San Antonio,7313,Nissa Sam-Grant,Junior,"Toronto, Ontario",,,"6'4""",Center,30,https://www.goutsa.com/sports/womens-basketball/roster/nissa-sam-grant/7313,2022-23
-706,UT-San Antonio,7310,Jordyn Jenkins,Junior,"Kent, Wash.",,,"6'0""",Forward,32,https://www.goutsa.com/sports/womens-basketball/roster/jordyn-jenkins/7310,2022-23
+706,UT-San Antonio,7304,Elyssa Coleman,Redshirt Sophomore,"Houston, Texas",Atascocita HS,,"6'3""",Forward,0,https://www.goutsa.com/sports/womens-basketball/roster/elyssa-coleman/7304,2022-23
+706,UT-San Antonio,7303,Hailey Atwood,Senior,"Austin, Texas",James Bowie HS,,"5'8""",Guard,1,https://www.goutsa.com/sports/womens-basketball/roster/hailey-atwood/7303,2022-23
+706,UT-San Antonio,7309,Alexis Parker,Freshman,"San Antonio, Texas",Brandeis HS,,"5'9""",Guard,2,https://www.goutsa.com/sports/womens-basketball/roster/alexis-parker/7309,2022-23
+706,UT-San Antonio,7315,Siena Guttadauro,Freshman,"San Jose, Calif.",Archbishop Mitty HS,,"5'6""",Guard,4,https://www.goutsa.com/sports/womens-basketball/roster/siena-guttadauro/7315,2022-23
+706,UT-San Antonio,7312,Madison Cockrell,Freshman,"Dallas, Texas",Bishop Lynch HS,,"5'4""",Guard,5,https://www.goutsa.com/sports/womens-basketball/roster/madison-cockrell/7312,2022-23
+706,UT-San Antonio,7308,Queen Ulabo,Senior,"Yenagoa, Nigeria",Community Secondary School Koluama 1,,"5'10""",Guard,10,https://www.goutsa.com/sports/womens-basketball/roster/queen-ulabo/7308,2022-23
+706,UT-San Antonio,7314,Sidney Love,Freshman,"Cibolo, Texas",Steele HS,,"5'8""",Guard,11,https://www.goutsa.com/sports/womens-basketball/roster/sidney-love/7314,2022-23
+706,UT-San Antonio,7316,Maya Linton,Freshman,"Duncanville, Texas",Duncanville HS,,"6'0""",Forward,20,https://www.goutsa.com/sports/womens-basketball/roster/maya-linton/7316,2022-23
+706,UT-San Antonio,7307,Deborah Nwakamma,Senior,"Lagos, Nigeria",St. Augustine,Grayson College,"5'8""",Guard,21,https://www.goutsa.com/sports/womens-basketball/roster/deborah-nwakamma/7307,2022-23
+706,UT-San Antonio,7311,Kyra White,Junior,"Converse, Texas",Judson HS,,"5'9""",Guard,22,https://www.goutsa.com/sports/womens-basketball/roster/kyra-white/7311,2022-23
+706,UT-San Antonio,7306,Kyleigh McGuire,Junior,"Houston, Texas",Atascocita HS,,"5'10""",Forward,23,https://www.goutsa.com/sports/womens-basketball/roster/kyleigh-mcguire/7306,2022-23
+706,UT-San Antonio,7305,Kennedy Harrell,Junior,"Chicago, Ill.",Whitney M. Young HS,,"6'1""",Forward,24,https://www.goutsa.com/sports/womens-basketball/roster/kennedy-harrell/7305,2022-23
+706,UT-San Antonio,7313,Nissa Sam-Grant,Junior,"Toronto, Ontario",Wheeler HS (GA),Panola College,"6'4""",Center,30,https://www.goutsa.com/sports/womens-basketball/roster/nissa-sam-grant/7313,2022-23
+706,UT-San Antonio,7310,Jordyn Jenkins,Junior,"Kent, Wash.",Kentridge HS,Southern Cal,"6'0""",Forward,32,https://www.goutsa.com/sports/womens-basketball/roster/jordyn-jenkins/7310,2022-23
 738,Vermont,9539,Aryana Dizon,Sophomore,"Tampa, Fla.",Carrollwood Day School,,"6'2""",Forward,2,https://www.uvmathletics.com/sports/womens-basketball/roster/aryana-dizon/9539,2022-23
 738,Vermont,9622,Carla Celaya,First Year,"Barcelona, Spain",Barcelona,,"5'11""",Guard,3,https://www.uvmathletics.com/sports/womens-basketball/roster/carla-celaya/9622,2022-23
 738,Vermont,9729,Andjela Matic,First Year,"Ub, Serbia",Sabac,,"5'8""",Guard,4,https://www.uvmathletics.com/sports/womens-basketball/roster/andjela-matic/9729,2022-23
