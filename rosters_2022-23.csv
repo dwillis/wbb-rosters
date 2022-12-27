@@ -12420,21 +12420,6 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 98,Cal St. East Bay,4511,Kayla Rosemon,Freshman,"Oakland, CA",Saint Mary's College HS,,"5'9""",Forward,21,https://www.eastbaypioneers.com/sports/womens-basketball/roster/kayla-rosemon/4511,2022-23
 98,Cal St. East Bay,4512,Abigail Cooper,Junior,"Portland, Ore.",Central Catholic HS,,"5'9""",Guard,30,https://www.eastbaypioneers.com/sports/womens-basketball/roster/abigail-cooper/4512,2022-23
 98,Cal St. East Bay,4515,Michaella Dean,Senior,"Stockholm, Sweden",Orange Lutheran,,"5'7""",Guard,41,https://www.eastbaypioneers.com/sports/womens-basketball/roster/michaella-dean/4515,2022-23
-985,Bluefield St.,4252,Jaydn Hoover,Sophomore,"Clemons, N.C.",East Forsythe HS,,"5'6""",Guard,00,https://www.bcrams.com/sports/womens-basketball/roster/jaydn-hoover/4252,2022-23
-985,Bluefield St.,4258,Lina Pagan,Sophomore,"Juncos, Puerto Rico",Robbinsville HS,,"5'5""",Guard,1,https://www.bcrams.com/sports/womens-basketball/roster/lina-pagan/4258,2022-23
-985,Bluefield St.,4248,Emily Breeding,Junior,"Abingdon, Va.",Abingdon HS,,"5'6""",Guard,2,https://www.bcrams.com/sports/womens-basketball/roster/emily-breeding/4248,2022-23
-985,Bluefield St.,4250,Monay Galloway,Sophomore,"Winston-Salem, N.C.",East Forsythe HS,,"5'3""",Guard,3,https://www.bcrams.com/sports/womens-basketball/roster/monay-galloway/4250,2022-23
-985,Bluefield St.,4259,Haley Smith,Sophomore,"Draper, Va.",Fort Chiswell HS,,"5'7""",Guard,4,https://www.bcrams.com/sports/womens-basketball/roster/haley-smith/4259,2022-23
-985,Bluefield St.,4317,Leslie Flores,Junior,"South Charleston, Ohio",South Charleston HS,,"5'11""",Forward,5,https://www.bcrams.com/sports/womens-basketball/roster/leslie-flores/4317,2022-23
-985,Bluefield St.,4255,Destiny Long,Sophomore,"Kernersville, N.C.",East Forsythe HS,,"5'10""",Forward,11,https://www.bcrams.com/sports/womens-basketball/roster/destiny-long/4255,2022-23
-985,Bluefield St.,4318,Brianna Poole,Junior,"Danville, Va.",George Washington HS,,"6'2""",Forward,14,https://www.bcrams.com/sports/womens-basketball/roster/brianna-poole/4318,2022-23
-985,Bluefield St.,4257,Abi Melton,Sophomore,"St. Albans, W.Va.",St. Albans HS,,"5'6""",Guard,15,https://www.bcrams.com/sports/womens-basketball/roster/abi-melton/4257,2022-23
-985,Bluefield St.,4316,Scarlet Clark,Freshman,"Maywood, Ill.",Proviso East HS,Lincoln University,"5'9""",Forward,20,https://www.bcrams.com/sports/womens-basketball/roster/scarlet-clark/4316,2022-23
-985,Bluefield St.,4256,Kylie Meadows,Fifth Year,"Beaver, W.Va.",Mountain Home HS (ID),Oregon Tech,"5'11""",Forward,22,https://www.bcrams.com/sports/womens-basketball/roster/kylie-meadows/4256,2022-23
-985,Bluefield St.,4315,Chase Dionio,Freshman,"Newport Beach, Calif.",Newport Harbor HS,,"5'8""",Guard,24,https://www.bcrams.com/sports/womens-basketball/roster/chase-dionio/4315,2022-23
-985,Bluefield St.,4246,Kiaa Boyd,Sophomore,"Richmond, Va.",Highland Springs HS,,"5'11""",Guard,25,https://www.bcrams.com/sports/womens-basketball/roster/kiaa-boyd/4246,2022-23
-985,Bluefield St.,4253,Aysia Jones,Senior,"Waldorf, Md.",St. Charles HS,Salem University,"5'7""",Guard,32,https://www.bcrams.com/sports/womens-basketball/roster/aysia-jones/4253,2022-23
-985,Bluefield St.,4254,Emma Justus,Sophomore,"Grundy, Va.",Hurley HS,,"5'9""",Center,42,https://www.bcrams.com/sports/womens-basketball/roster/emma-justus/4254,2022-23
 995,Caldwell,4644,Amyah Bray,Freshman,"Manchester, N.J.",Manchester Township,,"5'7""",G,2,https://www.caldwellathletics.com/sports/womens-basketball/roster/amyah-bray/4644,2022-23
 995,Caldwell,4619,Halle Brown,Senior,"Downingtown, Pa.",Westtown School,,"5'4""",G,3,https://www.caldwellathletics.com/sports/womens-basketball/roster/halle-brown/4619,2022-23
 995,Caldwell,4622,Alba Cooke,Senior,"Brisbane, Australia",Brisbane Girls,,"5'7""",G,4,https://www.caldwellathletics.com/sports/womens-basketball/roster/alba-cooke/4622,2022-23
@@ -13808,3 +13793,16 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 125,Centenary (LA),,Jazzmyn Jones,Sr.,"Normangee, Texas",Normangee HS,,5-9,F,22,https://gocentenary.com/sports/wbkb/2022-23/bios/jones_jazzmyn_i76w,2022-23
 125,Centenary (LA),,Amelia Bagwell,Sr.,"West Monroe, La.",D'Arbonne Woods Charter School,,5-9,F,24,https://gocentenary.com/sports/wbkb/2022-23/bios/bagwell_amelia_fx9h,2022-23
 125,Centenary (LA),,Dymon Drumgo,So.,"Alexandria, La.",Bolton HS ,,5-8,G,41,https://gocentenary.com/sports/wbkb/2022-23/bios/drumgo_dymon_r48g,2022-23
+985,Bluefield St.,1373,Rori Cox,Sophomore,"Brooklyn, NY",South Shore HS,Cloud CC,"5'7""",PG,0,https://www.gobstate.com/sports/womens-basketball/roster/rori-cox/1373,2022-23
+985,Bluefield St.,1376,Azariah Binford,Sophomore,"Columbus, OH",Pickerington Central,,"5'4""",PG,1,https://www.gobstate.com/sports/womens-basketball/roster/azariah-binford/1376,2022-23
+985,Bluefield St.,1379,Alexus Tucker,Redshirt Senior,"Raleigh, NC",Millbrook,,"5'8""",G,2,https://www.gobstate.com/sports/womens-basketball/roster/alexus-tucker/1379,2022-23
+985,Bluefield St.,1380,Eriel West,Redshirt Sophomore,"Fort Smith, AR",,Independence CC,"5'6""",G,3,https://www.gobstate.com/sports/womens-basketball/roster/eriel-west/1380,2022-23
+985,Bluefield St.,1381,Katrina Davis,Redshirt Sophomore,"Bellaire, OH",Bellaire,,"5'4""",G,4,https://www.gobstate.com/sports/womens-basketball/roster/katrina-davis/1381,2022-23
+985,Bluefield St.,1382,Londen Coleman,Redshirt Sophomore,"Columbus, OH",Reynoldsburg,,"6'0""",F,5,https://www.gobstate.com/sports/womens-basketball/roster/londen-coleman/1382,2022-23
+985,Bluefield St.,1383,Aerihna Afoa,Redshirt Junior,"Wichita, KS",Wichita South,Colby/Garden City CC/Paris CC,"5'6""",G,10,https://www.gobstate.com/sports/womens-basketball/roster/aerihna-afoa/1383,2022-23
+985,Bluefield St.,1384,Essence Cowan,Senior,"Lima, OH",Lima,Owens CC/Winthrop,"5'6""",G,11,https://www.gobstate.com/sports/womens-basketball/roster/essence-cowan/1384,2022-23
+985,Bluefield St.,1386,Derricka Bramwell,Redshirt Junior,"Columbus, OH",Bishop Ready,,"6'0""",C,20,https://www.gobstate.com/sports/womens-basketball/roster/derricka-bramwell/1386,2022-23
+985,Bluefield St.,1387,Coraly Dupree,Redshirt Sophomore,"Las Vegas, NV",Park University Gilbert,,"6'1""",C,21,https://www.gobstate.com/sports/womens-basketball/roster/coraly-dupree/1387,2022-23
+985,Bluefield St.,1388,Gabrielle Thomas,Sophomore,"Queensbury, NY",Queensbury,,"5'10""",SF,22,https://www.gobstate.com/sports/womens-basketball/roster/gabrielle-thomas/1388,2022-23
+985,Bluefield St.,1390,Zaynah Robinson,Sophomore,"Severn, MD",Fort Meade,,"5'4""",G,24,https://www.gobstate.com/sports/womens-basketball/roster/zaynah-robinson/1390,2022-23
+985,Bluefield St.,1391,Dani Janutolo,Redshirt Senior,"Bluefield, WV",Tazewell,,"5'10""",G,32,https://www.gobstate.com/sports/womens-basketball/roster/dani-janutolo/1391,2022-23
