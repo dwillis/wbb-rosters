@@ -1,0 +1,25 @@
+```{r}
+library(tidyverse)
+```
+
+```{r}
+teams <- read_csv("teams.csv")
+rosters2122 <- read_csv("rosters_2021-22.csv")
+```
+
+```{r}
+teams2122 <- rosters2122 %>% distinct(ncaa_id, team)
+need_rosters <- teams %>% anti_join(teams2122)
+```
+
+
+
+```{r}
+
+rosters2223 <- read_csv("https://raw.githubusercontent.com/Sports-Roster-Data/womens-college-basketball/main/wbb_rosters_2022_23.csv")
+rosters2324 <- read_csv("rosters_2023-24.csv")
+
+rosters2324 %>% group_by(team) %>% summarize(players = n()) %>% arrange(players)
+```
+
+
