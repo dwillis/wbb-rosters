@@ -9,7 +9,7 @@ rosters2122 <- read_csv("rosters_2021-22.csv")
 
 ```{r}
 teams2122 <- rosters2122 %>% distinct(ncaa_id, team)
-need_rosters <- teams %>% anti_join(teams2122)
+need_rosters <- teams %>% anti_join(teams2122, by='ncaa_id')
 ```
 
 
