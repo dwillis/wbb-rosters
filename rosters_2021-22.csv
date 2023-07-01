@@ -1587,7 +1587,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 94,Cal State Bakersfield,5130,Hennie van Schaik,Freshman,"Urk, The Netherlands",Centre for Sports and Education,,"6'3""",Forward,3,https://www.gorunners.com/sports/womens-basketball/roster/hennie-van-schaik/5130,2021-22
 94,Cal State Bakersfield,5121,Jasmin Dixon,Redshirt Junior,"Bakersfield, Calif.",Independence HS,,"5'7""",Guard,4,https://www.gorunners.com/sports/womens-basketball/roster/jasmin-dixon/5121,2021-22
 94,Cal State Bakersfield,5123,Jayden Eggleston,Redshirt Junior,"Las Vegas, Nev.",,,"6'1""",Guard/Forward,10,https://www.gorunners.com/sports/womens-basketball/roster/jayden-eggleston/5123,2021-22
-94,Cal State Bakersfield,5124,Lexus Green,Sophomore,,Garces Memorial HS,,"5'5""",Point,11,https://www.gorunners.com/sports/womens-basketball/roster/lexus-green/5124,2021-22
+94,Cal State Bakersfield,5124,Lexus Green,Sophomore,"Bakersfield, California",Garces Memorial HS,,"5'5""",Point,11,https://www.gorunners.com/sports/womens-basketball/roster/lexus-green/5124,2021-22
 94,Cal State Bakersfield,5128,Sophia Tougas,Freshman,"Glens Falls, NY",Bradford Christian Academy,,"6'0""",Shooting,12,https://www.gorunners.com/sports/womens-basketball/roster/sophia-tougas/5128,2021-22
 94,Cal State Bakersfield,5125,Soli Herrera,Junior,"Bani, Dominican Republic",,,"6'3""",Center,13,https://www.gorunners.com/sports/womens-basketball/roster/soli-herrera/5125,2021-22
 94,Cal State Bakersfield,5131,Kayla Morris,Freshman,"Harlem, NY",Montverde Academy,,"6'2""",Forward,15,https://www.gorunners.com/sports/womens-basketball/roster/kayla-morris/5131,2021-22
@@ -2437,19 +2437,6 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 797,Milwaukee,11577,Kendall Nead,Freshman,"Johnston, Iowa",Johnston,,"5'11""",Guard,30,https://www.mkepanthers.com/sports/womens-basketball/roster/kendall-nead/11577,2021-22
 797,Milwaukee,11583,Hallie Majoros,Freshman,"Sagamore Hills, Ohio",Nordonia,,"5'9""",Guard,32,https://www.mkepanthers.com/sports/womens-basketball/roster/hallie-majoros/11583,2021-22
 797,Milwaukee,11581,Megan Walstad,Redshirt Sophomore,"Apple Valley, Minn.",Eastview,,"6'2""",Forward,33,https://www.mkepanthers.com/sports/womens-basketball/roster/megan-walstad/11581,2021-22
-441,Montana,6181,Sammy Fatkin,Senior,,,,"5'11""",G,00,https://www.gogriz.com/sports/womens-basketball/roster/sammy-fatkin/6181,2021-22
-441,Montana,6120,Nyah Morris-Nelson,Senior,,,,"6'0""",G,1,https://www.gogriz.com/sports/womens-basketball/roster/nyah-morris-nelson/6120,2021-22
-441,Montana,6121,Sophia Stiles,Redshirt Senior,,,,"5'9""",G,2,https://www.gogriz.com/sports/womens-basketball/roster/sophia-stiles/6121,2021-22
-441,Montana,6182,Lamprini Polymeni,Freshman,,,,"5'9""",G,3,https://www.gogriz.com/sports/womens-basketball/roster/lamprini-polymeni/6182,2021-22
-441,Montana,6125,Katerina Tsineke,Junior,,,,"5'9""",G,5,https://www.gogriz.com/sports/womens-basketball/roster/katerina-tsineke/6125,2021-22
-441,Montana,6123,Haley Huard,Freshman,,,,"6'1""",G,10,https://www.gogriz.com/sports/womens-basketball/roster/haley-huard/6123,2021-22
-441,Montana,6116,Abby Anderson,Redshirt Senior,,,,"6'2""",F,11,https://www.gogriz.com/sports/womens-basketball/roster/abby-anderson/6116,2021-22
-441,Montana,6119,Kyndall Keller,Sophomore,,,,"5'8""",G,12,https://www.gogriz.com/sports/womens-basketball/roster/kyndall-keller/6119,2021-22
-441,Montana,6117,Kylie Frohlich,Senior,,,,"6'0""",F,13,https://www.gogriz.com/sports/womens-basketball/roster/kylie-frohlich/6117,2021-22
-441,Montana,6118,Carmen Gfeller,Redshirt Junior,,,,"6'1""",F,20,https://www.gogriz.com/sports/womens-basketball/roster/carmen-gfeller/6118,2021-22
-441,Montana,6115,Willa Albrecht,Sophomore,,,,"6'0""",F,23,https://www.gogriz.com/sports/womens-basketball/roster/willa-albrecht/6115,2021-22
-441,Montana,6124,Lisa Kiefer,Freshman,,,,"6'3""",F,24,https://www.gogriz.com/sports/womens-basketball/roster/lisa-kiefer/6124,2021-22
-441,Montana,6122,Dani Bartsch,Freshman,,,,"6'2""",F,40,https://www.gogriz.com/sports/womens-basketball/roster/dani-bartsch/6122,2021-22
 8567,Mount St. Joseph,3856,Julia Gooding,Freshman,"Cleves, Ohio",Taylor,,"6'0""",F/C,4,https://www.msjlions.com/sports/womens-basketball/roster/julia-gooding/3856,2021-22
 8567,Mount St. Joseph,3859,Anyiah Murphy,Freshman,"Columbus, Ohio",Columbus Africentric Secondary,,"5'8""",G,12,https://www.msjlions.com/sports/womens-basketball/roster/anyiah-murphy/3859,2021-22
 8567,Mount St. Joseph,3845,Madison Baird,Sophomore,"Felicity, Ohio",Felicity Franklin,,"5'5""",G,14,https://www.msjlions.com/sports/womens-basketball/roster/madison-baird/3845,2021-22
@@ -13877,3 +13864,16 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 528,Oregon State,,Jovana Subasic,R-Sr.,"Sabac, Serbia",,Washington State,6-4,Forward,41,https://osubeavers.com/sports/womens-basketball/roster/jovana-subasic/8576,2021-22
 528,Oregon State,,Kennedy Brown,So.,"Derby, Kansas",Derby High School,,6-6,Forward,42,https://osubeavers.com/sports/womens-basketball/roster/kennedy-brown/8570,2021-22
 528,Oregon State,,Taylor Jones,So.,"Forney, Texas",Dallas Christian High School,,6-4,Forward,44,https://osubeavers.com/sports/womens-basketball/roster/taylor-jones/8572,2021-22
+441,Montana,6181,Sammy Fatkin,Senior,"Snohomish, Wash.",Glacier Peak High,Arizona,"5'11""",G,0,https://www.gogriz.com/sports/womens-basketball/roster/sammy-fatkin/6181,2021-22
+441,Montana,6120,Nyah Morris-Nelson,Senior,"Gold Coast, Australia",Hillcrest Christian College,South Plains College/Iowa Western,"6'0""",G,1,https://www.gogriz.com/sports/womens-basketball/roster/nyah-morris-nelson/6120,2021-22
+441,Montana,6121,Sophia Stiles,Redshirt Senior,"Malta, Mont.",Malta HS,,"5'9""",G,2,https://www.gogriz.com/sports/womens-basketball/roster/sophia-stiles/6121,2021-22
+441,Montana,6182,Lamprini Polymeni,Freshman,"Thessaloniki, Greece",Second High School of Lefkada,,"5'9""",G,3,https://www.gogriz.com/sports/womens-basketball/roster/lamprini-polymeni/6182,2021-22
+441,Montana,6125,Katerina Tsineke,Junior,"Thessaloniki, Greece",Hellenic College University,East Carolina,"5'9""",G,5,https://www.gogriz.com/sports/womens-basketball/roster/katerina-tsineke/6125,2021-22
+441,Montana,6123,Haley Huard,Freshman,"Highlands Ranch, Colo.",Valor Christian High,,"6'1""",G,10,https://www.gogriz.com/sports/womens-basketball/roster/haley-huard/6123,2021-22
+441,Montana,6116,Abby Anderson,Redshirt Senior,"Hillsboro, Ore.",Glencoe HS,,"6'2""",F,11,https://www.gogriz.com/sports/womens-basketball/roster/abby-anderson/6116,2021-22
+441,Montana,6119,Kyndall Keller,Sophomore,"Havre, Mont.",Havre HS,,"5'8""",G,12,https://www.gogriz.com/sports/womens-basketball/roster/kyndall-keller/6119,2021-22
+441,Montana,6117,Kylie Frohlich,Senior,"Missoula, Mont.",Sentinel High,,"6'0""",F,13,https://www.gogriz.com/sports/womens-basketball/roster/kylie-frohlich/6117,2021-22
+441,Montana,6118,Carmen Gfeller,Redshirt Junior,"Colfax, Wash.",Colfax HS,,"6'1""",F,20,https://www.gogriz.com/sports/womens-basketball/roster/carmen-gfeller/6118,2021-22
+441,Montana,6115,Willa Albrecht,Sophomore,"Billings, Mont.",Billings West HS,,"6'0""",F,23,https://www.gogriz.com/sports/womens-basketball/roster/willa-albrecht/6115,2021-22
+441,Montana,6124,Lisa Kiefer,Freshman,"Marburg, Germany",Gymnasium Philippinum,,"6'3""",F,24,https://www.gogriz.com/sports/womens-basketball/roster/lisa-kiefer/6124,2021-22
+441,Montana,6122,Dani Bartsch,Freshman,"Helena, Mont.",Helena Capital High,,"6'2""",F,40,https://www.gogriz.com/sports/womens-basketball/roster/dani-bartsch/6122,2021-22
