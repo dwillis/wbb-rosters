@@ -119,19 +119,6 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 67,Boston College,14081,Andrea  Daley,Freshman,"Miami, Fla.",Miami Country Day,,"6'0""",G,21,https://www.bceagles.com/sports/womens-basketball/roster/andrea-daley/14081,2021-22
 67,Boston College,13153,Clara Ford,Senior,"Vienna, Virginia",George C. Marshall,,"6'3""",C,32,https://www.bceagles.com/sports/womens-basketball/roster/clara-ford/13153,2021-22
 67,Boston College,13155,Akunna Konkwo,Redshirt Sophomore,"Alexandria, Va.",Bishop Ireton,,"6'2""",C,44,https://www.bceagles.com/sports/womens-basketball/roster/akunna-konkwo/13155,2021-22
-528,Oregon State,,2,6-9,R-So.,,,Forward,Andrea Aquino,,/sports/womens-basketball/roster/andrea-aquino/8569,2021-22
-528,Oregon State,,4,5-6,R-So.,,,Guard,Noelle Mannen,,/sports/womens-basketball/roster/noelle-mannen/8574,2021-22
-528,Oregon State,,5,6-3,R-Jr.,,,Forward,Taya Corosdale,,/sports/womens-basketball/roster/taya-corosdale/8571,2021-22
-528,Oregon State,,10,6-0,Fr.,,,Guard,Greta Kampschroeder,,/sports/womens-basketball/roster/greta-kampschroeder/8578,2021-22
-528,Oregon State,,11,6-1,Fr.,,,Guard,AJ Marotte,,/sports/womens-basketball/roster/aj-marotte/8580,2021-22
-528,Oregon State,,12,6-9,R-Fr.,,,Forward/Center,Jelena Mitrovic,,/sports/womens-basketball/roster/jelena-mitrovic/8575,2021-22
-528,Oregon State,,20,6-3,R-Sr.,,,Forward,Ellie Mack,,/sports/womens-basketball/roster/ellie-mack/8573,2021-22
-528,Oregon State,,22,5-11,Fr.,,,Guard,Talia von Oelhoffen,,/sports/womens-basketball/roster/talia-von%20oelhoffen/8577,2021-22
-528,Oregon State,,23,6-0,R-Sr.,,,Guard,Emily Codding,,/sports/womens-basketball/roster/emily-codding/8582,2021-22
-528,Oregon State,,25,5-9,R-Sr.,,,Guard,Tea Adams,,/sports/womens-basketball/roster/tea-adams/8579,2021-22
-528,Oregon State,,41,6-4,R-Sr.,,,Forward,Jovana Subasic,,/sports/womens-basketball/roster/jovana-subasic/8576,2021-22
-528,Oregon State,,42,6-6,So.,,,Forward,Kennedy Brown,,/sports/womens-basketball/roster/kennedy-brown/8570,2021-22
-528,Oregon State,,44,6-4,So.,,,Forward,Taylor Jones,,/sports/womens-basketball/roster/taylor-jones/8572,2021-22
 14927,Belmont,3150,Tuti Jones,Sophomore,"Troy, Ala.",,,"5'7""",Guard,0,https://www.belmontbruins.com/sports/womens-basketball/roster/tuti-jones/3150,2021-22
 14927,Belmont,3145,Madison Bartley,Sophomore,"Kettering, Ohio",,,"6'3""",Forward,3,https://www.belmontbruins.com/sports/womens-basketball/roster/madison-bartley/3145,2021-22
 14927,Belmont,3149,Macie Culbertson,Senior,"Fall Branch, Tenn.",,,"5'11""",Guard,4,https://www.belmontbruins.com/sports/womens-basketball/roster/macie-culbertson/3149,2021-22
@@ -13877,3 +13864,16 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 30197,Belhaven,,Ashanti Lipscomb,SO,"Mobile, Ala.",Faith Academy High School,,5-7,G,30,https://blazers.belhaven.edu/sports/womens-basketball/roster/ashanti-lipscomb/6128,2021-22
 30197,Belhaven,,Madison Klein,FR,"Madison, Miss.",French Camp Academy,,,,32,https://blazers.belhaven.edu/sports/womens-basketball/roster/madison-klein/6263,2021-22
 30197,Belhaven,,Chonteze Franklin,FR,"Vancleave, Miss.",Vancleave High School,,5-10,PF,44,https://blazers.belhaven.edu/sports/womens-basketball/roster/chonteze-franklin/6130,2021-22
+528,Oregon State,,Andrea Aquino,R-So.,"Caacupe, Paraguay",,,6-9,Forward,2,https://osubeavers.com/sports/womens-basketball/roster/andrea-aquino/8569,2021-22
+528,Oregon State,,Noelle Mannen,R-So.,"North Plains, Ore.",Valley Catholic High School,,5-6,Guard,4,https://osubeavers.com/sports/womens-basketball/roster/noelle-mannen/8574,2021-22
+528,Oregon State,,Taya Corosdale,R-Jr.,"Bothell, Wash.",Bothell HS,,6-3,Forward,5,https://osubeavers.com/sports/womens-basketball/roster/taya-corosdale/8571,2021-22
+528,Oregon State,,Greta Kampschroeder,Fr.,"Naperville, Ill.",Naperville North,,6-0,Guard,10,https://osubeavers.com/sports/womens-basketball/roster/greta-kampschroeder/8578,2021-22
+528,Oregon State,,AJ Marotte,Fr.,"Austin, Texas",Vista Ridge HS,,6-1,Guard,11,https://osubeavers.com/sports/womens-basketball/roster/aj-marotte/8580,2021-22
+528,Oregon State,,Jelena Mitrovic,R-Fr.,"Novi Sad, Serbia",,,6-9,Forward/Center,12,https://osubeavers.com/sports/womens-basketball/roster/jelena-mitrovic/8575,2021-22
+528,Oregon State,,Ellie Mack,R-Sr.,"Paoli, Pa.",Conestoga HS,,6-3,Forward,20,https://osubeavers.com/sports/womens-basketball/roster/ellie-mack/8573,2021-22
+528,Oregon State,,Talia von Oelhoffen,Fr.,"Tri-Cities, Wash.",Chiawana HS,,5-11,Guard,22,https://osubeavers.com/sports/womens-basketball/roster/talia-von%20oelhoffen/8577,2021-22
+528,Oregon State,,Emily Codding,R-Sr.,"Santa Rosa, Calif.",Santa Rosa High School,,6-0,Guard,23,https://osubeavers.com/sports/womens-basketball/roster/emily-codding/8582,2021-22
+528,Oregon State,,Tea Adams,R-Sr.,"Kirkland, Wash.",Juanita High,San Diego State,5-9,Guard,25,https://osubeavers.com/sports/womens-basketball/roster/tea-adams/8579,2021-22
+528,Oregon State,,Jovana Subasic,R-Sr.,"Sabac, Serbia",,Washington State,6-4,Forward,41,https://osubeavers.com/sports/womens-basketball/roster/jovana-subasic/8576,2021-22
+528,Oregon State,,Kennedy Brown,So.,"Derby, Kansas",Derby High School,,6-6,Forward,42,https://osubeavers.com/sports/womens-basketball/roster/kennedy-brown/8570,2021-22
+528,Oregon State,,Taylor Jones,So.,"Forney, Texas",Dallas Christian High School,,6-4,Forward,44,https://osubeavers.com/sports/womens-basketball/roster/taylor-jones/8572,2021-22
