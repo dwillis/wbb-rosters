@@ -465,17 +465,17 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 301,Illinois,12280,Adalia McKenzie,Freshman,"Brooklyn Park, Minn.",Park Center High School,,"5'10""",Guard,24,https://www.fightingillini.com/sports/womens-basketball/roster/adalia-mckenzie/12280,2021-22
 301,Illinois,12250,Aaliyah Nye,Sophomore,"East Lansing, Mich.",East Lansing High School,,"5'11""",Guard,32,https://www.fightingillini.com/sports/womens-basketball/roster/aaliyah-nye/12250,2021-22
 301,Illinois,12277,Kendall Bostic,Sophomore,"Kokomo, Ind.",Northwestern High School,,"6'2""",Forward,44,https://www.fightingillini.com/sports/womens-basketball/roster/kendall-bostic/12277,2021-22
-306,Indiana,,Kaitlin Peterson,Fr.,"Eufaula, Ala. / Eufaula",,,5-9,Guard,1,/sports/womens-basketball/roster/kaitlin-peterson/15675,2021-22
-306,Indiana,,Grace Waggoner,Jr.,"Vincennes, Ind. / Vincennes Rivet",,,6-0,Guard,3,/sports/womens-basketball/roster/grace-waggoner/15671,2021-22
-306,Indiana,,Nicole Cardaño-Hillary,Gr.,"Madrid, Spain / Vista Ridge",,,5-6,Guard,4,/sports/womens-basketball/roster/nicole%20-carda%C3%B1o-hillary/15665,2021-22
-306,Indiana,,Aleksa Gulbe,Sr.,"Riga, Latvia / TTT Riga",,,6-3,Forward,10,/sports/womens-basketball/roster/aleksa-gulbe/15666,2021-22
-306,Indiana,,Ali Patberg,Gr.,"Columbus, Ind. / Columbus North",,,5-11,Guard,14,/sports/womens-basketball/roster/ali%20-patberg/15669,2021-22
-306,Indiana,,Chloe Moore-McNeil,So.,"Sharon, Tenn. / Greenfield",,,5-11,Guard,22,/sports/womens-basketball/roster/chloe-moore-mcneil/15668,2021-22
-306,Indiana,,Kiandra Browne,So.,"Montreal, Quebec, Canada / St-Laurent",,,6-2,Forward,23,/sports/womens-basketball/roster/kiandra-browne/15664,2021-22
-306,Indiana,,Mona Zaric,Fr.,"Novi Sad, Serbia / null",,,6-2,Forward,24,/sports/womens-basketball/roster/mona-zaric/16137,2021-22
-306,Indiana,,Arielle Wisne,R-So.,"Thornton, Colo. / Horizon",,,6-5,Center,25,/sports/womens-basketball/roster/arielle-wisne/15672,2021-22
-306,Indiana,,Grace Berger,Sr.,"Louisville, Ky. / Sacred Heart",,,6-0,Guard,34,/sports/womens-basketball/roster/grace-berger/15663,2021-22
-306,Indiana,,Mackenzie Holmes,Jr.,"Gorham, Maine / Gorham",,,6-3,Forward,54,/sports/womens-basketball/roster/mackenzie%20-holmes/15667,2021-22
+306,Indiana,,Kaitlin Peterson,Fr.,"Eufaula, Ala.",Eufaula,,5-9,Guard,1,/sports/womens-basketball/roster/kaitlin-peterson/15675,2021-22
+306,Indiana,,Grace Waggoner,Jr.,"Vincennes, Ind.",Vincennes Rivet,,6-0,Guard,3,/sports/womens-basketball/roster/grace-waggoner/15671,2021-22
+306,Indiana,,Nicole Cardaño-Hillary,Gr.,"Madrid, Spain",Vista Ridge,,5-6,Guard,4,/sports/womens-basketball/roster/nicole%20-carda%C3%B1o-hillary/15665,2021-22
+306,Indiana,,Aleksa Gulbe,Sr.,"Riga, Latvia",TTT Riga,,6-3,Forward,10,/sports/womens-basketball/roster/aleksa-gulbe/15666,2021-22
+306,Indiana,,Ali Patberg,Gr.,"Columbus, Ind.",Columbus North,,5-11,Guard,14,/sports/womens-basketball/roster/ali%20-patberg/15669,2021-22
+306,Indiana,,Chloe Moore-McNeil,So.,"Sharon, Tenn.",Greenfield,,5-11,Guard,22,/sports/womens-basketball/roster/chloe-moore-mcneil/15668,2021-22
+306,Indiana,,Kiandra Browne,So.,"Montreal, Quebec, Canada",St-Laurent,,6-2,Forward,23,/sports/womens-basketball/roster/kiandra-browne/15664,2021-22
+306,Indiana,,Mona Zaric,Fr.,"Novi Sad, Serbia",,,6-2,Forward,24,/sports/womens-basketball/roster/mona-zaric/16137,2021-22
+306,Indiana,,Arielle Wisne,R-So.,"Thornton, Colo.",Horizon,,6-5,Center,25,/sports/womens-basketball/roster/arielle-wisne/15672,2021-22
+306,Indiana,,Grace Berger,Sr.,"Louisville, Ky.",Sacred Heart,,6-0,Guard,34,/sports/womens-basketball/roster/grace-berger/15663,2021-22
+306,Indiana,,Mackenzie Holmes,Jr.,"Gorham, Maine",Gorham,,6-3,Forward,54,/sports/womens-basketball/roster/mackenzie%20-holmes/15667,2021-22
 310,Iona,6595,Jazmin Benn,Graduate Student,"Woodland Hills, CA",Agoura,Biola,"5'11""",Guard,1,https://www.ionagaels.com/sports/womens-basketball/roster/jazmin-benn/6595,2021-22
 310,Iona,6353,Olivia Vezaldenos,Graduate Student,"Manteca, CA",East Union,Concordia Portland,"5'7""",Guard,2,https://www.ionagaels.com/sports/womens-basketball/roster/olivia-vezaldenos/6353,2021-22
 310,Iona,6394,Addy Salzer,Freshman,"Saint Bonifacius, MN",Waconia,,"5'11""",Guard,3,https://www.ionagaels.com/sports/womens-basketball/roster/addy-salzer/6394,2021-22
@@ -3294,24 +3294,24 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 670,Texas State,9860,Da'Nasia Hood,Graduate Student,"San Antonio, Texas",Wagner HS,,"6'1""",Forward,32,https://www.txstatebobcats.com/sports/womens-basketball/roster/da-nasia-hood/9860,2021-22
 670,Texas State,9862,Nicole Leff,Junior,"Cedar Park, Texas",Cedar Park HS,,"6'1""",Forward,40,https://www.txstatebobcats.com/sports/womens-basketball/roster/nicole-leff/9862,2021-22
 670,Texas State,9863,Jaeda Reed,Graduate Student,"Lawton, Okla.",Eisenhower HS,,"6'1""",Center,55,https://www.txstatebobcats.com/sports/womens-basketball/roster/jaeda-reed/9863,2021-22
-2678,Arkansas-Pine Bluff,3497,Zaay Green,Redshirt Junior,"Duncanville, Texas / Texas A&M",,,"6'2""",GUARD,00,https://www.uapblionsroar.com/sports/womens-basketball/roster/zaay-green/3497,2021-22
-2678,Arkansas-Pine Bluff,3489,Tyeisha Juhan,Senior,"Jonesboro, Georgia / Talledega College",,,"5'10""",GUARD,1,https://www.uapblionsroar.com/sports/womens-basketball/roster/tyeisha-juhan/3489,2021-22
-2678,Arkansas-Pine Bluff,3490,Sade Hudson,Senior,"Memphis, Tennessee / University of Tennessee- Martin",,,"5'8""",GUARD,2,https://www.uapblionsroar.com/sports/womens-basketball/roster/sade-hudson/3490,2021-22
-2678,Arkansas-Pine Bluff,3491,Joyce Kennerson,Graduate Student,"Port Arthur, Texas / Texas Southern University",,,"5'4""",GUARD,3,https://www.uapblionsroar.com/sports/womens-basketball/roster/joyce-kennerson/3491,2021-22
-2678,Arkansas-Pine Bluff,3492,Kourtney Rittenberry,Freshman,"Loganville, Georgia / Grayson HS",,,"6'1""",GUARD,4,https://www.uapblionsroar.com/sports/womens-basketball/roster/kourtney-rittenberry/3492,2021-22
-2678,Arkansas-Pine Bluff,3493,Shekinah Rachel,Junior,"Miami, Florida / Jacksonville University",,,"6'2""",CENTER,5,https://www.uapblionsroar.com/sports/womens-basketball/roster/shekinah-rachel/3493,2021-22
-2678,Arkansas-Pine Bluff,3494,Kassidy Ingram,Junior,"Carlisle, Pennsylvania / Jacksonville University",,,"5'10""",FORWARD,10,https://www.uapblionsroar.com/sports/womens-basketball/roster/kassidy-ingram/3494,2021-22
-2678,Arkansas-Pine Bluff,3495,Tyler Pyburn,Junior,"Blooming Grove, Texas / Blooming Grove HS",,,"5'9""",GUARD,11,https://www.uapblionsroar.com/sports/womens-basketball/roster/tyler-pyburn/3495,2021-22
-2678,Arkansas-Pine Bluff,3488,Mariquita Cotten,Senior,"Jackson, Mississippi / Hinds Community College",,,"5'2""",GUARD,12,https://www.uapblionsroar.com/sports/womens-basketball/roster/mariquita-cotten/3488,2021-22
-2678,Arkansas-Pine Bluff,3496,Timiya Guevara,Freshman,"Denver, Colorado / Denver South HS",,,"5'5""",GUARD,20,https://www.uapblionsroar.com/sports/womens-basketball/roster/timiya-guevara/3496,2021-22
-2678,Arkansas-Pine Bluff,3498,Takaylyn Busby,Sophomore,"Dallas, Texas / Blooming Grove HS",,,"5'10""",GUARD,21,https://www.uapblionsroar.com/sports/womens-basketball/roster/takaylyn-busby/3498,2021-22
-2678,Arkansas-Pine Bluff,3499,Shicoriya Orr,Redshirt Junior,"Birmingham, AL/ Chattahoochee Valley Community College",,,"5'7""",GUARD,22,https://www.uapblionsroar.com/sports/womens-basketball/roster/shicoriya-orr/3499,2021-22
-2678,Arkansas-Pine Bluff,3500,Khadijah Brown,Fifth Year,"Miami, Florida / Jacksonville University",,,"6'3""",CENTER,23,https://www.uapblionsroar.com/sports/womens-basketball/roster/khadijah-brown/3500,2021-22
-2678,Arkansas-Pine Bluff,3501,Bryana Langford,Senior,"Baton Rouge, Louisiana / Southeastern University",,,"5'9""",GUARD,24,https://www.uapblionsroar.com/sports/womens-basketball/roster/bryana-langford/3501,2021-22
-2678,Arkansas-Pine Bluff,3502,Kaila Walker,Junior,"Little Rock, Arkansas / Arkansas Baptist College",,,"5'5""",GUARD,25,https://www.uapblionsroar.com/sports/womens-basketball/roster/kaila-walker/3502,2021-22
-2678,Arkansas-Pine Bluff,3503,Stephanie Okowi,Redshirt Freshman,"Oakland, California / Oakland Tech HS",,,"6'0""",FORWARD,32,https://www.uapblionsroar.com/sports/womens-basketball/roster/stephanie-okowi/3503,2021-22
-2678,Arkansas-Pine Bluff,3504,Morgan Christian,Senior,"Marion, Arkansas / Marion HS",,,"5'10""",FORWARD,40,https://www.uapblionsroar.com/sports/womens-basketball/roster/morgan-christian/3504,2021-22
-2678,Arkansas-Pine Bluff,3505,Maya Peat,Sophomore,"Chandler, Arizona / Chandler HS",,,"6'6""",CENTER,54,https://www.uapblionsroar.com/sports/womens-basketball/roster/maya-peat/3505,2021-22
+2678,Arkansas-Pine Bluff,3497,Zaay Green,Redshirt Junior,"Duncanville, Texas",,Texas A&M,"6'2""",GUARD,00,https://www.uapblionsroar.com/sports/womens-basketball/roster/zaay-green/3497,2021-22
+2678,Arkansas-Pine Bluff,3489,Tyeisha Juhan,Senior,"Jonesboro, Georgia",,Talledega College,"5'10""",GUARD,1,https://www.uapblionsroar.com/sports/womens-basketball/roster/tyeisha-juhan/3489,2021-22
+2678,Arkansas-Pine Bluff,3490,Sade Hudson,Senior,"Memphis, Tennessee",,University of Tennessee-Martin,"5'8""",GUARD,2,https://www.uapblionsroar.com/sports/womens-basketball/roster/sade-hudson/3490,2021-22
+2678,Arkansas-Pine Bluff,3491,Joyce Kennerson,Graduate Student,"Port Arthur, Texas",,Texas Southern University,"5'4""",GUARD,3,https://www.uapblionsroar.com/sports/womens-basketball/roster/joyce-kennerson/3491,2021-22
+2678,Arkansas-Pine Bluff,3492,Kourtney Rittenberry,Freshman,"Loganville, Georgia",Grayson HS,,"6'1""",GUARD,4,https://www.uapblionsroar.com/sports/womens-basketball/roster/kourtney-rittenberry/3492,2021-22
+2678,Arkansas-Pine Bluff,3493,Shekinah Rachel,Junior,"Miami, Florida",,Jacksonville University,"6'2""",CENTER,5,https://www.uapblionsroar.com/sports/womens-basketball/roster/shekinah-rachel/3493,2021-22
+2678,Arkansas-Pine Bluff,3494,Kassidy Ingram,Junior,"Carlisle, Pennsylvania",,Jacksonville University,"5'10""",FORWARD,10,https://www.uapblionsroar.com/sports/womens-basketball/roster/kassidy-ingram/3494,2021-22
+2678,Arkansas-Pine Bluff,3495,Tyler Pyburn,Junior,"Blooming Grove, Texas",Blooming Grove HS,,"5'9""",GUARD,11,https://www.uapblionsroar.com/sports/womens-basketball/roster/tyler-pyburn/3495,2021-22
+2678,Arkansas-Pine Bluff,3488,Mariquita Cotten,Senior,"Jackson, Mississippi",,Hinds Community College,"5'2""",GUARD,12,https://www.uapblionsroar.com/sports/womens-basketball/roster/mariquita-cotten/3488,2021-22
+2678,Arkansas-Pine Bluff,3496,Timiya Guevara,Freshman,"Denver, Colorado",Denver South HS,,"5'5""",GUARD,20,https://www.uapblionsroar.com/sports/womens-basketball/roster/timiya-guevara/3496,2021-22
+2678,Arkansas-Pine Bluff,3498,Takaylyn Busby,Sophomore,"Dallas, Texas",Blooming Grove HS,,"5'10""",GUARD,21,https://www.uapblionsroar.com/sports/womens-basketball/roster/takaylyn-busby/3498,2021-22
+2678,Arkansas-Pine Bluff,3499,Shicoriya Orr,Redshirt Junior,"Birmingham, AL",,Chattahoochee Valley Community College,"5'7""",GUARD,22,https://www.uapblionsroar.com/sports/womens-basketball/roster/shicoriya-orr/3499,2021-22
+2678,Arkansas-Pine Bluff,3500,Khadijah Brown,Fifth Year,"Miami, Florida",,Jacksonville University,"6'3""",CENTER,23,https://www.uapblionsroar.com/sports/womens-basketball/roster/khadijah-brown/3500,2021-22
+2678,Arkansas-Pine Bluff,3501,Bryana Langford,Senior,"Baton Rouge, Louisiana",,Southeastern University,"5'9""",GUARD,24,https://www.uapblionsroar.com/sports/womens-basketball/roster/bryana-langford/3501,2021-22
+2678,Arkansas-Pine Bluff,3502,Kaila Walker,Junior,"Little Rock, Arkansas",,Arkansas Baptist College,"5'5""",GUARD,25,https://www.uapblionsroar.com/sports/womens-basketball/roster/kaila-walker/3502,2021-22
+2678,Arkansas-Pine Bluff,3503,Stephanie Okowi,Redshirt Freshman,"Oakland, California",Oakland Tech HS,,"6'0""",FORWARD,32,https://www.uapblionsroar.com/sports/womens-basketball/roster/stephanie-okowi/3503,2021-22
+2678,Arkansas-Pine Bluff,3504,Morgan Christian,Senior,"Marion, Arkansas",Marion HS,,"5'10""",FORWARD,40,https://www.uapblionsroar.com/sports/womens-basketball/roster/morgan-christian/3504,2021-22
+2678,Arkansas-Pine Bluff,3505,Maya Peat,Sophomore,"Chandler, Arizona",Chandler HS,,"6'6""",CENTER,54,https://www.uapblionsroar.com/sports/womens-basketball/roster/maya-peat/3505,2021-22
 1004,Central Arkansas,8019,Leah Perry,Freshman,"Cairo, Ga.",Cairo HS,,"6'0""",Forward,2,https://www.ucasports.com/sports/womens-basketball/roster/leah-perry/8019,2021-22
 1004,Central Arkansas,8020,Randrea Wright,Freshman,"Birmingham, Ala.",George Washington Carver HS,,"5'7""",Guard,3,https://www.ucasports.com/sports/womens-basketball/roster/randrea-wright/8020,2021-22
 1004,Central Arkansas,8011,Ruth Balogun,Freshman,"Chattanooga, Tenn.",Hamilton Heights Christian Academy,,"5'10""",Guard/Forward,4,https://www.ucasports.com/sports/womens-basketball/roster/ruth-balogun/8011,2021-22
@@ -9262,20 +9262,20 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 451,CMSV,5380,Melanieann Broderick,Sophomore,"Bronx, NY",Preston,,"5'10""",F,21,https://www.cmsvathletics.com/sports/womens-basketball/roster/melanieann-broderick/5380,2021-22
 451,CMSV,5370,Catherine Amodio,Junior,"White Plains, NY",White Plains,,"5'8""",G,22,https://www.cmsvathletics.com/sports/womens-basketball/roster/catherine-amodio/5370,2021-22
 451,CMSV,5410,Kayla Hanley,Sophomore,"Yonkers, NY",Holy Child,,"5'5""",G,23,https://www.cmsvathletics.com/sports/womens-basketball/roster/kayla-hanley/5410,2021-22
-452,Mount Union,9370,Dae Dae Nash,Freshman,Akron,Buchtel,,"5'3""",G,0,https://www.mountunion.edu/sports/womens-basketball/roster/dae-dae-nash/9370,2021-22
+452,Mount Union,9370,Dae Dae Nash,Freshman,"Akron, Ohio",Buchtel,,"5'3""",G,0,https://www.mountunion.edu/sports/womens-basketball/roster/dae-dae-nash/9370,2021-22
 452,Mount Union,9379,Layni Ziegler,Senior,"Pittsburgh, Pa.",Seton LaSalle,,"5'4""",G,1,https://www.mountunion.edu/sports/womens-basketball/roster/layni-ziegler/9379,2021-22
-452,Mount Union,9368,Maddy Miles,Sophomore,Brunswick Hills,Padua Franciscan,,"5'8""",F,3,https://www.mountunion.edu/sports/womens-basketball/roster/maddy-miles/9368,2021-22
+452,Mount Union,9368,Maddy Miles,Sophomore,"Brunswick Hills, Ohio",Padua Franciscan,,"5'8""",F,3,https://www.mountunion.edu/sports/womens-basketball/roster/maddy-miles/9368,2021-22
 452,Mount Union,9361,Gretchen Koken,Junior,"Harmony, Pa.",Seneca Valley,,"5'8""",G,4,https://www.mountunion.edu/sports/womens-basketball/roster/gretchen-koken/9361,2021-22
-452,Mount Union,9354,Emma Cannon,Junior,Dalton,Dalton,,"5'7""",G,5,https://www.mountunion.edu/sports/womens-basketball/roster/emma-cannon/9354,2021-22
-452,Mount Union,9365,Corenna Maynard,Senior,Chagrin Falls,Kenston,,"5'5""",G,10,https://www.mountunion.edu/sports/womens-basketball/roster/corenna-maynard/9365,2021-22
-452,Mount Union,9358,Hailey Haywood,Freshman,Barberton,Barberton,,"5'8""",G,11,https://www.mountunion.edu/sports/womens-basketball/roster/hailey-haywood/9358,2021-22
-452,Mount Union,9356,Emma Elia,Freshman,Struthers,Struthers,,"5'5""",G,12,https://www.mountunion.edu/sports/womens-basketball/roster/emma-elia/9356,2021-22
+452,Mount Union,9354,Emma Cannon,Junior,"Dalton, Ohio",Dalton,,"5'7""",G,5,https://www.mountunion.edu/sports/womens-basketball/roster/emma-cannon/9354,2021-22
+452,Mount Union,9365,Corenna Maynard,Senior,"Chagrin Falls, Ohio",Kenston,,"5'5""",G,10,https://www.mountunion.edu/sports/womens-basketball/roster/corenna-maynard/9365,2021-22
+452,Mount Union,9358,Hailey Haywood,Freshman,"Barberton, Ohio",Barberton,,"5'8""",G,11,https://www.mountunion.edu/sports/womens-basketball/roster/hailey-haywood/9358,2021-22
+452,Mount Union,9356,Emma Elia,Freshman,"Struthers, Ohio",Struthers,,"5'5""",G,12,https://www.mountunion.edu/sports/womens-basketball/roster/emma-elia/9356,2021-22
 452,Mount Union,9372,Kaitlyn Pasko,Sophomore,"Erie, Pa.",Mercyhurst Prep,,"5'8""",G,14,https://www.mountunion.edu/sports/womens-basketball/roster/kaitlyn-pasko/9372,2021-22
 452,Mount Union,9371,Isi Palamone,Senior,"Murrysville, Pa.",Franklin Regional,,"5'10""",F,21,https://www.mountunion.edu/sports/womens-basketball/roster/isi-palamone/9371,2021-22
-452,Mount Union,9359,Madison Hensley,Junior,Blacklick,Gahanna Lincoln,,"5'8""",G,22,https://www.mountunion.edu/sports/womens-basketball/roster/madison-hensley/9359,2021-22
-452,Mount Union,9355,Katie Clark,Sophomore,Hudson,Walsh Jesuit,,"5'8""",F,23,https://www.mountunion.edu/sports/womens-basketball/roster/katie-clark/9355,2021-22
-452,Mount Union,9360,Ali Hudik,Freshman,Mentor,Lake Catholic,,"5'6""",G,25,https://www.mountunion.edu/sports/womens-basketball/roster/ali-hudik/9360,2021-22
-452,Mount Union,9375,Jenna Reppart,Freshman,Leavittsburg,LaBrae,,"6'0""",F,33,https://www.mountunion.edu/sports/womens-basketball/roster/jenna-reppart/9375,2021-22
+452,Mount Union,9359,Madison Hensley,Junior,"Blacklick, Ohio",Gahanna Lincoln,,"5'8""",G,22,https://www.mountunion.edu/sports/womens-basketball/roster/madison-hensley/9359,2021-22
+452,Mount Union,9355,Katie Clark,Sophomore,"Hudson, Ohio",Walsh Jesuit,,"5'8""",F,23,https://www.mountunion.edu/sports/womens-basketball/roster/katie-clark/9355,2021-22
+452,Mount Union,9360,Ali Hudik,Freshman,"Mentor, Ohio",Lake Catholic,,"5'6""",G,25,https://www.mountunion.edu/sports/womens-basketball/roster/ali-hudik/9360,2021-22
+452,Mount Union,9375,Jenna Reppart,Freshman,"Leavittsburg, Ohio",LaBrae,,"6'0""",F,33,https://www.mountunion.edu/sports/womens-basketball/roster/jenna-reppart/9375,2021-22
 452,Mount Union,9376,Destiny Roberts,Junior,"Derry, Pa.",Derry Area,,"6'1""",C,,https://www.mountunion.edu/sports/womens-basketball/roster/destiny-roberts/9376,2021-22
 453,Muhlenberg,6597,Rachel Saxton,Freshman,"Doylestown, Pa.",New Hope Solebury,,"5'4""",G,2,https://www.muhlenbergsports.com/sports/womens-basketball/roster/rachel-saxton/6597,2021-22
 453,Muhlenberg,6598,Megan Winters,Freshman,"Allendale, N.J.",Northern Highlands Regional,,"5'9""",G,3,https://www.muhlenbergsports.com/sports/womens-basketball/roster/megan-winters/6598,2021-22
