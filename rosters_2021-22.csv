@@ -12829,21 +12829,6 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 334,Kentucky,,Nyah Leveretter,Sophomore,"Blythewood, S.C.",Westwood HS,,6-3,Forward,21,https://ukathletics.com/sports/wbball/roster/season/2021-22/player/nyah-leveretter/,2021-22
 334,Kentucky,,Emma King,Junior,"Stanford, Ky.",Lincoln County HS,,5-10,Guard,34,https://ukathletics.com/sports/wbball/roster/season/2021-22/player/emma-king/,2021-22
 334,Kentucky,,Dre'una Edwards,Redshirt Junior,"Compton, Calif.",Liberty HS (Nev.),Utah,6-2,Forward,44,https://ukathletics.com/sports/wbball/roster/season/2021-22/player/dreuna-edwards/,2021-22
-365,LSU,,Autumn Newby,Graduate Student,Archer HS,"Lawrenceville, Ga.",Vanderbilt,6-2,Forward,0,https://lsusports.net/sports/wbball/roster/season/2021-22/player/autumn-newby/,2021-22
-365,LSU,,Jailin Cherry,Graduate Student,Pascagoula HS,"Pascagoula, Miss.",,5-8,Guard,1,https://lsusports.net/sports/wbball/roster/season/2021-22/player/jailin-cherry/,2021-22
-365,LSU,,Khayla Pointer,Graduate Student,Holy Innocents' Episcopal HS,"Marietta, Ga.",,5-7,Guard,3,https://lsusports.net/sports/wbball/roster/season/2021-22/player/khayla-pointer/,2021-22
-365,LSU,,Ryann Payne,Senior,Sierra Canyon HS,"Los Angeles, Calif.",TCU,5-7,Guard,10,https://lsusports.net/sports/wbball/roster/season/2021-22/player/ryann-payne/,2021-22
-365,LSU,,Emily Ward,Junior,Benton HS,"Bossier City, La.",,5-11,Forward,11,https://lsusports.net/sports/wbball/roster/season/2021-22/player/emily-ward/,2021-22
-365,LSU,,Logyn McNeil,Freshman,Rockwall-Heath HS,"Rockwall, Texas",,6-3,Forward,13,https://lsusports.net/sports/wbball/roster/season/2021-22/player/logyn-mcneil/,2021-22
-365,LSU,,Sarah Shematsi,Senior,Lycee Bellevue,"Annecy, France",South Plains College,6-2,Guard/Forward,14,https://lsusports.net/sports/wbball/roster/season/2021-22/player/sarah-shematsi/,2021-22
-365,LSU,,Ajae Petty,Sophomore,Baltimore Polytechnic Institute,"Baltimore, Md.",,6-3,Forward,15,https://lsusports.net/sports/wbball/roster/season/2021-22/player/ajae-petty/,2021-22
-365,LSU,,Hannah Gusters,Redshirt Freshman,MacArthur HS,"Dallas, Texas",Baylor,6-5,Center,20,https://lsusports.net/sports/wbball/roster/season/2021-22/player/hannah-gusters/,2021-22
-365,LSU,,Timia Ware,Freshman,Whitney Young Magnet HS,"Chicago, Ill.",,5-6,Guard,21,https://lsusports.net/sports/wbball/roster/season/2021-22/player/timia-ware/,2021-22
-365,LSU,,Amani Bartlett,Freshman,Houston Christian HS,"Cleveland, Texas",,6-3,Forward,23,https://lsusports.net/sports/wbball/roster/season/2021-22/player/amani-bartlett/,2021-22
-365,LSU,,Faustine Aifuwa,Graduate Student,Dacula HS,"Dacula, Ga.",,6-5,Center,24,https://lsusports.net/sports/wbball/roster/season/2021-22/player/faustine-aifuwa/,2021-22
-365,LSU,,Grace Hall,Freshman,Homewood-Flossmoor HS,"Homewood, Ill.",,6-1,Forward,30,https://lsusports.net/sports/wbball/roster/season/2021-22/player/grace-hall/,2021-22
-365,LSU,,Awa Trasi,5th-year Senior,Lycee Jeanne d'arc,"Toulouse, France",Northwest Florida State College,6-1,Guard/Forward,32,https://lsusports.net/sports/wbball/roster/season/2021-22/player/awa-trasi/,2021-22
-365,LSU,,Alexis Morris,5th-year Senior,Legacy Christian HS,"Beaumont, Texas",Texas A&M,5-6,Guard,45,https://lsusports.net/sports/wbball/roster/season/2021-22/player/alexis-morris/,2021-22
 257,Georgia,,Zoesha Smith,SO,"Brunswick, GA",Glynn Academy,,"6'-1""",F,0,https://georgiadogs.com/sports/womens-basketball/roster/zoesha-smith/5586,2021-22
 257,Georgia,,Chloe Chapman,JR,"Mitchellville, MD",Our Lady of Good Counsel,,"5'-7""",G,1,https://georgiadogs.com/sports/womens-basketball/roster/chloe-chapman/5580,2021-22
 257,Georgia,,Sarah Ashlee Barker,SO,"Birmingham, AL",Spain Park,,"6'-1""",G,3,,2021-22
@@ -13865,3 +13850,18 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 706,UT-San Antonio,6817,Kennedy Harrell,Sophomore,"Chicago, Ill.",Whitney M. Young HS,,"6'1""",Forward,24,https://www.goutsa.com/sports/womens-basketball/roster/kennedy-harrell/6817,2021-22
 706,UT-San Antonio,7067,Chantel Govan,Senior,"Converse, Texas",Judson HS,Cal Poly,"5'6""",Guard,40,https://www.goutsa.com/sports/womens-basketball/roster/chantel-govan/7067,2021-22
 706,UT-San Antonio,6827,Ndeye Ciss,Junior,"Dakar, Senegal",,Gulf Coast State,"6'2""",Forward,45,https://www.goutsa.com/sports/womens-basketball/roster/ndeye-ciss/6827,2021-22
+365,LSU,,Autumn Newby,Graduate Student,"Lawrenceville, Ga.",Archer HS,Vanderbilt,6-2,Forward,0,https://lsusports.net/sports/wbball/roster/season/2021-22/player/autumn-newby/,2021-22
+365,LSU,,Jailin Cherry,Graduate Student,"Pascagoula, Miss.",Pascagoula HS,,5-8,Guard,1,https://lsusports.net/sports/wbball/roster/season/2021-22/player/jailin-cherry/,2021-22
+365,LSU,,Khayla Pointer,Graduate Student,"Marietta, Ga.",Holy Innocents' Episcopal HS,,5-7,Guard,3,https://lsusports.net/sports/wbball/roster/season/2021-22/player/khayla-pointer/,2021-22
+365,LSU,,Ryann Payne,Senior,"Los Angeles, Calif.",Sierra Canyon HS,TCU,5-7,Guard,10,https://lsusports.net/sports/wbball/roster/season/2021-22/player/ryann-payne/,2021-22
+365,LSU,,Emily Ward,Junior,"Bossier City, La.",Benton HS,,5-11,Forward,11,https://lsusports.net/sports/wbball/roster/season/2021-22/player/emily-ward/,2021-22
+365,LSU,,Logyn McNeil,Freshman,"Rockwall, Texas",Rockwall-Heath HS,,6-3,Forward,13,https://lsusports.net/sports/wbball/roster/season/2021-22/player/logyn-mcneil/,2021-22
+365,LSU,,Sarah Shematsi,Senior,"Annecy, France",Lycee Bellevue,South Plains College,6-2,Guard/Forward,14,https://lsusports.net/sports/wbball/roster/season/2021-22/player/sarah-shematsi/,2021-22
+365,LSU,,Ajae Petty,Sophomore,"Baltimore, Md.",Baltimore Polytechnic Institute,,6-3,Forward,15,https://lsusports.net/sports/wbball/roster/season/2021-22/player/ajae-petty/,2021-22
+365,LSU,,Hannah Gusters,Redshirt Freshman,"Dallas, Texas",MacArthur HS,Baylor,6-5,Center,20,https://lsusports.net/sports/wbball/roster/season/2021-22/player/hannah-gusters/,2021-22
+365,LSU,,Timia Ware,Freshman,"Chicago, Ill.",Whitney Young Magnet HS,,5-6,Guard,21,https://lsusports.net/sports/wbball/roster/season/2021-22/player/timia-ware/,2021-22
+365,LSU,,Amani Bartlett,Freshman,"Cleveland, Texas",Houston Christian HS,,6-3,Forward,23,https://lsusports.net/sports/wbball/roster/season/2021-22/player/amani-bartlett/,2021-22
+365,LSU,,Faustine Aifuwa,Graduate Student,"Dacula, Ga.",Dacula HS,,6-5,Center,24,https://lsusports.net/sports/wbball/roster/season/2021-22/player/faustine-aifuwa/,2021-22
+365,LSU,,Grace Hall,Freshman,"Homewood, Ill.",Homewood-Flossmoor HS,,6-1,Forward,30,https://lsusports.net/sports/wbball/roster/season/2021-22/player/grace-hall/,2021-22
+365,LSU,,Awa Trasi,5th-year Senior,"Toulouse, France",Lycee Jeanne d'arc,Northwest Florida State College,6-1,Guard/Forward,32,https://lsusports.net/sports/wbball/roster/season/2021-22/player/awa-trasi/,2021-22
+365,LSU,,Alexis Morris,5th-year Senior,"Beaumont, Texas",Legacy Christian HS,Texas A&M,5-6,Guard,45,https://lsusports.net/sports/wbball/roster/season/2021-22/player/alexis-morris/,2021-22
