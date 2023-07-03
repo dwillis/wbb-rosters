@@ -801,20 +801,20 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 559,Purdue,10656,Nyagoa Gony,Senior,"Lincoln, Neb.",Lincoln,,"6'2""",Forward,30,https://www.purduesports.com/sports/womens-basketball/roster/nyagoa-gony/10656,2021-22
 559,Purdue,10659,Madison Layden,Sophomore,"Kokomo, Ind.",Northwestern,,"6'1""",Guard,33,https://www.purduesports.com/sports/womens-basketball/roster/madison-layden/10659,2021-22
 559,Purdue,10665,Rickie Woltman,Junior,"St. Louis, Mo.",Incarnate Word,,"6'4""",Forward,35,https://www.purduesports.com/sports/womens-basketball/roster/rickie-woltman/10665,2021-22
-31,Arkansas,,Saylor Poffenbarger,Fr.,"Middletown, Md.",Middletown HS/UConn,,6-2,G,14,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/saylor-poffenbarger/,2021-22
-31,Arkansas,,Samara Spencer,Fr.,"Fort Lauderdale, Fla.",St. Thomas Aquinas HS,,5-7,G,2,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/samara-spencer/,2021-22
-31,Arkansas,,Erynn Barnum,R-Jr.,"Little Rock, Ark.",Little Rock Central HS,,6-2,F,4,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/erynn-barnum/,2021-22
-31,Arkansas,,Elauna Eaton,RFr,"Helena, Ark.",Nettleton HS,,6-0,G,3,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/elauna-eaton/,2021-22
-31,Arkansas,,Rylee Langerman,So.,"Norman, Okla.",Christian Heritage HS,,5-9,G,11,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/rylee-langerman/,2021-22
-31,Arkansas,,Sasha Goforth,So,"Fayetteville, Ark.",Fayetteville HS/Oregon State,,6-1,G,13,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/sasha-goforth/,2021-22
-31,Arkansas,,Ashlyn Sage,Fr.,"Weatherford, Okla.",Weatherford HS,,6-2,G,15,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/ashlyn-sage/,2021-22
-31,Arkansas,,Avery Hughes,Jr.,"Bentonville, Ark.",Bentonville HS,,5-7,G,22,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/avery-hughes/,2021-22
-31,Arkansas,,Amber Ramirez,RSr*,"San Antonio, Texas",Wagner HS/TCU,,5-9,G,23,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/amber-ramirez/,2021-22
-31,Arkansas,,Jersey Wolfenbarger,Fr.,"Fort Smith, Ark.",Northside HS,,6-5,G/F,24,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/jersey-wolfenbarger/,2021-22
-31,Arkansas,,Maryam Dauda,Fr.,"Bentonville, Ark.",Bentonville HS,,6-4,F,30,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/maryam-dauda/,2021-22
-31,Arkansas,,Destinee Oberg,Jr,"Burnsville, Minn.",John F. Kennedy HS,,6-3,C,25,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/destinee-oberg/,2021-22
-31,Arkansas,,Makayla Daniels,Jr.,"Frederick, Md.",Frederick HS,,5-8,G,43,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/makayla-daniels/,2021-22
-31,Arkansas,,Emrie Ellis,Fr.,"Vanoss, Okla.",Vanoss HS,,6-3,F,55,https://www.arkansasrazorbacks.comhttps://arkansasrazorbacks.com/roster/emrie-ellis/,2021-22
+31,Arkansas,,Saylor Poffenbarger,Fr.,"Middletown, Md.",Middletown HS,UConn,6-2,G,14,https://www.arkansasrazorbacks.com/roster/saylor-poffenbarger/,2021-22
+31,Arkansas,,Samara Spencer,Fr.,"Fort Lauderdale, Fla.",St. Thomas Aquinas HS,,5-7,G,2,https://www.arkansasrazorbacks.com/roster/samara-spencer/,2021-22
+31,Arkansas,,Erynn Barnum,R-Jr.,"Little Rock, Ark.",Little Rock Central HS,,6-2,F,4,https://www.arkansasrazorbacks.com/roster/erynn-barnum/,2021-22
+31,Arkansas,,Elauna Eaton,RFr,"Helena, Ark.",Nettleton HS,,6-0,G,3,https://www.arkansasrazorbacks.com/roster/elauna-eaton/,2021-22
+31,Arkansas,,Rylee Langerman,So.,"Norman, Okla.",Christian Heritage HS,,5-9,G,11,https://www.arkansasrazorbacks.com/roster/rylee-langerman/,2021-22
+31,Arkansas,,Sasha Goforth,So,"Fayetteville, Ark.",Fayetteville HS,Oregon State,6-1,G,13,https://www.arkansasrazorbacks.com/roster/sasha-goforth/,2021-22
+31,Arkansas,,Ashlyn Sage,Fr.,"Weatherford, Okla.",Weatherford HS,,6-2,G,15,https://www.arkansasrazorbacks.com/roster/ashlyn-sage/,2021-22
+31,Arkansas,,Avery Hughes,Jr.,"Bentonville, Ark.",Bentonville HS,,5-7,G,22,https://www.arkansasrazorbacks.com/roster/avery-hughes/,2021-22
+31,Arkansas,,Amber Ramirez,RSr,"San Antonio, Texas",Wagner HS,TCU,5-9,G,23,https://www.arkansasrazorbacks.com/roster/amber-ramirez/,2021-22
+31,Arkansas,,Jersey Wolfenbarger,Fr.,"Fort Smith, Ark.",Northside HS,,6-5,G/F,24,https://www.arkansasrazorbacks.com/roster/jersey-wolfenbarger/,2021-22
+31,Arkansas,,Maryam Dauda,Fr.,"Bentonville, Ark.",Bentonville HS,,6-4,F,30,https://www.arkansasrazorbacks.com/roster/maryam-dauda/,2021-22
+31,Arkansas,,Destinee Oberg,Jr,"Burnsville, Minn.",John F. Kennedy HS,,6-3,C,25,https://www.arkansasrazorbacks.com/roster/destinee-oberg/,2021-22
+31,Arkansas,,Makayla Daniels,Jr.,"Frederick, Md.",Frederick HS,,5-8,G,43,https://www.arkansasrazorbacks.com/roster/makayla-daniels/,2021-22
+31,Arkansas,,Emrie Ellis,Fr.,"Vanoss, Okla.",Vanoss HS,,6-3,F,55,https://www.arkansasrazorbacks.com/roster/emrie-ellis/,2021-22
 579,Robert Morris,7747,Janeira Scott,Freshman,"Bridgeville, Del.",Woodbridge,First State Warriors,"5'2""",Guard,1,https://www.rmucolonials.com/sports/womens-basketball/roster/janeira-scott/7747,2021-22
 579,Robert Morris,7736,Mackenzie Amalia,Sophomore,"Beaver Falls, Pa.",Blackhawk,Drill for Skill,"5'5""",Guard,2,https://www.rmucolonials.com/sports/womens-basketball/roster/mackenzie-amalia/7736,2021-22
 579,Robert Morris,7748,Danielle Vuletich,Freshman,"Berlin Center, Ohio",Western Reserve,Team Huddle,"6'2""",Center,4,https://www.rmucolonials.com/sports/womens-basketball/roster/danielle-vuletich/7748,2021-22
@@ -12570,7 +12570,6 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 717,Tufts,11186,Sofia Rosa,Senior,"Sudbury, Mass.",Lincoln-Sudbury,NA,"6'2""",F,52,https://www.gotuftsjumbos.com/sports/womens-basketball/roster/sofia-rosa/11186,2021-22
 717,Tufts,11184,Mikayla Paquette,Freshman,"Jamaica Plain, Mass.",Noble and Greenough,NA,"6'1""",F,55,https://www.gotuftsjumbos.com/sports/womens-basketball/roster/mikayla-paquette/11184,2021-22
 8490,LeTourneau,6358,AJ Thomas,Senior,"Indianapolis, Ind.",North Central,NA,"5'11""",F,34,https://www.letuathletics.com/sports/womens-basketball/roster/aj-thomas/6358,2021-22
-30166,Valley Forge,3077,Isabelle Slater,NA,"Jacksonville, NC",NA,Living Water Christian School,"5'6""","5'6""",11,https://www.uvfpatriots.com/sports/womens-basketball/roster/isabelle-slater/3077,2021-22
 5,Akron,,Annika Corcoran,So.,"Painesville, Ohio",Gilmour,,5-6,G,0,https://gozips.com/sports/womens-basketball/roster/annika-corcoran/7361,2021-22
 5,Akron,,Kendall Miller,Sr.,"Akron, Ohio",St. Vincent-St. Mary,,5-9,G,1,https://gozips.com/sports/womens-basketball/roster/kendall-miller/7356,2021-22
 5,Akron,,Alanna Carter,R-Fr.,"Mason, Ohio",Mason,,5-9,G,2,https://gozips.com/sports/womens-basketball/roster/alanna-carter/7351,2021-22
