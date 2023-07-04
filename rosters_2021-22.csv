@@ -1384,7 +1384,6 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 72,Bradley,,Caroline Waite,Fr.,"Ames, Iowa",Ames,,"5' 4""",G,11,https://www.bradleybraves.com/sports/womens-basketball/roster/caroline-waite/12552,2021-22
 72,Bradley,,Nika Dorsey,Fr.,"Detroit, Mich.",Renaissance,,"5' 10""",G,12,https://www.bradleybraves.com/sports/womens-basketball/roster/nika-dorsey/12555,2021-22
 72,Bradley,,Tatum Koenig,Sr.,"West Branch, Iowa",West Branch,,"5' 7""",G,13,https://www.bradleybraves.com/sports/womens-basketball/roster/tatum-koenig/12547,2021-22
-72,Bradley,,Jalene Woolford,Rs.,"Pontiac, Ill.",St. Mary's Grade School,,"5' 0""",F,13,https://www.bradleybraves.com/sports/womens-basketball/roster/jalene-woolford/12550,2021-22
 72,Bradley,,Abbie Draper,Fr.,"Waverly, Iowa",Waverly-Shell Rock,,"6' 2""",F,22,https://www.bradleybraves.com/sports/womens-basketball/roster/abbie-draper/12554,2021-22
 72,Bradley,,Isis Fitch,So.,"Homewood, Ill.",Homewood-Flossmoor,,"6' 0""",F,24,https://www.bradleybraves.com/sports/womens-basketball/roster/isis-fitch/12544,2021-22
 72,Bradley,,Daija Powell,So.,"Tyrone, Ga.",Texas Tech,,"6' 1""",F,25,https://www.bradleybraves.com/sports/womens-basketball/roster/daija-powell/12557,2021-22
@@ -12497,7 +12496,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 11740,West Florida,6371,Peyton Lewis,Senior,"Hampton, Ga.",Locust Grove HS,Kennesaw State,"5'9""",G,25,https://www.goargos.com/sports/womens-basketball/roster/peyton-lewis/6371,2021-22
 11740,West Florida,6369,Alex Haymon,Sophomore,"Baytown, Texas",Goose Creek Memorial HS,NA,"5'10""",F,30,https://www.goargos.com/sports/womens-basketball/roster/alex-haymon/6369,2021-22
 11740,West Florida,6406,Zoe Piller,Freshman,"Nolensville, Tenn.",Nolensville HS,NA,"6'2""",F,33,https://www.goargos.com/sports/womens-basketball/roster/zoe-piller/6406,2021-22
-11740,West Florida,6709,Raena Suggs,Redshirt,"Minnetonka, Minn.",Hopkins HS,Weber State,"5'8""",G,NA,https://www.goargos.com/sports/womens-basketball/roster/raena-suggs/6709,2021-22
+11740,West Florida,6709,Raena Suggs,Junior,"Minnetonka, Minn.",Hopkins HS,Weber State,"5'8""",G,NA,https://www.goargos.com/sports/womens-basketball/roster/raena-suggs/6709,2021-22
 144,Clark Atlanta,2831,Reagan Jackson,Senior,"Chesapeake, Va.",Grassfield High School,,,Guard,12,https://www.clarkatlantasports.com/sports/womens-basketball/roster/reagan-jackson/2831,2021-22
 144,Clark Atlanta,2832,Ta'Niya Alexander,Freshman,"Hartwell, Ga.",Hart County HS,,"6'0""",Forward,14,https://www.clarkatlantasports.com/sports/womens-basketball/roster/ta-niya-alexander/2832,2021-22
 144,Clark Atlanta,2833,Lakashia Hill,Junior,"Eufaula, Al.",Eufaula HS,,"6'1""",Forward,20,https://www.clarkatlantasports.com/sports/womens-basketball/roster/lakashia-hill/2833,2021-22
@@ -13187,17 +13186,17 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 186,Dist. Columbia,,Aiyana Ellis,Freshman,"King George, VA",King George H.S.,,6'2,Forward,20,https://www.udcfirebirds.com/sports/wbkb/2021-22/bios/ellis_aiyana_kvof,2021-22
 186,Dist. Columbia,,Halia Ellis,Sophomore,"King George, VA",King George H.S.,,5'8,Guard,22,https://www.udcfirebirds.com/sports/wbkb/2021-22/bios/ellis_halia_ok6z,2021-22
 186,Dist. Columbia,,Kaila Pruitt,Freshman,"Owings, MD",Northern H.S.,,6'1,Guard/Forward,24,https://www.udcfirebirds.com/sports/wbkb/2021-22/bios/pruitt_kaila_idpb,2021-22
-791,Winston-Salem,,Amaya Tucker,Rs.,"Winston-Salem, N.C.",Reagan High,,5-6,G,0,https://wssurams.com/sports/womens-basketball/roster/amaya-tucker/2835,2021-22
-791,Winston-Salem,,Hailey Gipson,Rs.,"Charlotte, N.C.",William A. Hough High,,5-6,G,1,https://wssurams.com/sports/womens-basketball/roster/hailey-gipson/2823,2021-22
-791,Winston-Salem,,Erin Hall,Rs.,"Kernersville, NC",East Forsyth High,,6-0,F,2,https://wssurams.com/sports/womens-basketball/roster/erin-hall/2824,2021-22
-791,Winston-Salem,,Brooke Spaulding,Rs.,"Cincinnati, OH",Fairfield High School,,5-6,G,3,https://wssurams.com/sports/womens-basketball/roster/brooke-spaulding/2833,2021-22
+791,Winston-Salem,,Amaya Tucker,RS Jr.,"Winston-Salem, N.C.",Reagan High,,5-6,G,0,https://wssurams.com/sports/womens-basketball/roster/amaya-tucker/2835,2021-22
+791,Winston-Salem,,Hailey Gipson,RS Sr.,"Charlotte, N.C.",William A. Hough High,,5-6,G,1,https://wssurams.com/sports/womens-basketball/roster/hailey-gipson/2823,2021-22
+791,Winston-Salem,,Erin Hall,RFr.,"Kernersville, NC",East Forsyth High,,6-0,F,2,https://wssurams.com/sports/womens-basketball/roster/erin-hall/2824,2021-22
+791,Winston-Salem,,Brooke Spaulding,Sr.,"Cincinnati, OH",Fairfield High School,Central State,5-6,G,3,https://wssurams.com/sports/womens-basketball/roster/brooke-spaulding/2833,2021-22
 791,Winston-Salem,,O'Shea Hatley,Sr.,"Durham, N.C.",Carolina Prep,,5-10,F,4,https://wssurams.com/sports/womens-basketball/roster/o-shea-hatley/2826,2021-22
-791,Winston-Salem,,Kennedi Simmons,Rs.,"Greensboro, NC",Southeast Guilford High,,5-9,G,5,https://wssurams.com/sports/womens-basketball/roster/kennedi-simmons/2831,2021-22
+791,Winston-Salem,,Kennedi Simmons,Fr.,"Greensboro, NC",Southeast Guilford High,,5-9,G,5,https://wssurams.com/sports/womens-basketball/roster/kennedi-simmons/2831,2021-22
 791,Winston-Salem,,Melody Prichard,Sr.,"Knightdale, N.C.",Knightdale High,,5-9,G,10,https://wssurams.com/sports/womens-basketball/roster/melody-prichard/2829,2021-22
-791,Winston-Salem,,Kendra Ross,Rs.,"Forest City, NC",East Rutherford High,,6-3,C,11,https://wssurams.com/sports/womens-basketball/roster/kendra-ross/2830,2021-22
-791,Winston-Salem,,Tyliah Burns,Rs.,"North Augusta, SC",North Augusta High,,5-8,G,12,https://wssurams.com/sports/womens-basketball/roster/tyliah-burns/2822,2021-22
+791,Winston-Salem,,Kendra Ross,RS Jr.,"Forest City, NC",East Rutherford High,,6-3,C,11,https://wssurams.com/sports/womens-basketball/roster/kendra-ross/2830,2021-22
+791,Winston-Salem,,Tyliah Burns,RFr.,"North Augusta, SC",North Augusta High,,5-8,G,12,https://wssurams.com/sports/womens-basketball/roster/tyliah-burns/2822,2021-22
 791,Winston-Salem,,Phylina Holmes,Jr.,"Warsaw, NC",James Kenan High School,,6-0,F,13,https://wssurams.com/sports/womens-basketball/roster/phylina-holmes/2827,2021-22
-791,Winston-Salem,,Taniah Wilkins,Rs.,"Spartanburg, SC",High Point Academy,,6-0,F,15,https://wssurams.com/sports/womens-basketball/roster/taniah-wilkins/2836,2021-22
+791,Winston-Salem,,Taniah Wilkins,RFr.,"Spartanburg, SC",High Point Academy,,6-0,F,15,https://wssurams.com/sports/womens-basketball/roster/taniah-wilkins/2836,2021-22
 791,Winston-Salem,,Laichelle Sparrow,Sr.,"Bayboro, N.C.",Louisburg,,5-11,F,21,https://wssurams.com/sports/womens-basketball/roster/laichelle-sparrow/2832,2021-22
 791,Winston-Salem,,Kyree Hall,Sr.,"High Point, N.C.",T.W. Andrews High,,5-8,F,24,https://wssurams.com/sports/womens-basketball/roster/kyree-hall/2825,2021-22
 791,Winston-Salem,,Dajha Williams,Sr.,"Wilson, N.C.",East Wake High,,5-9,F,32,https://wssurams.com/sports/womens-basketball/roster/dajha-williams/2837,2021-22
