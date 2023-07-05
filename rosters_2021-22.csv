@@ -11096,19 +11096,6 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 701,Texas Woman's,1923,Ashley Ingram,Freshman,"Bridgeport, TX",Bridgeport,,"6'2""",F,30,https://www.twuathletics.com/sports/womens-basketball/roster/ashley-ingram/1923,2021-22
 701,Texas Woman's,1921,Kayla Glover,Freshman,"DeSoto, TX",DeSoto,,"5'6""",G,33,https://www.twuathletics.com/sports/womens-basketball/roster/kayla-glover/1921,2021-22
 701,Texas Woman's,1920,Airron Gaydon,Freshman,"Lubbock, TX",Frenship,,"5'10""",G,34,https://www.twuathletics.com/sports/womens-basketball/roster/airron-gaydon/1920,2021-22
-707,Thiel,12280,Emili Scavitto,Freshman,"Gettysburg, Pa.",Gettysburg,,"5'10""","5'10""",00,https://www.thielathletics.com/sports/womens-basketball/roster/emili-scavitto/12280,2021-22
-707,Thiel,12274,Taylor Susany,Sophomore,"Struthers, Ohio",Struthers,,"5'7""",G,3,https://www.thielathletics.com/sports/womens-basketball/roster/taylor-susany/12274,2021-22
-707,Thiel,12279,Teagan Pierce,Freshman,"Cortland, Ohio",Lakeview,,"5'8""","5'8""",5,https://www.thielathletics.com/sports/womens-basketball/roster/teagan-pierce/12279,2021-22
-707,Thiel,12278,Viviana Paucarima,Freshman,"Coral Springs, Fla.",Coral Glades,,"5'3""","5'3""",10,https://www.thielathletics.com/sports/womens-basketball/roster/viviana-paucarima/12278,2021-22
-707,Thiel,12281,Shayla Foster,Freshman,"East Liverpool, Ohio",East Liverpool,,"5'4""","5'4""",11,https://www.thielathletics.com/sports/womens-basketball/roster/shayla-foster/12281,2021-22
-707,Thiel,12277,Grace Adams,Senior,"Cleveland, Ohio",Lake Ridge Academy,,,N/A,12,https://www.thielathletics.com/sports/womens-basketball/roster/grace-adams/12277,2021-22
-707,Thiel,12276,Lexy Wagner,Sophomore,"Pittsburgh, Pa.",Keystone Oaks,,"5'4""",G,13,https://www.thielathletics.com/sports/womens-basketball/roster/lexy-wagner/12276,2021-22
-707,Thiel,12272,Emily Peters,Sophomore,"Ravenna, Ohio",Ravenna,,"5'7""",G,21,https://www.thielathletics.com/sports/womens-basketball/roster/emily-peters/12272,2021-22
-707,Thiel,12268,Destiny Johnson,Senior,"Baltimore, Md.",Western,,"5'9""",F,23,https://www.thielathletics.com/sports/womens-basketball/roster/destiny-johnson/12268,2021-22
-707,Thiel,12271,Destiny Merriwether,Senior,"Youngstown, Ohio",East,,"5'7""",F,24,https://www.thielathletics.com/sports/womens-basketball/roster/destiny-merriwether/12271,2021-22
-707,Thiel,12270,Madison Liggett,Junior,"Baltimore, Md.",Catholic,,"5'6""",G,25,https://www.thielathletics.com/sports/womens-basketball/roster/madison-liggett/12270,2021-22
-707,Thiel,12275,Jessica Wagner,Sophomore,"Tionesta, Pa.",West Forest,,"5'11""",F,32,https://www.thielathletics.com/sports/womens-basketball/roster/jessica-wagner/12275,2021-22
-707,Thiel,12266,Giana Arnese,Sophomore,"Carbondale, Pa.",Carbondale,,"5'8""",G,33,https://www.thielathletics.com/sports/womens-basketball/roster/giana-arnese/12266,2021-22
 137,Chicago,,Isabelle Herrera,Jr.,"Poughkeepsie, N.Y.",Spackenkill,,5-3,G,2,https://www.uchicago.edu/sports/wbkb/2021-22/bios/herrera_isabelle_wv3e,2021-22
 137,Chicago,,Bella Alfaro,Fr.,"Durham, N.C.",North Carolina School of Science and Math,,5-7,G,3,https://www.uchicago.edu/sports/wbkb/2021-22/bios/alfaro_bella_61hw,2021-22
 137,Chicago,,Elizabeth Shaw,Sr.,"Glenview, Ill.",Glenbrook South,,5-7,G,4,https://www.uchicago.edu/sports/wbkb/2021-22/bios/shaw_elizabeth_xv8z,2021-22
@@ -13847,3 +13834,22 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 30166,Valley Forge,3037,Dominique Barnes,Fr.,"Burlington, NJ",Burlington City High School,,"5'7""",Forward,32,https://www.uvfpatriots.com/sports/womens-basketball/roster/dominique-barnes/3037,2021-22
 30166,Valley Forge,2849,Amaya Brown,Sr.,"Trenton, NJ",Life Center Academy,,"5'6""",Guard,11,https://uvfpatriots.com/sports/womens-basketball/roster/amaya-brown/2849,2021-22
 30166,Valley Forge,2864,Megan Firth,Sr.,"Sparrowbush, NY",Port Jervis High School,,"5'11""",Forward,13,https://uvfpatriots.com/sports/womens-basketball/roster/megan-firth/2864,2021-22
+707,Thiel,,Jessica Wagner,Freshman,"Tionesta, Pa.",West Forest,,"5'11""",F,0,https://thielathletics.com/sports/womens-basketball/roster/jessica-wagner/10678,2021-22
+707,Thiel,,Sarah Rosman,Freshman,"Brockway, Pa.",Brockway,,"5'2""",G,2,https://thielathletics.com/sports/womens-basketball/roster/sarah-rosman/10675,2021-22
+707,Thiel,,Taylor Susany,Freshman,"Struthers, Ohio",Struthers,,"5'7""",G,3,https://thielathletics.com/sports/womens-basketball/roster/taylor-susany/10677,2021-22
+707,Thiel,,Emily Harriman,Senior,"Geneva, Ohio",Geneva,,"5'3""",G,5,https://thielathletics.com/sports/womens-basketball/roster/emily-harriman/10665,2021-22
+707,Thiel,,Rachel Breckenridge,Senior,"Burton, Ohio",Berkshire,,"5'7""",G,10,https://thielathletics.com/sports/womens-basketball/roster/rachel-breckenridge/10663,2021-22
+707,Thiel,,Colleen Trainer,Senior,"Latrobe, Pa.",Mount Pleasant,,"5'8""",G,11,https://thielathletics.com/sports/womens-basketball/roster/colleen-trainer/10670,2021-22
+707,Thiel,,Rebecca Litz,Sophomore,"Brookfield, Ohio",Brookfield,,"5'7""",F,12,https://thielathletics.com/sports/womens-basketball/roster/rebecca-litz/10668,2021-22
+707,Thiel,,Lexy Wagner,Freshman,"Pittsburgh, Pa.",Keystone Oaks,,"5'4""",G,13,https://thielathletics.com/sports/womens-basketball/roster/lexy-wagner/10679,2021-22
+707,Thiel,,Sha'nia Stiers-Royal,Sophomore,"Austintown, Ohio",Austintown-Fitch,,"5'7""",F,15,https://thielathletics.com/sports/womens-basketball/roster/sha-nia-stiers-royal/10676,2021-22
+707,Thiel,,Grace Jones,Freshman,"Hadley, Pa.",Commodore Perry,,"5'7""",G,20,https://thielathletics.com/sports/womens-basketball/roster/grace-jones/10673,2021-22
+707,Thiel,,Emily Peters,Freshman,"Ravenna, Ohio",Ravenna,,"5'7""",G,21,https://thielathletics.com/sports/womens-basketball/roster/emily-peters/10674,2021-22
+707,Thiel,,Destiny Johnson,Junior,"Baltimore, Md.",Western,,"5'9""",F,23,https://thielathletics.com/sports/womens-basketball/roster/destiny-johnson/10666,2021-22
+707,Thiel,,Destiny Merriwether,Junior,"Youngstown, Ohio",East,,"5'7""",F,24,https://thielathletics.com/sports/womens-basketball/roster/destiny-merriwether/10669,2021-22
+707,Thiel,,Madison Liggett,Sophomore,"Baltimore, Md.",Catholic,,"5'6""",G,25,https://thielathletics.com/sports/womens-basketball/roster/madison-liggett/10667,2021-22
+707,Thiel,,Jania Williams,Sophomore,"Roseville, Minn.",Roseville,,"5'5""",G,32,https://thielathletics.com/sports/womens-basketball/roster/jania-williams/10671,2021-22
+707,Thiel,,Giana Arnese,Freshman,"Carbondale, Pa.",Carbondale,,"5'8""",G,33,https://thielathletics.com/sports/womens-basketball/roster/giana-arnese/10672,2021-22
+707,Thiel,,Autumn Wanchick,Sophomore,"Kent, Ohio",Field,,"5'2""",G,34,https://thielathletics.com/sports/womens-basketball/roster/autumn-wanchick/10680,2021-22
+707,Thiel,,Bailee Gregor,Senior,"Meadville, Pa.",Meadville,,"5'7""",G,44,https://thielathletics.com/sports/womens-basketball/roster/bailee-gregor/10664,2021-22
+707,Thiel,,Emily Grandy,Junior,"Sharpsville, Pa.",Sharpsville,,"5'8""",G,45,https://thielathletics.com/sports/womens-basketball/roster/emily-grandy/10751,2021-22
