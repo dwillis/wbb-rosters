@@ -5798,20 +5798,6 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 18,Alfred,9016,Felicia Stewart,First Year,"Ann Arbor, MI",Pioneer,,"5'9""",Guard,23,https://www.gosaxons.com/sports/womens-basketball/roster/felicia-stewart/9016,2021-22
 18,Alfred,9012,Ana Ion,Junior,"Bucharest, Romania",Episcopal School of Jacksonville,,"5'9""",Guard,30,https://www.gosaxons.com/sports/womens-basketball/roster/ana-ion/9012,2021-22
 18,Alfred,9015,Sarri Swanson,First Year,"Kane, PA",Kane Area,,"5'10""",Forward,33,https://www.gosaxons.com/sports/womens-basketball/roster/sarri-swanson/9015,2021-22
-181,Delta St.,5842,Dakiya Toney,Sophomore,"Lake Village, AR",,Lakeside High School,"5'11""",Forward,1,https://www.gostatesmen.com/sports/womens-basketball/roster/dakiya-toney/5842,2021-22
-181,Delta St.,6248,Otashae Burrage,Senior,"Walnut Grove, MS",,Pearl River Community College,"5'2""","5'2""",2,https://www.gostatesmen.com/sports/womens-basketball/roster/otashae-burrage/6248,2021-22
-181,Delta St.,6247,TaKyla Allen,Junior,"Forrest City, AR",,Southern Arkansas University Tech,"5'9""","5'9""",3,https://www.gostatesmen.com/sports/womens-basketball/roster/takyla-allen/6247,2021-22
-181,Delta St.,6250,Ginny Higginbotham,Freshman,"Hot Springs, AR",,Lake Hamilton High School,"5'7""","5'7""",4,https://www.gostatesmen.com/sports/womens-basketball/roster/ginny-higginbotham/6250,2021-22
-181,Delta St.,5831,Andrea Duran,Redshirt Freshman,"Querétaro, Mexico",,Germantown High School,"5'6""",Guard,5,https://www.gostatesmen.com/sports/womens-basketball/roster/andrea-duran/5831,2021-22
-181,Delta St.,5834,MaKenzie Hill,Junior,"Hazel Green, AL",,Hazel Green High School,"5'8""",G/F,10,https://www.gostatesmen.com/sports/womens-basketball/roster/makenzie-hill/5834,2021-22
-181,Delta St.,6251,Michelle Smith,Junior,"Marietta, GA",,Chattanooga Sate & Angelina College,"5'6""","5'6""",11,https://www.gostatesmen.com/sports/womens-basketball/roster/michelle-smith/6251,2021-22
-181,Delta St.,5830,Camryn Davis,Graduate Student,"Monticello, MS",,Copiah-Lincoln Community College,"5'9""",F,12,https://www.gostatesmen.com/sports/womens-basketball/roster/camryn-davis/5830,2021-22
-181,Delta St.,5839,Shanell Kitchens,Junior,"Jackson, MS",,Mississippi College,"5'6""",Guard,13,https://www.gostatesmen.com/sports/womens-basketball/roster/shanell-kitchens/5839,2021-22
-181,Delta St.,5835,Brysa Maxwell,Senior,"Ackerman, MS",,Holmes Community College,"5'9""",G/F,20,https://www.gostatesmen.com/sports/womens-basketball/roster/brysa-maxwell/5835,2021-22
-181,Delta St.,5837,Kierra Fulton,Freshman,"Conway, AR",,Mayflower High School,"5'4""",Guard,24,https://www.gostatesmen.com/sports/womens-basketball/roster/kierra-fulton/5837,2021-22
-181,Delta St.,6252,Bryanna Taylor,Junior,"Byram, MS",,Pearl River Community College,"6'0""","6'0""",31,https://www.gostatesmen.com/sports/womens-basketball/roster/bryanna-taylor/6252,2021-22
-181,Delta St.,5836,Alanna Smith,Senior,"Picayune, MS",,Pearl River Community College,"5'6""",G,33,https://www.gostatesmen.com/sports/womens-basketball/roster/alanna-smith/5836,2021-22
-181,Delta St.,5843,Grace Watson,Sophomore,"Hazel Green, AL",,Hazel Green High School,"6'0""",Forward,42,https://www.gostatesmen.com/sports/womens-basketball/roster/grace-watson/5843,2021-22
 183,Denver,3547,Meghan Boyd,Junior,"Eagle, Idaho",Eagle H.S.,,"5'11""",Guard,0,https://www.denverpioneers.com/sports/womens-basketball/roster/meghan-boyd/3547,2021-22
 183,Denver,3555,Sophia Zulich,Junior,"Ontario, Canada",Crestwood Prep,,"5'11""",Forward,1,https://www.denverpioneers.com/sports/womens-basketball/roster/sophia-zulich/3555,2021-22
 183,Denver,3567,Indeya Sanders,Graduate Student,"Reston, Va.",Herndon HS / American University,,"5'6""",Guard,2,https://www.denverpioneers.com/sports/womens-basketball/roster/indeya-sanders/3567,2021-22
@@ -13853,3 +13839,15 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 707,Thiel,,Autumn Wanchick,Sophomore,"Kent, Ohio",Field,,"5'2""",G,34,https://thielathletics.com/sports/womens-basketball/roster/autumn-wanchick/10680,2021-22
 707,Thiel,,Bailee Gregor,Senior,"Meadville, Pa.",Meadville,,"5'7""",G,44,https://thielathletics.com/sports/womens-basketball/roster/bailee-gregor/10664,2021-22
 707,Thiel,,Emily Grandy,Junior,"Sharpsville, Pa.",Sharpsville,,"5'8""",G,45,https://thielathletics.com/sports/womens-basketball/roster/emily-grandy/10751,2021-22
+181,Delta St.,,Dakiya Toney,Freshman,"Lake Village, AR",Lakeside High School,,"5'11""",Forward,1,https://gostatesmen.com/sports/womens-basketball/roster/dakiya-toney/5842,2021-22
+181,Delta St.,,Ke'vonsha Stackhouse,Senior,"West Helena, AR",Central HS,Arkansas Tech,"5'8""",Forward,2,,2021-22
+181,Delta St.,,Moriah Hurst,Graduate Student,"Magnolia, MS",South Pike HS,Mississippi College,"5'9""",Forward,4,,2021-22
+181,Delta St.,,Chrystal Mayes,Freshman,"Batesville, MS",South Panola HS,,"6'1""",Forward,33,,2021-22
+181,Delta St.,,Andrea Duran,Junior,"Querétaro, Mexico",Germantown High School,,"5'6""",Guard,5,https://gostatesmen.com/sports/womens-basketball/roster/andrea-duran/5831,2021-22
+181,Delta St.,,MaKenzie Hill,Sophomore,"Hazel Green, AL",Hazel Green High School,,"5'8""",G/F,10,https://gostatesmen.com/sports/womens-basketball/roster/makenzie-hill/5834,2021-22
+181,Delta St.,,Zyaire Ewing,Senior,"Natchez, Miss.",Natchez High School,,"6'1""",F,11,https://gostatesmen.com/sports/womens-basketball/roster/zyaire-ewing/5178,2021-22
+181,Delta St.,,Camryn Davis,Senior,"Monticello, MS",Lawrence County High School,Copiah-Lincoln Community College,"5'9""",F,12,https://gostatesmen.com/sports/womens-basketball/roster/camryn-davis/5185,2021-22
+181,Delta St.,,Shanell Kitchens,Junior,"Jackson, MS",Ridgeland High School,Mississippi College,"5'6""",Guard,13,https://gostatesmen.com/sports/womens-basketball/roster/shanell-kitchens/5839,2021-22
+181,Delta St.,,Brysa Maxwell,Senior,"Ackerman, MS",Choctaw County High School,Holmes Community College,"5'9""",G/F,20,https://gostatesmen.com/sports/womens-basketball/roster/brysa-maxwell/5835,2021-22
+181,Delta St.,,T'Kyra Hicks,Senior,"Benoit, Miss.",Ray Brooks High School,,"5'7""",G,23,https://gostatesmen.com/sports/womens-basketball/roster/t-kyra-hicks/5179,2021-22
+181,Delta St.,,Grace Watson,Junior,"Hazel Green, AL",Hazel Green High School,,"6'0""",Forward,42,,2021-22
