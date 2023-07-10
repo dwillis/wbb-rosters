@@ -4,12 +4,30 @@ library(tidyverse)
 
 ```{r}
 teams <- read_csv("teams.csv")
+#rosters2122 <- read_csv("~/Downloads/rosters_2021-2022.csv")
 rosters2122 <- read_csv("rosters_2021-22.csv")
 ```
 
 ```{r}
 teams2122 <- rosters2122 %>% distinct(ncaa_id, team)
 need_rosters <- teams %>% anti_join(teams2122, by='ncaa_id')
+
+roster_adds <- need_rosters %>% inner_join(oldrosters2122, by=c("ncaa_id", "team")) %>% select(-twitter, -stats_name, -private, -team_state, -conference, -division, -url.x, -url.y)
+
+rosters2122_with_adds <- bind_rows(rosters2122, roster_adds)
+
+write_csv(rosters2122_with_adds,"rosters_2021-22.csv")
+
+```
+
+
+# Find missing values
+
+```{r}
+rosters2122 %>% filter(is.na(hometown))
+rosters2122 %>% filter(is.na(position))
+rosters2122 %>% filter(is.na(year))
+rosters2122 %>% filter(is.na(height))
 ```
 
 
