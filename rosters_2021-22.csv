@@ -13084,14 +13084,14 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 30175,Holy Names,2168,Alaren Newell,Sophomore,"Oakland, Calif.",San Leandro HS,,"6'0""",F/C,RS,,2021-22
 30175,Holy Names,2178,Eryn Taylor,Junior,"Oakland, Calif.",Berkeley HS,,"5'5""",G,RS,,2021-22
 30175,Holy Names,2179,Ani Tu'utafaiva,Redshirt Sophomore,"Alameda, Calif.",Alameda HS,,"5'7""",F/G,RS,,2021-22
-30225,SUNY Delhi,,Myles Matthias,Jr.,"Brooklyn, NY",Institute for Collaborative Education,,5'5,F,4,,2021-22
-30225,SUNY Delhi,,Justine Lubbers,Jr.,"East Meredith, NY",Charlotte Valley Central,,5'9,PF,5,,2021-22
-30225,SUNY Delhi,,Angelica Lazo,So.,"Elmont, NY",Sewanhaka,,5'0,G,11,,2021-22
-30225,SUNY Delhi,,Tiesha Mayfield,Sr.,"Bronx, NY",Astor Collegiate Academy,,5'0,G,14,,2021-22
-30225,SUNY Delhi,,Ella Shinnlinger,Fr.,"Caanan, NH",Caanan,,"5' 10""",C,20,,2021-22
-30225,SUNY Delhi,,Nicole Bryant,So.,"Castleton, NY",Columbia,,5'5,F,21,,2021-22
-30225,SUNY Delhi,,Madilyne Kupris,So.,"Brookfield, NY",Brookfield Central,,5'8,C,23,,2021-22
-30225,SUNY Delhi,,Marissa Kupris,So.,"Brookfield, NY",Brookfield Central,,5'8,C,32,,2021-22
+30225,SUNY Delhi,,Myles Matthias,Jr.,"Brooklyn, NY",Institute for Collaborative Education,,5'5,F,4,https://delhibroncos.com/sports/wbkb/2021-22/bios/matthias_myles_ed6h,2021-22
+30225,SUNY Delhi,,Justine Lubbers,Jr.,"East Meredith, NY",Charlotte Valley Central,,5'9,PF,5,https://delhibroncos.com/sports/wbkb/2021-22/bios/lubbers_justine_c0h3,2021-22
+30225,SUNY Delhi,,Angelica Lazo,So.,"Elmont, NY",Sewanhaka,,5'0,G,11,https://delhibroncos.com/sports/wbkb/2021-22/bios/lazo_angelica_0253,2021-22
+30225,SUNY Delhi,,Tiesha Mayfield,Sr.,"Bronx, NY",Astor Collegiate Academy,,5'0,G,14,https://delhibroncos.com/sports/wbkb/2021-22/bios/mayfield_tiesha_w7ek,2021-22
+30225,SUNY Delhi,,Ella Shinnlinger,Fr.,"Caanan, NH",Caanan,,"5' 10""",C,20,https://delhibroncos.com/sports/wbkb/2021-22/bios/shinnlinger_ella_m3pj,2021-22
+30225,SUNY Delhi,,Nicole Bryant,So.,"Castleton, NY",Columbia,,5'5,F,21,https://delhibroncos.com/sports/wbkb/2021-22/bios/bryant_nicole_v995,2021-22
+30225,SUNY Delhi,,Madilyne Kupris,So.,"Brookfield, NY",Brookfield Central,,5'8,C,23,https://delhibroncos.com/sports/wbkb/2021-22/bios/kupris_marissa_rrkg,2021-22
+30225,SUNY Delhi,,Marissa Kupris,So.,"Brookfield, NY",Brookfield Central,,5'8,C,32,https://delhibroncos.com/sports/wbkb/2021-22/bios/kupris_madilyne_8a8b,2021-22
 706,UT-San Antonio,6825,Elyssa Coleman,Redshirt Freshman,"Houston, Texas",Atascocita HS,Texas,"6'3""",Forward,0,https://goutsa.com/sports/womens-basketball/roster/elyssa-coleman/6825,2021-2022
 706,UT-San Antonio,6823,Hailey Atwood,Junior,"Austin, Texas",James Bowie HS,,"5'8""",Guard,1,https://goutsa.com/sports/womens-basketball/roster/hailey-atwood/6823,2021-2022
 706,UT-San Antonio,6828,Jadyn Pimentel,Graduate Student,"St. Louis, Mo.",Parkway North HS,Lamar,"5'2""",Guard,2,https://goutsa.com/sports/womens-basketball/roster/jadyn-pimentel/6828,2021-2022
