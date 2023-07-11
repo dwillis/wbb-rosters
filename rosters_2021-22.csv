@@ -3327,22 +3327,22 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 536,UT-Rio Grande Valley,7349,Halie Jones,Sophomore,"Wichita, KS",Maize High School,Maize High School,"5'10""",Guard,24,https://www.goutrgv.com/sports/womens-basketball/roster/halie-jones/7349,2021-22
 536,UT-Rio Grande Valley,7347,Sara Bershers,Sophomore,"Fort Smith, AR",Northside High School,Northside High School,"6'0""",Guard,33,https://www.goutrgv.com/sports/womens-basketball/roster/sara-bershers/7347,2021-22
 536,UT-Rio Grande Valley,7352,Brianna Sanchez,Freshman,"Edinburg, TX",Edinburg High School,Edinburg High School,"6'2""",Forward,45,https://www.goutrgv.com/sports/womens-basketball/roster/brianna-sanchez/7352,2021-22
-706,UT-San Antonio,6825,Elyssa Coleman,Redshirt Freshman,,,,"6'3""",Forward,0,https://www.goutsa.com/sports/womens-basketball/roster/elyssa-coleman/6825,2021-22
-706,UT-San Antonio,6823,Hailey Atwood,Junior,,,,"5'8""",Guard,1,https://www.goutsa.com/sports/womens-basketball/roster/hailey-atwood/6823,2021-22
-706,UT-San Antonio,6828,Jadyn Pimentel,Graduate Student,,,,"5'2""",Guard,2,https://www.goutsa.com/sports/womens-basketball/roster/jadyn-pimentel/6828,2021-22
-706,UT-San Antonio,6816,Elena Blanding,Junior,,,,"6'5""",Center,3,https://www.goutsa.com/sports/womens-basketball/roster/elena-blanding/6816,2021-22
-706,UT-San Antonio,7068,Leslie Hunter,Junior,,,,"5'6""",Guard,4,https://www.goutsa.com/sports/womens-basketball/roster/leslie-hunter/7068,2021-22
-706,UT-San Antonio,6822,Yuliyana Valcheva,Senior,,,,"6'1""",Forward,5,https://www.goutsa.com/sports/womens-basketball/roster/yuliyana-valcheva/6822,2021-22
-706,UT-San Antonio,6824,Queen Ulabo,Junior,,,,"5'10""",Guard,10,https://www.goutsa.com/sports/womens-basketball/roster/queen-ulabo/6824,2021-22
-706,UT-San Antonio,6819,Charlene Mass,Junior,,,,"5'7""",Guard,11,https://www.goutsa.com/sports/womens-basketball/roster/charlene-mass/6819,2021-22
-706,UT-San Antonio,6826,Lapraisjah Johnson,Graduate Student,,,,"5'10""",Guard,12,https://www.goutsa.com/sports/womens-basketball/roster/lapraisjah-johnson/6826,2021-22
-706,UT-San Antonio,6815,Emilie Baek,Junior,,,,"5'8""",Guard,13,https://www.goutsa.com/sports/womens-basketball/roster/emilie-baek/6815,2021-22
-706,UT-San Antonio,7037,Deborah Nwakamma,Junior,,,,"5'8""",Guard,21,https://www.goutsa.com/sports/womens-basketball/roster/deborah-nwakamma/7037,2021-22
-706,UT-San Antonio,6818,Ceyenne Mass,Junior,,,,"5'10""",Guard,22,https://www.goutsa.com/sports/womens-basketball/roster/ceyenne-mass/6818,2021-22
-706,UT-San Antonio,6820,Kyleigh McGuire,Sophomore,,,,"5'10""",Forward,23,https://www.goutsa.com/sports/womens-basketball/roster/kyleigh-mcguire/6820,2021-22
-706,UT-San Antonio,6817,Kennedy Harrell,Sophomore,,,,"6'1""",Forward,24,https://www.goutsa.com/sports/womens-basketball/roster/kennedy-harrell/6817,2021-22
-706,UT-San Antonio,7067,Chantel Govan,Senior,,,,"5'6""",Guard,40,https://www.goutsa.com/sports/womens-basketball/roster/chantel-govan/7067,2021-22
-706,UT-San Antonio,6827,Ndeye Ciss,Junior,,,,"6'2""",Forward,45,https://www.goutsa.com/sports/womens-basketball/roster/ndeye-ciss/6827,2021-22
+706,UT-San Antonio,6825,Elyssa Coleman,Redshirt Freshman,"Houston, Texas",Atascocita HS,Texas,"6'3""",Forward,0,https://goutsa.com/sports/womens-basketball/roster/elyssa-coleman/6825,2021-2022
+706,UT-San Antonio,6823,Hailey Atwood,Junior,"Austin, Texas",James Bowie HS,,"5'8""",Guard,1,https://goutsa.com/sports/womens-basketball/roster/hailey-atwood/6823,2021-2022
+706,UT-San Antonio,6828,Jadyn Pimentel,Graduate Student,"St. Louis, Mo.",Parkway North HS,Lamar,"5'2""",Guard,2,https://goutsa.com/sports/womens-basketball/roster/jadyn-pimentel/6828,2021-2022
+706,UT-San Antonio,6816,Elena Blanding,Junior,"Converse, Texas",Judson HS,,"6'5""",Center,3,https://goutsa.com/sports/womens-basketball/roster/elena-blanding/6816,2021-2022
+706,UT-San Antonio,7068,Leslie Hunter,Junior,"West Hills, Calif.",Chaminade HS,Cal Poly,"5'6""",Guard,4,https://goutsa.com/sports/womens-basketball/roster/leslie-hunter/7068,2021-2022
+706,UT-San Antonio,6822,Yuliyana Valcheva,Senior,"Varna, Bulgaria",,Western Nebraska CC,"6'1""",Forward,5,https://goutsa.com/sports/womens-basketball/roster/yuliyana-valcheva/6822,2021-2022
+706,UT-San Antonio,6824,Queen Ulabo,Junior,"Yenagoa, Nigeria",Community Secondary School Koluama 1,Barton Community College,"5'10""",Guard,10,https://goutsa.com/sports/womens-basketball/roster/queen-ulabo/6824,2021-2022
+706,UT-San Antonio,6819,Charlene Mass,Junior,"Converse, Texas",Veterans Memorial HS,,"5'7""",Guard,11,https://goutsa.com/sports/womens-basketball/roster/charlene-mass/6819,2021-2022
+706,UT-San Antonio,6826,Lapraisjah Johnson,Graduate Student,"Killeen, Texas",Ellison HS,Nevada,"5'10""",Guard,12,https://goutsa.com/sports/womens-basketball/roster/lapraisjah-johnson/6826,2021-2022
+706,UT-San Antonio,6815,Emilie Baek,Junior,"Horsholm, Denmark",,Broward College,"5'8""",Guard,13,https://goutsa.com/sports/womens-basketball/roster/emilie-baek/6815,2021-2022
+706,UT-San Antonio,7037,Deborah Nwakamma,Junior,"Lagos, Nigeria",St. Augustine,Grayson College,"5'8""",Guard,21,https://goutsa.com/sports/womens-basketball/roster/deborah-nwakamma/7037,2021-2022
+706,UT-San Antonio,6818,Ceyenne Mass,Junior,"Converse, Texas",Karen Wagner HS,,"5'10""",Guard,22,https://goutsa.com/sports/womens-basketball/roster/ceyenne-mass/6818,2021-2022
+706,UT-San Antonio,6820,Kyleigh McGuire,Senior,"Houston, Texas",Atascocita HS,,"5'10""",Forward,23,https://goutsa.com/sports/womens-basketball/roster/kyleigh-mcguire/6820,2021-2022
+706,UT-San Antonio,6817,Kennedy Harrell,Sophomore,"Chicago, Ill.",Whitney M. Young HS,,"6'1""",Forward,24,https://goutsa.com/sports/womens-basketball/roster/kennedy-harrell/6817,2021-2022
+706,UT-San Antonio,7067,Chantel Govan,Senior,"Converse, Texas",Judson HS,Cal Poly,"5'6""",Guard,40,https://goutsa.com/sports/womens-basketball/roster/chantel-govan/7067,2021-2022
+706,UT-San Antonio,6827,Ndeye Ciss,Junior,"Dakar, Senegal",,Gulf Coast State College,"6'2""",Forward,45,https://goutsa.com/sports/womens-basketball/roster/ndeye-ciss/6827,2021-2022
 738,Vermont,9128,Ary Dizon,First Year,"Tampa, Fla.",Carrollwood Day School,,"6'2""",F,2,https://www.uvmathletics.com/sports/womens-basketball/roster/ary-dizon/9128,2021-22
 738,Vermont,9126,Sarah Wells,Senior,"Stanstead, Quebec",Champlain Collège,,"5'11""",G,3,https://www.uvmathletics.com/sports/womens-basketball/roster/sarah-wells/9126,2021-22
 738,Vermont,9117,Josie Larkins,Graduate Student,"Lincroft, N.J.",Red Bank Catholic,,"5'9""",G,5,https://www.uvmathletics.com/sports/womens-basketball/roster/josie-larkins/9117,2021-22
