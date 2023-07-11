@@ -4,7 +4,6 @@ library(tidyverse)
 
 ```{r}
 teams <- read_csv("teams.csv")
-#rosters2122 <- read_csv("~/Downloads/rosters_2021-2022.csv")
 rosters2122 <- read_csv("rosters_2021-22.csv")
 ```
 
