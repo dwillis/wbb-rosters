@@ -23,7 +23,7 @@ write_csv(rosters2122_with_adds,"rosters_2021-22.csv")
 # Find missing values
 
 ```{r}
-rosters2122 %>% filter(is.na(hometown))
+rosters2122 %>% filter(is.na(high_school))
 rosters2122 %>% filter(is.na(position))
 rosters2122 %>% filter(is.na(year))
 rosters2122 %>% filter(is.na(height))
