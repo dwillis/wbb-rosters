@@ -1378,7 +1378,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 94,Cal State Bakersfield,5130,Hennie van Schaik,Freshman,"Urk, The Netherlands",Centre for Sports and Education,,"6'3""",Forward,3,https://www.gorunners.com/sports/womens-basketball/roster/hennie-van-schaik/5130,2021-22
 94,Cal State Bakersfield,5121,Jasmin Dixon,Redshirt Junior,"Bakersfield, Calif.",Independence HS,,"5'7""",Guard,4,https://www.gorunners.com/sports/womens-basketball/roster/jasmin-dixon/5121,2021-22
 94,Cal State Bakersfield,5123,Jayden Eggleston,Redshirt Junior,"Las Vegas, Nev.",,,"6'1""",Guard/Forward,10,https://www.gorunners.com/sports/womens-basketball/roster/jayden-eggleston/5123,2021-22
-94,Cal State Bakersfield,5124,Lexus Green,Sophomore,,Garces Memorial HS,,"5'5""",Point,11,https://www.gorunners.com/sports/womens-basketball/roster/lexus-green/5124,2021-22
+94,Cal State Bakersfield,5124,Lexus Green,Sophomore,"Bakersfield, Calif.",Garces Memorial HS,,"5'5""",Point,11,https://www.gorunners.com/sports/womens-basketball/roster/lexus-green/5124,2021-22
 94,Cal State Bakersfield,5128,Sophia Tougas,Freshman,"Glens Falls, NY",Bradford Christian Academy,,"6'0""",Shooting,12,https://www.gorunners.com/sports/womens-basketball/roster/sophia-tougas/5128,2021-22
 94,Cal State Bakersfield,5125,Soli Herrera,Junior,"Bani, Dominican Republic",,,"6'3""",Center,13,https://www.gorunners.com/sports/womens-basketball/roster/soli-herrera/5125,2021-22
 94,Cal State Bakersfield,5131,Kayla Morris,Freshman,"Harlem, NY",Montverde Academy,,"6'2""",Forward,15,https://www.gorunners.com/sports/womens-basketball/roster/kayla-morris/5131,2021-22
@@ -4705,7 +4705,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 12799,Wheeling,5730,Taylor Cullen,Junior,"Mooresville, NC",Mooresville HS,,"5'8""",Guard,15,https://www.wucardinals.com/sports/womens-basketball/roster/taylor-cullen/5730,2021-22
 12799,Wheeling,5732,Jacqui Hinesmon,Junior,"Cincinnati, Ohio",Princeton,,"5'9""",Guard,22,https://www.wucardinals.com/sports/womens-basketball/roster/jacqui-hinesmon/5732,2021-22
 12799,Wheeling,5733,Alivia Thompson,Freshman,"Beaver Falls, PA.",Blackhawk HS,,,N/A,24,https://www.wucardinals.com/sports/womens-basketball/roster/alivia-thompson/5733,2021-22
-12799,Wheeling,5734,Macyla Collins,Freshman,,,,,N/A,30,https://www.wucardinals.com/sports/womens-basketball/roster/macyla-collins/5734,2021-22
+12799,Wheeling,5734,Macyla Collins,Freshman,"Beaver Falls, PA.",Beaver Falls HS,,,Guard,30,https://www.wucardinals.com/sports/womens-basketball/roster/macyla-collins/5734,2021-22
 12799,Wheeling,5736,Annie Hunt,Freshman,"Ravenswood, WV.",Ravenswood HS,,"5'10""",Guard,41,https://www.wucardinals.com/sports/womens-basketball/roster/annie-hunt/5736,2021-22
 12799,Wheeling,5737,Ally Ziegler,Freshman,"Cleveland, OH.",Beaumont HS,,"5'10""",Forward,43,https://www.wucardinals.com/sports/womens-basketball/roster/ally-ziegler/5737,2021-22
 12810,Northeastern St.,5222,Aubrey Brown,Sophomore,"Stilwell, Okla.",Sequoyah HS,,"5'4""",Point,4,https://www.goriverhawksgo.com/sports/womens-basketball/roster/aubrey-brown/5222,2021-22
@@ -5152,7 +5152,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 144,Clark Atlanta,2833,Lakashia Hill,Junior,"Eufaula, Al.",Eufaula HS,,"6'1""",Forward,20,https://www.clarkatlantasports.com/sports/womens-basketball/roster/lakashia-hill/2833,2021-22
 144,Clark Atlanta,2834,Brianna Pope,Sophomore,"Americus, Ga.",Americus-Sumter HS,,"6'0""",Forward,21,https://www.clarkatlantasports.com/sports/womens-basketball/roster/brianna-pope/2834,2021-22
 144,Clark Atlanta,2835,Maegan Barkley,Sophomore,"Jonesboro, Ga",Fayette County High School,,"5'6""",Guard,22,https://www.clarkatlantasports.com/sports/womens-basketball/roster/maegan-barkley/2835,2021-22
-144,Clark Atlanta,2836,Alexis Mann,Graduate Student,,,,"6'1""",Forward,23,https://www.clarkatlantasports.com/sports/womens-basketball/roster/alexis-mann/2836,2021-22
+144,Clark Atlanta,2836,Alexis Mann,Graduate Student,"Norcross, GA",Greater Atlanta Christian School,,"6'1""",Forward,23,https://www.clarkatlantasports.com/sports/womens-basketball/roster/alexis-mann/2836,2021-22
 144,Clark Atlanta,2794,Mariah Baltierra,Freshman,"Norcross, GA",Norcross High School,,"5'6""",Guard,24,https://www.clarkatlantasports.com/sports/womens-basketball/roster/mariah-baltierra/2794,2021-22
 144,Clark Atlanta,2837,Zion Walters,Sophomore,"Tolleson, Az.",Millennium HS,,"5'9""",Forward,33,https://www.clarkatlantasports.com/sports/womens-basketball/roster/zion-walters/2837,2021-22
 144,Clark Atlanta,2830,Kaia Barnett,Freshman,"Memphis, Tenn.",The Hutchison School,,"6'0""",Forward,42,https://www.clarkatlantasports.com/sports/womens-basketball/roster/kaia-barnett/2830,2021-22
@@ -5624,7 +5624,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 19117,Salem (WV),3479,Jamya Miller,Freshman,"Seymour, IN",Seymour High School,,,N/A,2,https://www.salemtigers.com/sports/womens-basketball/roster/jamya-miller/3479,2021-22
 19117,Salem (WV),3480,Allysa McRae,Freshman,"Key West, FL",,,,N/A,3,https://www.salemtigers.com/sports/womens-basketball/roster/allysa-mcrae/3480,2021-22
 19117,Salem (WV),3489,Daniela Quesada,Senior,"San Carlos, Costa Rica",Montverde Academy,,,N/A,10,https://www.salemtigers.com/sports/womens-basketball/roster/daniela-quesada/3489,2021-22
-19117,Salem (WV),3481,Kendra Stanford,Graduate Student,,,,,N/A,11,https://www.salemtigers.com/sports/womens-basketball/roster/kendra-stanford/3481,2021-22
+19117,Salem (WV),3481,Kendra Stanford,Graduate Student,"Philadelphia, Pa.",William Bodine,Penn State Brandywine/Lock Haven/Lincoln,"5'10"",N/A,11,https://www.salemtigers.com/sports/womens-basketball/roster/kendra-stanford/3481,2021-22
 19117,Salem (WV),3482,Jenna Wagoner,Freshman,"Williamson, WV",,,,N/A,12,https://www.salemtigers.com/sports/womens-basketball/roster/jenna-wagoner/3482,2021-22
 19117,Salem (WV),3490,Nerea Arambarri Fernandez,Senior,"Vigo, Spain",,,,N/A,14,https://www.salemtigers.com/sports/womens-basketball/roster/nerea-arambarri-fernandez/3490,2021-22
 19117,Salem (WV),3484,Brianna Rinehart,Freshman,"Mannington, WV",,,,N/A,20,https://www.salemtigers.com/sports/womens-basketball/roster/brianna-rinehart/3484,2021-22
@@ -5633,7 +5633,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 19117,Salem (WV),3486,Vantane Garrett,Junior,"Detroit, MI",,,,N/A,24,https://www.salemtigers.com/sports/womens-basketball/roster/vantane-garrett/3486,2021-22
 19117,Salem (WV),3492,Teyarra Johnson,Sophomore,"Dayton, OH",,,,N/A,30,https://www.salemtigers.com/sports/womens-basketball/roster/teyarra-johnson/3492,2021-22
 19117,Salem (WV),3487,Liliani Krause,Freshman,"Colorado Springs, Colorado",,,,N/A,32,https://www.salemtigers.com/sports/womens-basketball/roster/liliani-krause/3487,2021-22
-19117,Salem (WV),3483,Ixsamar Gonzalez,Sophomore,,,,,N/A,33,https://www.salemtigers.com/sports/womens-basketball/roster/ixsamar-gonzalez/3483,2021-22
+19117,Salem (WV),3483,Ixsamar Gonzalez,Sophomore,"Caguas, Puerto Rico",Woodrow Wilson HS (Tex.),Florida Memorial,6-1,Forward,33,https://www.salemtigers.com/sports/womens-basketball/roster/ixsamar-gonzalez/3483,2021-22
 19117,Salem (WV),3488,Aleena Mongerie,Freshman,"Munster, IN",,,,N/A,35,https://www.salemtigers.com/sports/womens-basketball/roster/aleena-mongerie/3488,2021-22
 192,Dubuque,1738,Christi Kinsch,Freshman,"Chicago, Ill.",Resurrection,,"5'3""",Guard,2,https://www.udspartans.com/sports/womens-basketball/roster/christi-kinsch/1738,2021-22
 192,Dubuque,1739,Isabella Tierney,Freshman,"Elk Grove, Ill.",Conant,,"5'10""",Guard,3,https://www.udspartans.com/sports/womens-basketball/roster/isabella-tierney/1739,2021-22
