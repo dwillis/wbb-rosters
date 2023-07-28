@@ -11885,3 +11885,582 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 542,Pfeiffer,3026,Nasya Evans,Freshman,"Salisbury, N.C.",Salisbury,,"5'6""",F,34,https://www.gofalconsports.com/sports/womens-basketball/roster/nasya-evans/3026,2020-21
 542,Pfeiffer,3030,Rachel Larsen,Sophomore,"Lugoff, S.C.",Lugoff-Elgin,,"5'10""",F,42,https://www.gofalconsports.com/sports/womens-basketball/roster/rachel-larsen/3030,2020-21
 542,Pfeiffer,3036,Angel Roland,Sophomore,"Monroe, N.C.",Monroe,,"6'2""",F,44,https://www.gofalconsports.com/sports/womens-basketball/roster/angel-roland/3036,2020-21
+5,Akron,,Kendall Miller,Jr.,"Akron, Ohio",St. Vincent-St. Mary,,5' 9'',G,1,https://gozips.com/sports/womens-basketball/roster/kendall-miller/6813,2020-21
+5,Akron,,Alanna Carter,Fr.,"Mason, Ohio",Mason,,5' 9'',G,2,https://gozips.com/sports/womens-basketball/roster/alanna-carter/6819,2020-21
+5,Akron,,Emma Tecca,R-Fr.,"Tallmadge, Ohio",Archbishop Hoban,,5' 10'',G,3,https://gozips.com/sports/womens-basketball/roster/emma%20-tecca/6816,2020-21
+5,Akron,,Alexis Stewart,Fr.,"Hamilton, Ontario",St. Thomas More,,5' 10'',G,10,https://gozips.com/sports/womens-basketball/roster/alexis%20-stewart/6822,2020-21
+5,Akron,,Sabhbh Edwards Murphy,Fr.,"County Clare, Ireland",Kilrush Community School,,6' 2'',F,11,https://gozips.com/sports/womens-basketball/roster/sabhbh%20-edwards%20murphy/6820,2020-21
+5,Akron,,Lonasia Brewer,So.,"Akron, Ohio",Archbishop Hoban,,5' 11'',F,13,https://gozips.com/sports/womens-basketball/roster/lonasia%20-brewer/6808,2020-21
+5,Akron,,Rachel Martindale,So.,"Pittsburgh, Pa.",North Allegheny Senior High,,5' 8'',G,14,https://gozips.com/sports/womens-basketball/roster/rachel%20-martindale/6812,2020-21
+5,Akron,,Gabrielle Brown-Mitchell,Jr.,"Solon, Ohio",Solon,,5' 7'',G,20,https://gozips.com/sports/womens-basketball/roster/gabrielle%20-brown-mitchell/6809,2020-21
+5,Akron,,Molly Neitzel,So.,"Rocky River, Ohio",St. Joseph Academy,,6' 0'',G,21,https://gozips.com/sports/womens-basketball/roster/molly-neitzel/6815,2020-21
+5,Akron,,Kate Garry,Fr.,"Loveland, Ohio",Loveland,,5' 10'',G,24,https://gozips.com/sports/womens-basketball/roster/kate-garry/6821,2020-21
+5,Akron,,Jordyn Dawson,Sr.,"Huntington, W Va.",Huntington,,5' 11'',F,25,https://gozips.com/sports/womens-basketball/roster/jordyn-dawson/6810,2020-21
+5,Akron,,Layne Ferrell,R-Fr.,"Franklin, Ohio",Franklin,,6' 2'',G,30,https://gozips.com/sports/womens-basketball/roster/layne-ferrell/6811,2020-21
+5,Akron,,Colleen Neitzel,Jr.,"Rocky River, Ohio",St. Joseph Academy,,6' 1'',F,33,https://gozips.com/sports/womens-basketball/roster/colleen%20-neitzel/6814,2020-21
+9,UAB,,Margaret Whitley,Jr.,"Geneva, Ill.",Geneva,,5' 8'',Guard,1,https://uabsports.com/sports/womens-basketball/roster/margaret-whitley/8206,2020-21
+9,UAB,,Sam Mitchell,So.,"Downers Grove, Ill.",Montini Catholic,,5' 6'',Guard,2,https://uabsports.com/sports/womens-basketball/roster/sam-mitchell/8202,2020-21
+9,UAB,,Caitlynn Daniels,Fr.,"Cedar Rapids, Iowa",Xavier HS,,5' 7'',Guard,4,https://uabsports.com/sports/womens-basketball/roster/caitlynn-daniels/8207,2020-21
+9,UAB,,Sara Rosenfeldt,Jr.,"St. Charles, Ill.",St. Charles East,,6' 0'',Forward,10,https://uabsports.com/sports/womens-basketball/roster/sara-rosenfeldt/8203,2020-21
+9,UAB,,Emily Klaczek,Fr.,"Hoffman Estates, Ill.",William Fremd,,5' 10'',Guard,11,https://uabsports.com/sports/womens-basketball/roster/emily-klaczek/8209,2020-21
+9,UAB,,LaMiracle Sims,Jr.,"Moss Point, Miss.",Moss Point HS,Jones College,6' 1'',Forward,12,https://uabsports.com/sports/womens-basketball/roster/lamiracle-sims/8210,2020-21
+9,UAB,,Claudia Armato,Jr.,"Melbourne, Australia",Penleigh and Essedon Grammar,Southern Utah,5' 5'',Guard,13,https://uabsports.com/sports/womens-basketball/roster/claudia-armato/8213,2020-21
+9,UAB,,Lindsey Dullard,Fr.,"Morton, Ill.",Morton,,6' 0'',Guard,15,https://uabsports.com/sports/womens-basketball/roster/lindsey-dullard/8208,2020-21
+9,UAB,,Maddie Walsh,Fr.,"Hartland, Wisc.",Arrowhead Union,,6' 2'',Forward,21,https://uabsports.com/sports/womens-basketball/roster/maddie-walsh/8211,2020-21
+9,UAB,,Summer Schloss,R-Fr.,"Gastonia, N.C.",Ashbrook HS,,6' 1'',Forward,22,https://uabsports.com/sports/womens-basketball/roster/summer-schloss/8204,2020-21
+9,UAB,,Audrey Jordan,R-So.,"Atlanta, Ga.",Harrison,,5' 10'',Guard,24,https://uabsports.com/sports/womens-basketball/roster/audrey-jordan/8201,2020-21
+9,UAB,,Jasmine Gracie,So.,"Huntsville, Ala.",Madison Academy,,6' 0'',Forward,25,https://uabsports.com/sports/womens-basketball/roster/jasmine-gracie/8200,2020-21
+9,UAB,,Kylee Schneringer,Fr.,"Normal, Ill.",Normal Community,,5' 11'',Guard/Forward,32,https://uabsports.com/sports/womens-basketball/roster/kylee-schneringer/8212,2020-21
+9,UAB,,Zakyia Weathersby,Sr.,"Collins, Miss.",Collins,Jones College,6' 2'',Center,55,https://uabsports.com/sports/womens-basketball/roster/zakyia-weathersby/8205,2020-21
+22,American International,,Kirsten Dieni,FR,"East Longmeadow, Mass.",East Longmeadow,,5-5,Guard,14,https://aicyellowjackets.com/sports/wbkb/2020-21/bios/Kirsten_Dieni,2020-21
+22,American International,,Nora Young,FR,"Granby, Mass.",Granby,,6-0,Forward,22,https://aicyellowjackets.com/sports/wbkb/2020-21/bios/Nora_Young,2020-21
+22,American International,,Kayleigh Lyons,FR,"Putnam, Conn.",Putham,,5-5,Guard,23,https://aicyellowjackets.com/sports/wbkb/2020-21/bios/Kayleigh_Lyons,2020-21
+22,American International,,Charee Osborne,SR,"New London, Conn.",New London,,5-10,Forward,32,https://aicyellowjackets.com/sports/wbkb/2020-21/bios/Charee_Osborne,2020-21
+36,Assumption,,Anna Davis,Fr.,"Ipswich, Mass.",Proctor Academy,,5-11,F,0,https://assumptiongreyhounds.com/sports/womens-basketball/roster/anna-davis/4482,2020-21
+36,Assumption,,Ja'Lyn Armstrong,Jr.,"Baltimore, Md.",Institute of Notre Dame,,5-7,G,2,https://assumptiongreyhounds.com/sports/womens-basketball/roster/ja-lyn-armstrong/4480,2020-21
+36,Assumption,,Emme Poulin,Jr.,"South Portland, Maine",Cheverus High School,,5-6,G,3,https://assumptiongreyhounds.com/sports/womens-basketball/roster/emme-poulin/4488,2020-21
+36,Assumption,,Meghan Reen,Sr.,"Norwood, Mass.",Norwood,,5-5,PG,4,https://assumptiongreyhounds.com/sports/womens-basketball/roster/meghan-reen/4489,2020-21
+36,Assumption,,Addie Masonius,Sr.,"Spring Lake, N.J.",Manasquan,,5-7,G,5,https://assumptiongreyhounds.com/sports/womens-basketball/roster/addie-masonius/4486,2020-21
+36,Assumption,,Amanda Mieczkowski,Fr.,"Hadley, Mass.",Northampton,,5-7,G,10,https://assumptiongreyhounds.com/sports/womens-basketball/roster/amanda-mieczkowski/4487,2020-21
+36,Assumption,,Meghan Cramb,Sr.,"New Boston, N.H.",Bishop Guertin,,5-9,G,12,https://assumptiongreyhounds.com/sports/womens-basketball/roster/meghan-cramb/4481,2020-21
+36,Assumption,,Laura Roman,Sr.,"Bronx, N.Y.",St. Andrews School,,6-1,F/C,13,https://assumptiongreyhounds.com/sports/womens-basketball/roster/laura-roman/4490,2020-21
+36,Assumption,,Temi Falayi,Sr.,"Peabody, Mass.",St. Mary's,,6-1,F,21,https://assumptiongreyhounds.com/sports/womens-basketball/roster/temi-falayi/4483,2020-21
+36,Assumption,,Lauren Hammersley,Jr.,"Garden City, N.Y",Our Lady of Mercy Academy,,5-7,G,22,https://assumptiongreyhounds.com/sports/womens-basketball/roster/lauren-hammersley/4485,2020-21
+36,Assumption,,Caterina Fonseca,Jr.,"Enfield, Conn.",Enfield High School,,5-8,PG,23,https://assumptiongreyhounds.com/sports/womens-basketball/roster/caterina-fonseca/4484,2020-21
+36,Assumption,,Monica Spain,So.,"Braintree, Mass.",Archbishop Williams,,5-11,F,30,https://assumptiongreyhounds.com/sports/womens-basketball/roster/caterina-fonseca/4484,2020-21
+36,Assumption,,Anna Shaughnessy,Jr.,"Attleboro Falls, Mass.",Bishop Feehan,,5-10,F,33,https://assumptiongreyhounds.com/sports/womens-basketball/roster/anna-shaughnessy/4491,2020-21
+36,Assumption,,Molly Stokes,Fr.,"Worcester, Mass.",Worcester Academy,,5-10,G,44,https://assumptiongreyhounds.com/sports/womens-basketball/roster/molly-stokes/4493,2020-21
+51,Baylor,,NaLyssa Smith,Jr.,"Converse, Texas",East Central HS,,"6' 2""",F,1,https://baylorbears.com/sports/womens-basketball/roster/nalyssa-smith/10009,2020-21
+51,Baylor,,DiDi Richards,Sr.,"Cypress, Texas",Cypress Ranch HS,,"6' 2""",G,2,https://baylorbears.com/sports/womens-basketball/roster/didi-richards/10008,2020-21
+51,Baylor,,Trinity Oliver,R-Jr.,"Euless, Texas",Trinity HS,,"5' 9""",G,3,https://baylorbears.com/sports/womens-basketball/roster/trinity-oliver/10007,2020-21
+51,Baylor,,Jaden Owens,So.,"Plano, Texas",Plano West HS,UCLA,"5' 8""",G,10,https://baylorbears.com/sports/womens-basketball/roster/jaden-owens/10013,2020-21
+51,Baylor,,Jordyn Oliver,So.,"Prosper, Texas",Prosper High School,,"5' 10""",G,11,https://baylorbears.com/sports/womens-basketball/roster/jordyn-oliver/10006,2020-21
+51,Baylor,,Moon Ursin,Sr.,"Destrehan, La.",Destrehan HS,,"5' 6""",G,12,https://baylorbears.com/sports/womens-basketball/roster/moon-ursin/10010,2020-21
+51,Baylor,,Hannah Gusters,Fr.,"Dallas, Texas",MacArthur HS,,"6' 5""",C,20,https://baylorbears.com/sports/womens-basketball/roster/hannah-gusters/10015,2020-21
+51,Baylor,,DiJonai Carrington,Sr.,"San Diego, Calif.",Horizon Christian,Stanford,"5' 11""",G,21,https://baylorbears.com/sports/womens-basketball/roster/dijonai-carrington/10073,2020-21
+51,Baylor,,Kamaria McDaniel,Sr.,"Inkster, Mich.",Dearborn Heights Robichaud,Penn State,"5' 10""",G,22,https://baylorbears.com/sports/womens-basketball/roster/kamaria-mcdaniel/10266,2020-21
+51,Baylor,,Sarah Andrews,Fr.,"Irving, Texas",MacArthur HS,,"5' 6""",G,24,https://baylorbears.com/sports/womens-basketball/roster/sarah-andrews/10014,2020-21
+51,Baylor,,Queen Egbo,Jr.,"Houston, Texas",Travis HS,,"6' 3""",C,25,https://baylorbears.com/sports/womens-basketball/roster/queen-egbo/10005,2020-21
+51,Baylor,,Chrislyn Carr,Jr.,"Davenport, Iowa",Rock Island HS (Ill.),Texas Tech,"5' 5""",G,32,https://baylorbears.com/sports/womens-basketball/roster/chrislyn-carr/10552,2020-21
+51,Baylor,,Caitlin Bickle,Jr.,"Cave Creek, Ariz.",Cactus Shadows HS,,"6' 0""",F,51,https://baylorbears.com/sports/womens-basketball/roster/caitlin-bickle/10004,2020-21
+54,Bemidji St.,,Amme Sheforgen,Fr.,"St. Francis, Minn.",Cambridge-Isanti HS,,5-8,G/F,1,https://bsubeavers.com/sports/womens-basketball/roster/amme-sheforgen/12619,2020-21
+54,Bemidji St.,,Jana Swanson,So.,"Isanti, Minn.",Cambridge-Isanti HS,,6-0,F,2,https://bsubeavers.com/sports/womens-basketball/roster/jana-swanson/12730,2020-21
+54,Bemidji St.,,Lily Weimann,Fr.,"Anchorage, Alaska",South HS,,5-8,G,3,https://bsubeavers.com/sports/womens-basketball/roster/lily-weimann/12620,2020-21
+54,Bemidji St.,,Coley Rezabek,Jr.,"Sunrise Beach, Mo.",Camdenton HS,,5-10,F,4,https://bsubeavers.com/sports/womens-basketball/roster/coley-rezabek/12618,2020-21
+54,Bemidji St.,,Teagan Pompa,Sr.,"Elgin, Ill.",South Elgin HS,Northeast CC,5-8,G,5,https://bsubeavers.com/sports/womens-basketball/roster/teagan-pompa/12733,2020-21
+54,Bemidji St.,,Molly Wenner,Jr.,"Cottage Grove, Minn.",Park HS,,5-6,G,10,https://bsubeavers.com/sports/womens-basketball/roster/molly-wenner/12729,2020-21
+54,Bemidji St.,,Isabel Majewski,So.,"Pulaski, Wis.",Pulaski HS,,5-9,G,11,https://bsubeavers.com/sports/womens-basketball/roster/isabel-majewski/13243,2020-21
+54,Bemidji St.,,Brooklyn Bachmann,Sr.,"Minooka, Ill.",Minooka Community HS,,5-9,G,12,https://bsubeavers.com/sports/womens-basketball/roster/brooklyn-bachmann/12611,2020-21
+54,Bemidji St.,,Tori Bott,So.,"Two Harbors, Minn.",Two Harbors HS,,6-1,F,13,https://bsubeavers.com/sports/womens-basketball/roster/tori-bott/13288,2020-21
+54,Bemidji St.,,Trinity Yoder,Jr.,"Hayward, Wis.",Hayward HS,,5-9,G,14,https://bsubeavers.com/sports/womens-basketball/roster/trinity-yoder/12732,2020-21
+54,Bemidji St.,,Sydney Zerr,Sr.,"Shakopee, Minn.",Shakopee HS,,5-6,G,20,https://bsubeavers.com/sports/womens-basketball/roster/sydney-zerr/12621,2020-21
+54,Bemidji St.,,Sam Pogatchnik,Fr.,"Proctor, Minn.",Proctor HS,,5-9,G,22,https://bsubeavers.com/sports/womens-basketball/roster/sam-pogatchnik/13249,2020-21
+54,Bemidji St.,,Gabby Dubois,Sr.,"West Fargo, N.D.",West Fargo HS,,5-10,F,23,https://bsubeavers.com/sports/womens-basketball/roster/gabby-dubois/12614,2020-21
+54,Bemidji St.,,Claire Wolhowe,Jr.,"Staples, Minn.",Staples-Motley HS,,6-0,F,24,https://bsubeavers.com/sports/womens-basketball/roster/claire-wolhowe/12734,2020-21
+54,Bemidji St.,,Rachael Heittola,So.,"Belleville, Wis.",Belleville HS,,6-2,F/C,32,https://bsubeavers.com/sports/womens-basketball/roster/rachael-heittola/12616,2020-21
+54,Bemidji St.,,Taylor Vold,So.,"Hermantown, Minn.",Hermantown HS,,6-0,F,33,https://bsubeavers.com/sports/womens-basketball/roster/taylor-vold/12731,2020-21
+54,Bemidji St.,,Rumer Flatness,So.,"Bemidji, Minn.",Bemidji HS,,5-8,G,34,https://bsubeavers.com/sports/womens-basketball/roster/rumer-flatness/13239,2020-21
+54,Bemidji St.,,Taylor Bray,Sr.,"Anoka, Minn.",Anoka HS,,6-1,C,42,https://bsubeavers.com/sports/womens-basketball/roster/taylor-bray/12613,2020-21
+54,Bemidji St.,,Jenna Anderson,R-Fr.,"Rice, Minn.",Royalton HS,,6-4,C,55,https://bsubeavers.com/sports/womens-basketball/roster/jenna-anderson/12610,2020-21
+66,Boise State,,Kimora Sykes,R-Fr.,"Rancho Cucamonga, Calif.",Etiwanda HS,,6' 0'',F,4,https://broncosports.com/sports/womens-basketball/roster/kimora-sykes/7564,2020-21
+66,Boise State,,Chinma Njoku,R-Fr.,"Pocatello, Idaho",Century HS,,6' 2'',F,10,https://broncosports.com/sports/womens-basketball/roster/chinma-njoku/7562,2020-21
+66,Boise State,,Mary Kay Naro,Fr.,"Beaverton, Ore.",Beaverton HS,,5' 11'',G,12,https://broncosports.com/sports/womens-basketball/roster/mary%20kay-naro/7565,2020-21
+66,Boise State,,Anna Ostlie,Fr.,"Scottsdale, Ariz.",Chaparral HS,,5' 8'',G,14,https://broncosports.com/sports/womens-basketball/roster/anna-ostlie/7566,2020-21
+66,Boise State,,Cristina Gil,Fr.,"Barcelona, Spain",Femeni Sant Andria,,5' 8'',G,15,https://broncosports.com/sports/womens-basketball/roster/cristina-gil/7567,2020-21
+66,Boise State,,Martina Machalova,Fr.,"Kosice, Slovakia",Young Angels Kosice,,5' 8'',G,21,https://broncosports.com/sports/womens-basketball/roster/martina-machalova/7572,2020-21
+66,Boise State,,Raigan Reed,Fr.,"Lake Stevens, Wash.",Lake Stevens HS,,5' 7'',G,22,https://broncosports.com/sports/womens-basketball/roster/raigan-reed/7568,2020-21
+66,Boise State,,Rachel Bowers,Jr.,"Newhall, Calif.",Canyon HS,,6' 3'',F,25,https://broncosports.com/sports/womens-basketball/roster/rachel-bowers/7559,2020-21
+66,Boise State,,Jade Loville,Jr.,"Sammamish, Wash.",Skyline HS,,5' 10'',G,30,https://broncosports.com/sports/womens-basketball/roster/jade-loville/7560,2020-21
+66,Boise State,,Elodie Lalotte,Fr.,"Paris, France","Orangewood Academy (Garden Grove, Calif.)",,6' 3'',F,31,https://broncosports.com/sports/womens-basketball/roster/elodie-lalotte/7569,2020-21
+66,Boise State,,Abby Muse,Fr.,"Brentwood, Calif.",Heritage HS,,6' 2'',F,33,https://broncosports.com/sports/womens-basketball/roster/abby-muse/7570,2020-21
+66,Boise State,,Alexis Mark,Fr.,"Chatsworth, Calif.",Sierra Canyon HS,,6' 0'',F,35,https://broncosports.com/sports/womens-basketball/roster/alexis-mark/7571,2020-21
+66,Boise State,,Mallory McGwire,R-Sr.,"Reno, Nev.",Reno HS,Oregon,6' 5'',C,44,https://broncosports.com/sports/womens-basketball/roster/mallory-mcgwire/7561,2020-21
+72,Bradley,,Chloe Rice,Jr.,"Marion, Iowa",Marion,,"5' 10""",G,0,https://bradleybraves.com/sports/womens-basketball/roster/chloe-rice/12406,2020-21
+72,Bradley,,Tete Danso,Fr.,"Inver Grove Heights, Minn.",Simley,,"5' 11""",F,1,https://bradleybraves.com/sports/womens-basketball/roster/tete-danso/12407,2020-21
+72,Bradley,,Gabi Haack,Sr.,"Elk River, Minn.",Elk River,,"5' 10""",G,3,https://bradleybraves.com/sports/womens-basketball/roster/gabi-haack/12396,2020-21
+72,Bradley,,Aannah Interrante,Jr.,"Johnsburg, Ill.",McHenry,,"5' 9""",G,4,https://bradleybraves.com/sports/womens-basketball/roster/aannah-interrante/12397,2020-21
+72,Bradley,,Uche Ufochukwu,5th,"Benin City, Nigeria",Archbishop Carroll H.S. [Washington D.C.],,"6' 4""",C,5,https://bradleybraves.com/sports/womens-basketball/roster/uche-ufochukwu/12408,2020-21
+72,Bradley,,Mahri Petree,So.,"Detroit, Mich.",Arbor Prep,,"5' 11""",G,10,https://bradleybraves.com/sports/womens-basketball/roster/mahri-petree/12401,2020-21
+72,Bradley,,Lasha Petree,Jr.,"Detroit, Mich.",Arbor Prep,,"6' 0""",G,11,https://bradleybraves.com/sports/womens-basketball/roster/lasha-petree/12400,2020-21
+72,Bradley,,Tatum Koenig,Jr.,"West Branch, Iowa",West Branch,,"5' 7""",G,13,https://bradleybraves.com/sports/womens-basketball/roster/tatum-koenig/12398,2020-21
+72,Bradley,,Jalene Woolford,Rs.,"Pontiac, Ill.",St. Mary's Grade School,,"5' 0""",F,13,https://bradleybraves.com/sports/womens-basketball/roster/jalene-woolford/12405,2020-21
+72,Bradley,,Isis Fitch,Fr.,"Homewood, Ill.",Homewood-Flossmoor,,"6' 1""",F,24,https://bradleybraves.com/sports/womens-basketball/roster/isis-fitch/12410,2020-21
+72,Bradley,,Emily Marsh,Sr.,"Superior Township, Mich.",Huron,,"6' 0""",F,30,https://bradleybraves.com/sports/womens-basketball/roster/emily-marsh/12399,2020-21
+72,Bradley,,Veronika Roberts,So.,"Brownsburg, Ind.",Brownsburg,,"6' 2""",F,33,https://bradleybraves.com/sports/womens-basketball/roster/veronika-roberts/12402,2020-21
+72,Bradley,,Nyjah White,Sr.,"Columbia, Mo.",Hickman,,"5' 11""",F,45,https://bradleybraves.com/sports/womens-basketball/roster/nyjah-white/12404,2020-21
+75,Bridgewater (VA),,Makayla Johnson,Jr.,"Williamsburg, Va.",Bruton,,5-10,Forward,3,https://bridgewatereagles.com/sports/womens-basketball/roster/makayla-johnson/5366,2020-21
+75,Bridgewater (VA),,Diamond Huskey,Jr.,"Gastonia, N.C.",Hunter Huss,,5-8,Forward,4,https://bridgewatereagles.com/sports/womens-basketball/roster/diamond-huskey/5365,2020-21
+75,Bridgewater (VA),,Taylor Stafford,Jr.,"Frederick, Md.",St. John's Catholic,,5-9,Guard,5,https://bridgewatereagles.com/sports/womens-basketball/roster/taylor-stafford/5372,2020-21
+75,Bridgewater (VA),,Julia Williams,Fr.,Joppa. Md.,The John Carroll School,,5-9,Guard,10,https://bridgewatereagles.com/sports/womens-basketball/roster/julia-williams/5373,2020-21
+75,Bridgewater (VA),,Madison Baum,Sr.,"Chester, Va.",Lloyd C. Bird,,5-2,Guard,12,https://bridgewatereagles.com/sports/womens-basketball/roster/madison-baum/5356,2020-21
+75,Bridgewater (VA),,Nina-Simone Clark,Fr.,"Indian Trail, N.C.",Providence Day School,,5-5,Guard,13,https://bridgewatereagles.com/sports/womens-basketball/roster/nina-simone-clark/5357,2020-21
+75,Bridgewater (VA),,Erika Nettles,Jr.,"Pittsboro, N.C.",Northwood,,5-10,Forward,14,https://bridgewatereagles.com/sports/womens-basketball/roster/erika-nettles/5369,2020-21
+75,Bridgewater (VA),,Abby Freeman,Fr.,"Glen Allen, Va.",Collegiate School,,5-9,Guard,20,https://bridgewatereagles.com/sports/womens-basketball/roster/abby-freeman/5361,2020-21
+75,Bridgewater (VA),,Melanie Pick,Fr.,"Middletown, Md.",Middletown,,5-10,Guard,21,https://bridgewatereagles.com/sports/womens-basketball/roster/melanie-pick/5370,2020-21
+75,Bridgewater (VA),,Jaden Alsberry,Fr.,"Strasburg, Va.",Strasburg,,6-3,Forward,23,https://bridgewatereagles.com/sports/womens-basketball/roster/jaden-alsberry/5355,2020-21
+75,Bridgewater (VA),,Mary Ruth Shifflett,So.,"Grottoes, Va.",Spotswood,,5-6,Guard,24,https://bridgewatereagles.com/sports/womens-basketball/roster/mary-ruth-shifflett/5371,2020-21
+75,Bridgewater (VA),,Cara Helbert,So.,"Bassett, Va.",Bassett,,6-2,Center,30,https://bridgewatereagles.com/sports/womens-basketball/roster/cara-helbert/5364,2020-21
+75,Bridgewater (VA),,Erin Dietz,Jr.,"Hopewell Junction, N.Y.",John Jay - East Fishkill,,5-6,Guard,31,https://bridgewatereagles.com/sports/womens-basketball/roster/erin-dietz/5360,2020-21
+75,Bridgewater (VA),,Katie Gaeth,Fr.,"Midlothian, Va.",Midlothian,,5-8,Guard,32,https://bridgewatereagles.com/sports/womens-basketball/roster/katie-gaeth/5362,2020-21
+75,Bridgewater (VA),,Jada Gross,Fr.,"Baltimore, Md.",Poly,,5-9,Guard,33,https://bridgewatereagles.com/sports/womens-basketball/roster/jada-gross/5363,2020-21
+75,Bridgewater (VA),,Ahlia Moone,Sr.,"Gainesville, Va.",Battlefield,,5-4,Guard,35,https://bridgewatereagles.com/sports/womens-basketball/roster/ahlia-moone/5368,2020-21
+89,Caltech,,Charley Lafayette,So.,"Toronto, Ontario, Can.",Branksome Hall,,6-0,F,1,https://gocaltech.com/sports/womens-basketball/roster/charley-lafayette/3066,2020-21
+89,Caltech,,Sahana Saikumar,So.,"Arcadia, Calif.",Arcadia,,5-10,F,10,https://gocaltech.com/sports/womens-basketball/roster/sahana-saikumar/3071,2020-21
+89,Caltech,,Helen Siavelis,So.,"Arlington Heights, Ill.",Prospect,,5-3,G,12,https://gocaltech.com/sports/womens-basketball/roster/helen-siavelis/3073,2020-21
+89,Caltech,,Faith Pinney,So.,"Spokane, Wash.",Gonzaga Preparatory School,,5-6,G,15,https://gocaltech.com/sports/womens-basketball/roster/faith-pinney/3069,2020-21
+89,Caltech,,Elaine Lin,Jr.,"Brea, Calif.",Troy,,5-5,G,23,https://gocaltech.com/sports/womens-basketball/roster/elaine-lin/3067,2020-21
+89,Caltech,,Lauren Suezaki,Sr.,"San Ramon, Calif.",California,,5-7,G/F,33,https://gocaltech.com/sports/womens-basketball/roster/lauren-suezaki/3074,2020-21
+89,Caltech,,Hope Arnett,Fr.,"Torrance, Calif.",Chadwick School,,,,,https://gocaltech.com/sports/womens-basketball/roster/hope-arnett/3065,2020-21
+89,Caltech,,Claire Perhach,Fr.,"Carlsbad, Calif.",Sage Creek,,,,,https://gocaltech.com/sports/womens-basketball/roster/claire-perhach/3068,2020-21
+89,Caltech,,Milan Robinson,Fr.,"Anaheim, Calif.",Fairmont Prep,,,,,https://gocaltech.com/sports/womens-basketball/roster/milan-robinson/3070,2020-21
+89,Caltech,,Megan Santhumayor,Fr.,"Piscataway, N.J.",Piscataway,,,,,https://gocaltech.com/sports/womens-basketball/roster/megan-santhumayor/3072,2020-21
+89,Caltech,,Lasyasree Tenneti,Fr.,,West Windsor-Plainsboro South,,,,,https://gocaltech.com/sports/womens-basketball/roster/lasyasree-tenneti/3075,2020-21
+89,Caltech,,Claire Zhang,Fr.,"Medford, N.J.",Lenape,,,,,https://gocaltech.com/sports/womens-basketball/roster/claire-zhang/3076,2020-21
+96,Fresno State,,Keely Brown,Fr.,"Locust Grove, Ga.",Luella HS,,5' 10'',G,2,https://gobulldogs.com/sports/womens-basketball/roster/keely-brown/10008,2020-21
+96,Fresno State,,Hanna Cavinder,So.,"Gilbert, Ariz.",Gilbert HS,,5' 6'',G,0,https://gobulldogs.com/sports/womens-basketball/roster/hanna-cavinder/9995,2020-21
+96,Fresno State,,Haley Cavinder,So.,"Gilbert, Ariz.",Gilbert HS,,5' 6'',G,1,https://gobulldogs.com/sports/womens-basketball/roster/haley-cavinder/9994,2020-21
+96,Fresno State,,Bree Delaney,Sr.,"Sydney, Australia",Monte Sant' Angelo Mercy College,,5' 10'',G,20,https://gobulldogs.com/sports/womens-basketball/roster/bree-delaney/9996,2020-21
+96,Fresno State,,Daylee Dunn,Fr.,"San Ramon, Calif.",Salesian Prep,,5' 10'',G,5,https://gobulldogs.com/sports/womens-basketball/roster/daylee-dunn/10007,2020-21
+96,Fresno State,,Charisse Fairley,Jr.,"Colorado Springs, Colo.",Widefield HS,Otero Junior College,5' 11'',F,23,https://gobulldogs.com/sports/womens-basketball/roster/charisse-fairley/10004,2020-21
+96,Fresno State,,Aly Gamez,Sr.,"Irving, Texas",MacArthur HS,,5' 6'',G,22,https://gobulldogs.com/sports/womens-basketball/roster/aly-gamez/9997,2020-21
+96,Fresno State,,Maria Guimaraes,Jr.,"Minas Gerais, Brazil ",,Odessa College,6' 2'',C,42,https://gobulldogs.com/sports/womens-basketball/roster/maria-guimaraes/10005,2020-21
+96,Fresno State,,Aunjona James,R-Fr.,"Fresno, Calif.",San Joaquin Memorial HS,,5' 11'',F,10,https://gobulldogs.com/sports/womens-basketball/roster/aunjona%20-james/9998,2020-21
+96,Fresno State,,Kendyll Kinzer,So.,"Lewiston, Idaho",Lewiston HS,,6' 1'',F,3,https://gobulldogs.com/sports/womens-basketball/roster/kendyll-kinzer/9999,2020-21
+96,Fresno State,,Wytalla Motta,Sr.,"São Paulo, Brazil ",,Odessa College,6' 0'',F,24,https://gobulldogs.com/sports/womens-basketball/roster/wytalla-motta/10000,2020-21
+96,Fresno State,,Genna Ogier,Sr.,"Melbourne, Australia",Yarra Valley Grammar,,6' 1'',F,12,https://gobulldogs.com/sports/womens-basketball/roster/genna-ogier/10001,2020-21
+96,Fresno State,,Yanina Todorova,Jr.,"Teliko Tarnovo, Bulgaria ",,Odessa College,5' 10'',G,30,https://gobulldogs.com/sports/womens-basketball/roster/yanina-todorova/10006,2020-21
+96,Fresno State,,Maddi Utti,Sr.,"Seaside, Ore.",Seaside HS,,5' 11'',F,11,https://gobulldogs.com/sports/womens-basketball/roster/maddi-utti/10002,2020-21
+96,Fresno State,,Brooke Walling,So.,"Vancouver, Wash.",Prairie HS,,6' 3'',C,15,https://gobulldogs.com/sports/womens-basketball/roster/brooke-walling/10003,2020-21
+102,Sacramento State,,Milee Enger,Jr.,"Herriman, Utah",Herriman HS,,5-7,PG,1,https://hornetsports.com/sports/womens-basketball/roster/milee-enger/3665,2020-21
+102,Sacramento State,,Kennedy Lindsey,Fr.,"Ontario, Calif.",Diamond Ranch HS,,5-9,G,2,https://hornetsports.com/sports/womens-basketball/roster/kennedy-lindsey/3669,2020-21
+102,Sacramento State,,Tiara Scott,Sr.,"Torrance, Calif.",St. Anthony HS,,5-4,G,3,https://hornetsports.com/sports/womens-basketball/roster/tiara-scott/3676,2020-21
+102,Sacramento State,,Jazmin Carrasco,Jr.,"Ventura, Calif.",Ventura HS,,5-4,G,4,https://hornetsports.com/sports/womens-basketball/roster/jazmin-carrasco/3664,2020-21
+102,Sacramento State,,Brooke Panfili,R-Jr.,"Lafayette, Calif.",Acalanes HS,St. Edwards,5-6,G,5,https://hornetsports.com/sports/womens-basketball/roster/brooke-panfili/3673,2020-21
+102,Sacramento State,,Summer Menke,Jr.,"Scottsdale, Ariz.",Chaparral HS,,5-10,G,11,https://hornetsports.com/sports/womens-basketball/roster/summer-menke/3670,2020-21
+102,Sacramento State,,Emily Enochs,Jr.,"Osnabruck, Germany",Gymnasium Carolinum Osnabruck,,5-8,G,12,https://hornetsports.com/sports/womens-basketball/roster/emily-enochs/3666,2020-21
+102,Sacramento State,,Nina Barry,Fr.,"Gilroy, Calif.",Valley Christian HS,,5-6,PG,14,https://hornetsports.com/sports/womens-basketball/roster/nina-barry/3662,2020-21
+102,Sacramento State,,Jessica Rios,Fr.,"Las Cruces, N.M.",Centennial HS,,5-7,G,15,https://hornetsports.com/sports/womens-basketball/roster/jessica-rios/3675,2020-21
+102,Sacramento State,,Jakira Wilson,Sr.,"Del City, Okla.",Del City HS,Allen College,5-7,G,20,https://hornetsports.com/sports/womens-basketball/roster/jakira-wilson/3677,2020-21
+102,Sacramento State,,Kennedy Burks,Sr.,"Grand Prairie, Texas",Lakeridge HS,Florida A&M/Houston Baptist/Tyler College,5-10,G,22,https://hornetsports.com/sports/womens-basketball/roster/kennedy-burks/3663,2020-21
+102,Sacramento State,,Jordan Olivares,So.,"Seaside, Calif.",Seaside HS,,5-8,G,23,https://hornetsports.com/sports/womens-basketball/roster/jordan-olivares/3672,2020-21
+102,Sacramento State,,Tiana Johnson,R-Jr.,"Kalispell, Mont.",Flathead HS,,6-2,G/F,24,https://hornetsports.com/sports/womens-basketball/roster/tiana-johnson/3668,2020-21
+102,Sacramento State,,Tautinei Puaina,Fr.,"San Diego, Calif.",Mira Mesa HS,,6-4,F,25,https://hornetsports.com/sports/womens-basketball/roster/tautinei-puaina/3674,2020-21
+102,Sacramento State,,Milia Gibson,So.,"Richmond, Calif.",Rodriguez HS,,5-9,G,32,https://hornetsports.com/sports/womens-basketball/roster/milia-gibson/3667,2020-21
+102,Sacramento State,,Sarah Abney,R-So.,"Las Cruces, N.M.",Las Cruces H.S.,,5-8,G,33,https://hornetsports.com/sports/womens-basketball/roster/sarah-abney/3661,2020-21
+102,Sacramento State,,Neysa Munguia,Fr.,"Avondale, Ariz.",Agua Fria HS,,6-2,C,34,https://hornetsports.com/sports/womens-basketball/roster/neysa-munguia/3671,2020-21
+114,Calvin,,Allie Sherrer,So.,"Williamston, Mich.",Williamston,,5-6,G,3,https://calvinknights.com/sports/womens-basketball/roster/allie-sherrer/2282,2020-21
+114,Calvin,,Stephanie Coors,Jr.,"Evergreen, Co.",Valor Christian,,5-10,W,10,https://calvinknights.com/sports/womens-basketball/roster/stephanie-coors/2274,2020-21
+114,Calvin,,Sydney Cleary,So.,"Middleville, Mich.",South Christian,,5-8,G,12,https://calvinknights.com/sports/womens-basketball/roster/sydney-cleary/2272,2020-21
+114,Calvin,,Jordan Severn,Jr.,"Spokane, Wash.",The Oaks Christian Academy,,5-4,G,13,https://calvinknights.com/sports/womens-basketball/roster/jordan-severn/2281,2020-21
+114,Calvin,,Caitlyn Demaree,Sr.,"St. Louis, Mo.",Principia,,5-9,W,14,https://calvinknights.com/sports/womens-basketball/roster/caitlyn-demaree/2275,2020-21
+114,Calvin,,Abbie Cooley,Jr.,"Castle Rock, Co.",Castle View,,5-7,G,15,https://calvinknights.com/sports/womens-basketball/roster/abbie-cooley/2273,2020-21
+114,Calvin,,Leah Harris,So.,"Frisco, Texas",Lone Star,,5-8,G,20,https://calvinknights.com/sports/womens-basketball/roster/leah-harris/2279,2020-21
+114,Calvin,,Rebecca Boeve,Sr.,"Grandville, Mich.",Covenant Christian,,5-9,F,21,https://calvinknights.com/sports/womens-basketball/roster/rebecca-boeve/2271,2020-21
+114,Calvin,,Kamryn Elgersma,Jr.,"Redlands, Ca.",Arrowhead Chrsitian,,5-11,F,22,https://calvinknights.com/sports/womens-basketball/roster/kamryn-elgersma/2276,2020-21
+114,Calvin,,Sara Nealy,So.,"Highlands Ranch, Colo.",Valor Christian,,5-6,G,23,https://calvinknights.com/sports/womens-basketball/roster/sara-nealy/2280,2020-21
+114,Calvin,,Gabby Timmer,Jr.,"Caledonia, Mich.",South Christian,,6-3,F,24,https://calvinknights.com/sports/womens-basketball/roster/gabby-timmer/2283,2020-21
+114,Calvin,,Riley Farmer,Fr.,"Traverse City, MI",Traverse City Central HS,,5-9,F,32,https://calvinknights.com/sports/womens-basketball/roster/riley-farmer/2277,2020-21
+114,Calvin,,Kelsey Wolterink,Fr.,"Homer Glen, IL",Chicago Christian HS,,6-1,C,40,https://calvinknights.com/sports/womens-basketball/roster/kelsey-wolterink/2284,2020-21
+114,Calvin,,Baylee GalanBrowne,Jr.,"Evergren, Co.",Evergreen,,5-9,G,44,https://calvinknights.com/sports/womens-basketball/roster/baylee-galanbrowne/2278,2020-21
+156,Colorado St.,,Katia Stamatelopoulos,So.,"Adelaide, South Australia",Pulteney Grammar School,,5' 8'',Guard,1,https://csurams.com/sports/womens-basketball/roster/katia-stamatelopoulos/5787,2020-21
+156,Colorado St.,,Tori Williams,R-Jr.,"Boise, Idaho",Centennial HS,Utah,5' 9'',Guard,2,https://csurams.com/sports/womens-basketball/roster/tori-williams/5788,2020-21
+156,Colorado St.,,McKenna Hofschild,So.,"Prior Lake, Minn.",Prior Lake,Seton Hall,5' 5'',Guard,4,https://csurams.com/sports/womens-basketball/roster/mckenna-hofschild/5826,2020-21
+156,Colorado St.,,Ellie Boni,Fr.,"Spokane Valley, Wash.",University High School,,5' 9'',Guard,5,https://csurams.com/sports/womens-basketball/roster/ellie-boni/6060,2020-21
+156,Colorado St.,,Alexis Eberhardt,So.,"Loveland, Colo.",Loveland HS,,5' 7'',Guard,10,https://csurams.com/sports/womens-basketball/roster/alexis-eberhardt/5784,2020-21
+156,Colorado St.,,Petra Farkas,Jr.,"Kecskemet, Hungary",Kecskemet TE,College of Southern Idaho,5' 10'',Guard/Forward,11,https://csurams.com/sports/womens-basketball/roster/petra-farkas/5828,2020-21
+156,Colorado St.,,Jamie Bonnarens,R-Sr.,"Cache, Okla.",Cache HS,Cameron,6' 0'',Guard/Forward,12,https://csurams.com/sports/womens-basketball/roster/jamie-bonnarens/5780,2020-21
+156,Colorado St.,,Cali Clark,Fr.,"Centennial, Colo.",Cherry Creek,,6' 3'',Forward,14,https://csurams.com/sports/womens-basketball/roster/cali-clark/6061,2020-21
+156,Colorado St.,,Lauren Brocke,R-Jr.,"Boise, Idaho",Centennial HS,,6' 3'',Guard/Forward,22,https://csurams.com/sports/womens-basketball/roster/lauren-brocke/5781,2020-21
+156,Colorado St.,,Sydney Mech,R-So.,"Englewood, Colo.",Cherry Creek,Denver,6' 2'',Guard/Forward,24,https://csurams.com/sports/womens-basketball/roster/sydney-mech/5785,2020-21
+156,Colorado St.,,Makayla Hemingway,Fr.,"Aurora, Colo.",Cherokee Trail High School,,5' 11'',Guard/Forward,32,https://csurams.com/sports/womens-basketball/roster/makayla-hemingway/6062,2020-21
+156,Colorado St.,,Bengisu Alper,R-So.,"Istanbul, Turkey",Florya Doga Anataolian - Fenerbahce S.K.,Maine,5' 11'',Guard,33,https://csurams.com/sports/womens-basketball/roster/bengisu-alper/5779,2020-21
+156,Colorado St.,,Liah Davis,R-Sr.,"Colorado Springs, Colo.",Sand Creek HS,,6' 2'',Center,34,https://csurams.com/sports/womens-basketball/roster/liah-davis/5782,2020-21
+156,Colorado St.,,Lore Devos,Sr.,"Kortrijk, Belgium",Stedelijk Lyceum Topsport,,6' 1'',Guard,35,https://csurams.com/sports/womens-basketball/roster/lore-devos/5783,2020-21
+156,Colorado St.,,Karly Murphy,Gr.,"River Falls, Wis.",River Falls HS,Wisconsin-Green Bay,6' 1'',Forward,42,https://csurams.com/sports/womens-basketball/roster/karly-murphy/5827,2020-21
+156,Colorado St.,,María Torres,Fr.,"Madrid, Spain",Ies Ortega y Gasset M86,,6' 1'',Guard/Forward,44,https://csurams.com/sports/womens-basketball/roster/mar%C3%ADa-torres/6059,2020-21
+177,DePauw,,Maddie Howe,So.,"Indianapolis, Ind.",Lawrence North,,6-0,G/F,4,https://depauwtigers.com/sports/womens-basketball/roster/maddie-howe/10554,2020-21
+177,DePauw,,Grace Kinsey,Jr.,"Hawthorn Woods, Ill.",Lake Zurich,,5-10,G,5,https://depauwtigers.com/sports/womens-basketball/roster/grace-kinsey/10557,2020-21
+177,DePauw,,Emma LeMasters,Sr.,"Indianapolis, Ind.",Center Grove,,5-7,G,10,https://depauwtigers.com/sports/womens-basketball/roster/emma-lemasters/10558,2020-21
+177,DePauw,,Imani Graham,Sr.,"Indianapolis, Ind.",Ben Davis,,5-6,G,11,https://depauwtigers.com/sports/womens-basketball/roster/imani-graham/10552,2020-21
+177,DePauw,,Jaida Smith,So.,"Bellwood, Ill.",Immaculate Conception,,5-5,G,13,https://depauwtigers.com/sports/womens-basketball/roster/jaida-smith/10562,2020-21
+177,DePauw,,Mya Shannon,Jr.,"Morris, Ill.",Morris,,5-6,G,14,https://depauwtigers.com/sports/womens-basketball/roster/mya-shannon/10561,2020-21
+177,DePauw,,Ainsley Urbanski,Fr.,"Bloomington, Ind.",Bloomington North,,5-8,G,20,https://depauwtigers.com/sports/womens-basketball/roster/ainsley-urbanski/10565,2020-21
+177,DePauw,,Maura Fitzgerald,So.,"Grayslake, Ill.",Grayslake Central,,5-6,G,21,https://depauwtigers.com/sports/womens-basketball/roster/maura-fitzgerald/10551,2020-21
+177,DePauw,,Star Long,So.,"Florissant, Mo.",Visitation Academy,,5-5,G,22,https://depauwtigers.com/sports/womens-basketball/roster/star-long/10559,2020-21
+177,DePauw,,Hayley Cange,Sr.,"Chicago, Ill.",St. Ignatius College Prep,,5-10,F,23,https://depauwtigers.com/sports/womens-basketball/roster/hayley-cange/10550,2020-21
+177,DePauw,,Sarah Isaf,Fr.,"Paris, Ill.",Paris,,5-10,G,24,https://depauwtigers.com/sports/womens-basketball/roster/sarah-isaf/10555,2020-21
+177,DePauw,,Margaret Buchert,Fr.,"Libertyville, Ill.",Libertyville,,5-7,G,25,https://depauwtigers.com/sports/womens-basketball/roster/margaret-buchert/10549,2020-21
+177,DePauw,,Olivia Grove,So.,"Galion, Ohio",Wynford,,5-10,F,31,https://depauwtigers.com/sports/womens-basketball/roster/olivia-grove/10553,2020-21
+177,DePauw,,Maeve Summerville,Jr.,"Lake Bluff, Ill.",Lake Forest,,6-1,F,32,https://depauwtigers.com/sports/womens-basketball/roster/maeve-summerville/10564,2020-21
+177,DePauw,,Campbell Montgomery,Jr.,"Chicago, Ill.",St. Ignatius College Prep,,6-0,F,33,https://depauwtigers.com/sports/womens-basketball/roster/campbell-montgomery/10560,2020-21
+177,DePauw,,Claire Keefe,Sr.,"Libertyville, Ill.",Libertyville,,6-0,F,34,https://depauwtigers.com/sports/womens-basketball/roster/claire-keefe/10556,2020-21
+177,DePauw,,Lydia Stullken,Fr.,"Fishers, Ind.",Fishers,,6-1,F,35,https://depauwtigers.com/sports/womens-basketball/roster/lydia-stullken/10563,2020-21
+185,Dickinson,,Mia Kolb,So.,"Jenkintown, Pa.",Jenkintown,,5-7,G,3,https://dickinsonathletics.com/sports/womens-basketball/roster/mia-kolb/4140,2020-21
+185,Dickinson,,Halle Maeda,Sr.,"Santa Monica, Calif.",Mira Costa,,5-6,G,4,https://dickinsonathletics.com/sports/womens-basketball/roster/halle-maeda/4142,2020-21
+185,Dickinson,,Tina Semevolos,Sr.,"Glastonbury, Conn.",Glastonbury,,5-6,G,5,https://dickinsonathletics.com/sports/womens-basketball/roster/tina-semevolos/4147,2020-21
+185,Dickinson,,Jennifer Kremp,Jr.,"Jenkintown, Pa.",Jenkintown,,5-7,G,10,https://dickinsonathletics.com/sports/womens-basketball/roster/jennifer-kremp/4141,2020-21
+185,Dickinson,,Claudia Maira,Sr.,"Clinton, N.J.",North Hunterdon,,5-7,G,11,https://dickinsonathletics.com/sports/womens-basketball/roster/claudia-maira/4143,2020-21
+185,Dickinson,,Hannah Peck,Sr.,"Baldwin, N.Y.",Sacred Heart,,5-8,G,12,https://dickinsonathletics.com/sports/womens-basketball/roster/hannah-peck/4146,2020-21
+185,Dickinson,,Gina Neigel,So.,"Berkley Heights, N.J.",Mount St. Mary Academy,,5-9,G/F,15,https://dickinsonathletics.com/sports/womens-basketball/roster/gina-neigel/4145,2020-21
+185,Dickinson,,Ariana Goitz,So.,"Gibsonia, Pa.",Shady Side Academy,,5-6,G,22,https://dickinsonathletics.com/sports/womens-basketball/roster/ariana-goitz/4138,2020-21
+185,Dickinson,,Kate Montgomery,So.,"Scituate, Mass.",Scituate,,6-2,F,23,https://dickinsonathletics.com/sports/womens-basketball/roster/kate-montgomery/4144,2020-21
+185,Dickinson,,Gabby Sevrain,Jr.,"New Tripoli, Pa.",Northwestern,,5-7,G,30,https://dickinsonathletics.com/sports/womens-basketball/roster/gabby-sevrain/4148,2020-21
+185,Dickinson,,Lindsey Hollenshead,Fy.,"Needmore, Pa.",Southern Fulton,,5-11,G,32,https://dickinsonathletics.com/sports/womens-basketball/roster/lindsey-hollenshead/4139,2020-21
+198,East Tennessee State,,Carly Hooks,Fr.,"Atlanta, Ga.",Westlake High School,,"5'8""",G,1,https://www.etsubucs.com/wbasketball/roster/2020-21/10903/carly-hooks/,2020-21
+198,East Tennessee State,,Imani Williams,Fr.,"Kankakee, Ill.",Kankakee High School,,"5'11""",F,2,https://www.etsubucs.com/wbasketball/roster/2020-21/10904/imani-williams/,2020-21
+198,East Tennessee State,,Ashawntae Brown,Jr.,"San Antonio, Tex.",Sam Houston HS,Weatherford College,"6'2""",F,3,https://www.etsubucs.com/wbasketball/roster/2020-21/11101/ashawntae-brown/,2020-21
+198,East Tennessee State,,Abby Carrington,Fr.,"Westlake, Ohio",Westlake High School,,"5'10""",W,5,https://www.etsubucs.com/wbasketball/roster/2020-21/10901/abby-carrington/,2020-21
+198,East Tennessee State,,Courtney Moore,Fr.,"Gainesville, Fla.",PK Yonge Developmental Research School,,"5'7""",G,10,https://www.etsubucs.com/wbasketball/roster/2020-21/10905/courtney-moore/,2020-21
+198,East Tennessee State,,Shynia Jackson,Jr.,"Warner Robins, Ga.",Warner Robins HS,,"6'1""",F,13,https://www.etsubucs.com/wbasketball/roster/2020-21/10896/shynia-jackson/,2020-21
+198,East Tennessee State,,Kaia Upton,Jr.,"Nashville, Tenn.",East Nashville Magnet HS,,"5'6""",G,14,https://www.etsubucs.com/wbasketball/roster/2020-21/10897/kaia-upton/,2020-21
+198,East Tennessee State,,Kelly Post,Gr.,"Fayetteville, N.C.",Village Christian Academy,Campbell/Mount Olive,"5'6""",G,20,https://www.etsubucs.com/wbasketball/roster/2020-21/10894/kelly-post/,2020-21
+198,East Tennessee State,,Amaya Adams,Jr.,"Kansas City, Mo.",Notre Dame de Sion HS,,"5'10""",G,21,https://www.etsubucs.com/wbasketball/roster/2020-21/10898/amaya-adams/,2020-21
+198,East Tennessee State,,Jasmine Sanders,RJr.,"Charlotte, N.C.",Garinger HS,Troy,"6'0""",W,23,https://www.etsubucs.com/wbasketball/roster/2020-21/10893/jasmine-sanders/,2020-21
+198,East Tennessee State,,Jakhyia Davis,Fr.,"Knoxville, Tenn.",Bearden High School,,"6'3""",C,24,https://www.etsubucs.com/wbasketball/roster/2020-21/10902/jakhyia-davis/,2020-21
+198,East Tennessee State,,Mykia Dowdell,RSo.,"Oak Ridge, Tenn.",Oak Ridge HS,MTSU,"5'9""",F,34,https://www.etsubucs.com/wbasketball/roster/2020-21/10899/mykia-dowdell/,2020-21
+198,East Tennessee State,,E'Lease Stafford,Jr.,"Lawrence, Kan.",Lawrence HS,,"6'0""",W,44,https://www.etsubucs.com/wbasketball/roster/2020-21/10900/elease-stafford/,2020-21
+234,Florida State,,Bianca Jackson,R-Jr.,"Montgomery, Ala.",Brewbaker Tech Magnet,,"5' 11""",Guard,0,https://seminoles.com/sports/womens-basketball/roster/bianca-jackson/1826,2020-21
+234,Florida State,,River Baldwin,So.,"Andalusia, Ala.",Pleasant Home HS,,"6' 5""",Center,1,https://seminoles.com/sports/womens-basketball/roster/river-baldwin/1830,2020-21
+234,Florida State,,Sammie Puisis,So.,"Mason, Ohio",William Mason HS,,6' 1'',Guard,2,https://seminoles.com/sports/womens-basketball/roster/sammie-puisis/1832,2020-21
+234,Florida State,,Amaya Brown,Jr.,"Albuquerque, N.M.",Cibola HS,,"5' 11""",Guard,3,https://seminoles.com/sports/womens-basketball/roster/amaya-brown/1834,2020-21
+234,Florida State,,Sayawni Lassiter,R-Jr.,"Dorchester, Mass.",Newton North HS,,"5' 10""",Guard,3,https://seminoles.com/sports/womens-basketball/roster/sayawni-lassiter/1838,2020-21
+234,Florida State,,Sara Bejedi,So.,"Helsinki, Finland",Helsinki Basketball Academy,Arizona State,"5' 7""",Guard,4,https://seminoles.com/sports/womens-basketball/roster/sara-bejedi/1842,2020-21
+234,Florida State,,Kourtney Weber,Jr.,"New Orleans, La.",Ursuline Academy,,"5' 10""",Guard,10,https://seminoles.com/sports/womens-basketball/roster/kourtney-weber/1843,2020-21
+234,Florida State,,Savannah Wilkinson,R-Jr.,"London, England",Barking Abbey,,"6' 0""",Forward,12,https://seminoles.com/sports/womens-basketball/roster/savannah-wilkinson/1845,2020-21
+234,Florida State,,Tiana England,R-Sr.,"Stamford, Conn.",Stamford HS,,"5' 7""",Guard,23,https://seminoles.com/sports/womens-basketball/roster/tiana-england/1851,2020-21
+234,Florida State,,Erin Howard,Jr.,"Madison, Wis.",Madison East HS,,6' 1'',Forward,23,https://seminoles.com/sports/womens-basketball/roster/erin-howard/1847,2020-21
+234,Florida State,,Morgan Jones,Jr.,"Jonesboro, Ga.",Our Lady of Mercy,,"6' 2""",Guard,24,https://seminoles.com/sports/womens-basketball/roster/morgan-jones/1853,2020-21
+234,Florida State,,Valencia Myers,Jr.,"Solon, Ohio",Solon HS,,"6' 3""",Forward,32,https://seminoles.com/sports/womens-basketball/roster/valencia-myers/1857,2020-21
+234,Florida State,,Izabela Nicoletti,R-So.,"Americana, Sao Paulo, Brazil",Neuse Christian Academy,,"5' 10""",Guard,33,https://seminoles.com/sports/womens-basketball/roster/izabela-nicoletti/1860,2020-21
+248,George Mason,,Taylor Jameson,Fr.,"Wichita, Kan.",Wichita Heights,,"5' 6""",G,0,https://gomason.com/sports/womens-basketball/roster/taylor-jameson/5861,2020-21
+248,George Mason,,Jazmyn Doster,So.,"Norfolk, Va.",Lake Taylor,,"6' 2""",C,1,https://gomason.com/sports/womens-basketball/roster/jazmyn-doster/5851,2020-21
+248,George Mason,,Tamia Lawhorne,So.,"Amityville, N.Y.",Long Island Lutheran,,"6' 0""",F,2,https://gomason.com/sports/womens-basketball/roster/tamia-lawhorne/5855,2020-21
+248,George Mason,,Jordan Wakefield,So.,"Abingdon, Md.",John Carroll,,"6' 0""",G,3,https://gomason.com/sports/womens-basketball/roster/jordan-wakefield/5857,2020-21
+248,George Mason,,Livija Kaktaite,Jr.,"Sveksna, Lithuania",Long Island Lutheran,,"5' 7""",G,4,https://gomason.com/sports/womens-basketball/roster/livija-kaktaite/5853,2020-21
+248,George Mason,,Milica Manojlovic,R-Jr.,"Tivat, Montenegro",Rabun Gap (Ga.) Nacoochee,Furman,"5' 7""",G,5,https://gomason.com/sports/womens-basketball/roster/milica-manojlovic/5860,2020-21
+248,George Mason,,Teodora Popovic,Fr.,"Futog, Serbia",Jovan Jovanovic Zmaj,,"5' 8""",G,10,https://gomason.com/sports/womens-basketball/roster/teodora-popovic/5882,2020-21
+248,George Mason,,Marika Korpinen,Sr.,"Turku, Finland",Long Island Lutheran,,"5' 9""",G,12,https://gomason.com/sports/womens-basketball/roster/marika-korpinen/5854,2020-21
+248,George Mason,,Devyn Wilson,Jr.,"Smyrna, Ga.",Norcross,,"5' 11""",F,15,https://gomason.com/sports/womens-basketball/roster/devyn-wilson/5858,2020-21
+248,George Mason,,Vanessa Laumbach,Fr.,"Woodbridge, Va.",Woodbridge,,"6' 0""",F,20,https://gomason.com/sports/womens-basketball/roster/vanessa-laumbach/5862,2020-21
+248,George Mason,,Vita Stam,So.,"Utrecht, Netherlands",Calandlyceum,,"6' 3""",F,21,https://gomason.com/sports/womens-basketball/roster/vita-stam/5856,2020-21
+248,George Mason,,Daijah Jefferson,Gr.,"Hopewell, Va.",Hopewell,Georgia Tech,"6' 2""",F,22,https://gomason.com/sports/womens-basketball/roster/daijah-jefferson/5859,2020-21
+248,George Mason,,Rachel Balzer,R-Fr.,"Doylestown, Pa.",Germantown Academy,,"5' 10""",G,24,https://gomason.com/sports/womens-basketball/roster/rachel-balzer/5850,2020-21
+248,George Mason,,Camarie Gatling,Sr.,"Richmond, Va.",Highland Springs,,"6' 0""",F,33,https://gomason.com/sports/womens-basketball/roster/camarie-gatling/5852,2020-21
+257,Georgia,,Zoesha Smith,Fr.,"Brunswick, Ga.",Glynn Academy,,6' 1'',F,0,https://georgiadogs.com/sports/womens-basketball/roster/zoesha-smith/4931,2020-21
+257,Georgia,,Chloe Chapman,So.,"Mitchellville, Md.",Our Lady of Good Counsel,,5' 7'',G,1,https://georgiadogs.com/sports/womens-basketball/roster/chloe-chapman/4921,2020-21
+257,Georgia,,Gabby Connally,Sr.,"San Antonio, Texas",Brandeis,,5' 6'',G,2,https://georgiadogs.com/sports/womens-basketball/roster/gabby-connally/4922,2020-21
+257,Georgia,,Sarah Ashlee Barker,Fr.,"Birmingham, Ala.",Spain Park,,6' 0'',G,3,https://georgiadogs.com/sports/womens-basketball/roster/sarah%20ashlee-barker/4932,2020-21
+257,Georgia,,Mikayla Coombs,R-Jr.,"Buford, Ga.",Wesleyan School,,5' 9'',G,4,https://georgiadogs.com/sports/womens-basketball/roster/mikayla-coombs/4923,2020-21
+257,Georgia,,Caitlin Hose,Jr.,"Hazel Green, Ala.",Hazel Green,,5' 9'',G,10,https://georgiadogs.com/sports/womens-basketball/roster/caitlin-hose/4924,2020-21
+257,Georgia,,Maya Caldwell,Sr.,"Charlotte, N.C.",Davidson Day School,,5' 11'',G,11,https://georgiadogs.com/sports/womens-basketball/roster/maya-caldwell/4920,2020-21
+257,Georgia,,Jenna Staiti,R-Sr.,"Cumming, Ga.",West Forsyth,Maryland,6' 4'',C,14,https://georgiadogs.com/sports/womens-basketball/roster/jenna-staiti/4930,2020-21
+257,Georgia,,Maori Davenport,So.,"Troy, Ala.",Charles Henderson,,6' 4'',C,15,https://georgiadogs.com/sports/womens-basketball/roster/maori-davenport/4933,2020-21
+257,Georgia,,Jordan Isaacs,So.,"Alpharetta, Ga.",St. Francis,,6' 0'',F,20,https://georgiadogs.com/sports/womens-basketball/roster/jordan-isaacs/4926,2020-21
+257,Georgia,,Malury Bates,R-Jr.,"Roanoke, Va.",William Fleming,,6' 3'',F,22,https://georgiadogs.com/sports/womens-basketball/roster/malury-bates/4919,2020-21
+257,Georgia,,Que Morrison,Sr.,"Riverdale, Ga.",McEachern,,5' 7'',G,23,https://georgiadogs.com/sports/womens-basketball/roster/que-morrison/4928,2020-21
+257,Georgia,,Javyn Nicholson,So.,"Lawrenceville, Ga.",Collins Hill,,6' 2'',F,35,https://georgiadogs.com/sports/womens-basketball/roster/javyn-nicholson/4929,2020-21
+266,Gust. Adolphus,,Riley Queensland,Fy.,"Grand Meadow, Minn.",Grand Meadow,,5-8,G,1,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4668,2020-21
+266,Gust. Adolphus,,Emma Kniefel,Fy.,"Medford, Minn.",Medford,,5-9,G,2,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4669,2020-21
+266,Gust. Adolphus,,Rachel Skyberg,Sr.,"Pipestone, Minn.",Pipestone Area,,5-5,G,4,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4670,2020-21
+266,Gust. Adolphus,,Syd Hauger,Fy.,"Springfield, Minn.",Springfield,,5-8,G,10,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4672,2020-21
+266,Gust. Adolphus,,Gabby Bowlin,Sr.,"Winona, Minn.",Cotter,,5-9,G,11,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4673,2020-21
+266,Gust. Adolphus,,Amanda Drake,Fy.,"Lakeville, Minn.",Lakeville South,,5-6,G,12,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4674,2020-21
+266,Gust. Adolphus,,Haley Benda,Jr.,"Becker, Minn.",Becker,,5-9,F,20,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4675,2020-21
+266,Gust. Adolphus,,Marisa Gustafson,Sr.,"Mahtomedi, Minn.",Mahtomedi,,5-9,G,21,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4676,2020-21
+266,Gust. Adolphus,,Ava Gonsorowski,Sr.,"Esko, Minn.",Esko,,5-5,G,22,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4677,2020-21
+266,Gust. Adolphus,,Maddy Rice,So.,"Forest Lake, Minn.",Forest Lake,,5-9,G,25,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4678,2020-21
+266,Gust. Adolphus,,Grace Benz,Jr.,"Steele, N.D.",Kidder County,,5-10,F,31,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4679,2020-21
+266,Gust. Adolphus,,Sienna Wiebusch,Jr.,"St. Peter, Minn.",St. Peter,,5-11,F,32,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4680,2020-21
+266,Gust. Adolphus,,Caitlin Rorman,So.,"Blue Earth, Minn.",Blue Earth,,5-11,F,33,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4681,2020-21
+266,Gust. Adolphus,,Paige Richert,Sr.,"Comfrey, Minn.",Comfrey,,6-0,F,34,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4682,2020-21
+266,Gust. Adolphus,,Lexi Schermann,Fy.,"Mayer, Minn.",Mayer Lutheran,,5-9,,35,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4683,2020-21
+266,Gust. Adolphus,,Anna Sanders,So.,"Vannais Heights, Minn.",White Bear Lake,,5-9,G,40,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4684,2020-21
+266,Gust. Adolphus,,Kendra Petersohn,,"Dodge Center, Minn.",Triton,,5-9,F,41,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4685,2020-21
+266,Gust. Adolphus,,Betsy Schoenrock,Jr.,"New Richland, Minn.",NRHEG,,6-5,P,43,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4686,2020-21
+266,Gust. Adolphus,,Megan Mettler,Jr.,"Mankato, Minn.",St. Clair,,6-0,P,44,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4687,2020-21
+266,Gust. Adolphus,,Izzy Quick,Fy.,"Brooklyn Park, Minn.",Champlin Park,,5-9,F,45,https://gustavus.edu/athletics/wbb/rosters/?sport=14&team=134&member=4688,2020-21
+272,Hartford,,Jordan McLemore,Jr.,"Palisades Park, N.J.",Lodi Immaculate Conception,,5-8,G,1,https://hartfordhawks.com/sports/womens-basketball/roster/jordan-mclemore/5729,2020-21
+272,Hartford,,Jada Lucas,Sr.,"New London, Conn.",New London,,5-5,G,3,https://hartfordhawks.com/sports/womens-basketball/roster/jada-lucas/5728,2020-21
+272,Hartford,,Nina Farkic,Sr.,"Kitchener, Ontario",Cameron Heights,Western Michigan,5-9,G,5,https://hartfordhawks.com/sports/womens-basketball/roster/nina-farkic/5725,2020-21
+272,Hartford,,Paula Maurina,Fr.,"Riga, Latvia",Riga State Gymnasium No. 2,,6-0,F,11,https://hartfordhawks.com/sports/womens-basketball/roster/paula-maurina/5736,2020-21
+272,Hartford,,Sophie Benharouga,Fr.,"Sassenage, France",Lycee Auguste et louis Lumiere Lyon 8,,6-1,F,14,https://hartfordhawks.com/sports/womens-basketball/roster/sophie-benharouga/5738,2020-21
+272,Hartford,,Irene Primo,So.,"Tres Cantos, Spain",Club Baloncesto Tres Cantos,,5-4,G,15,https://hartfordhawks.com/sports/womens-basketball/roster/irene-primo/5730,2020-21
+272,Hartford,,Marisa Lee,Fr.,"Marlborough, Conn.",RHAM,,6-1,F,24,https://hartfordhawks.com/sports/womens-basketball/roster/marisa-lee/5739,2020-21
+272,Hartford,,Breyenne Bellerand,Sr.,"Brooklyn, N.Y.",Immaculate Conception,James Madison,5-10,F,25,https://hartfordhawks.com/sports/womens-basketball/roster/breyenne-bellerand/5740,2020-21
+272,Hartford,,Kaela Dothard,So.,"Lexington Park, Md.",Mary's Ryken,,5-8,G,30,https://hartfordhawks.com/sports/womens-basketball/roster/kaela-dothard/5724,2020-21
+272,Hartford,,Abby Streeter,Sr.,"Nashua, N.H.",Lawrence Academy,URI,5-11,G,31,https://hartfordhawks.com/sports/womens-basketball/roster/abby-streeter/5732,2020-21
+272,Hartford,,Jabria Ingram,Jr.,"Upper Darby, Pa.",Neumann-Goretti,,5-8,G,32,https://hartfordhawks.com/sports/womens-basketball/roster/jabria-ingram/5726,2020-21
+272,Hartford,,Sierra Smith,Jr.,"Madison, Va.",Saint Anne's-Belfield School,,6-0,F,40,https://hartfordhawks.com/sports/womens-basketball/roster/sierra-smith/5731,2020-21
+286,Hope,,Meg Morehouse,So.,"Zeeland, Michigan",Zeeland East,,5-7,G,2,https://athletics.hope.edu/sports/womens-basketball/roster/meg-morehouse/4267,2020-21
+286,Hope,,Jess Moorman,Sr.,"Northville, Michigan",Northville,,6-0,G,3,https://athletics.hope.edu/sports/womens-basketball/roster/jess-moorman/4266,2020-21
+286,Hope,,Claire Baguley,So.,"Ada, Michigan",Forest Hills Central,,5-11,G/F,4,https://athletics.hope.edu/sports/womens-basketball/roster/claire-baguley/4246,2020-21
+286,Hope,,Olivia Voskuil,Sr.,"Holland, Michigan",Holland Christian,,6-3,F/C,5,https://athletics.hope.edu/sports/womens-basketball/roster/olivia-voskuil/4276,2020-21
+286,Hope,,Raven Jemison,Fr.,"Grand Rapids, Michigan",East Kentwood,,6-3,C,10,https://athletics.hope.edu/sports/womens-basketball/roster/raven-jemison/4259,2020-21
+286,Hope,,Natalee Kott,Sr.,"Manistee, Michigan",Manistee,,5-6,G,11,https://athletics.hope.edu/sports/womens-basketball/roster/natalee-kott/4261,2020-21
+286,Hope,,Kasey DeSmit,Jr.,"Hudsonville, Michigan",Hudsonville,,5-6,G,12,https://athletics.hope.edu/sports/womens-basketball/roster/kasey-desmit/4251,2020-21
+286,Hope,,Kate Majerus,Jr.,"Sycamore, Illinois",Sycamore,,5-11,G/F,14,https://athletics.hope.edu/sports/womens-basketball/roster/kate-majerus/4263,2020-21
+286,Hope,,Ella McKinney,So.,"Haslett, Michigan",Haslett,,5-10,G,15,https://athletics.hope.edu/sports/womens-basketball/roster/ella-mckinney/4265,2020-21
+286,Hope,,Kenedy Schoonveld,Sr.,"Zeeland, Michigan",Holland Christian,,5-10,G,20,https://athletics.hope.edu/sports/womens-basketball/roster/kenedy-schoonveld/4271,2020-21
+286,Hope,,Savannah Feenstra,So.,"Osceola, Indiana",NorthWood,,6-1,F,21,https://athletics.hope.edu/sports/womens-basketball/roster/savannah-feenstra/4253,2020-21
+286,Hope,,Sydney Muller,Sr.,"Grand Rapids, Michigan",Grand Rapids Christian,,5-9,G,22,https://athletics.hope.edu/sports/womens-basketball/roster/sydney-muller/4268,2020-21
+286,Hope,,Lauren Newman,Sr.,"Flushing, Michigan",Flushing,,5-7,G,23,https://athletics.hope.edu/sports/womens-basketball/roster/lauren-newman/4269,2020-21
+286,Hope,,Jessica Velazquez,Fr.,"Goodrich, Michigan",Goodrich,,6-1,F,24,https://athletics.hope.edu/sports/womens-basketball/roster/jessica-velazquez/4275,2020-21
+286,Hope,,Ashleigh Thomas,Sr.,"Shelby Township, Michigan",Lutheran North,,6-2,F/C,25,https://athletics.hope.edu/sports/womens-basketball/roster/ashleigh-thomas/4273,2020-21
+286,Hope,,Mallory Gerber,Sr.,"Schaumburg, Illinois",Schaumburg,,6-0,G/F,31,https://athletics.hope.edu/sports/womens-basketball/roster/mallory-gerber/4254,2020-21
+286,Hope,,Courteney Barnes,Sr.,"Mokena, Illinois",Lincoln Way-Central,,6-1,F/C,32,https://athletics.hope.edu/sports/womens-basketball/roster/courteney-barnes/4247,2020-21
+286,Hope,,Hannah Smith,Jr.,"Midland, Michigan",Midland,,5-10,F,33,https://athletics.hope.edu/sports/womens-basketball/roster/hannah-smith/4272,2020-21
+306,Indiana,,Keyanna Warthen,Sr.,"Ft. Lauderdale, Fla.",Ft. Lauderdale,,5' 10'',Guard,2,https://iuhoosiers.com/sports/womens-basketball/roster/keyanna-warthen/14805,2020-21
+306,Indiana,,Grace Waggoner,So.,"Vincennes, Ind.",Vincennes Rivet,,6' 0'',Guard,3,https://iuhoosiers.com/sports/womens-basketball/roster/grace-waggoner/14804,2020-21
+306,Indiana,,Nicole Cardaño-Hillary,Sr.,"Madrid, Spain",Vista Ridge,George Mason,5' 6'',Guard,4,https://iuhoosiers.com/sports/womens-basketball/roster/nicole%20-carda%C3%B1o-hillary/14808,2020-21
+306,Indiana,,Aleksa Gulbe,Jr.,"Riga, Latvia",TTT Riga,,6' 3'',Forward,10,https://iuhoosiers.com/sports/womens-basketball/roster/aleksa-gulbe/14798,2020-21
+306,Indiana,,Chanel Wilson,R-So.,"Powder Springs, Ga.",McEachern,,5' 6'',Guard,11,https://iuhoosiers.com/sports/womens-basketball/roster/chanel-wilson/14806,2020-21
+306,Indiana,,Paige Price,Fr.,"Dromana, Victoria, Australia",Boxhill Senior Secondary College,,6' 2'',Forward,12,https://iuhoosiers.com/sports/womens-basketball/roster/paige-price/15301,2020-21
+306,Indiana,,Jaelynn Penn,Sr.,"Louisville, Ky.",Butler HS,,5' 10'',Guard,13,https://iuhoosiers.com/sports/womens-basketball/roster/jaelynn%20-penn/14803,2020-21
+306,Indiana,,Ali Patberg,Sr.,"Columbus, Ind.",Columbus North,Notre Dame,5' 11'',Guard,14,https://iuhoosiers.com/sports/womens-basketball/roster/ali%20-patberg/14801,2020-21
+306,Indiana,,Chloe Moore-McNeil,Fr.,"Greenfield, Tenn.",Greenfield,,5' 11'',Guard,22,https://iuhoosiers.com/sports/womens-basketball/roster/chloe-moore-mcneil/14809,2020-21
+306,Indiana,,Kiandra Browne,Fr.,"Montreal, Quebec, Canada",St-Laurent,,6' 2'',Forward,23,https://iuhoosiers.com/sports/womens-basketball/roster/kiandra-browne/14869,2020-21
+306,Indiana,,Arielle Wisne,R-Fr.,"Thornton, Colo.",Horizon,,6' 5'',Center,25,https://iuhoosiers.com/sports/womens-basketball/roster/arielle-wisne/14807,2020-21
+306,Indiana,,Danielle Patterson,R-Jr.,"Brooklyn, N.Y.",The Mary Louis Academy,Notre Dame,6' 2'',Guard/Forward,33,https://iuhoosiers.com/sports/womens-basketball/roster/danielle-patterson/14802,2020-21
+306,Indiana,,Grace Berger,Jr.,"Louisville, Ky.",Sacred Heart,,6' 0'',Guard,34,https://iuhoosiers.com/sports/womens-basketball/roster/grace-berger/14797,2020-21
+306,Indiana,,Hannah Noveroske,So.,"Michigan City, Ind.",Michigan City,,6' 5'',Center,51,https://iuhoosiers.com/sports/womens-basketball/roster/hannah-noveroske/14800,2020-21
+306,Indiana,,Mackenzie Holmes,So.,"Gorham, Maine",Gorham,,6' 3'',Forward,54,https://iuhoosiers.com/sports/womens-basketball/roster/mackenzie%20-holmes/14799,2020-21
+326,Kalamazoo,,Jazmyne Fannings,So.,"Chicago, Ill.",Lindblom Math & Science Academy,,5-8,G,4,https://hornets.kzoo.edu/sports/wbkb/2020-21/bios/fannings_jazmyne_opqa,2020-21
+326,Kalamazoo,,Kylah Davis,So.,"Durham, N.C.",N.C. School of Science and Mathematics,,5-9,F,10,https://hornets.kzoo.edu/sports/wbkb/2020-21/bios/davis_kylah_xid9,2020-21
+326,Kalamazoo,,Abby O'Keefe,Sr.,"Dexter, Mich.",Rudolf Steiner,,5-8,F,12,https://hornets.kzoo.edu/sports/wbkb/2020-21/bios/o-keefe_abby_oyjv,2020-21
+326,Kalamazoo,,Margaret Wedge,So.,"Beijing, China",Beijing City Int'l School,,5-9,F,13,https://hornets.kzoo.edu/sports/wbkb/2020-21/bios/wedge_margaret_5aat,2020-21
+326,Kalamazoo,,Catie Stamper,Jr.,"Kalamazoo, Mich.",Loy Norrix,,5-6,G,14,https://hornets.kzoo.edu/sports/wbkb/2020-21/bios/stamper_catie_llm3,2020-21
+326,Kalamazoo,,Juanita Ledesma,Sr.,"Chicago, Ill.",Chicago Bulls College Prep,,5-7,G,15,https://hornets.kzoo.edu/sports/wbkb/2020-21/bios/ledesma_juanita_ffx7,2020-21
+326,Kalamazoo,,Darby Scott,Jr.,"Plymouth, Mich.",Salem,,5-4,G,21,https://hornets.kzoo.edu/sports/wbkb/2020-21/bios/scott_darby_4j1d,2020-21
+326,Kalamazoo,,Christiana Hunt,Fr.,"Gobles, Mich.",Gobles,,5-8,G,23,https://hornets.kzoo.edu/sports/wbkb/2020-21/bios/hunt_christiana_z790,2020-21
+326,Kalamazoo,,Isabelle Clark,Sr.,"Dearborn, Mich.",Dearborn,,5-6,G,24,https://hornets.kzoo.edu/sports/wbkb/2020-21/bios/clark_isabelle_v80k,2020-21
+326,Kalamazoo,,Jayla Gill,So.,"Kalamazoo, Mich.",Kalamazoo Central,,5-6,G,30,https://hornets.kzoo.edu/sports/wbkb/2020-21/bios/gill_jayla_ec9f,2020-21
+326,Kalamazoo,,Kaytlyn Tidey,Jr.,"Lawrence, Mich.",Lawrence,,5-5,G,34,https://hornets.kzoo.edu/sports/wbkb/2020-21/bios/tidey_kaytlyn_mapp,2020-21
+326,Kalamazoo,,Sara English,Fr.,"East Lansing, Mich.",Lansing Catholic,,5-7,G,44,https://hornets.kzoo.edu/sports/wbkb/2020-21/bios/english_sara_jvio,2020-21
+328,Kansas,,Erica Haynes-Overton,Junior,"Nashville, Tenn.",East Nashville Magnet HS,,"5'6""",Guard,0,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/erica-haynes-overton/,2020-21
+328,Kansas,,Tina Stephens,Senior,"Palmetto, Fla.",Palmetto HS,,"6'2""",Forward,1,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/tina-stephens/,2020-21
+328,Kansas,,Mia Vuksic,Freshman,"Sibenik, Croatia",Srednja Strukovna Skola Sibenik,,"6'0""",Guard,4,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/mia-vuksic/,2020-21
+328,Kansas,,Aniya Thomas,Junior,"Duncanville, Texas",Duncanville HS,,5'7'',Guard,5,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/aniya-thomas/,2020-21
+328,Kansas,,Emma Merriweather,Junior,Buena Park. Calif.,Lakeside HS,,"6'5""",Center,10,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/emma-merriweather/,2020-21
+328,Kansas,,Ioanna Chatzileonti,Freshman,"Athens, Greece",1st High School of Voula,,"6'3""",Forward,11,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/ioanna-chatzileonti/,2020-21
+328,Kansas,,Katrine Jessen,Freshman,"Skovlunde, Denmark",Borupgaard Gymnasium HS,,"6'4""",Forward,12,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/katrine-jessen/,2020-21
+328,Kansas,,Holly Kersgieter,Sophomore,"Sand Springs, Okla.",Charles Page HS,,5-11,Guard,13,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/holly-kersgieter/,2020-21
+328,Kansas,,Zakiyah Franklin,Sophomore,"Lakeland, Fla.",Winter Haven HS,,5-8,Guard,15,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/zakiyah-franklin/,2020-21
+328,Kansas,,Julie Brosseau,Graduate Transfer,"Repentigny, Quebec",Montmorency,,"5'9""",Guard,20,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/julie-brosseau/,2020-21
+328,Kansas,,Brooklyn Mitchell,Junior,"New Orleans, La.",Ursuline Academy,,5'6'',Guard,21,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/brooklyn-mitchell/,2020-21
+328,Kansas,,Chandler Prater,Sophomore,"Kansas City, Mo.",North Kansas City HS,,"5'11""",Guard,25,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/chandler-prater/,2020-21
+328,Kansas,,Brittany Franklin,Junior,"Plymouth, N.C.",Plymouth HS,,6'5'',Center,31,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/brittany-franklin/,2020-21
+328,Kansas,,Bailey Helgren,Senior,"Edina, Minn.",Edina HS,,6'5'',Center,35,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/bailey-helgren/,2020-21
+328,Kansas,,Chisom Ajekwu,Sophomore,"Lawrence, Kan.",Lawrence HS,,"6'4""",Center,45,https://kuathletics.com/sports/wbball/roster/season/2020-21/player/chisom-ajekwu/,2020-21
+334,Kentucky,,Olivia Owens,Redshirt Sophomore,"Albany, N.Y.",Niskayuna HS,Maryland,6-4,Center,0,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/olivia-owens/,2020-21
+334,Kentucky,,Robyn Benton,Junior,"Conyers, Ga.",Greater Atlanta Christian Academy,Auburn,5-9,Guard,1,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/robyn-benton/,2020-21
+334,Kentucky,,KeKe McKinney,Senior,"Knoxville, Tenn.",Fulton HS,,6-1,Forward,3,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/keke-mckinney/,2020-21
+334,Kentucky,,Blair Green,Junior,"Harlan County, Ky.",Harlan County HS,,6-0,Guard,5,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/blair-green/,2020-21
+334,Kentucky,,Rhyne Howard,Junior,"Cleveland, Tenn.",Bradley Central HS,,6-2,Guard,10,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/rhyne-howard/,2020-21
+334,Kentucky,,Treasure Hunt,Freshman,"Chattanooga, Tenn.",Hamilton Heights Christian Academy,,6-1,Guard,12,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/treasure-hunt/,2020-21
+334,Kentucky,,Jazmine Massengill,Junior,"Chattanooga, Tenn.",Hamilton Heights Christian Academy,Tennessee,6-0,Guard,13,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/jazmine-massengill/,2020-21
+334,Kentucky,,Tatyana Wyatt,Senior,"Columbus, Ga.",Columbus HS,,6-2,Forward,14,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/tatyana-wyatt/,2020-21
+334,Kentucky,,Chasity Patterson,Senior,"Houston, Texas",North Shore HS,Texas,5-5,Guard,15,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/chasity-patterson/,2020-21
+334,Kentucky,,Erin Toller,Freshman,"Louisville, Ky.",Sacred Heart Academy,,5-7,Guard,20,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/erin-toller/,2020-21
+334,Kentucky,,Nyah Leveretter,Freshman,"Blythewood, S.C.",Westwood HS,,6-3,Forward,21,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/nyah-leveretter/,2020-21
+334,Kentucky,,Kameron Roach,Redshirt Junior,"Hopkins, S.C.",Lower Richland HS,,5-6,Guard,23,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/kameron-roach/,2020-21
+334,Kentucky,,Emma King,Sophomore,"Stanford, Ky.",Lincoln County HS,,5-10,Guard,34,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/emma-king/,2020-21
+334,Kentucky,,Dre'una Edwards,Redshirt Sophomore,"Compton, Calif.",Liberty HS,Utah,6-2,Forward,44,https://ukathletics.com/sports/wbball/roster/season/2020-21/player/dreuna-edwards/,2020-21
+341,La Verne,,Rachel Friend,Jr.,"Santa Fe, NM",Capital,University of Antelope Valley,5-10,G,0,https://www.leopardathletics.com/sports/wbkb/2020-21/bios/friend_rachel_pbp5,2020-21
+341,La Verne,,Jazzlyn Johnson,Jr.,"Fontana, CA",Ontario,,5-3,G,5,https://www.leopardathletics.com/sports/wbkb/2020-21/bios/johnson_jazzlyn_1bpc,2020-21
+341,La Verne,,Casey Kuramoto,So.,"Cypress, CA",Fairmont Prep,,5-9,G/F,11,https://www.leopardathletics.com/sports/wbkb/2020-21/bios/kuramoto_casey_2cax,2020-21
+341,La Verne,,Chasey Santos,Jr.,"Cerritos, CA",Rosary Academy,,5-8,G/F,20,https://www.leopardathletics.com/sports/wbkb/2020-21/bios/santos_chasey_l41v,2020-21
+341,La Verne,,Kendall Stanley,So.,"Lakewood, CA",Lakewood,,6-1,F/C,24,https://www.leopardathletics.com/sports/wbkb/2020-21/bios/stanley_kendall_uca5,2020-21
+341,La Verne,,Kayla Rubio,Sr.,"Calexico, CA",Calexico,Arizona Western College,6-0,F,42,https://www.leopardathletics.com/sports/wbkb/2020-21/bios/rubio_kayla_l8n3,2020-21
+341,La Verne,,Ashton Berry,Jr.,"Madera, CA",Liberty,,5-6,G,,https://www.leopardathletics.com/sports/wbkb/2020-21/bios/berry_ashton_6m00,2020-21
+341,La Verne,,Mary Mikaelian,Sr.,"Los Angeles, CA",Hollywood,LA Trade Tech,5-6,F,,https://www.leopardathletics.com/sports/wbkb/2020-21/bios/mikaelian_mary_1ugk,2020-21
+355,Liberty,,Kennedi Williams,So.,"Douglasville, Ga.",Greater Atlanta Christian School,,5' 7'',G,1,https://libertyflames.com/sports/womens-basketball/roster/kennedi-williams/482,2020-21
+355,Liberty,,Nyah Stallings,Fr.,"Greensboro, N.C.",Ragsdale High School,,5' 10'',G,2,https://libertyflames.com/sports/womens-basketball/roster/nyah-stallings/486,2020-21
+355,Liberty,,Jordan Peters,Jr.,"Statesville, N.C.",Statesville Christian School,,5' 7'',G,3,https://libertyflames.com/sports/womens-basketball/roster/jordan-peters/488,2020-21
+355,Liberty,,Nenna Lindstrom,Sr.,"Helsinki, Finland",Mäkelänrinteen Lukio High School,Western Wyoming Community College,5' 6'',G,4,https://libertyflames.com/sports/womens-basketball/roster/nenna-lindstrom/492,2020-21
+355,Liberty,,Melat Sissay,Jr.,"Stockholm, Sweden",Solna Gymnasium,,5' 6'',G,5,https://libertyflames.com/sports/womens-basketball/roster/melat-sissay/495,2020-21
+355,Liberty,,Makaela Kestner,R-So.,"Manassas, Va.",Liberty High School,South Florida,5' 11'',G/F,11,https://libertyflames.com/sports/womens-basketball/roster/makaela-kestner/498,2020-21
+355,Liberty,,Ashtyn Baker,Sr.,"Nesbit, Miss.",Northpoint Christian School,,5' 6'',G,12,https://libertyflames.com/sports/womens-basketball/roster/ashtyn-baker/500,2020-21
+355,Liberty,,Dee Brown,Jr.,"Chicago, Ill.",Proviso East High School ,Miami Dade College,5' 9'',G,13,https://libertyflames.com/sports/womens-basketball/roster/dee-brown/505,2020-21
+355,Liberty,,Audrey Clark,So.,"Galax, Va.",Home Schooled,,5' 6'',G,15,https://libertyflames.com/sports/womens-basketball/roster/audrey-clark/508,2020-21
+355,Liberty,,Mya Berkman,Jr.,"Marble Falls, Texas",Marble Falls High School,,6' 3'',F/C,20,https://libertyflames.com/sports/womens-basketball/roster/mya-berkman/512,2020-21
+355,Liberty,,Jordan Bailey,So.,"Colbert, Ga.",Madison County High School,Old Dominion,6' 1'',F,22,https://libertyflames.com/sports/womens-basketball/roster/jordan-bailey/840,2020-21
+355,Liberty,,Emily Lytle,R-Sr.,"Memphis, Tenn.",Evangelical Christian School,Little Rock,5' 11'',G/F,23,https://libertyflames.com/sports/womens-basketball/roster/emily-lytle/514,2020-21
+355,Liberty,,Alyssa Iverson,Jr.,"Elgin, Ill.",Harvest Christian Academy,McHenry County College,5' 7'',G,24,https://libertyflames.com/sports/womens-basketball/roster/alyssa-iverson/518,2020-21
+355,Liberty,,Sophia d'Oliveira,Fr.,"Dawsonville, Ga.",Dawson County High School,,5' 8'',G,25,https://libertyflames.com/sports/womens-basketball/roster/sophia-d'oliveira/520,2020-21
+355,Liberty,,Priscilla Smeenge,Sr.,"Jacksonville, Fla.",Celebration High School,Michigan,6' 0'',G,30,https://libertyflames.com/sports/womens-basketball/roster/priscilla-smeenge/12489,2020-21
+355,Liberty,,Bella Smuda,Fr.,"Exton, Pa.",Downingtown East High School,,6' 5'',F/C,31,https://libertyflames.com/sports/womens-basketball/roster/bella-smuda/522,2020-21
+355,Liberty,,Bridgette Rettstatt,Sr.,"Galena, Ohio",Worthington Christian High School,,6' 2'',F,34,https://libertyflames.com/sports/womens-basketball/roster/bridgette-rettstatt/525,2020-21
+365,LSU,,Awa Trasi,Senior,Lycee Jeanne d'arc,"Toulouse, France",Northwest Florida State College,6-1,Forward,0,https://lsusports.net/sports/wbball/roster/season/2020-21/player/awa-trasi/,2020-21
+365,LSU,,Jailin Cherry,Senior,Pascagoula HS,"Pascagoula, Miss.",,5-8,Guard,1,https://lsusports.net/sports/wbball/roster/season/2020-21/player/jailin-cherry/,2020-21
+365,LSU,,Tiara Young,Sophomore,Walker HS,"Shreveport, La.",,5-8,Guard,2,https://lsusports.net/sports/wbball/roster/season/2020-21/player/tiara-young/,2020-21
+365,LSU,,Khayla Pointer,Senior,Holy Innocents' Episcopal HS,"Marietta, Ga.",,5-7,Guard,3,https://lsusports.net/sports/wbball/roster/season/2020-21/player/khayla-pointer/,2020-21
+365,LSU,,Destini Lombard,Freshman,Fort Bend Hightower HS,"New Iberia, La.",,5-9,Guard,4,https://lsusports.net/sports/wbball/roster/season/2020-21/player/destini-lombard/,2020-21
+365,LSU,,Ryann Payne,Junior,Sierra Canyon HS,"Los Angeles, Calif.",TCU,5-7,Guard,10,https://lsusports.net/sports/wbball/roster/season/2020-21/player/ryann-payne/,2020-21
+365,LSU,,Emily Ward,Sophomore,Benton HS,"Bossier City, La.",,5-11,Forward,11,https://lsusports.net/sports/wbball/roster/season/2020-21/player/emily-ward/,2020-21
+365,LSU,,Treasure Thompson,Freshman,Bolingbrook HS,"Joliet, Ill.",,6-2,Forward,12,https://lsusports.net/sports/wbball/roster/season/2020-21/player/treasure-thompson/,2020-21
+365,LSU,,Sarah Shematsi,Junior,Lycee Bellevue,"Annecy, France",South Plains College,6-2,Guard/Forward,14,https://lsusports.net/sports/wbball/roster/season/2020-21/player/sarah-shematsi/,2020-21
+365,LSU,,Ajae Petty,Freshman,Baltimore Polytechnic Institute,"Baltimore, Md.",,6-3,Forward,15,https://lsusports.net/sports/wbball/roster/season/2020-21/player/ajae-petty/,2020-21
+365,LSU,,Domonique Davis,Sophomore,DeRidder HS,"DeRidder, La.",,5-6,Guard,21,https://lsusports.net/sports/wbball/roster/season/2020-21/player/domonique-davis/,2020-21
+365,LSU,,Amirah O'Neal,Freshman,Crossroads School for the Arts & Sciences,"Los Angeles, Calif.",,6-1,Forward,22,https://lsusports.net/sports/wbball/roster/season/2020-21/player/amirah-oneal/,2020-21
+365,LSU,,Karli Seay,Senior,Homewood-Flossmoor HS,"Flossmoor, Ill.",Western Nebraska CC,5-7,Guard,23,https://lsusports.net/sports/wbball/roster/season/2020-21/player/karli-seay/,2020-21
+365,LSU,,Faustine Aifuwa,Senior,Dacula HS,"Dacula, Ga.",,6-5,Center,24,https://lsusports.net/sports/wbball/roster/season/2020-21/player/faustine-aifuwa/,2020-21
+365,LSU,,Rakell Spencer,Senior,Cabrini HS,"New Orleans, La.",Texas A&M,5-10,Guard,25,https://lsusports.net/sports/wbball/roster/season/2020-21/player/rakell-spencer/,2020-21
+365,LSU,,Jalaysha Thomas,Junior,West Port HS,"Ocala, Fla.",Florida,6-0,Forward,32,https://lsusports.net/sports/wbball/roster/season/2020-21/player/jalaysha-thomas/,2020-21
+365,LSU,,Sharna Ayres,Freshman,Box Hill Senior Secondary College,"Melbourne, Australia",Marquette,5-10,Guard,35,https://lsusports.net/sports/wbball/roster/season/2020-21/player/sharna-ayres/,2020-21
+377,MacMurray,,Taya Bridges,So.,"Mesquite, Texas",John Horn H.S.,,5-5,Guard,3,https://mcmurrysports.com/sports/womens-basketball/roster/taya-bridges/7457,2020-21
+377,MacMurray,,Jada Morris,So.,"Forney, Texas",Dallas Lincoln H.S.,,5-6,Guard,4,https://mcmurrysports.com/sports/womens-basketball/roster/jada-morris/7462,2020-21
+377,MacMurray,,Aubrey Guerra,Jr.,"Pleasanton, Texas",Pleasanton H.S.,Coastal Bend College,5-9,Guard,5,https://mcmurrysports.com/sports/womens-basketball/roster/aubrey-guerra/7466,2020-21
+377,MacMurray,,Cassidy Melton,So.,"Frisco, Texas",Frisco Centennial H.S.,,5-10,Forward,10,https://mcmurrysports.com/sports/womens-basketball/roster/cassidy-melton/7461,2020-21
+377,MacMurray,,D'Asia White,So.,"Anderson, Texas",Anderson-Shiro H.S.,,5-4,Guard,11,https://mcmurrysports.com/sports/womens-basketball/roster/d-asia-white/7464,2020-21
+377,MacMurray,,Valery Alvarado,So.,"Abilene, Texas",Wylie H.S.,Bethel College,5-3,Guard,12,https://mcmurrysports.com/sports/womens-basketball/roster/valery-alvarado/7472,2020-21
+377,MacMurray,,Kristin Salas,Fr.,"Pipe Creek, Texas",Bandera H.S.,,5-5,Guard,14,https://mcmurrysports.com/sports/womens-basketball/roster/kristin-salas/7468,2020-21
+377,MacMurray,,Mariah Rodriguez,Fr.,"Floresville, Texas",Floresville H.S.,,5-2,Guard,15,https://mcmurrysports.com/sports/womens-basketball/roster/mariah-rodriguez/7474,2020-21
+377,MacMurray,,Claire Headings,Fr.,"Amarillo, Texas",Randall H.S.,,5-5,Guard,20,https://mcmurrysports.com/sports/womens-basketball/roster/claire-headings/7470,2020-21
+377,MacMurray,,Trinity Meador,So.,"Stephenville, Texas",Huckabay H.S.,,6-0,Forward,21,https://mcmurrysports.com/sports/womens-basketball/roster/trinity-meador/7460,2020-21
+377,MacMurray,,Erin McNabb,Fr.,"Pasadena, Texas",Memorial H.S.,,5-6,Guard,22,https://mcmurrysports.com/sports/womens-basketball/roster/erin-mcnabb/7473,2020-21
+377,MacMurray,,Jaleigh Morales,Fr.,"Albany, Texas",Albany H.S.,,5-6,Guard,23,https://mcmurrysports.com/sports/womens-basketball/roster/jaleigh-morales/7467,2020-21
+377,MacMurray,,Destiny Mathews,So.,"Palestine, Texas",Palestine H.S.,,5-8,Forward,24,https://mcmurrysports.com/sports/womens-basketball/roster/destiny-mathews/7458,2020-21
+377,MacMurray,,Sidney McHenry,So.,"Mansfield, Texas",Legacy H.S.,,5-8,Forward,25,https://mcmurrysports.com/sports/womens-basketball/roster/sidney-mchenry/7459,2020-21
+377,MacMurray,,Kaitlyn Randall,So.,"Trophy Club, Texas",Byron Nelson H.S.,,5-9,Forward,30,https://mcmurrysports.com/sports/womens-basketball/roster/kaitlyn-randall/7463,2020-21
+377,MacMurray,,Vanessa Wharton,Fr.,"Garland, Texas",South Garland H.S.,,5-8,Guard,32,https://mcmurrysports.com/sports/womens-basketball/roster/vanessa-wharton/7476,2020-21
+377,MacMurray,,Devin Lantrip,Fr.,"El Paso, Texas",Eastwood H.S.,,5-8,Forward,33,https://mcmurrysports.com/sports/womens-basketball/roster/devin-lantrip/7475,2020-21
+377,MacMurray,,Jaisa Hammond,Fr.,"San Antonio, Texas",Harlan H.S.,Bethel College,5-4,Guard,34,https://mcmurrysports.com/sports/womens-basketball/roster/jaisa-hammond/7649,2020-21
+377,MacMurray,,Kylee Smith,Fr.,"Murphy, Texas",Wylie H.S.,,5-10,Forward,35,https://mcmurrysports.com/sports/womens-basketball/roster/kylee-smith/7465,2020-21
+377,MacMurray,,Dehje Belmore,Jr.,"Denver, Colo.",DSST Stapleton H.S.,North Platte CC,5-8,Center,45,https://mcmurrysports.com/sports/womens-basketball/roster/dehje-belmore/7477,2020-21
+379,Me.-Farmington,,Maddy White,So.,"Waldoboro, ME",Medomak Vally High School,,5-4,G,2,https://goumfbeavers.com/sports/womens-basketball/roster/maddy-white/3545,2020-21
+379,Me.-Farmington,,Alex Bessey,Sr.,"Jay, Maine",Spruce Mt. HS,,5-8,G,3,https://goumfbeavers.com/sports/womens-basketball/roster/alex-bessey/3529,2020-21
+379,Me.-Farmington,,Logan Granholm,Jr.,"Gardiner, Maine",Gardiner HS,,5-5,G,4,https://goumfbeavers.com/sports/womens-basketball/roster/logan-granholm/3539,2020-21
+379,Me.-Farmington,,Page Brown,Jr.,"Boothbay, Maine",Boothbay Region,,5-11,F,5,https://goumfbeavers.com/sports/womens-basketball/roster/page-brown/3532,2020-21
+379,Me.-Farmington,,Kasey Talarico,Sr.,"Lewiston, Maine",Lewiston HS,,5-3,G,10,https://goumfbeavers.com/sports/womens-basketball/roster/kasey-talarico/3544,2020-21
+379,Me.-Farmington,,Ally O'Brien,Jr.,"Wells, ME",Wells High School,,5-3,G,11,https://goumfbeavers.com/sports/womens-basketball/roster/ally-o-brien/3541,2020-21
+379,Me.-Farmington,,Kayla Donlin,Fr.,"Warren, Maine",Medomak Valley,,5-8,G,12,https://goumfbeavers.com/sports/womens-basketball/roster/kayla-donlin/3536,2020-21
+379,Me.-Farmington,,Tia Day,Jr.,"Monmouth, Maine",Monmouth Academy,,5-4,G,13,https://goumfbeavers.com/sports/womens-basketball/roster/tia-day/3534,2020-21
+379,Me.-Farmington,,Courtney Brent,Fr.,"Gorham, ME",Gorham High School,,5-7,G,14,https://goumfbeavers.com/sports/womens-basketball/roster/courtney-brent/3530,2020-21
+379,Me.-Farmington,,Makayla Wilson,Jr.,"Belgrade, Maine",Messalonskee High School,,5-7,G,15,https://goumfbeavers.com/sports/womens-basketball/roster/makayla-wilson/3547,2020-21
+379,Me.-Farmington,,Chelsea Crockett,Jr.,"Newport, Maine",Nokomis,,5-8,G,20,https://goumfbeavers.com/sports/womens-basketball/roster/chelsea-crockett/3533,2020-21
+379,Me.-Farmington,,McKenna Brodeur,Sr.,"Oakland, ME",Messaolonskee,,5-10,F,22,https://goumfbeavers.com/sports/womens-basketball/roster/mckenna-brodeur/3531,2020-21
+379,Me.-Farmington,,Molly Folsom,Jr.,"Fairfield, Maine",Lawrence,,5-8,F,24,https://goumfbeavers.com/sports/womens-basketball/roster/molly-folsom/3537,2020-21
+379,Me.-Farmington,,Victoria Garand,Fr.,"Portland, ME",Deering High School,,5-8,F,25,https://goumfbeavers.com/sports/womens-basketball/roster/victoria-garand/3538,2020-21
+379,Me.-Farmington,,Rosalie White,Fr.,"Lisbon, ME",Brunswick High School,,5-11,F,31,https://goumfbeavers.com/sports/womens-basketball/roster/rosalie-white/3546,2020-21
+379,Me.-Farmington,,Halee Ramsdell,Sr.,"Wells, Maine",Wells,,5-10,F,50,https://goumfbeavers.com/sports/womens-basketball/roster/halee-ramsdell/3542,2020-21
+379,Me.-Farmington,,Cassidy Delano,Jr.,"Kittery, Maine",Traip Academy,,5-7,F,52,https://goumfbeavers.com/sports/womens-basketball/roster/cassidy-delano/3535,2020-21
+379,Me.-Farmington,,Jacqui Hamilton,Fr.,"Gorham, ME",Gorham High School,,6-0,F,55,https://goumfbeavers.com/sports/womens-basketball/roster/jacqui-hamilton/3540,2020-21
+387,Marquette,,Julianna Okosun,Fr.,"Copenhagen, Denmark",Falkonergarden Gymnasium & HF-Kursus,,6' 4'',F,0,https://gomarquette.com/sports/womens-basketball/roster/julianna-okosun/5278,2020-21
+387,Marquette,,Nirel Lougbo,So.,"North Andover, Mass.",Tabor Academy,,5' 10'',G,1,https://gomarquette.com/sports/womens-basketball/roster/nirel-lougbo/5272,2020-21
+387,Marquette,,Rose Nkumu,Fr.,"Iowa City, Iowa",Iowa City HS,,5' 7'',G,3,https://gomarquette.com/sports/womens-basketball/roster/rose-nkumu/5279,2020-21
+387,Marquette,,Antwainette Walker,R-So.,"Lisle, Ill.",St. Francis HS,Arkansas-Little Rock,5' 11'',G,4,https://gomarquette.com/sports/womens-basketball/roster/antwainette%20-walker/5277,2020-21
+387,Marquette,,Taylor Valladay,So.,"Chicago, Ill.",Rich South,,5' 7'',G,5,https://gomarquette.com/sports/womens-basketball/roster/taylor-valladay/5275,2020-21
+387,Marquette,,Claire Kaifes,So.,"Shawnee, Kansas",Mill Valley HS,,5' 11'',G,10,https://gomarquette.com/sports/womens-basketball/roster/claire-kaifes/5269,2020-21
+387,Marquette,,Camryn Taylor,So.,"Peoria, Ill.",Richwoods,,6' 2'',F,15,https://gomarquette.com/sports/womens-basketball/roster/camryn-taylor/5274,2020-21
+387,Marquette,,Jordan King,So.,"Rockton, Ill",Hononegah HS,,5' 11'',G,23,https://gomarquette.com/sports/womens-basketball/roster/jordan-king/5270,2020-21
+387,Marquette,,Selena Lott,Sr.,"Troy, N.Y.",Columbia,,5' 11'',G,24,https://gomarquette.com/sports/womens-basketball/roster/selena-lott/5271,2020-21
+387,Marquette,,Danyel Middleton,Fr.,"Chicago, Ill.",Bolingbrook HS,,5' 10'',G,25,https://gomarquette.com/sports/womens-basketball/roster/danyel-middleton/5280,2020-21
+387,Marquette,,Liza Karlen,Fr.,"St. Paul, Minn.",Stillwater Area HS,,6' 2'',F,32,https://gomarquette.com/sports/womens-basketball/roster/liza-karlen/5281,2020-21
+387,Marquette,,Lauren Van Kleunen,R-Sr.,"Mason, Ohio",Mason HS,,6' 2'',F,42,https://gomarquette.com/sports/womens-basketball/roster/lauren-van%20kleunen/5276,2020-21
+387,Marquette,,Chloe Marotta,Jr.,"Mequon, Wis.",Homestead HS,,6' 1'',F,52,https://gomarquette.com/sports/womens-basketball/roster/chloe%20-marotta/5273,2020-21
+388,Marshall,,Kia Sivils,Jr.,"Louisville, Ky.",Sacred Heart,,5' 7'',G,0,https://herdzone.com/sports/womens-basketball/roster/kia-sivils/5936,2020-21
+388,Marshall,,Christiana McLean,R-Fr.,"Wake Forest, N.C.",Heritage,,5' 6'',G,1,https://herdzone.com/sports/womens-basketball/roster/christiana-mclean/5932,2020-21
+388,Marshall,,Kristen Mayo,Sr.,"Grayson, Ky.",East Carter HS,,5' 5'',G,2,https://herdzone.com/sports/womens-basketball/roster/kristen-mayo/5931,2020-21
+388,Marshall,,CC Mays,Fr.,"Tampa, Fla.",Carrollwood Day School/ Seffner Christian Academy,,5' 8'',G,3,https://herdzone.com/sports/womens-basketball/roster/cc-mays/5949,2020-21
+388,Marshall,,Savannah Wheeler,So.,"Catlettsburg, Ky.",Boyd County,,5' 6'',G,4,https://herdzone.com/sports/womens-basketball/roster/savannah-wheeler/5938,2020-21
+388,Marshall,,Samantha LaFon,Fr.,"Chesapeake, Ohio",Ironton,,6' 0'',F,5,https://herdzone.com/sports/womens-basketball/roster/samantha-lafon/6235,2020-21
+388,Marshall,,Ksenija Mitric,Fr.,"Banja Luka, Bosnia and Herzegovina",Celje Basketball Club,,5' 8'',G,11,https://herdzone.com/sports/womens-basketball/roster/ksenija-mitric/5951,2020-21
+388,Marshall,,Taylor Pearson,Sr.,"Columbus, Ohio",Northland HS,,5' 7'',F,20,https://herdzone.com/sports/womens-basketball/roster/taylor-pearson/5933,2020-21
+388,Marshall,,Sarah Liberatore,Fr.,"Greensburg, Pa.",Hempfield Area,,5' 10'',G,21,https://herdzone.com/sports/womens-basketball/roster/sarah-liberatore/5952,2020-21
+388,Marshall,,Alexis Johnson,So.,"Southfield, Mich.",Southfield HS for the Arts & Technology,,5' 10'',F,23,https://herdzone.com/sports/womens-basketball/roster/alexis-johnson/5929,2020-21
+388,Marshall,,Kennedi Colclough,Gr.,"Crofton, Md.",Arundel,Stetson,6' 0'',F,24,https://herdzone.com/sports/womens-basketball/roster/kennedi-colclough/5953,2020-21
+388,Marshall,,Mahogany Matthews,R-So.,"York, Pa.",Hoke County,Ole Miss,6' 1'',F,25,https://herdzone.com/sports/womens-basketball/roster/mahogany-matthews/5930,2020-21
+388,Marshall,,Aarionna Redman,Fr.,"Pickerington, Ohio",Pickerington Central,,5' 10'',F/G,30,https://herdzone.com/sports/womens-basketball/roster/aarionna-redman/5954,2020-21
+388,Marshall,,Paige Shy,So.,"Huntington, W.Va.",St. Joseph Central Catholic HS,,5' 10'',G,32,https://herdzone.com/sports/womens-basketball/roster/paige-shy/5935,2020-21
+388,Marshall,,Lorelei Roper,Jr.,"Charlotte, N.C.",Carmel Christian,,6' 1'',F/C,34,https://herdzone.com/sports/womens-basketball/roster/lorelei%20-roper/5934,2020-21
+394,Marymount (VA),,Anna Schools,Fr.,"Blue Bell, Pa.",Wissahickon,,5-5,G,2,https://marymountsaints.com/sports/womens-basketball/roster/anna-schools/3480,2020-21
+394,Marymount (VA),,Terra Dzambo,Fr.,"Glen Bernie, Md.",Archbishop Spalding,,5-9,G,3,https://marymountsaints.com/sports/womens-basketball/roster/terra-dzambo/3474,2020-21
+394,Marymount (VA),,Ananda Claggett,Sr.,"Owings Mills, Md.",Northern,,5-6,G,4,https://marymountsaints.com/sports/womens-basketball/roster/ananda-claggett/3472,2020-21
+394,Marymount (VA),,Symantha Shackelford,So.,"Woodbridge, Va.",Bishop Ireton,,5-5,G,10,https://marymountsaints.com/sports/womens-basketball/roster/symantha-shackelford/3481,2020-21
+394,Marymount (VA),,Aidan Phillips,Sr.,"Alexandria, Va.",Bishop Ireton,,5-6,G,11,https://marymountsaints.com/sports/womens-basketball/roster/aidan-phillips/3478,2020-21
+394,Marymount (VA),,Kyla Treadwell,Fr.,"Camden, N.J.",Holy Cross Prep Academy,,5-9,G,12,https://marymountsaints.com/sports/womens-basketball/roster/kyla-treadwell/3483,2020-21
+394,Marymount (VA),,Caroline Catterton,Fr.,"Falls Church, Va.",George C. Marshall,,5-9,G/F,14,https://marymountsaints.com/sports/womens-basketball/roster/caroline-catterton/3471,2020-21
+394,Marymount (VA),,Lauren Cunningham,So.,"Dresher, Pa.",Mount St. Joseph Academy,,5-7,G,20,https://marymountsaints.com/sports/womens-basketball/roster/lauren-cunningham/3473,2020-21
+394,Marymount (VA),,Claire Smith,So.,"Sterling, Va.",Home School,,5-8,G,21,https://marymountsaints.com/sports/womens-basketball/roster/claire-smith/3482,2020-21
+394,Marymount (VA),,Ally Vezendy,Fr.,"Stillwater, Pa.",Wyoming Seminary,,5-9,G,22,https://marymountsaints.com/sports/womens-basketball/roster/ally-vezendy/3484,2020-21
+394,Marymount (VA),,Chandler Eddleton,Fr.,"Richmond, Va.",Collegiate School,,5-9,G,23,https://marymountsaints.com/sports/womens-basketball/roster/chandler-eddleton/3475,2020-21
+394,Marymount (VA),,Katie McShea,Jr.,"Hainesport, N.J.",Bishop Eustace Prep,,5-11,F,24,https://marymountsaints.com/sports/womens-basketball/roster/katie-mcshea/3477,2020-21
+394,Marymount (VA),,Taylor Love,Sr.,"Boalsburg, Pa.",State College,,6-2,C,30,https://marymountsaints.com/sports/womens-basketball/roster/taylor-love/3476,2020-21
+394,Marymount (VA),,Kathryn Ryan,Sr.,"Severna Park, Md.",Severna Park,,6-1,F,31,https://marymountsaints.com/sports/womens-basketball/roster/kathryn-ryan/3479,2020-21
+394,Marymount (VA),,Sophia Yevchak,Fr.,"Neptune, N.J.",Neptune,,6-0,G/F,33,https://marymountsaints.com/sports/womens-basketball/roster/sophia-yevchak/3485,2020-21
+428,Minnesota,,Alexia Smith,Fr.,"Columbus, Ohio",Columbus Africentric Early College,,5' 8'',G,1,https://gophersports.com/sports/womens-basketball/roster/alexia%20-smith/18560,2020-21
+428,Minnesota,,Jasmine Powell,So.,"Detroit, Mich.",Detroit Country Day HS,,5' 6'',G,4,https://gophersports.com/sports/womens-basketball/roster/jasmine-powell/18553,2020-21
+428,Minnesota,,Erin Hedman,Fr.,"New Berlin, Wis.",Eisenhower HS,,6' 3'',F,10,https://gophersports.com/sports/womens-basketball/roster/erin-hedman/18561,2020-21
+428,Minnesota,,Laura Bagwell Katalinich,Gr.,"Minneapolis, Minn.",Academy of the Holy Angels,Cornell,6' 0'',F,12,https://gophersports.com/sports/womens-basketball/roster/laura%20-bagwell%20katalinich/18562,2020-21
+428,Minnesota,,Sara Scalia,So.,"Stillwater, Minn.",Stillwater HS,,5' 10'',G,14,https://gophersports.com/sports/womens-basketball/roster/sara-scalia/18555,2020-21
+428,Minnesota,,Kayla Mershon,Jr.,"Minnetonka, Minn.",Minnetonka HS,Nebraska,6' 3'',F,15,https://gophersports.com/sports/womens-basketball/roster/kayla%20-mershon/18563,2020-21
+428,Minnesota,,Caroline Strande,Fr.,"Racine, Wis.",Racine Lutheran HS,,5' 11'',G,21,https://gophersports.com/sports/womens-basketball/roster/caroline%20-strande/18564,2020-21
+428,Minnesota,,Katie Borowicz,Fr.,"Roseau, Minn.",Roseau HS,,5' 7'',G,23,https://gophersports.com/sports/womens-basketball/roster/katie-borowicz/19455,2020-21
+428,Minnesota,,Justice Ross,R-Fr.,"Des Moines, Iowa",Des Moines East HS,,6' 0'',F,24,https://gophersports.com/sports/womens-basketball/roster/justice-ross/18554,2020-21
+428,Minnesota,,Klarke Sconiers,So.,"Queens, N.Y.",Christ the King HS,,6' 2'',C,25,https://gophersports.com/sports/womens-basketball/roster/klarke-sconiers/18556,2020-21
+428,Minnesota,,Kadi Sissoko,R-So.,"Paris, France",Lycee Marcelin Berthelot,Syracuse,6' 2'',F,30,https://gophersports.com/sports/womens-basketball/roster/kadi-sissoko/18557,2020-21
+428,Minnesota,,Gadiva Hubbard,R-Sr.,"Virginia Beach, Va.",Princess Anne HS,,5' 9'',G,34,https://gophersports.com/sports/womens-basketball/roster/gadiva-hubbard/18552,2020-21
+428,Minnesota,,Grace Cumming,R-Fr.,"Des Moines, Iowa",Des Moines Roosevelt HS,,6' 3'',F,43,https://gophersports.com/sports/womens-basketball/roster/grace-cumming/18551,2020-21
+449,Mount Holyoke,,Ireland Clare Kennedy,Sr.,"Oakland, Calif.",Holy Names,,5-4,G,4,https://athletics.mtholyoke.edu/sports/wbkb/2020-21/bios/clare_kennedy_ireland_f5te,2020-21
+449,Mount Holyoke,,Maria-Lucia Delgado,Sr.,"Bronx, N.Y.",Beacon School,,5-6,F,14,https://athletics.mtholyoke.edu/sports/wbkb/2020-21/bios/delgado_maria-lucia_98ss,2020-21
+449,Mount Holyoke,,Mikayla McEwen,Jr.,"South Hadley, Mass.",Berkshire School,,5-8,F,21,https://athletics.mtholyoke.edu/sports/wbkb/2020-21/bios/mcewen_mikayla_ocdi,2020-21
+449,Mount Holyoke,,Alicia Chavez,Fy.,"Sylmar, Calif.",James Monroe,,5-6,G,23,https://athletics.mtholyoke.edu/sports/wbkb/2020-21/bios/chavez_alicia_6yr4,2020-21
+449,Mount Holyoke,,Annika Brooks,Sr.,"Portland, Maine",Waynflete,,5-10,F,24,https://athletics.mtholyoke.edu/sports/wbkb/2020-21/bios/brooks_annika_ngkf,2020-21
+449,Mount Holyoke,,Kelly Lynch,Jr.,"Quincy, Mass.",The Woodward School,,5-8,F,33,https://athletics.mtholyoke.edu/sports/wbkb/2020-21/bios/lynch_kelly_dwzv,2020-21
+473,New Mexico,,Corina Carter,So.,"San Antonio, Texas",Judson HS,,5-6,PG,1,https://golobos.com/sports/wbball/roster/season/2020-21/player/corina-carter/,2020-21
+473,New Mexico,,Ahlise Hurst,Jr.,"Bendigo, Australia",Bendigo Senior-Secondary,,5-9,G/F,3,https://golobos.com/sports/wbball/roster/season/2020-21/player/ahlise-hurst/,2020-21
+473,New Mexico,,LaTascya Duff,Sr.,"Samson, Ala.",Samson HS,Shelton State CC,5-7,G,4,https://golobos.com/sports/wbball/roster/season/2020-21/player/latascya-duff/,2020-21
+473,New Mexico,,LaTora Duff,Jr.,"Samson, Ala.",Samson HS,Shelton State CC,5-7,G,5,https://golobos.com/sports/wbball/roster/season/2020-21/player/latora-duff/,2020-21
+473,New Mexico,,Celine Dupont,RS-Fr.,"Almelo, The Netherlands",Parkendaal Lyceum,,6-4,F/C,10,https://golobos.com/sports/wbball/roster/season/2020-21/player/celine-dupont/,2020-21
+473,New Mexico,,Shaiquel McGruder,Jr.,"Trotwood, Ohio",Trotwood-Madison HS,,6-1,F,13,https://golobos.com/sports/wbball/roster/season/2020-21/player/shaiquel-mcgruder/,2020-21
+473,New Mexico,,Azaria Robinson,So.,"Anchorage, Alaska",West HS,,6-2,F,14,https://golobos.com/sports/wbball/roster/season/2020-21/player/azaria-robinson/,2020-21
+473,New Mexico,,Kath van Bennekom,Fr.,"Gorinchem, The Netherlands",Lyceum Oudehoven,,5-9,G,15,https://golobos.com/sports/wbball/roster/season/2020-21/player/kath-van-bennekom/,2020-21
+473,New Mexico,,Jaedyn De La Cerda,Sr.,"Roswell, N.M.",Roswell HS,,5-7,G,23,https://golobos.com/sports/wbball/roster/season/2020-21/player/jaedyn-de-la-cerda/,2020-21
+473,New Mexico,,Autumn Watts,So.,"Centennial, Colo.",Highlands Ranch HS,,6-1,F,24,https://golobos.com/sports/wbball/roster/season/2020-21/player/autumn-watts/,2020-21
+473,New Mexico,,Antonia Anderson,Sr.,"Cibolo, Texas",Byron P. Steele II HS,,6-2,G/F,32,https://golobos.com/sports/wbball/roster/season/2020-21/player/antonia-anderson/,2020-21
+473,New Mexico,,Nevaeh Parkinson,Fr.,"Dallas, Texas",John Paul II HS,,6-3,F/C,34,https://golobos.com/sports/wbball/roster/season/2020-21/player/nevaeh-parkinson/,2020-21
+497,North Texas,,Quincy Noble,R-So.,"McKinney, Texas",McKinney,New Mexico,5' 10'',Guard,0,https://meangreensports.com/sports/womens-basketball/roster/quincy-noble/4698,2020-21
+497,North Texas,,Callie Owens,R-Sr.,"Plano, TX",Plano West,Pacific,5' 10'',Guard,1,https://meangreensports.com/sports/womens-basketball/roster/callie-owens/4699,2020-21
+497,North Texas,,Summer Jones,Sr.,"Edmond, OK",Edmond Santa Fe,Seminole State,5' 8'',Guard,2,https://meangreensports.com/sports/womens-basketball/roster/summer-jones/4693,2020-21
+497,North Texas,,Jazion Jackson,So.,"Dallas, Texas",Skyline,,5' 9'',Point Guard,4,https://meangreensports.com/sports/womens-basketball/roster/jazion-jackson/4692,2020-21
+497,North Texas,,Keira Neal,R-Fr.,"Edmond, Okla.",Santa Fe,,5' 10'',Guard,5,https://meangreensports.com/sports/womens-basketball/roster/keira-neal/4697,2020-21
+497,North Texas,,Trena Mims,Sr.,"Muskogee, Okla.",Muskogee,,5' 6'',Guard,10,https://meangreensports.com/sports/womens-basketball/roster/trena-mims/4696,2020-21
+497,North Texas,,N'Yah Boyd,So.,"Mesquite, TX",Horn,,5' 6'',Point Guard,11,https://meangreensports.com/sports/womens-basketball/roster/n'yah-boyd/4690,2020-21
+497,North Texas,,Destinee McDowell,So.,"Fort Worth, TX",Cedar Hill,,5' 11'',Forward,12,https://meangreensports.com/sports/womens-basketball/roster/destinee-mcdowell/4695,2020-21
+497,North Texas,,Maddie Cleary,Fr.,"Prosper, Texas",Prosper,,5' 10'',Guard,14,https://meangreensports.com/sports/womens-basketball/roster/maddie-cleary/4703,2020-21
+497,North Texas,,Charlene Shepherd,Jr.,"Killeen, TX",Shoemaker,,6' 2'',Forward,21,https://meangreensports.com/sports/womens-basketball/roster/charlene-shepherd/4700,2020-21
+497,North Texas,,Destiny Brooks,R-Jr.,"Gilmer, TX",Gilmer,"California State University, Northridge",5' 6'',Guard,22,https://meangreensports.com/sports/womens-basketball/roster/destiny-brooks/4691,2020-21
+497,North Texas,,Randi Thompson,So.,"Plano, Texas",Frisco Liberty,,5' 10'',Guard,23,https://meangreensports.com/sports/womens-basketball/roster/randi-thompson/4701,2020-21
+497,North Texas,,Tommisha Lampkin,Fr.,"Mansfield, Texas",Summit,,6' 2'',Forward,24,https://meangreensports.com/sports/womens-basketball/roster/tommisha-lampkin/4704,2020-21
+497,North Texas,,Rochelle Lee,R-Jr.,"Memphis, TN",Houston,Chattanooga,6' 3'',Forward,32,https://meangreensports.com/sports/womens-basketball/roster/rochelle-lee/4694,2020-21
+497,North Texas,,Emma Villas-Gomis,Sr.,"Fontenay-Sous-Bois, France",,Texas Tech/Salt Lake Community College,6' 3'',Forward,33,https://meangreensports.com/sports/womens-basketball/roster/emma-villas-gomis/4705,2020-21
+497,North Texas,,Madison Townley,R-Sr.,"Duncanville, Texas",Duncanville,,6' 0'',Forward,41,https://meangreensports.com/sports/womens-basketball/roster/madison-townley/4702,2020-21
+511,Norwich,,Alexis Matte,So.,"Lebanon, N.H.",Mount Royal Academy,,5-7,G,,https://norwichathletics.com/sports/womens-basketball/roster/alexis-matte/5534,2020-21
+511,Norwich,,Hannah Stitely,Jr.,"Westminster, Md.",Winters Mills,,5-3,G,,https://norwichathletics.com/sports/womens-basketball/roster/hannah-stitely/5538,2020-21
+511,Norwich,,Caileigh Travers,Sr.,"Valley Cottage, N.Y.",Nyack,,5-9,F,,https://norwichathletics.com/sports/womens-basketball/roster/caileigh-travers/5539,2020-21
+511,Norwich,,Katelyn DeSilvio,So.,"Chelmsford, Mass.",Chelmsford,,5-7,G/F,,https://norwichathletics.com/sports/womens-basketball/roster/katelyn-desilvio/5531,2020-21
+511,Norwich,,Riley Bennett,Sr.,"Hopkinton, N.H.",Bishop Brady,,5-4,G,,https://norwichathletics.com/sports/womens-basketball/roster/riley-bennett/5527,2020-21
+511,Norwich,,Toni Adipietro,Fr.,"Bloomingburg, N.Y.",Pine Bush,,5-6,G/F,,https://norwichathletics.com/sports/womens-basketball/roster/toni-adipietro/5526,2020-21
+511,Norwich,,Julia Vigorito,Sr.,"Malden, Mass.",Matignon,,5-7,G,,https://norwichathletics.com/sports/womens-basketball/roster/julia-vigorito/5540,2020-21
+511,Norwich,,Silas Bernier,Fr.,"Jaffrey, N.H.",Conant,,5-4,G,,https://norwichathletics.com/sports/womens-basketball/roster/silas-bernier/5528,2020-21
+511,Norwich,,Hattie Moriarty,Jr.,"Stowe, Vt.",Stowe,,5-5,G,,https://norwichathletics.com/sports/womens-basketball/roster/hattie-moriarty/5535,2020-21
+511,Norwich,,Brittany Graham,So.,"Rye, N.H.",Portsmouth,,5-7,G/F,,https://norwichathletics.com/sports/womens-basketball/roster/brittany-graham/5533,2020-21
+511,Norwich,,Sara Rea,Fr.,"Randolph Center, Vt.",Randolph Union,,5-9,F,,https://norwichathletics.com/sports/womens-basketball/roster/sara-rea/5536,2020-21
+511,Norwich,,Emily Schromm,Sr.,"North Attleboro, Mass.",North Attleboro,,5-3,G,,https://norwichathletics.com/sports/womens-basketball/roster/emily-schromm/5537,2020-21
+511,Norwich,,Rachel Botala,Fr.,"Grand Isle, Vt.",Essex,,5-7,G/F,,https://norwichathletics.com/sports/womens-basketball/roster/rachel-botala/5530,2020-21
+511,Norwich,,Kailynne Frederick,Sr.,"Adams, Mass.",Hoosac Valley,,5-8,G/F,,https://norwichathletics.com/sports/womens-basketball/roster/kailynne-frederick/5532,2020-21
+513,Notre Dame,,Dara Mabrey,Graduate,"Belmar, NJ",Manasquan,Virginia Tech,5-7,Guard,1,https://und.com/sports/wbball/roster/season/2020-21/player/dara-mabrey/,2020-21
+513,Notre Dame,,Amirah Abdur-Rahim,Freshman,"Marietta, GA",St. Francis,,6-3,Forward,3,https://und.com/sports/wbball/roster/season/2020-21/player/amirah-abdur-rahim/,2020-21
+513,Notre Dame,,Alasia Hayes,Freshman,"Murfreesboro, TN",Riverdale,,5-7,Guard,5,https://und.com/sports/wbball/roster/season/2020-21/player/alasia-hayes/,2020-21
+513,Notre Dame,,Katlyn Gilbert,Senior,"Indianapolis, IN",Heritage Christian,,5-10,Guard,10,https://und.com/sports/wbball/roster/season/2020-21/player/katlyn-gilbert/,2020-21
+513,Notre Dame,,Abby Prohaska,Senior,"Liberty Township, OH",Lakota West,,5-10,Guard,12,https://und.com/sports/wbball/roster/season/2020-21/player/abby-prohaska/,2020-21
+513,Notre Dame,,Natalija Marshall,Freshman,"Queens, NY",Christ the King,,6-5,Forward,15,https://und.com/sports/wbball/roster/season/2020-21/player/natalija-marshall/,2020-21
+513,Notre Dame,,Nicole Benz,Senior,"Valencia, CA",William S. Hart,,5-8,Guard,20,https://und.com/sports/wbball/roster/season/2020-21/player/nicole-benz/,2020-21
+513,Notre Dame,,Maddy Westbeld,Freshman,"Kettering, OH",Fairmont,,6-3,Forward,21,https://und.com/sports/wbball/roster/season/2020-21/player/maddy-westbeld/,2020-21
+513,Notre Dame,,Anaya Peoples,Junior,"Danville, IL",Schlarman High,,5-10,Guard,21,https://und.com/sports/wbball/roster/season/2020-21/player/267622/,2020-21
+513,Notre Dame,,Danielle Cosgrove,Junior,"Holbrook, NY",Sachem East,,6-4,Forward,22,https://und.com/sports/wbball/roster/season/2020-21/player/danielle-cosgrove/,2020-21
+513,Notre Dame,,Alli Campbell,Freshman,"Altoona, PA",Bellwood-Antis,,6-0,Guard,23,https://und.com/sports/wbball/roster/season/2020-21/player/alli-campbell/,2020-21
+513,Notre Dame,,Destinee Walker,Graduate,"Orlando, FL",Lake Highland Prep,,5-10,Guard,24,https://und.com/sports/wbball/roster/season/2020-21/player/destinee-walker/,2020-21
+513,Notre Dame,,Olivia Miles,Junior,"Phillipsburg, NJ",Blair Academy,,5-10,Guard,25,https://und.com/sports/wbball/roster/season/2020-21/player/olivia-miles/,2020-21
+513,Notre Dame,,Mikayla Vaughn,Senior,"Philadelphia, PA",Paul VI/Friends' Central,,6-3,Center,30,https://und.com/sports/wbball/roster/season/2020-21/player/mikayla-vaughn/,2020-21
+513,Notre Dame,,Sam Brunelle,Junior,"Ruckersville, Va",William Monroe,,6-2,Forward,33,https://und.com/sports/wbball/roster/season/2020-21/player/sam-brunelle/,2020-21
