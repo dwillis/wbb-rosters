@@ -2290,7 +2290,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 489,North Carolina Central,7454,Necole Hope,Senior,"Waldorf, Md.",North Point HS,,"5'10""",G,4,https://www.nccueaglepride.com/sports/womens-basketball/roster/necole-hope/7454,2021-22
 489,North Carolina Central,7544,Nia Ford,Freshman,"Clinton, Md.",Frederick Douglass HS,,"5'11""",G,5,https://www.nccueaglepride.com/sports/womens-basketball/roster/nia-ford/7544,2021-22
 489,North Carolina Central,7450,Madalyn Anderson,Junior,"Whitby, Ontario, Canada",J. Addison School,,"5'10""",G,11,https://www.nccueaglepride.com/sports/womens-basketball/roster/madalyn-anderson/7450,2021-22
-489,North Carolina Central,7551,Kira Lowery,Redshirt Junior,"Memphis, Tenn.",Southwind HS,,"5'8""",G,13/12,https://www.nccueaglepride.com/sports/womens-basketball/roster/kira-lowery/7551,2021-22
+489,North Carolina Central,7551,Kira Lowery,Redshirt Junior,"Memphis, Tenn.",Southwind HS,Auburn,"5'8""",G,13/12,https://www.nccueaglepride.com/sports/womens-basketball/roster/kira-lowery/7551,2021-22
 489,North Carolina Central,7546,Breonna Mayfield,Senior,"Landover, Md.",Our Lady of Good Counsel,,"6'5""",C,21,https://www.nccueaglepride.com/sports/womens-basketball/roster/breonna-mayfield/7546,2021-22
 489,North Carolina Central,7545,Tianna Carter,Redshirt Sophomore,"Tucson, Ariz.",Canyon Del Oro HS,,"6'1""",F,22,https://www.nccueaglepride.com/sports/womens-basketball/roster/tianna-carter/7545,2021-22
 489,North Carolina Central,7550,Talaya Guirantes,Freshman,"Bellport, N.Y.",Pomfret School,,"5'10""",G,23/33,https://www.nccueaglepride.com/sports/womens-basketball/roster/talaya-guirantes/7550,2021-22
@@ -7565,7 +7565,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 30152,Southern Nazarene,6903,Ines Serrano,Freshman,"Las Palmas de Gran Canarias, Spain",IES Isabel de España,,"6'1""",Forward,23,https://www.snuathletics.com/sports/womens-basketball/roster/ines-serrano/6903,2021-22
 30152,Southern Nazarene,6896,Lexie Reihm,Sophomore,"Cleo Springs, Okla.",Alva,,"5'11""",Guard,25,https://www.snuathletics.com/sports/womens-basketball/roster/lexie-reihm/6896,2021-22
 30152,Southern Nazarene,6902,Anna Coccoli,Freshman,"Cremona, Italy",I.I.S. Janello Torriani,,"6'1""",Center,34,https://www.snuathletics.com/sports/womens-basketball/roster/anna-coccoli/6902,2021-22
-30152,Southern Nazarene,6899,Belle Frazier,Sophomore,"Gig Harbor, Wash.",Peninsula,,"6'0""",Guard,43,https://www.snuathletics.com/sports/womens-basketball/roster/belle-frazier/6899,2021-22
+30152,Southern Nazarene,6899,Belle Frazier,Sophomore,"Gig Harbor, Wash.",Peninsula,California Baptist,"6'0""",Guard,43,https://www.snuathletics.com/sports/womens-basketball/roster/belle-frazier/6899,2021-22
 30153,Union (TN),2111,Shanique Lucas,Junior,"Port Moresby, Papua New Guinea",American School of Bangkok,,"5'8""",Guard,1,https://www.uuathletics.com/sports/womens-basketball/roster/shanique-lucas/2111,2021-22
 30153,Union (TN),2274,Ashtyn Baker,Graduate Student,"Nesbit, Miss.",Northpoint Christian School,Liberty University,"5'6""",Guard,2,https://www.uuathletics.com/sports/womens-basketball/roster/ashtyn-baker/2274,2021-22
 30153,Union (TN),2256,Samariah Thompson,Junior,"Dyersburg, Tenn.",Dyersburg HS,Rogers State University,"5'9""",Guard,4,https://www.uuathletics.com/sports/womens-basketball/roster/samariah-thompson/2256,2021-22
@@ -7903,7 +7903,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 30222,Purdue Northwest,3026,Taylor Austin,Freshman,"Portage, Ind.",Lake Station,,"5'4""",Guard,3,https://www.pnwathletics.com/sports/womens-basketball/roster/taylor-austin/3026,2021-22
 30222,Purdue Northwest,3015,Savaya Brockington,Junior,"Indianapolis, Ind.",North Central,,"5'3""",Guard,4,https://www.pnwathletics.com/sports/womens-basketball/roster/savaya-brockington/3015,2021-22
 30222,Purdue Northwest,3024,Kylie Schmidt,Freshman,"Francis Creek, Wis.",Mishicot,,"5'10""",Forward,12,https://www.pnwathletics.com/sports/womens-basketball/roster/kylie-schmidt/3024,2021-22
-30222,Purdue Northwest,3027,Payton Courier,Senior,"Delavan, Wis.",Big Foot,,"5'11""",Guard,13,https://www.pnwathletics.com/sports/womens-basketball/roster/payton-courier/3027,2021-22
+30222,Purdue Northwest,3027,Payton Courier,Senior,"Delavan, Wis.",Big Foot,Western Illinois,"5'11""",Guard,13,https://www.pnwathletics.com/sports/womens-basketball/roster/payton-courier/3027,2021-22
 30222,Purdue Northwest,3014,Brittany Barnard,Senior,"Kokomo, Ind.",Kokomo,,"6'2""",Forward,22,https://www.pnwathletics.com/sports/womens-basketball/roster/brittany-barnard/3014,2021-22
 30222,Purdue Northwest,3018,Kennedy Jackson,Junior,"Carson, Calif.",Redondo Union,,"5'6""",Guard,23,https://www.pnwathletics.com/sports/womens-basketball/roster/kennedy-jackson/3018,2021-22
 30222,Purdue Northwest,3021,Antreese Shelton,Sophomore,"Elkhart, Ind.",Penn,,"6'2""",Forward,30,https://www.pnwathletics.com/sports/womens-basketball/roster/antreese-shelton/3021,2021-22
@@ -13437,7 +13437,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 688,Syracuse,20504,Najé Murray,Graduate Student,"Stockton, Calif.",St. Mary's HS,,"5'6""",Guard,10,https://www.cuse.com/sports/womens-basketball/roster/naj-murray/20504,2021-22
 688,Syracuse,20505,Jayla Thornton,Graduate Student,"Newark, N.J.",Newark Tech,,"5'10""",Guard,11,https://www.cuse.com/sports/womens-basketball/roster/jayla-thornton/20505,2021-22
 688,Syracuse,20506,Eboni Walker,Junior,"Las Vegas, Nevada",Centennial HS,,"6'0""",Forward,22,https://www.cuse.com/sports/womens-basketball/roster/eboni-walker/20506,2021-22
-688,Syracuse,20976,Alaina Rice,Junior,"Rockledge, Fla.",IMG Academy,,"5'8""",Guard,25,https://www.cuse.com/sports/womens-basketball/roster/alaina-rice/20976,2021-22
+688,Syracuse,20976,Alaina Rice,Junior,"Rockledge, Fla.",IMG Academy,Auburn,"5'8""",Guard,25,https://www.cuse.com/sports/womens-basketball/roster/alaina-rice/20976,2021-22
 688,Syracuse,20508,Julianna Walker,Freshman,"Tacoma, Wash.",Annie Wright Schools,,"5'6""",Guard,30,https://www.cuse.com/sports/womens-basketball/roster/julianna-walker/20508,2021-22
 688,Syracuse,20509,Chrislyn Carr,Senior,"Davenport, Iowa",Rock Island (Ill.),,"5'5""",Guard,32,https://www.cuse.com/sports/womens-basketball/roster/chrislyn-carr/20509,2021-22
 688,Syracuse,20511,Christianna Carr,Senior,"Eden Prairie, MN",Manhattan HS (Kans.),,"6'1""",Guard,43,https://www.cuse.com/sports/womens-basketball/roster/christianna-carr/20511,2021-22
