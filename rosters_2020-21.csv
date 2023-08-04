@@ -2259,18 +2259,18 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 308,Purdue-Fort Wayne,7847,Krisen Hunt,Junior,"Elkhart, Ind.",Elkhart Central,Wabash Valley College,"5'6""",Guard,21,https://www.gomastodons.com/sports/womens-basketball/roster/krisen-hunt/7847,2020-21
 308,Purdue-Fort Wayne,7845,Aubrey Stupp,Freshman,"Farmersville, Ohio",Valley View,,"5'11""",Guard,22,https://www.gomastodons.com/sports/womens-basketball/roster/aubrey-stupp/7845,2020-21
 308,Purdue-Fort Wayne,7835,Valerie Clark,Redshirt Junior,"Greenwood, Ind.",Center Grove,Eastern Kentucky,"5'11""",Guard,23,https://www.gomastodons.com/sports/womens-basketball/roster/valerie-clark/7835,2020-21
-402,McNeese State,6949,Lizzy Ratcliff,Sophomore,"Lafayette, LA./Teurlings Catholic High",,,"5'7""",Guard,0,https://www.mcneesesports.com/sports/womens-basketball/roster/lizzy-ratcliff/6949,2020-21
-402,McNeese State,6954,Le'Shenae Stubblefield,Junior,"Delhi, LA./LSUE",,,"5'7""",Guard,1,https://www.mcneesesports.com/sports/womens-basketball/roster/le-shenae-stubblefield/6954,2020-21
-402,McNeese State,6956,Whitney Johnson,Junior,"Gulfport, MS./Miss. Gulf Coast CC",,,"5'11""",Guard,2,https://www.mcneesesports.com/sports/womens-basketball/roster/whitney-johnson/6956,2020-21
-402,McNeese State,6957,Elizabeth Critton,Junior,"Mesquite, TX./McLennan CC",,,"6'0""",Post,3,https://www.mcneesesports.com/sports/womens-basketball/roster/elizabeth-critton/6957,2020-21
-402,McNeese State,6947,Kyla Hamilton,Sophomore,"Westlake, LA./Sam Houston High",,,"5'6""",Point,12,https://www.mcneesesports.com/sports/womens-basketball/roster/kyla-hamilton/6947,2020-21
-402,McNeese State,6952,Delilah Van Campen,Sophomore,"Richmond, TX./Fort Bend Travis High",,,"6'1""",Forward,14,https://www.mcneesesports.com/sports/womens-basketball/roster/delilah-van-campen/6952,2020-21
-402,McNeese State,6955,Mychala Linzy,Junior,"Clinton, MS./Pearl River CC",,,"5'4""",Guard,15,https://www.mcneesesports.com/sports/womens-basketball/roster/mychala-linzy/6955,2020-21
-402,McNeese State,6946,Shaela Gardner,Senior,"Memphis, TN./Chipola College",,,"5'10""",Guard,20,https://www.mcneesesports.com/sports/womens-basketball/roster/shaela-gardner/6946,2020-21
-402,McNeese State,6951,Divine Tanks,Junior,"Lake Charles, LA./Barbe High",,,"6'1""",Forward,24,https://www.mcneesesports.com/sports/womens-basketball/roster/divine-tanks/6951,2020-21
-402,McNeese State,6945,Jordyn Cross,Sophomore,"Pitkin, LA./Uni. Academy of Central LA./LSUE",,,"5'9""",Point,33,https://www.mcneesesports.com/sports/womens-basketball/roster/jordyn-cross/6945,2020-21
-402,McNeese State,6953,Claralee Richard,Junior,"Sulphur, LA./LSUE",,,"5'9""",Guard,34,https://www.mcneesesports.com/sports/womens-basketball/roster/claralee-richard/6953,2020-21
-402,McNeese State,6950,Maia Robinson,Sophomore,"Denham Springs, LA./Denham Springs High",,,"6'2""",Post,40,https://www.mcneesesports.com/sports/womens-basketball/roster/maia-robinson/6950,2020-21
+402,McNeese State,6949,Lizzy Ratcliff,Sophomore,"Lafayette, LA.",Teurlings Catholic High,,"5'7""",Guard,0,https://www.mcneesesports.com/sports/womens-basketball/roster/lizzy-ratcliff/6949,2020-21
+402,McNeese State,6954,Le'Shenae Stubblefield,Junior,"Delhi, LA.",,LSUE,"5'7""",Guard,1,https://www.mcneesesports.com/sports/womens-basketball/roster/le-shenae-stubblefield/6954,2020-21
+402,McNeese State,6956,Whitney Johnson,Junior,"Gulfport, MS.",,Miss. Gulf Coast CC,"5'11""",Guard,2,https://www.mcneesesports.com/sports/womens-basketball/roster/whitney-johnson/6956,2020-21
+402,McNeese State,6957,Elizabeth Critton,Junior,"Mesquite, TX.",,McLennan CC,"6'0""",Post,3,https://www.mcneesesports.com/sports/womens-basketball/roster/elizabeth-critton/6957,2020-21
+402,McNeese State,6947,Kyla Hamilton,Sophomore,"Westlake, LA.",Sam Houston High,,"5'6""",Point,12,https://www.mcneesesports.com/sports/womens-basketball/roster/kyla-hamilton/6947,2020-21
+402,McNeese State,6952,Delilah Van Campen,Sophomore,"Richmond, TX.",Fort Bend Travis High,,"6'1""",Forward,14,https://www.mcneesesports.com/sports/womens-basketball/roster/delilah-van-campen/6952,2020-21
+402,McNeese State,6955,Mychala Linzy,Junior,"Clinton, MS.",,Pearl River CC,"5'4""",Guard,15,https://www.mcneesesports.com/sports/womens-basketball/roster/mychala-linzy/6955,2020-21
+402,McNeese State,6946,Shaela Gardner,Senior,"Memphis, TN.",,Chipola College,"5'10""",Guard,20,https://www.mcneesesports.com/sports/womens-basketball/roster/shaela-gardner/6946,2020-21
+402,McNeese State,6951,Divine Tanks,Junior,"Lake Charles, LA.",Barbe High,,"6'1""",Forward,24,https://www.mcneesesports.com/sports/womens-basketball/roster/divine-tanks/6951,2020-21
+402,McNeese State,6945,Jordyn Cross,Sophomore,"Pitkin, LA.",Uni. Academy of Central LA.,LSUE,"5'9""",Point,33,https://www.mcneesesports.com/sports/womens-basketball/roster/jordyn-cross/6945,2020-21
+402,McNeese State,6953,Claralee Richard,Junior,"Sulphur, LA.",,LSUE,"5'9""",Guard,34,https://www.mcneesesports.com/sports/womens-basketball/roster/claralee-richard/6953,2020-21
+402,McNeese State,6950,Maia Robinson,Sophomore,"Denham Springs, LA.",Denham Springs High,,"6'2""",Post,40,https://www.mcneesesports.com/sports/womens-basketball/roster/maia-robinson/6950,2020-21
 410,Merrimack,8938,Alyssa Casey,Senior,"Andover, Mass.",Andover,,"5'11""",Forward,0,https://www.merrimackathletics.com/sports/womens-basketball/roster/alyssa-casey/8938,2020-21
 410,Merrimack,8941,Jayme DeCesare,Sophomore,"Johnston, R.I.",La Salle Academy,,"5'5""",Guard,1,https://www.merrimackathletics.com/sports/womens-basketball/roster/jayme-decesare/8941,2020-21
 410,Merrimack,8939,Diamond Christian,Sophomore,"Bronx, N.Y.",The Pennington School,,"5'5""",Guard,2,https://www.merrimackathletics.com/sports/womens-basketball/roster/diamond-christian/8939,2020-21
