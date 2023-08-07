@@ -10521,22 +10521,19 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 69,Bowdoin,11727,Starlette Franklin,,"Baltimore, Md.",Towson,,"6'2""",F,24,https://www.bowdoin.edu/sports/womens-basketball/roster/starlette-franklin/11727,2020-21
 69,Bowdoin,11726,Maddie Wilkin,,"London, England",The American School in London,,"5'6""",G,25,https://www.bowdoin.edu/sports/womens-basketball/roster/maddie-wilkin/11726,2020-21
 69,Bowdoin,11336,Callie Godfrey,,"Cheshire, Conn.",Miss Porter's School,,"6'0""",F,30,https://www.bowdoin.edu/sports/womens-basketball/roster/callie-godfrey/11336,2020-21
-691,Tennessee St.,4113,Ashley Malone,Junior,"Nashville, Tenn.",Pope John Paul II HS,Jacksonville University,"5'7""",Guard,0,https://www.tsutigers.com/sports/womens-basketball/roster/ashley-malone/4113,2020-21
-691,Tennessee St.,4114,Dream Muhammad,Freshman,"Henrico, Va.",Shining Star Sports Academy,,"5'8""",Guard,1,https://www.tsutigers.com/sports/womens-basketball/roster/dream-muhammad/4114,2020-21
-691,Tennessee St.,4108,Ever Walker,Junior,"Clarksville, Tenn.",Rossview HS,Bethel University (TN),"5'6""",Guard,2,https://www.tsutigers.com/sports/womens-basketball/roster/ever-walker/4108,2020-21
-691,Tennessee St.,4117,Eboni Williams,Senior,"Hoover, Ala.",Hoover HS,UT Chattanooga,"6'0""",Forward,3,https://www.tsutigers.com/sports/womens-basketball/roster/eboni-williams/4117,2020-21
-691,Tennessee St.,4109,Kianni Westbrook,Senior,"Augusta, Ga.",Burke County HS,Daytona State,"6'3""",Forward,4,https://www.tsutigers.com/sports/womens-basketball/roster/kianni-westbrook/4109,2020-21
-691,Tennessee St.,4112,Shequana Jackson,Graduate Student,"Brooklyn, N.Y.",Medgar Evers College Prep,Chowan/UT Tyler,"6'5""",Forward,5,https://www.tsutigers.com/sports/womens-basketball/roster/shequana-jackson/4112,2020-21
-691,Tennessee St.,4106,Saniah Parker,Sophomore,"Huntsville, Ala.",Mae Jemison,,"5'9""",Guard,10,https://www.tsutigers.com/sports/womens-basketball/roster/saniah-parker/4106,2020-21
-691,Tennessee St.,4103,Kennedy Davis,Junior,"White Plains, Md.",New Hope Academy,,"6'0""",Forward,11,https://www.tsutigers.com/sports/womens-basketball/roster/kennedy-davis/4103,2020-21
-691,Tennessee St.,4116,Corina Suarez-Tudela,Junior,Santa Cruz de Tenerife,,Cochise College,"5'8""",Guard,12,https://www.tsutigers.com/sports/womens-basketball/roster/corina-suarez-tudela/4116,2020-21
-691,Tennessee St.,4102,Gia Adams,Sophomore,"Houston, Texas",Jersey Village,,"5'7""",Guard,13,https://www.tsutigers.com/sports/womens-basketball/roster/gia-adams/4102,2020-21
-691,Tennessee St.,4105,Sierra McCullough,Senior,"Opelika, Ala.",,UNC Charlotte,"6'2""",Forward,14,https://www.tsutigers.com/sports/womens-basketball/roster/sierra-mccullough/4105,2020-21
-691,Tennessee St.,4111,Erica Haynes-Overton,Graduate Student,"Nashville, Tenn.",,Kansas,"5'6""",Guard,20,https://www.tsutigers.com/sports/womens-basketball/roster/erica-haynes-overton/4111,2020-21
-691,Tennessee St.,4115,Zyion Shannon,Freshman,"Smyrna, Tenn.",Stewarts Creek High School,,"5'8""",Guard,21,https://www.tsutigers.com/sports/womens-basketball/roster/zyion-shannon/4115,2020-21
-691,Tennessee St.,4107,Shonnyvelle Regalado,Graduate Student,"Brooklyn, N.Y.",,Panola College,"5'8""",Guard,23,https://www.tsutigers.com/sports/womens-basketball/roster/shonnyvelle-regalado/4107,2020-21
-691,Tennessee St.,4110,Lyric Cole,Sophomore,"Memphis, Tenn.",,Austin Peay,"6'0""",Forward,24,https://www.tsutigers.com/sports/womens-basketball/roster/lyric-cole/4110,2020-21
-691,Tennessee St.,4104,Nia Hicks,Sophomore,"Suwanee, Ga.",Peachtree Ridge,,"5'6""",Guard,32,https://www.tsutigers.com/sports/womens-basketball/roster/nia-hicks/4104,2020-21
+691,Tennessee St.,,Taylor Roberts,Sr.,"Oklahoma City, Okla.",Classen HS,,5-11,G,0,https://tsutigers.com/sports/womens-basketball/roster/taylor-roberts/3455,2020-21
+691,Tennessee St.,,Mya Iriah,Fr.,"Brampton, Ont.",TRC Academy,,5-8,G,1,https://tsutigers.com/sports/womens-basketball/roster/mya-iriah/3454,2020-21
+691,Tennessee St.,,Andreana Wrister,Sr.,"Memphis, Tenn.",Cordova HS,,5-7,G,2,https://tsutigers.com/sports/womens-basketball/roster/andreana-wrister/3444,2020-21
+691,Tennessee St.,,Jaden Wrightsell,Sr.,"Omaha, Neb.",Omaha Northwest HS,,5-10,F,3,https://tsutigers.com/sports/womens-basketball/roster/jaden-wrightsell/3449,2020-21
+691,Tennessee St.,,Aniyah Bailey,Fr.,"Nashville, Tenn.",Antioch HS,,5-7,G,5,https://tsutigers.com/sports/womens-basketball/roster/aniyah-bailey/3446,2020-21
+691,Tennessee St.,,Amber Appiah-Kubi,Sr.,"Nashville, Tenn.",Maplewood HS,Roane State CC,5-7,G,10,https://tsutigers.com/sports/womens-basketball/roster/amber-appiah-kubi/3445,2020-21
+691,Tennessee St.,,Kennedy Davis,Fr.,"White Plains, Md.",New Hope Academy,,6-0,G,11,https://tsutigers.com/sports/womens-basketball/roster/kennedy-davis/3451,2020-21
+691,Tennessee St.,,Breannah McCullah,Sr.,"Edwards, Miss.",Raymond HS,Mississippi Gulf Coast CC,5-7,G,12,https://tsutigers.com/sports/womens-basketball/roster/breannah-mccullah/3447,2020-21
+691,Tennessee St.,,Jada Spence,Fr.,"Milwaukee, Wisc.",Pius Xi Catholic HS,,6-0,G,14,https://tsutigers.com/sports/womens-basketball/roster/jada-spence/3448,2020-21
+691,Tennessee St.,,London Fairs,Fr.,"Nashville, Tenn.",East Magnet HS,,5-10,G,21,https://tsutigers.com/sports/womens-basketball/roster/london-fairs/3452,2020-21
+691,Tennessee St.,,Nijah Cunningham,Fr.,"Charlotte, N.C.",Hopewell HS,,6-4,F,22,https://tsutigers.com/sports/womens-basketball/roster/nijah-cunningham/2252,2020-21
+691,Tennessee St.,,Shonnyvelle Regalado,Jr.,"Brooklyn, N.Y.",Nazareth HS,Panola College,5-8,G,23,https://tsutigers.com/sports/womens-basketball/roster/shonnyvelle-regalado/3553,2020-21
+691,Tennessee St.,,Jasmine Broner,Jr.,"Centerville, Ohio",Centerville HS,,5-9,G,32,https://tsutigers.com/sports/womens-basketball/roster/jasmine-broner/3450,2020-21
 693,Chattanooga,7259,Audrey Canter,Sophomore,"Chattanooga, Tenn.",Silverdale Baptist Academy,,"5'9""",Guard,1,https://www.gomocs.com/sports/womens-basketball/roster/audrey-canter/7259,2020-21
 693,Chattanooga,7265,Pare Pene,Junior,"Rotorua, New Zealand",Rotorua High School,,"5'6""",Guard,2,https://www.gomocs.com/sports/womens-basketball/roster/pare-pene/7265,2020-21
 693,Chattanooga,7268,Eboni Williams,Junior,"Hoover, Ala.",Hoover High School,,"6'0""",Forward,3,https://www.gomocs.com/sports/womens-basketball/roster/eboni-williams/7268,2020-21
