@@ -5022,9 +5022,9 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 139,Chris. Newport,18171,Makenna Zimmerman,Freshman,"Easton, Pa.",Easton,,"6'2""",Forward,33,https://www.cnusports.com/sports/womens-basketball/roster/makenna-zimmerman/18171,2021-22
 139,Chris. Newport,18175,Ashley Steadman,Freshman,"Round Hill, Va.",Woodgrove,,"6'1""",Forward,42,https://www.cnusports.com/sports/womens-basketball/roster/ashley-steadman/18175,2021-22
 1390,Sul Ross St.,3784,Caitlyn Corley,SO,"Coahoma, TX",Coahoma HS,,"5'8""",G,1,https://www.srlobos.com/sports/womens-basketball/roster/caitlyn-corley/3784,2021-22
-1390,Sul Ross St.,3786,Cassie Hogan,SR,"Douglass, TX",Coastal Bend JC,,"5'8""",G,3,https://www.srlobos.com/sports/womens-basketball/roster/cassie-hogan/3786,2021-22
+1390,Sul Ross St.,3786,Cassie Hogan,SR,"Douglass, TX",,Coastal Bend JC,"5'8""",G,3,https://www.srlobos.com/sports/womens-basketball/roster/cassie-hogan/3786,2021-22
 1390,Sul Ross St.,3788,Camryn Medina,SO,"El Paso, Texas",Eastwood HS,,"5'7""",G,5,https://www.srlobos.com/sports/womens-basketball/roster/camryn-medina/3788,2021-22
-1390,Sul Ross St.,3791,Kayla James,SO,"Grand Prairie, TX",UT Tyler,,"5'6""",G,10,https://www.srlobos.com/sports/womens-basketball/roster/kayla-james/3791,2021-22
+1390,Sul Ross St.,3791,Kayla James,SO,"Grand Prairie, TX",,UT Tyler,"5'6""",G,10,https://www.srlobos.com/sports/womens-basketball/roster/kayla-james/3791,2021-22
 1390,Sul Ross St.,3789,Ashley Nunez,JR,"El Paso, TX",Canutillo HS,,"5'6""",G,11,https://www.srlobos.com/sports/womens-basketball/roster/ashley-nunez/3789,2021-22
 1390,Sul Ross St.,3790,Teresa Quintana,JR,"El Paso, TX",Americas HS,,"5'6""",G,12,https://www.srlobos.com/sports/womens-basketball/roster/teresa-quintana/3790,2021-22
 1390,Sul Ross St.,3793,Lauren Lusk,JR,"Dallas, Texas",Faith Family Academy,Western Oklahoma State College,"5'4""",G,14,https://www.srlobos.com/sports/womens-basketball/roster/lauren-lusk/3793,2021-22
@@ -5038,13 +5038,13 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 1395,Tarleton St.,9463,Lucy Benson,Senior,"Kennedale, TX",Kennedale HS,,"5'11""",Forward,1,https://www.tarletonsports.com/sports/womens-basketball/roster/lucy-benson/9463,2021-22
 1395,Tarleton St.,9465,Iyana Dorsey,Sophomore,"Saginaw, TX",Birdville HS,,"5'6""",Guard,2,https://www.tarletonsports.com/sports/womens-basketball/roster/iyana-dorsey/9465,2021-22
 1395,Tarleton St.,9474,Crystal Smith,Freshman,"Bastrop, LA",Obra D. Tompkins HS,,"5'9""",Guard,3,https://www.tarletonsports.com/sports/womens-basketball/roster/crystal-smith/9474,2021-22
-1395,Tarleton St.,9464,Emily Cunningham,Senior,"Italy, TX",Hill College (TX),,"6'0""",Forward,4,https://www.tarletonsports.com/sports/womens-basketball/roster/emily-cunningham/9464,2021-22
-1395,Tarleton St.,9467,Kaitlyn Guillory,Senior,"Keller, TX",Colby College (KS),,"5'9""",Guard,5,https://www.tarletonsports.com/sports/womens-basketball/roster/kaitlyn-guillory/9467,2021-22
+1395,Tarleton St.,9464,Emily Cunningham,Senior,"Italy, TX",Italy HS,Hill College (TX),"6'0""",Forward,4,https://www.tarletonsports.com/sports/womens-basketball/roster/emily-cunningham/9464,2021-22
+1395,Tarleton St.,9467,Kaitlyn Guillory,Senior,"Keller, TX",Keller HS,Colby College (KS),"5'9""",Guard,5,https://www.tarletonsports.com/sports/womens-basketball/roster/kaitlyn-guillory/9467,2021-22
 1395,Tarleton St.,9475,Mason Jones,Freshman,"Panhandle, TX",Panhandle HS,,"5'11""",Guard,11,https://www.tarletonsports.com/sports/womens-basketball/roster/mason-jones/9475,2021-22
 1395,Tarleton St.,9469,Jenna Dick,Sophomore,"Langley, B.C.",Brookswood Secondary School,,"5'8""",Guard,12,https://www.tarletonsports.com/sports/womens-basketball/roster/jenna-dick/9469,2021-22
 1395,Tarleton St.,9479,Nyajah Mitchels,Sophomore,"Jacksonville, NC",Jacksonville HS,,"6'4""",Center,21,https://www.tarletonsports.com/sports/womens-basketball/roster/nyajah-mitchels/9479,2021-22
 1395,Tarleton St.,9470,Tyler Jackson,Freshman,"Allen, TX",Allen HS,,"5'9""",Guard,22,https://www.tarletonsports.com/sports/womens-basketball/roster/tyler-jackson/9470,2021-22
-1395,Tarleton St.,9471,Jurnee President,Graduate Student,"Fort Worth, TX",St. Bonaventure,,"5'10""",Guard,23,https://www.tarletonsports.com/sports/womens-basketball/roster/jurnee-president/9471,2021-22
+1395,Tarleton St.,9471,Jurnee President,Graduate Student,"Fort Worth, TX",North Crowley HS,St. Bonaventure,"5'10""",Guard,23,https://www.tarletonsports.com/sports/womens-basketball/roster/jurnee-president/9471,2021-22
 1395,Tarleton St.,9477,Seynabou Thiam,Redshirt Sophomore,"Dakar, Senegal",Galandou Diouf HS,,"6'6""",Center,25,https://www.tarletonsports.com/sports/womens-basketball/roster/seynabou-thiam/9477,2021-22
 1395,Tarleton St.,9476,Emilia Axelsson,Sophomore,"Ragunda, Sweden",,,"6'1""",Forward,31,https://www.tarletonsports.com/sports/womens-basketball/roster/emilia-axelsson/9476,2021-22
 1395,Tarleton St.,9466,Marissa Escamilla,Senior,"Burnet, TX",Burnet HS,,"5'9""",Forward,33,https://www.tarletonsports.com/sports/womens-basketball/roster/marissa-escamilla/9466,2021-22
@@ -5476,7 +5476,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 17094,William Peace,2584,Stephanie Chandler,Junior,"Summerfield, NC",Northern Guilford HS,,"5'6""",G,10,https://www.gopeacepacers.com/sports/womens-basketball/roster/stephanie-chandler/2584,2021-22
 17094,William Peace,2599,Arianna Hamilton,Freshman,"Richlands, NC",Richlands HS,,"5'6""",G,11,https://www.gopeacepacers.com/sports/womens-basketball/roster/arianna-hamilton/2599,2021-22
 17094,William Peace,2588,Jenna Moebs,Junior,"Cary, NC",Cary HS,,"5'9""",G,12,https://www.gopeacepacers.com/sports/womens-basketball/roster/jenna-moebs/2588,2021-22
-17094,William Peace,2589,Faith Resto,Sophomore,"Durham, NC",,North Carolina Central,"5'4""",G,13,https://www.gopeacepacers.com/sports/womens-basketball/roster/faith-resto/2589,2021-22
+17094,William Peace,2589,Faith Resto,Sophomore,"Durham, NC",Southern Durham HS,North Carolina Central,"5'4""",G,13,https://www.gopeacepacers.com/sports/womens-basketball/roster/faith-resto/2589,2021-22
 17094,William Peace,2592,Shelby Wolfe,Senior,"Cherokee, NC",Cherokee HS,,"5'11""",G/F,14,https://www.gopeacepacers.com/sports/womens-basketball/roster/shelby-wolfe/2592,2021-22
 17094,William Peace,2600,Ninevah Reddick,Junior,"Greenville, NC",South Central HS,,"5'8""",G,15,https://www.gopeacepacers.com/sports/womens-basketball/roster/ninevah-reddick/2600,2021-22
 17094,William Peace,2587,Pamela Mock,Junior,"Greensboro, NC",Northeast HS,,"5'8""",G,21,https://www.gopeacepacers.com/sports/womens-basketball/roster/pamela-mock/2587,2021-22
@@ -5630,7 +5630,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 19117,Salem (WV),3491,Jordan Crace,Sophomore,"Springboro, OH",Springboro HS,,,,22,https://www.salemtigers.com/sports/womens-basketball/roster/jordan-crace/3491,2021-22
 19117,Salem (WV),3485,Kalyne Daniels,Junior,"Fort Worth, TX",Kennedale HS,,,,23,https://www.salemtigers.com/sports/womens-basketball/roster/kalyne-daniels/3485,2021-22
 19117,Salem (WV),3486,Vantane Garrett,Junior,"Detroit, MI",Detroit CMA,,,,24,https://www.salemtigers.com/sports/womens-basketball/roster/vantane-garrett/3486,2021-22
-19117,Salem (WV),3492,Teyarra Johnson,Sophomore,"Dayton, OH",,,,,30,https://www.salemtigers.com/sports/womens-basketball/roster/teyarra-johnson/3492,2021-22
+19117,Salem (WV),3492,Teyarra Johnson,Sophomore,"Dayton, OH",Wayne HS,,,,30,https://www.salemtigers.com/sports/womens-basketball/roster/teyarra-johnson/3492,2021-22
 19117,Salem (WV),3487,Liliani Krause,Freshman,"Colorado Springs, Colorado",Widefield HS,,,,32,https://www.salemtigers.com/sports/womens-basketball/roster/liliani-krause/3487,2021-22
 19117,Salem (WV),3483,Ixsamar Gonzalez,Sophomore,"Caguas, Puerto Rico",Woodrow Wilson HS (Tex.),Florida Memorial,6-1,Forward,33,https://www.salemtigers.com/sports/womens-basketball/roster/ixsamar-gonzalez/3483,2021-22
 19117,Salem (WV),3488,Aleena Mongerie,Freshman,"Munster, IN",Munster HS,,,,35,https://www.salemtigers.com/sports/womens-basketball/roster/aleena-mongerie/3488,2021-22
