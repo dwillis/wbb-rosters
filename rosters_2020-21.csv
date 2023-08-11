@@ -158,7 +158,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 107,California,17599,Alma Elsnitz,Fr.,"Stockholm, Sweden",Lulea Basketgymnasium,,"5'11""",Guard,14,https://www.calbears.com/sports/womens-basketball/roster/alma-elsnitz/17599,2020-21
 107,California,17990,Mia Mastrov,Fr.,"Lafayette, Calif.",Miramonte High School,,"5'11""",Guard,21,https://www.calbears.com/sports/womens-basketball/roster/mia-mastrov/17990,2020-21
 107,California,17594,Archer Olson,Sr.,"Palo Alto, Calif.",Henry M. Gunn,,"6'0""",Guard,22,https://www.calbears.com/sports/womens-basketball/roster/archer-olson/17594,2020-21
-107,California,17592,Evelien Lutje Schipholt,So.,"The Hague, the Netherlands",Caland Lyceum,,"6'2""",Forward,24,https://www.calbears.com/sports/womens-basketball/roster/evelien-lutje-schipholt/17592,2020-21
+107,California,17592,Evelien Lutje Schipholt,So.,"The Hague, The Netherlands",Caland Lyceum,,"6'2""",Forward,24,https://www.calbears.com/sports/womens-basketball/roster/evelien-lutje-schipholt/17592,2020-21
 107,California,17598,Ornela Muca,Fr.,"Athens, Greece",American Community School of Athens,,"5'7""",Guard,31,https://www.calbears.com/sports/womens-basketball/roster/ornela-muca/17598,2020-21
 107,California,17600,Sela Heide,Fr.,"North Bend, Wash.",Mount Si High School,,"6'7""",Center,32,https://www.calbears.com/sports/womens-basketball/roster/sela-heide/17600,2020-21
 107,California,17601,Fatou Samb,Fr.,"Houston, Texas",Westside High School,,"6'4""",Center,33,https://www.calbears.com/sports/womens-basketball/roster/fatou-samb/17601,2020-21
@@ -279,7 +279,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 688,Syracuse,19511,Teisha Hyman,Sophomore,"White Plains, N.Y.",Woodlands,,"5'8""",Guard,5,https://www.cuse.com/sports/womens-basketball/roster/teisha-hyman/19511,2020-21
 688,Syracuse,19526,Khamya McNeal,Freshman,"Miwaukee, Wisc.",Rufus King,,"5'8""",Guard,11,https://www.cuse.com/sports/womens-basketball/roster/khamya-mcneal/19526,2020-21
 688,Syracuse,19528,Faith Blackstone,Freshman,"Harrisburg, Pa.",Hillside,,"6'0""",Guard,12,https://www.cuse.com/sports/womens-basketball/roster/faith-blackstone/19528,2020-21
-688,Syracuse,19529,Maud Huijbens,Freshman,"Hilversum, Netherlands",Alberdingk Thijm College,,"6'5""",Forward,13,https://www.cuse.com/sports/womens-basketball/roster/maud-huijbens/19529,2020-21
+688,Syracuse,19529,Maud Huijbens,Freshman,"Hilversum, The Netherlands",Alberdingk Thijm College,,"6'5""",Forward,13,https://www.cuse.com/sports/womens-basketball/roster/maud-huijbens/19529,2020-21
 688,Syracuse,19530,Kamilla Cardoso,Freshman,"Montes Claros, Brazil",Hamilton Heights Christian Academy,,"6'7""",Center,14,https://www.cuse.com/sports/womens-basketball/roster/kamilla-cardoso/19530,2020-21
 688,Syracuse,19531,Kiara Fisher,Freshman,"Elmira, N.Y.",Elmira,,"5'7""",Guard,15,https://www.cuse.com/sports/womens-basketball/roster/kiara-fisher/19531,2020-21
 688,Syracuse,19508,Emily Engstler,Junior,"New York, N.Y.",St. Francis Prep,,"6'1""",Guard,21,https://www.cuse.com/sports/womens-basketball/roster/emily-engstler/19508,2020-21
@@ -466,7 +466,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 310,Iona,5708,Lucia Becerra Perez,Sophomore,"Tenerife, Spain",IES Viera y Clavijo,,"5'7""",Guard,13,https://www.ionagaels.com/sports/womens-basketball/roster/lucia-becerra-perez/5708,2020-21
 310,Iona,5721,Sydney Avoletta,Freshman,"Sterling, VA",St. Paul VI Catholic,,"6'4""",Forward,15,https://www.ionagaels.com/sports/womens-basketball/roster/sydney-avoletta/5721,2020-21
 310,Iona,5709,Juana Camilion,Junior,"Palma De Mallorca, Spain",IES Antonio Maura,,"5'10""",Guard,22,https://www.ionagaels.com/sports/womens-basketball/roster/juana-camilion/5709,2020-21
-310,Iona,5718,Anouschka Meijer,Freshman,"Amsterdam, Netherlands",Caland Lyceum,,"6'1""",Guard,23,https://www.ionagaels.com/sports/womens-basketball/roster/anouschka-meijer/5718,2020-21
+310,Iona,5718,Anouschka Meijer,Freshman,"Amsterdam, The Netherlands",Caland Lyceum,,"6'1""",Guard,23,https://www.ionagaels.com/sports/womens-basketball/roster/anouschka-meijer/5718,2020-21
 310,Iona,6143,Ketsia Athias,Junior,"Brooklyn, NY",James Madison,NYIT,"6'2""",Forward/Center,30,https://www.ionagaels.com/sports/womens-basketball/roster/ketsia-athias/6143,2020-21
 310,Iona,5717,Hannah King,Redshirt Junior,"Apopka, FL",Apopka,College of Central Florida,"5'11""",Forward,33,https://www.ionagaels.com/sports/womens-basketball/roster/hannah-king/5717,2020-21
 310,Iona,5712,Adaora Onwumelu,Redshirt Freshman,"Douglasville, GA",Lithia Springs,,"6'2""",Forward,34,https://www.ionagaels.com/sports/womens-basketball/roster/adaora-onwumelu/5712,2020-21
@@ -718,7 +718,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 545,Pittsburgh,10839,Dayshanette Harris,Sophomore,"Youngstown, OH",Ursuline,,"5'7""",Guard,1,https://www.pittsburghpanthers.com/sports/womens-basketball/roster/dayshanette-harris/10839,2020-21
 545,Pittsburgh,10847,Liatu King,Freshman,"Washington, DC",Bishop McNamara,,"6'0""",Guard,2,https://www.pittsburghpanthers.com/sports/womens-basketball/roster/liatu-king/10847,2020-21
 545,Pittsburgh,10849,Taisha Exanor,Freshman,"Chateauguay, Quebec, Canada",Dawson College,,"6'0""",Guard,3,https://www.pittsburghpanthers.com/sports/womens-basketball/roster/taisha-exanor/10849,2020-21
-545,Pittsburgh,10840,Emy Hayford,Sophomore,"Maastricht, Netherlands",Calandlyceum,,"5'8""",Guard,4,https://www.pittsburghpanthers.com/sports/womens-basketball/roster/emy-hayford/10840,2020-21
+545,Pittsburgh,10840,Emy Hayford,Sophomore,"Maastricht, The Netherlands",Calandlyceum,,"5'8""",Guard,4,https://www.pittsburghpanthers.com/sports/womens-basketball/roster/emy-hayford/10840,2020-21
 545,Pittsburgh,10836,Amber Brown,Sophomore,"Monroe, LA",Little Rock Christian Academy,,"6'0""",Forward,5,https://www.pittsburghpanthers.com/sports/womens-basketball/roster/amber-brown/10836,2020-21
 545,Pittsburgh,10845,Ismini Prapa,Junior,"Athens, Greece",American Community School of Athens,,"5'7""",Guard,10,https://www.pittsburghpanthers.com/sports/womens-basketball/roster/ismini-prapa/10845,2020-21
 545,Pittsburgh,10842,Cara Judkins,Senior,"Bethesda, MD",Our Lady of Good Counsel,,"6'2""",Center,11,https://www.pittsburghpanthers.com/sports/womens-basketball/roster/cara-judkins/10842,2020-21
@@ -1003,7 +1003,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 651,South Florida,12373,Sydni Harvey,Junior,"Nashville, Tenn.",Brentwood Academy,,"5'10""",Point,3,https://www.gousfbulls.com/sports/womens-basketball/roster/sydni-harvey/12373,2020-21
 651,South Florida,12378,Elisa Pinzan,Junior,"Murano, Italy",Istituto Tecnico Algarotti Venezia,,"5'8""",Point,4,https://www.gousfbulls.com/sports/womens-basketball/roster/elisa-pinzan/12378,2020-21
 651,South Florida,12380,Elena Tsineke,Sophomore,"Thessaloniki, Greece",Hellenic College of Thessaloniki,,"5'7""",Guard,5,https://www.gousfbulls.com/sports/womens-basketball/roster/elena-tsineke/12380,2020-21
-651,South Florida,12382,Jade Blagrove,Freshman,"Barendrecht, Netherlands",Calandlyceum,,"6'2""",Forward,11,https://www.gousfbulls.com/sports/womens-basketball/roster/jade-blagrove/12382,2020-21
+651,South Florida,12382,Jade Blagrove,Freshman,"Barendrecht, The Netherlands",Calandlyceum,,"6'2""",Forward,11,https://www.gousfbulls.com/sports/womens-basketball/roster/jade-blagrove/12382,2020-21
 651,South Florida,12371,Cristina Bermejo,Sophomore,"Sant Just Desvern, Spain",Ins Sant Just Desvern,,"6'1""",Wing,12,https://www.gousfbulls.com/sports/womens-basketball/roster/cristina-bermejo/12371,2020-21
 651,South Florida,12383,Sara Guerreiro,Freshman,"Seixal, Portugal",Escola Básica e Secundária Amélia Rey Colasso,,"5'8""",Guard,13,https://www.gousfbulls.com/sports/womens-basketball/roster/sara-guerreiro/12383,2020-21
 651,South Florida,12377,Bethy Mununga,Senior,"Zellik, Belgium",Institut Sainte- Marie Jambes,Northeastern Oklahoma A&M,"6'0""",Forward,20,https://www.gousfbulls.com/sports/womens-basketball/roster/bethy-mununga/12377,2020-21
@@ -1360,7 +1360,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 87,Butler,9619,Rosemarie Dumont,Freshman,"Québec City, Canada",Cegep de Sainte Foy,,"6'3""",F,22,https://www.butlersports.com/sports/womens-basketball/roster/rosemarie-dumont/9619,2020-21
 87,Butler,9614,Ellen Ross,Junior,"Fort Wayne, Ind.",Bishop Dwenger,,"5'11""",Forward,25,https://www.butlersports.com/sports/womens-basketball/roster/ellen-ross/9614,2020-21
 87,Butler,9618,Abby Stoddard,Freshman,"Crown Point, Ind.",Crown Point,,"6'1""",G/F,30,https://www.butlersports.com/sports/womens-basketball/roster/abby-stoddard/9618,2020-21
-77,Brigham Young,,Megan Stevenson,FR,"Purcellville, Virginia, United States",Loudoun Valley High School,,6-0,Forward,1,https://www.byucougars.com/athlete/w-basketball/1294290/megan-stevenson,2020-21
+77,Brigham Young,,Megan Stevenson,FR,"Purcellville, Virginia",Loudoun Valley High School,,6-0,Forward,1,https://www.byucougars.com/athlete/w-basketball/1294290/megan-stevenson,2020-21
 77,Brigham Young,,Shaylee Gonzales,SO,"Gilbert, Arizona",Mesquite High School,,5-10,Guard,2,https://www.byucougars.com/athlete/w-basketball/1285406/shaylee-gonzales,2020-21
 77,Brigham Young,,Maria Albiero,SR,"Londrina, Brazil",Neuse Christian Academy,,5-8,Guard,5,https://www.byucougars.com/athlete/w-basketball/121394/maria-albiero,2020-21
 77,Brigham Young,,Tegan Graham,GR,"Wellington, New Zealand",Wellington Girls College,Colgate,6-0,Guard,10,https://www.byucougars.com/athlete/w-basketball/1293714/tegan-graham,2020-21
@@ -2607,7 +2607,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 527,Oral Roberts,4420,Corrie Anderson,Freshman,"Colorado Springs, Colo.",Colorado Springs Christian School,,"5'8""",G,3,https://www.oruathletics.com/sports/womens-basketball/roster/corrie-anderson/4420,2020-21
 527,Oral Roberts,4421,Hannah Giddey,Freshman,"Melbourne, Victoria, Australia",Albert Park College,,"6'1""",F,4,https://www.oruathletics.com/sports/womens-basketball/roster/hannah-giddey/4421,2020-21
 527,Oral Roberts,4422,Manaya Jones,Redshirt Senior,"Memphis, Tenn.",Raleigh-Egypt HS,Grand Canyon,"6'4""",C,5,https://www.oruathletics.com/sports/womens-basketball/roster/manaya-jones/4422,2020-21
-527,Oral Roberts,4423,Bo Teulings,Sophomore,"S-Hertogenbosch, Netherlands",Maurick College Vught,,"6'0""",F,10,https://www.oruathletics.com/sports/womens-basketball/roster/bo-teulings/4423,2020-21
+527,Oral Roberts,4423,Bo Teulings,Sophomore,"S-Hertogenbosch, The Netherlands",Maurick College Vught,,"6'0""",F,10,https://www.oruathletics.com/sports/womens-basketball/roster/bo-teulings/4423,2020-21
 527,Oral Roberts,4416,Gem Summers,Sophomore,"Tulsa, Okla.",Victory Christian,,"5'9""",G,11,https://www.oruathletics.com/sports/womens-basketball/roster/gem-summers/4416,2020-21
 527,Oral Roberts,4424,Camryn Hill,Freshman,"Dallas, Texas",South Grand Prairie HS,,"5'11""",G,12,https://www.oruathletics.com/sports/womens-basketball/roster/camryn-hill/4424,2020-21
 527,Oral Roberts,4425,Ariel Walker,Junior,"Ozark, Ark.",Ozark HS,Allen CC,"5'5""",G,14,https://www.oruathletics.com/sports/womens-basketball/roster/ariel-walker/4425,2020-21
@@ -3295,7 +3295,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 2743,Incarnate Word,8666,Zaya Price,Freshman,"Cibolo, Texas",Steele HS,,"5'10""",Guard,24,https://www.uiwcardinals.com/sports/womens-basketball/roster/zaya-price/8666,2020-21
 2743,Incarnate Word,8667,Tiana Gardner,Sophomore,"Austin, Texas",Stephen F. Austin HS,Temple College,"6'0""",Forward,32,https://www.uiwcardinals.com/sports/womens-basketball/roster/tiana-gardner/8667,2020-21
 498,Louisiana Monroe,4552,Gara Beth Self,Sophomore,"New Albany, Mississippi",Ingomar HS,,"5'8""",Guard,2,https://www.ulmwarhawks.com/sports/womens-basketball/roster/gara-beth-self/4552,2020-21
-498,Louisiana Monroe,4553,Linda van Schaik,Sophomore,"South Holland, Netherlands",Orange Angels Academy,,"5'10""",Guard,3,https://www.ulmwarhawks.com/sports/womens-basketball/roster/linda-van-schaik/4553,2020-21
+498,Louisiana Monroe,4553,Linda van Schaik,Sophomore,"South Holland, The Netherlands",Orange Angels Academy,,"5'10""",Guard,3,https://www.ulmwarhawks.com/sports/womens-basketball/roster/linda-van-schaik/4553,2020-21
 498,Louisiana Monroe,4548,Kierra Crockett,Senior,"Farmington Hills, Mich.",North Farmington HS,Independence CC,"6'0""",Forward,4,https://www.ulmwarhawks.com/sports/womens-basketball/roster/kierra-crockett/4548,2020-21
 498,Louisiana Monroe,4549,Maddi Gatte,Junior,"Egan, La.",Iota HS,Southwest CC,"5'9""",Guard,10,https://www.ulmwarhawks.com/sports/womens-basketball/roster/maddi-gatte/4549,2020-21
 498,Louisiana Monroe,4550,Whitney Goins,Senior,"Anacoco, LA",Anacoco HS,,"6'0""",Guard/Forward,11,https://www.ulmwarhawks.com/sports/womens-basketball/roster/whitney-goins/4550,2020-21
@@ -5028,7 +5028,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 64,Blackburn,,Katie Rhodes,Junior,"Hancock, Illinois",Illini West,,5'7,Guard/Forward,20,https://www.blackburnbeavers.com/sports/wbkb/2020-21/bios/rhoades_katie_qrn1,2020-21
 64,Blackburn,,Megan Lindzy,Sophomore,"St. Louis, Missouri",Lutheran South,,5'9,Guard,22,https://www.blackburnbeavers.com/sports/wbkb/2020-21/bios/lindzy_megan_fjhy,2020-21
 64,Blackburn,,Danielle Vogel,Freshman,"Fairbury, Illinois",Prairie Central,,6'0,Forward/Center,25,https://www.blackburnbeavers.com/sports/wbkb/2020-21/bios/vogel_danielle_crwf,2020-21
-64,Blackburn,,Hanna Box,Junior,"Dyersburg, Tennesse",Dyer County,,5'7,Guard,30,https://www.blackburnbeavers.com/sports/wbkb/2020-21/bios/box_hanna_w14k,2020-21
+64,Blackburn,,Hanna Box,Junior,"Dyersburg, Tennessee",Dyer County,,5'7,Guard,30,https://www.blackburnbeavers.com/sports/wbkb/2020-21/bios/box_hanna_w14k,2020-21
 64,Blackburn,,Elizabeth Morris,Freshman,"Belgrade, Missouri",Valley R-6,,5'7,Guard/Forward,34,https://www.blackburnbeavers.com/sports/wbkb/2020-21/bios/morris_elizabeth_u3g8,2020-21
 1371,Southeastern Okla.,3773,Grace Alverson,Freshman,"Argyle, Texas",Liberty Christian HS,,"5'5""",G,3,https://www.gosoutheastern.com/sports/womens-basketball/roster/grace-alverson/3773,2020-21
 1371,Southeastern Okla.,3768,Kamryn Cantwell,Junior,"Bowie, TX",Bowie HS,,"5'8""",G,5,https://www.gosoutheastern.com/sports/womens-basketball/roster/kamryn-cantwell/3768,2020-21
@@ -6151,7 +6151,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 235,Florida,13675,Danielle Rainey,Redshirt Senior,"Washington, D.C.",Vista Ridge,,"5'10""",Guard,10,https://www.floridagators.com/sports/womens-basketball/roster/danielle-rainey/13675,2020-21
 235,Florida,13672,Emanuely de Oliveira,Junior,"Criciúma, Brazil",Wasatch Academy,,"5'10""",Forward,11,https://www.floridagators.com/sports/womens-basketball/roster/emanuely-de-oliveira/13672,2020-21
 235,Florida,13679,Jordyn Merritt,Freshman,"Plano, Texas",Plano,,"6'3""",Forward,12,https://www.floridagators.com/sports/womens-basketball/roster/jordyn-merritt/13679,2020-21
-235,Florida,13681,Floor Toonders,Freshman,"Wageningen, Netherlands",Calandlyceum Amsterdam,,"6'4""",Forward,13,https://www.floridagators.com/sports/womens-basketball/roster/floor-toonders/13681,2020-21
+235,Florida,13681,Floor Toonders,Freshman,"Wageningen, The Netherlands",Calandlyceum Amsterdam,,"6'4""",Forward,13,https://www.floridagators.com/sports/womens-basketball/roster/floor-toonders/13681,2020-21
 235,Florida,13674,Kristina Moore,Junior,"Sydney, Australia",Abbotsleigh School,,"6'1""",Guard,14,https://www.floridagators.com/sports/womens-basketball/roster/kristina-moore/13674,2020-21
 235,Florida,13676,Nina Rickards,Sophomore,"Queens, New York",Christ the King Regional High School,,"5'9""",Guard,15,https://www.floridagators.com/sports/womens-basketball/roster/nina-rickards/13676,2020-21
 235,Florida,13678,Brynn Farrell,Freshman,"Ortley Beach, N.J.",St. Rose,,"6'0""",Guard,22,https://www.floridagators.com/sports/womens-basketball/roster/brynn-farrell/13678,2020-21
@@ -6360,7 +6360,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 26172,A&M-Corpus Christi,3745,Alecia Westbrook,Sophomore,"Kansas City, Mo.",Park Hill South HS,,"6'1""",F/C,13,https://www.goislanders.com/sports/womens-basketball/roster/alecia-westbrook/3745,2020-21
 26172,A&M-Corpus Christi,3741,Olivia Dowden,Sophomore,"West Lafayette, Ind.",McCutcheon HS,,"5'10""",G,14,https://www.goislanders.com/sports/womens-basketball/roster/olivia-dowden/3741,2020-21
 26172,A&M-Corpus Christi,3743,Makinna Serrata,Junior,"Tilden, Texas",McMullen County HS,,"6'0""",G,20,https://www.goislanders.com/sports/womens-basketball/roster/makinna-serrata/3743,2020-21
-26172,A&M-Corpus Christi,3744,Lynn Tamis,Redshirt Sophomore,"Amsterdam, Netherlands",,Indiana State,"6'3""",C,23,https://www.goislanders.com/sports/womens-basketball/roster/lynn-tamis/3744,2020-21
+26172,A&M-Corpus Christi,3744,Lynn Tamis,Redshirt Sophomore,"Amsterdam, The Netherlands",,Indiana State,"6'3""",C,23,https://www.goislanders.com/sports/womens-basketball/roster/lynn-tamis/3744,2020-21
 26172,A&M-Corpus Christi,3749,Nabaweeyah McGill,Freshman,"Tampa, Fla.",Carrollwood Day School,,"6'2""",F,32,https://www.goislanders.com/sports/womens-basketball/roster/nabaweeyah-mcgill/3749,2020-21
 262,Grand Valley St.,11995,Qay Stanton,Senior,"Clio, S.C.",,Eastern Kentucky University,"5'6""",G,1,https://www.gvsulakers.com/sports/womens-basketball/roster/qay-stanton/11995,2020-21
 262,Grand Valley St.,11994,Hallee Breimayer,Junior,"Belding, Mich.",,Grand Rapids CC,"5'9""",G,2,https://www.gvsulakers.com/sports/womens-basketball/roster/hallee-breimayer/11994,2020-21
@@ -6819,7 +6819,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 292,Hunter,5212,Elliah Yode,Freshman,"Bronx, N.Y.",Marble Hill School of International Studies,,"5'6""",Guard,14,https://www.huntercollegeathletics.com/sports/womens-basketball/roster/elliah-yode/5212,2020-21
 292,Hunter,5222,Kennedy DeRuy,Freshman,"Joplin, MO",McAuley Catholic School,,"5'8""",Guard,15,https://www.huntercollegeathletics.com/sports/womens-basketball/roster/kennedy-deruy/5222,2020-21
 292,Hunter,5223,Makkedah Murray,Freshman,"Brooklyn, N.Y.",Brooklyn College Academy,,"5'5""",Guard,30,https://www.huntercollegeathletics.com/sports/womens-basketball/roster/makkedah-murray/5223,2020-21
-292,Hunter,5226,Sakurako Nakamura,Sophomore,"Taito City, Tokyo",The IMG Academy,,"5'3""",Guard,31,https://www.huntercollegeathletics.com/sports/womens-basketball/roster/sakurako-nakamura/5226,2020-21
+292,Hunter,5226,Sakurako Nakamura,Sophomore,"Taito City, Japan",The IMG Academy,,"5'3""",Guard,31,https://www.huntercollegeathletics.com/sports/womens-basketball/roster/sakurako-nakamura/5226,2020-21
 292,Hunter,5224,Leila Mouri,Freshman,"New York, N.Y.",Tesoro High School,,"6'1""",Forward,40,https://www.huntercollegeathletics.com/sports/womens-basketball/roster/leila-mouri/5224,2020-21
 292,Hunter,5225,Leila Mouri,Freshman,"New York, N.Y.",Tesoro High School,,"6'1""",Forward,40,https://www.huntercollegeathletics.com/sports/womens-basketball/roster/leila-mouri/5225,2020-21
 294,Idaho St.,6610,Lili Bevao,Junior,"Reunion Island, France",,Reedley College,"5'7""",Guard,1,https://www.isubengals.com/sports/womens-basketball/roster/lili-bevao/6610,2020-21
@@ -10697,7 +10697,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 73,Brandeis,,Christina Bacon,Fr.,"Scituate, R.I.",LaSalle Academy,,5-9,F,24,https://www.brandeisjudges.com/sports/wbkb/2020-21/bios/bacon_christina_yn9t,2020-21
 73,Brandeis,,Emma Reavis,So.,"Miami, Okla.",Deerfield Academy,,5-10,G,30,https://www.brandeisjudges.com/sports/wbkb/2020-21/bios/reavis_emma_ts7m,2020-21
 73,Brandeis,,Francesca Marchese,So.,"Staten Island, N.Y.",Staten Island Academy,,5-7,G,31,https://www.brandeisjudges.com/sports/wbkb/2020-21/bios/marchese_francesca_3g2y,2020-21
-73,Brandeis,,Courtney Thrun,Sr.,"Regina, Sask.",Wilbraham & Monson Academy,,5-10,F,32,https://www.brandeisjudges.com/sports/wbkb/2020-21/bios/thrun_courtney_q9bg,2020-21
+73,Brandeis,,Courtney Thrun,Sr.,"Regina, Canada",Wilbraham & Monson Academy,,5-10,F,32,https://www.brandeisjudges.com/sports/wbkb/2020-21/bios/thrun_courtney_q9bg,2020-21
 73,Brandeis,,Lauren Mirsky,Fy.,"Ocean City, N.J.",Ocean City,,5-11,F,34,https://www.brandeisjudges.com/sports/wbkb/2020-21/bios/mirsky_lauren_88p4,2020-21
 73,Brandeis,,Macy Arsenault,Fr.,"Berlin, N.H.",Holderness School,,5-3,G,35,https://www.brandeisjudges.com/sports/wbkb/2020-21/bios/arsenault_macy_rq8y,2020-21
 73,Brandeis,,Tathiana Pierre,So.,"Jericho, N.Y.",Sacred Heart Academy,,5-4,G,44,https://www.brandeisjudges.com/sports/wbkb/2020-21/bios/pierre_tathiana_0j56,2020-21
@@ -11977,7 +11977,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 75,Bridgewater (VA),,Katie Gaeth,Fr.,"Midlothian, Va.",Midlothian,,5-8,Guard,32,https://bridgewatereagles.com/sports/womens-basketball/roster/katie-gaeth/5362,2020-21
 75,Bridgewater (VA),,Jada Gross,Fr.,"Baltimore, Md.",Poly,,5-9,Guard,33,https://bridgewatereagles.com/sports/womens-basketball/roster/jada-gross/5363,2020-21
 75,Bridgewater (VA),,Ahlia Moone,Sr.,"Gainesville, Va.",Battlefield,,5-4,Guard,35,https://bridgewatereagles.com/sports/womens-basketball/roster/ahlia-moone/5368,2020-21
-89,Caltech,,Charley Lafayette,So.,"Toronto, Ontario, Can.",Branksome Hall,,6-0,F,1,https://gocaltech.com/sports/womens-basketball/roster/charley-lafayette/3066,2020-21
+89,Caltech,,Charley Lafayette,So.,"Toronto, Canada",Branksome Hall,,6-0,F,1,https://gocaltech.com/sports/womens-basketball/roster/charley-lafayette/3066,2020-21
 89,Caltech,,Sahana Saikumar,So.,"Arcadia, Calif.",Arcadia,,5-10,F,10,https://gocaltech.com/sports/womens-basketball/roster/sahana-saikumar/3071,2020-21
 89,Caltech,,Helen Siavelis,So.,"Arlington Heights, Ill.",Prospect,,5-3,G,12,https://gocaltech.com/sports/womens-basketball/roster/helen-siavelis/3073,2020-21
 89,Caltech,,Faith Pinney,So.,"Spokane, Wash.",Gonzaga Preparatory School,,5-6,G,15,https://gocaltech.com/sports/womens-basketball/roster/faith-pinney/3069,2020-21
@@ -12115,7 +12115,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 248,George Mason,,Marika Korpinen,Sr.,"Turku, Finland",Long Island Lutheran,,"5' 9""",G,12,https://gomason.com/sports/womens-basketball/roster/marika-korpinen/5854,2020-21
 248,George Mason,,Devyn Wilson,Jr.,"Smyrna, Ga.",Norcross,,"5' 11""",F,15,https://gomason.com/sports/womens-basketball/roster/devyn-wilson/5858,2020-21
 248,George Mason,,Vanessa Laumbach,Fr.,"Woodbridge, Va.",Woodbridge,,"6' 0""",F,20,https://gomason.com/sports/womens-basketball/roster/vanessa-laumbach/5862,2020-21
-248,George Mason,,Vita Stam,So.,"Utrecht, Netherlands",Calandlyceum,,"6' 3""",F,21,https://gomason.com/sports/womens-basketball/roster/vita-stam/5856,2020-21
+248,George Mason,,Vita Stam,So.,"Utrecht, The Netherlands",Calandlyceum,,"6' 3""",F,21,https://gomason.com/sports/womens-basketball/roster/vita-stam/5856,2020-21
 248,George Mason,,Daijah Jefferson,Gr.,"Hopewell, Va.",Hopewell,Georgia Tech,"6' 2""",F,22,https://gomason.com/sports/womens-basketball/roster/daijah-jefferson/5859,2020-21
 248,George Mason,,Rachel Balzer,R-Fr.,"Doylestown, Pa.",Germantown Academy,,"5' 10""",G,24,https://gomason.com/sports/womens-basketball/roster/rachel-balzer/5850,2020-21
 248,George Mason,,Camarie Gatling,Sr.,"Richmond, Va.",Highland Springs,,"6' 0""",F,33,https://gomason.com/sports/womens-basketball/roster/camarie-gatling/5852,2020-21
