@@ -4,12 +4,15 @@ library(tidyverse)
 
 ```{r}
 teams <- read_csv("teams.csv")
+rosters2021 <- read_csv("rosters_2020-21.csv")
 rosters2122 <- read_csv("rosters_2021-22.csv")
+rosters2223 <- read_csv("rosters_2022-23.csv")
+rosters2324 <- read_csv("rosters_2023-24.csv")
 ```
 
 ```{r}
-teams2122 <- rosters2122 %>% distinct(ncaa_id, team)
-need_rosters <- teams %>% anti_join(teams2122, by='ncaa_id')
+teams2324 <- rosters2324 %>% distinct(ncaa_id, team)
+need_rosters <- teams %>% anti_join(teams2324, by='ncaa_id')
 
 roster_adds <- need_rosters %>% inner_join(oldrosters2122, by=c("ncaa_id", "team")) %>% select(-twitter, -stats_name, -private, -team_state, -conference, -division, -url.x, -url.y)
 
@@ -39,7 +42,35 @@ rosters2324 <- read_csv("rosters_2023-24.csv")
 teams2324 <- rosters2324 %>% distinct(ncaa_id, team)
 need_rosters <- teams %>% anti_join(teams2324, by='ncaa_id')
 
+rosters2324_with_teams <- rosters2324 %>% inner_join(teams, join_by(ncaa_id, team)) %>% select(-url.y, -stats_name, -twitter, -private)
+
+acc_2324 <- rosters2324_with_teams %>% filter(conference == 'ACC')
+
+write_csv(acc_2324, "acc_2324.csv")
+
 rosters2324 %>% group_by(team) %>% summarize(players = n()) %>% arrange(players)
+```
+
+
+## Roster Continuity
+
+
+```{r}
+common_players_23 <- rosters2223 %>% inner_join(rosters2122, join_by(name, ncaa_id, team)) %>% 
+  select(ncaa_id, team, name, year.x, url.x, year.y, url.y) %>% 
+  mutate(previous_season = TRUE)
+
+rosters2223 <- rosters2223 %>% left_join(common_players_23, join_by(url == url.x, ncaa_id == ncaa_id, team == team, name == name)) %>% mutate(previous_season = if_else(!is.na(previous_season), previous_season, FALSE)) %>% 
+  select(ncaa_id, team, player_id, name, year, hometown, high_school, previous_school, height, position, jersey, url, season, previous_season)
+
+
+common_players_22 <- rosters2122 %>% inner_join(rosters2021, join_by(name, ncaa_id, team)) %>% 
+  select(ncaa_id, team, name, year.x, url.x, year.y, url.y) %>% 
+   mutate(previous_season = TRUE)
+
+rosters2122 <- rosters2122 %>% left_join(common_players_22, join_by(url == url.x, ncaa_id == ncaa_id, team == team, name == name)) %>% mutate(previous_season = if_else(!is.na(previous_season), previous_season, FALSE)) %>% 
+  select(ncaa_id, team, player_id, name, year, hometown, high_school, previous_school, height, position, jersey, url, season, previous_season)
+
 ```
 
 
