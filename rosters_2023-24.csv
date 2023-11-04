@@ -4389,21 +4389,6 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 1245,Mount Olive,5359,Asia Smith,Junior,"Washington, D.C.",Myrtle Beach,Charleston Southern,"6'1""",Forward/Center,23,https://www.umotrojans.com/sports/womens-basketball/roster/asia-smith/5359,2023-2024
 1245,Mount Olive,5360,Tiandria Tucker,Junior,"Burlington, N.C.",Walter M. Williams,,"5'6""",Guard,24,https://www.umotrojans.com/sports/womens-basketball/roster/tiandria-tucker/5360,2023-2024
 1245,Mount Olive,5353,Reagan Hune,Senior,"Carmel, Ind.",Carmel,University of North Alabama,"5'10""",Guard/Forward,32,https://www.umotrojans.com/sports/womens-basketball/roster/reagan-hune/5353,2023-2024
-125,Centenary (LA),5287,D'Ani Morales,Freshman,"Passaic, N.J.",Passaic Preparatory Academy,,"6'2""",Forward/Center,2,https://www.centenarycyclones.com/sports/womens-basketball/roster/d-ani-morales/5287,2023-2024
-125,Centenary (LA),5282,Carmen Escano,Senior,"Passaic, N.J.",Passaic,,"5'8""",Guard/Forward,3,https://www.centenarycyclones.com/sports/womens-basketball/roster/carmen-escano/5282,2023-2024
-125,Centenary (LA),5288,Cameron Fulcher,Freshman,"Paterson, N.J.",Immaculate Conception,,"6'1""",Forward/Center,4,https://www.centenarycyclones.com/sports/womens-basketball/roster/cameron-fulcher/5288,2023-2024
-125,Centenary (LA),5289,Elainy Pichardo,Freshman,"Union City, N.J.",Union City,,"5'2""",Point,5,https://www.centenarycyclones.com/sports/womens-basketball/roster/elainy-pichardo/5289,2023-2024
-125,Centenary (LA),5285,Brynn Smith,Sophomore,"Washington, N.J.",Warren Hills,,"5'6""",Guard,10,https://www.centenarycyclones.com/sports/womens-basketball/roster/brynn-smith/5285,2023-2024
-125,Centenary (LA),5290,Jasmine Sampong,Freshman,"Riverdale, N.J.",Pompton Lakes,,"5'7""",Guard/Forward,11,https://www.centenarycyclones.com/sports/womens-basketball/roster/jasmine-sampong/5290,2023-2024
-125,Centenary (LA),5286,Brianna Worthy,Sophomore,"Montclair, N.J.",Central,,"5'7""",Guard/Forward,12,https://www.centenarycyclones.com/sports/womens-basketball/roster/brianna-worthy/5286,2023-2024
-125,Centenary (LA),5291,Brie Opdyke,Junior,"Belvidere, N.J.",Belvidere,,"5'8""",Guard,15,https://www.centenarycyclones.com/sports/womens-basketball/roster/brie-opdyke/5291,2023-2024
-125,Centenary (LA),5284,Camryn Rothery,Junior,"Manasquan, N.J.",Manasquan,,"5'6""",Guard,20,https://www.centenarycyclones.com/sports/womens-basketball/roster/camryn-rothery/5284,2023-2024
-125,Centenary (LA),5281,Kaylie Elsbree,Sophomore,"Howell, N.J.",Freehold Township,,"5'8""",Guard,21,https://www.centenarycyclones.com/sports/womens-basketball/roster/kaylie-elsbree/5281,2023-2024
-125,Centenary (LA),5293,Kayla Sampong,Freshman,"Riverdale, N.J.",Pompton Lakes,,"5'6""",Guard,23,https://www.centenarycyclones.com/sports/womens-basketball/roster/kayla-sampong/5293,2023-2024
-125,Centenary (LA),5294,Tanya Elsbree,Sophomore,"Howell, N.J.",Freehold Township,,"5'4""",Point,25,https://www.centenarycyclones.com/sports/womens-basketball/roster/tanya-elsbree/5294,2023-2024
-125,Centenary (LA),5295,Sofia Mendez,Freshman,"Weehawken, N.J.",Weehawken,,"6'1""",Forward/Center,33,https://www.centenarycyclones.com/sports/womens-basketball/roster/sofia-mendez/5295,2023-2024
-125,Centenary (LA),5283,McKayla Mooney,Sophomore,"Lacey Township, N.J.",Lacey Township,,"5'8""",Shooting,40,https://www.centenarycyclones.com/sports/womens-basketball/roster/mckayla-mooney/5283,2023-2024
-125,Centenary (LA),5296,Viviana Mendez,Freshman,"Weehawken, N.J.",Weehawken,,"6'0""",Guard/Forward,44,https://www.centenarycyclones.com/sports/womens-basketball/roster/viviana-mendez/5296,2023-2024
 1254,Neumann,14818,Olivia Pagliuso,Sophomore,"Medford, N.J.",Shawnee,,"5'2""",Guard,0,https://www.neumannathletics.com/sports/womens-basketball/roster/olivia-pagliuso/14818,2023-2024
 1254,Neumann,14822,Lindsay Holden,First Year,"Cape May, N.J.",Lower Cape May,,"5'2""",Guard,2,https://www.neumannathletics.com/sports/womens-basketball/roster/lindsay-holden/14822,2023-2024
 1254,Neumann,14812,Aubrie Breisblatt,Sophomore,"Phoenixville, Pa.",Phoenixville,,"5'7""",Guard,3,https://www.neumannathletics.com/sports/womens-basketball/roster/aubrie-breisblatt/14812,2023-2024
@@ -13566,3 +13551,176 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 214,Emerson,,Kendra Dodd,Fr.,"Tampa, FL",H.B. Plant High School,,"5'8""","5'8""",32,https://emersonlions.com/sports/womens-basketball/roster/kendra-dodd/3133,2023-24
 214,Emerson,,Sydney Lyons,Fr.,"Medford, NJ",Shawnee High School,,"6'0""","6'0""",33,https://emersonlions.com/sports/womens-basketball/roster/sydney-lyons/3135,2023-24
 214,Emerson,,Quinn O'Connor,Sr.,"Bethlehem, Penn.",Moravian Academy,,,,50,https://emersonlions.com/sports/womens-basketball/roster/quinn-o-connor/3125,2023-24
+326,Kalamazoo,,Kendyl Kirshman,So.,"Kalamazoo, Mich.",Loy Norrix,,5-4,G,4,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/kirshman_kendyl_mg6v,2023-24
+326,Kalamazoo,,Taylor Dinda-Albright,Fr.,"Lake Orion, Mich.",Lake Orion,,5-8,G,10,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/dinda-albright_taylor_ty7l,2023-24
+326,Kalamazoo,,Josee Cooke,So.,"Muskegon, Mich.",North Muskegon,,6-0,F,11,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/cooke_josee_nzj2,2023-24
+326,Kalamazoo,,Jordan Wesaw,Fr.,"Portage, Mich.",Portage Northern,,6-0,F,12,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/wesaw_jordan_spd2,2023-24
+326,Kalamazoo,,Macy Ivins,So.,"Three Rivers, Mich.",Three Rivers,,5-5,G,14,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/ivins_macy_r0nj,2023-24
+326,Kalamazoo,,Jackie Brines,Jr.,"Ann Arbor, Mich.",Pioneer,,5-6,G,15,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/brines_jackie_wmkb,2023-24
+326,Kalamazoo,,Ruby Hogan,Fr.,"Cedar, Mich.",Glen Lake,,5-7,G,21,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/hogan_ruby_0rnr,2023-24
+326,Kalamazoo,,Autumn Hummel,Fr.,"Kalamazoo, Mich.",Comstock,,5-6,G,22,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/hummel_autumn_sm0q,2023-24
+326,Kalamazoo,,Ella Boyea,So.,"Kalamazoo, Mich.",Loy Norrix,,5-5,G,23,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/boyea_ella_5svx,2023-24
+326,Kalamazoo,,Zenaida Sackett,So.,"Kalamazoo, Mich.",Kalamazoo Central,,5-6,G,24,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/sackett_zenaida_zczn,2023-24
+326,Kalamazoo,,Hannah Witkoff,Fr.,"Denver, Colo.",Denver Waldorf,,5-6,G,30,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/witkoff_hannah_9rwi,2023-24
+326,Kalamazoo,,Dasia Lopez,So.,"Chicago, Ill.",Marian Catholic,,5-5,G,32,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/lopez_dasia_w9rd,2023-24
+326,Kalamazoo,,Kaelyn Arlington,Sr.,"Otsego, Mich.",Otsego,,6-0,F,33,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/arlington_kaelyn_6gwg,2023-24
+326,Kalamazoo,,Brittany Miller,So.,"Lombard, Ill.",Glenbard South,,5-9,F,34,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/miller_brittany_j9nf,2023-24
+326,Kalamazoo,,Sara English,Sr.,"East Lansing, Mich.",Lansing Catholic,,5-8,G,44,https://hornets.kzoo.edu/sports/wbkb/2023-24/bios/english_sara_v08j,2023-24
+449,Mount Holyoke,,Maddy Duncan,G,"Tucson, Ariz.",BASIS Oro Valley,,5-3,So.,1,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/duncan_maddy_hfwn,2023-24
+449,Mount Holyoke,,Amrit Khinda,G,"Van Nuys, Calif.",James Monroe,,5-4,Jr.,2,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/khinda_amrit_q0zg,2023-24
+449,Mount Holyoke,,Katie Rha,G,"Douglaston, N.Y.",Young Women's Leadership School,,5-7,Jr.,4,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/rha_katie_pict,2023-24
+449,Mount Holyoke,,Teal Howle,G,"Florence, S.C.",Trinity Collegiate School,,5-5,Sr.,5,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/howle_teal_rpqp,2023-24
+449,Mount Holyoke,,Sofia Francisco,F,"Boston, Mass.",Boston Latin,,5-11,Fy.,10,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/francisco_sofia_xc3z,2023-24
+449,Mount Holyoke,,Isabel Cordes,F,"Yorktown, Va.",York,,5-8,Sr.,11,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/cordes_isabel_e1mw,2023-24
+449,Mount Holyoke,,Hannah Goen,G,"New London, N.H.",Kearsarge,,5-5,Fy.,12,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/goen_hannah_wg7u,2023-24
+449,Mount Holyoke,,Marley Berano,G,"Lady Lake, Fla.",The Gunnery,,5-2,Jr.,14,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/berano_marley_pqmu,2023-24
+449,Mount Holyoke,,Jamieson Dean,F,"Clinton Township, Mich.",Regina,,6-0,Fy.,15,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/dean_jamieson_2nkz,2023-24
+449,Mount Holyoke,,Emma Goff,C,"Cohasset, Mass.",Cohasset,,5-10,Fy.,20,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/goff_emma_noa5,2023-24
+449,Mount Holyoke,,Nicole Lutalo,C,"Kampala, Uganda",Aga Khan Academy Mombasa,,5-10,Sr.,21,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/lutalo_nicole_eejs,2023-24
+449,Mount Holyoke,,Kendall Maurer,G/F,"Orinda, Calif.",Miramonte,,5-6,So.,22,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/maurer_kendall_ge00,2023-24
+449,Mount Holyoke,,Alex Twomey,G,"Nutley, N.J.",Nutley,,5-5,So.,23,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/twomey_alex_kr07,2023-24
+449,Mount Holyoke,,Taryn White,F/C,"Alexandria, Va.",Alexandria City,,6-1,So.,24,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/white_taryn_8xev,2023-24
+449,Mount Holyoke,,Libby Harris,G,"Foxborough, Mass.",Brewster Academy,,5-3,So.,31,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/harris_libby_e6sg,2023-24
+449,Mount Holyoke,,Eva Taberski,G/F,"Wynnewood, Pa.",Lower Merion,,5-9,Fy.,32,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/taberski_eva_lbzo,2023-24
+449,Mount Holyoke,,Emily Mock,G,"Bangor, Maine",John Bapst Memorial,,5-8,Sr.,33,https://athletics.mtholyoke.edu/sports/wbkb/2023-24/bios/mock_emily_iz3i,2023-24
+532,Elms,,Brianna Metellus,Grad Student,"Springfield, MA",Putnam High School,,5'3,Guard,1,https://www.ecblazers.com/sports/wbkb/2023-24/bios/metellus_brianna_ug6g,2023-24
+532,Elms,,Sadie Hunt,Senior,"Sandwich, MA",Sandwich High School,,5'10,Forward,10,https://www.ecblazers.com/sports/wbkb/2023-24/bios/hunt_sadie_kdas,2023-24
+532,Elms,,Julianne Liebow,Grad Student,/ Townshend Miss Halls School,,,5'6,Guard,11,https://www.ecblazers.com/sports/wbkb/2023-24/bios/liebow_julianne_3y11,2023-24
+532,Elms,,Jade Lewis,First Year,"Orlando, FL",Bishop Moore Catholic High School,,5'5,Guard,12,https://www.ecblazers.com/sports/wbkb/2023-24/bios/lewis_jade_vnp3,2023-24
+532,Elms,,Talia Uribe,Sophomore,"South Hadley, MA",South Hadley High School,,5'2,Guard,13,https://www.ecblazers.com/sports/wbkb/2023-24/bios/uribe_talia_vxbo,2023-24
+532,Elms,,Jenny Gorski,Sophomore,"Vernon, CT",Rockville High School,,5'8,Forward,14,https://www.ecblazers.com/sports/wbkb/2023-24/bios/gorski_jenny_sgoo,2023-24
+532,Elms,,Shea Barron,First Year,"Wallingford, CT",Lyman Hall High School,,5'7,Guard/Forward,15,https://www.ecblazers.com/sports/wbkb/2023-24/bios/barron_shea_k7zn,2023-24
+532,Elms,,Kelly LeBel,Sophomore,"Tolland, CT",Tolland High School,,5'7,Guard,20,https://www.ecblazers.com/sports/wbkb/2023-24/bios/lebel_kelly_0a42,2023-24
+532,Elms,,Soliyana Asfaw,Junior,West Orange,Livingston High School,,5'5,Guard,21,https://www.ecblazers.com/sports/wbkb/2023-24/bios/asfaw_soliyana_7p73,2023-24
+532,Elms,,Rahmia Johnston,Senior,"Trumbull, CT",St. Joseph's,,5'6,Guard,22,https://www.ecblazers.com/sports/wbkb/2023-24/bios/johnston_rahmia_foxa,2023-24
+532,Elms,,Janiah Perez,First Year,"Bridgeport, CT",Kolbe Cathedral,,5'5,Guard,23,https://www.ecblazers.com/sports/wbkb/2023-24/bios/perez_janiah_8hg6,2023-24
+532,Elms,,Sophia Andrade,First Year,"Southwick, MA",Southwick Regional High School,,5'8,Guard/Forward,24,https://www.ecblazers.com/sports/wbkb/2023-24/bios/andrade_sophia_m2l8,2023-24
+532,Elms,,Adalena Francis,Grad Student,"Waterbury, CT",Sacred Heart,,5'5,Guard,30,https://www.ecblazers.com/sports/wbkb/2023-24/bios/francis_adalena_yviz,2023-24
+532,Elms,,Ta'Niyah Scott,First Year,"Towson, MD",Concordia Preparatory School,,5'6,Forward,32,https://www.ecblazers.com/sports/wbkb/2023-24/bios/scott_ta-niyah_ko70,2023-24
+569,Regis (MA),,Jordyn Striggles,F,"Raynham, Mass.",Tilton School (N.H.),,5-8,So.,1,https://www.goregispride.com/sports/wbkb/2023-24/bios/striggles_jordyn_rn1i,2023-24
+569,Regis (MA),,Erika Marinelli,G,"Point Pleasant, N.J.",Point Pleasant Borough,,5-4,So.,2,https://www.goregispride.com/sports/wbkb/2023-24/bios/marinelli_erika_7iqc,2023-24
+569,Regis (MA),,Emma Pollini,G,"Derry, N.H.",Pinkerton Academy,,5-4,So.,3,https://www.goregispride.com/sports/wbkb/2023-24/bios/pollini_emma_8qa5,2023-24
+569,Regis (MA),,Larissa Gilberto,F,"Weymouth, Mass.",Weymouth,,5-10,Fy.,4,https://www.goregispride.com/sports/wbkb/2023-24/bios/gilberto_larissa_y3i8,2023-24
+569,Regis (MA),,Haley Lightbody,G/F,"Reading, Mass.",Reading Memorial (Stonehill),,5-7,Gr.,5,https://www.goregispride.com/sports/wbkb/2023-24/bios/lightbody_haley_vinz,2023-24
+569,Regis (MA),,Madi Zancan,F,"Cumberland, R.I.",Cumberland/Winchendon School,,5-9,So.,10,https://www.goregispride.com/sports/wbkb/2023-24/bios/zancan_madi_1lkx,2023-24
+569,Regis (MA),,Fatma Fatah,G/F,"Bedford, N.H.",Manchester Memorial,,5-6,Fy.,11,https://www.goregispride.com/sports/wbkb/2023-24/bios/fatah_fatma_x5k2,2023-24
+569,Regis (MA),,Kaiyah Singleton-Rivera,G,"Stoughton, Mass.",Stoughton,,5-4,So.,13,https://www.goregispride.com/sports/wbkb/2023-24/bios/singleton-rivera_makaiyah_btin,2023-24
+569,Regis (MA),,Courtney Doherty,G,"Willimantic, Conn.",Edwin O. Smith,,5-4,Sr.,14,https://www.goregispride.com/sports/wbkb/2023-24/bios/doherty_courtney_gve7,2023-24
+569,Regis (MA),,Sophia Scarpa,G,"Braintree, Mass.",Braintree,,5-3,So.,15,https://www.goregispride.com/sports/wbkb/2023-24/bios/scarpa_sophia_pvn9,2023-24
+569,Regis (MA),,Jillian Perry,G,"Melrose, Mass.",Malden Catholic,,5-5,Fy.,20,https://www.goregispride.com/sports/wbkb/2023-24/bios/perry_jillian_kbh7,2023-24
+569,Regis (MA),,Kailyn Smith,G,"Chelmsford, Mass.",Chelmsford,,5-7,Fy.,23,https://www.goregispride.com/sports/wbkb/2023-24/bios/smith_kailyn_q931,2023-24
+569,Regis (MA),,Serenity Ayala,G,"North Brookfield, Mass.",North Brookfield,,5-7,So.,31,https://www.goregispride.com/sports/wbkb/2023-24/bios/ayala_serenity_jyys,2023-24
+569,Regis (MA),,Bella George,G,"Lynnfield, Mass.",Lynnfield,,5-2,Fy.,33,https://www.goregispride.com/sports/wbkb/2023-24/bios/george_bella_iyjd,2023-24
+623,Salve Regina,,Marissa Forino,So.,"Watertown, Conn.",Watertown,,5'4,Guard,1,https://www.salveathletics.com/sports/wbkb/2023-24/bios/forino_marissa_toch,2023-24
+623,Salve Regina,,Morgan Shuey,Gr.,"Corning, Iowa",Southwest Valley,,5'7,Guard,3,https://www.salveathletics.com/sports/wbkb/2023-24/bios/shuey_morgan_pv2l,2023-24
+623,Salve Regina,,Sofia Neary,So.,"Wayne, N.J.",Wayne Valley,,6'0,Forward,5,https://www.salveathletics.com/sports/wbkb/2023-24/bios/neary_sofia_367a,2023-24
+623,Salve Regina,,Deanna Linscott,Fr.,"Pembroke, Mass.",Pembroke,,6'0,Forward,10,https://www.salveathletics.com/sports/wbkb/2023-24/bios/linscott_deanna_vtzu,2023-24
+623,Salve Regina,,Briana Neary,Sr.,"Wayne, N.J.",Wayne Valley,,6'0,Forward,11,https://www.salveathletics.com/sports/wbkb/2023-24/bios/neary_briana_9mp4,2023-24
+623,Salve Regina,,Anna Grace Hjerpe,Fr.,"Northborough, Mass.",Worcester Academy,,5'11,Forward,12,https://www.salveathletics.com/sports/wbkb/2023-24/bios/hjerpe_anna_grace_blnt,2023-24
+623,Salve Regina,,Sabrina Lawless,Fr.,"Milford, Conn.",Jonathan Law,,5'6,Guard,13,https://www.salveathletics.com/sports/wbkb/2023-24/bios/lawless_sabrina_tl23,2023-24
+623,Salve Regina,,Colleen Ohrtman,Fr.,"Shoreham, N.Y.",Shoreham-Wading River,,5'8,Guard,14,https://www.salveathletics.com/sports/wbkb/2023-24/bios/ohrtman_colleen_9psb,2023-24
+623,Salve Regina,,Jordan Furlong,Fr.,"Londonderry, N.H.",Londonderry,,5'8,Guard,15,https://www.salveathletics.com/sports/wbkb/2023-24/bios/furlong_jordan_524i,2023-24
+623,Salve Regina,,Amanda Folan,Sr.,"North Attleboro, Mass.",Bishop Feehan,,5'4,Guard,20,https://www.salveathletics.com/sports/wbkb/2023-24/bios/folan_amanda_v7rk,2023-24
+623,Salve Regina,,Maeve Tullson,Fr.,"Little Compton, R.I.",Portsmouth,,5'8,Forward,21,https://www.salveathletics.com/sports/wbkb/2023-24/bios/tullson_maeve_hsaw,2023-24
+623,Salve Regina,,Ashley Rourke,Jr.,"Londonderry, N.H.",Londonderry,,5'9,Forward,22,https://www.salveathletics.com/sports/wbkb/2023-24/bios/rourke_ashley_t23g,2023-24
+623,Salve Regina,,Colby Lima,Fr.,"Ashland, Mass.",Ashland,,5'5,Forward,23,https://www.salveathletics.com/sports/wbkb/2023-24/bios/lima_colby_80kd,2023-24
+623,Salve Regina,,Olivia Martin,Sr.,"Hanson, Mass.",Whitman-Hanson,,5'8,Guard,35,https://www.salveathletics.com/sports/wbkb/2023-24/bios/martin_olivia_gygm,2023-24
+762,Wentworth,,Tita Rana,So.,"Boston, Mass.",Nashua North,,5-7,G,1,https://www.wentworthathletics.com/sports/wbkb/2023-24/bios/rana_tita_cdyk,2023-24
+762,Wentworth,,Samantha Jones,Fr.,"Beverly, Mass.",Pingree,,5-7,G,2,https://www.wentworthathletics.com/sports/wbkb/2023-24/bios/jones_samantha_7ydq,2023-24
+762,Wentworth,,Brianna Carroll,Jr.,"Douglas, Mass.",Blackstone Valley Tech,,5-7,G,3,https://www.wentworthathletics.com/sports/wbkb/2023-24/bios/carroll_brianna_0j25,2023-24
+762,Wentworth,,Reagan Madonia,So.,"Corrales, N.M.",Albuquerque Academy (Milwaukee School of Engineering),,5-7,G,4,https://www.wentworthathletics.com/sports/wbkb/2023-24/bios/madonia_reagan_e2pa,2023-24
+762,Wentworth,,Brooke Carlson,Jr.,"Contoocook, N.H.",Hopkinton,,5-7,G,11,https://www.wentworthathletics.com/sports/wbkb/2023-24/bios/carlson_brooke_wkkf,2023-24
+762,Wentworth,,Adelyn Richardson,Fr.,"Gloucester, Mass.",Gloucester,,5-8,G,12,https://www.wentworthathletics.com/sports/wbkb/2023-24/bios/richardson_adelyn_qrmh,2023-24
+762,Wentworth,,Aissata Conde,Fr.,"Brockton, Mass.",Brockton,,6-0,F,15,https://www.wentworthathletics.com/sports/wbkb/2023-24/bios/conde_aissata_33in,2023-24
+762,Wentworth,,Elise Ayer,Fr.,"Hinesburg, Vt.",Champlain Valley Union,,5-8,F,23,https://www.wentworthathletics.com/sports/wbkb/2023-24/bios/ayer_elise_5ah0,2023-24
+762,Wentworth,,Kailee McPhillips,Fr.,"East Freetown, Mass.",Apponequet Regional,,5-2,G,24,https://www.wentworthathletics.com/sports/wbkb/2023-24/bios/mcphillips_kailee_rcg6,2023-24
+762,Wentworth,,Gabby Amoddio,Jr.,"Wethersfield, Conn.",Wethersfield,,5-9,F,25,https://www.wentworthathletics.com/sports/wbkb/2023-24/bios/amoddio_gabby_9h1o,2023-24
+762,Wentworth,,Maddy Foster,Jr.,"Lewiston, Maine",Lewiston,,5-9,F,30,https://www.wentworthathletics.com/sports/wbkb/2023-24/bios/foster_maddy_whe2,2023-24
+762,Wentworth,,Gianna Gioia,Jr.,"West Newbury, Mass.",Bishop Fenwick,,5-5,G,33,https://www.wentworthathletics.com/sports/wbkb/2023-24/bios/gioia_gianna_zd80,2023-24
+8981,Endicott,,Tenley Wallin,So.,"Danbury, Conn.",Danbury,,5-3,G,2,https://www.ecgulls.com/sports/wbkb/2023-24/bios/wallin_tenley_54ot,2023-24
+8981,Endicott,,Katelyn Konareski,Jr.,"Milford, Conn.",Jonathan Law,,5-6,G,3,https://www.ecgulls.com/sports/wbkb/2023-24/bios/konareski_katelyn_xyz9,2023-24
+8981,Endicott,,Alyssa Garabedian,So.,"Cheshire, Mass.",Hoosac Valley,,5-7,G,4,https://www.ecgulls.com/sports/wbkb/2023-24/bios/garabedian_alyssa_z3t7,2023-24
+8981,Endicott,,Emma Shinney,Fr.,"Wakefield, Mass.",Wakefield,,5-6,G,5,https://www.ecgulls.com/sports/wbkb/2023-24/bios/shinney_emma_h8cm,2023-24
+8981,Endicott,,Caroline Waisnor,Jr.,"Lynnfield, Mass.",Lynnfield,,5-8,G/F,10,https://www.ecgulls.com/sports/wbkb/2023-24/bios/waisnor_caroline_wvcv,2023-24
+8981,Endicott,,Avery Hallinan,So.,"Amesbury, Mass.",Amesbury,,5-9,G/F,11,https://www.ecgulls.com/sports/wbkb/2023-24/bios/hallinan_avery_2dhs,2023-24
+8981,Endicott,,Rachel Barach,So.,"Carlisle, Mass.",Concord-Carlisle,,5-11,F,13,https://www.ecgulls.com/sports/wbkb/2023-24/bios/barach_rachel_5ysr,2023-24
+8981,Endicott,,Chloe Bindon,Fr.,"Walpole, Mass.",Walpole,,5-7,G,14,https://www.ecgulls.com/sports/wbkb/2023-24/bios/bindon_chloe_4ezg,2023-24
+8981,Endicott,,Jarni Hewins,Jr.,"Fayette, Maine",Kents Hill,,6-1,C,15,https://www.ecgulls.com/sports/wbkb/2023-24/bios/hewins_jarni_yjys,2023-24
+8981,Endicott,,Libby Fleming,Jr.,"Bangor, Maine",Bangor,,5-10,G/F,21,https://www.ecgulls.com/sports/wbkb/2023-24/bios/fleming_libby_h9b2,2023-24
+8981,Endicott,,Taylor Bogdanski,Sr.,"Saugus, Mass.",Saugus,,5-9,G/F,22,https://www.ecgulls.com/sports/wbkb/2023-24/bios/bogdanski_taylor_089j,2023-24
+8981,Endicott,,Sofia Mazzotta,Fr.,"Billerica, Mass.",Billerica,,5-4,G,24,https://www.ecgulls.com/sports/wbkb/2023-24/bios/mazzotta_sofia_myb9,2023-24
+8981,Endicott,,Ashlyn Smith,Fr.,"Keene, N.H.",Keene,,5-8,G/F,25,https://www.ecgulls.com/sports/wbkb/2023-24/bios/smith_ashlyn_4jj2,2023-24
+8981,Endicott,,Sarah Shaw,Fr.,"Southwick, Mass.",Ethel Walker,,5-9,F,30,https://www.ecgulls.com/sports/wbkb/2023-24/bios/shaw_sarah_auc2,2023-24
+8981,Endicott,,Sarah Dempsey,Jr.,"Windham, N.H.",Windham,,5-10,F,32,https://www.ecgulls.com/sports/wbkb/2023-24/bios/dempsey_sarah_ch1x,2023-24
+8981,Endicott,,Cora Nadeau,Fr.,"Newport, Vt.",North Country Union,,5-9,G/F,33,https://www.ecgulls.com/sports/wbkb/2023-24/bios/nadeau_cora_g0ji,2023-24
+8981,Endicott,,Kiley Drezek,Jr.,"Seymour, Conn.",Seymour,,5-9,G,44,https://www.ecgulls.com/sports/wbkb/2023-24/bios/drezek_kiley_deup,2023-24
+12884,Centenary (NJ),5557,McKenzie Almestica,Freshman,"Belleville, NJ",Abundant Life Academy,,"5'0""",Guard,1,https://www.centenarycyclones.com/sports/womens-basketball/roster/mckenzie-almestica/5557,2023-24
+12884,Centenary (NJ),5551,D'Ani Morales,Sophomore,"Passaic, N.J.",Passaic Preparatory Academy,,"6'2""",Forward,2,https://www.centenarycyclones.com/sports/womens-basketball/roster/d-ani-morales/5551,2023-24
+12884,Centenary (NJ),5559,Carmen Escano,Graduate Student,"Passaic, N.J.",Passaic,,"5'8""",Forward,3,https://www.centenarycyclones.com/sports/womens-basketball/roster/carmen-escano/5559,2023-24
+12884,Centenary (NJ),5548,Cameron Fulcher,Sophomore,"Paterson, N.J.",Immaculate Conception,,"6'1""",Forward,4,https://www.centenarycyclones.com/sports/womens-basketball/roster/cameron-fulcher/5548,2023-24
+12884,Centenary (NJ),5553,Elainy Pichardo,Sophomore,"Union City, N.J.",Union City,,"5'2""",Guard,5,https://www.centenarycyclones.com/sports/womens-basketball/roster/elainy-pichardo/5553,2023-24
+12884,Centenary (NJ),5554,Jasmine Sampong,Sophomore,"Riverdale, N.J.",Pompton Lakes,,,Guard,11,https://www.centenarycyclones.com/sports/womens-basketball/roster/jasmine-sampong/5554,2023-24
+12884,Centenary (NJ),5556,Brianna Worthy,Junior,"Montclair, N.J.",Central,,"5'6""",Guard,12,https://www.centenarycyclones.com/sports/womens-basketball/roster/brianna-worthy/5556,2023-24
+12884,Centenary (NJ),5561,Shelby Flanagan,Freshman,"Sandusky, MI",Deckerville Community,,"5'6""",Guard,13,https://www.centenarycyclones.com/sports/womens-basketball/roster/shelby-flanagan/5561,2023-24
+12884,Centenary (NJ),5552,Brie Opdyke,Junior,"Belvidere, N.J.",Belvidere,,"5'8""",Guard,15,https://www.centenarycyclones.com/sports/womens-basketball/roster/brie-opdyke/5552,2023-24
+12884,Centenary (NJ),5546,Kaylie Elsbree,Junior,"Howell, N.J.",Freehold Township,,"5'8""",Guard,21,https://www.centenarycyclones.com/sports/womens-basketball/roster/kaylie-elsbree/5546,2023-24
+12884,Centenary (NJ),5560,Saurelys Escano,Freshman,"Passaic, N.J.",Passaic Academy for Science and Engineering,,"5'5""",Guard,22,https://www.centenarycyclones.com/sports/womens-basketball/roster/saurelys-escano/5560,2023-24
+12884,Centenary (NJ),5555,Kayla Sampong,Sophomore,"Riverdale, N.J.",Pompton Lakes,,"5'6""",Guard,23,https://www.centenarycyclones.com/sports/womens-basketball/roster/kayla-sampong/5555,2023-24
+12884,Centenary (NJ),5547,Tanya Elsbree,Junior,"Howell, N.J.",Freehold Township,,"5'4""",Guard,25,https://www.centenarycyclones.com/sports/womens-basketball/roster/tanya-elsbree/5547,2023-24
+12884,Centenary (NJ),5558,Vatijah Davis,Freshman,"Poconos, PA",Pocono Mountain West,,"5'10""",Forward,30,https://www.centenarycyclones.com/sports/womens-basketball/roster/vatijah-davis/5558,2023-24
+12884,Centenary (NJ),5549,Sofia Mendez,Sophomore,"Weehawken, N.J.",Weehawken,,"6'1""",Center,33,https://www.centenarycyclones.com/sports/womens-basketball/roster/sofia-mendez/5549,2023-24
+12884,Centenary (NJ),5550,McKayla Mooney,Junior,"Lacey Township, N.J.",Lacey Township,,"5'8""",Guard,40,https://www.centenarycyclones.com/sports/womens-basketball/roster/mckayla-mooney/5550,2023-24
+125,Centenary (LA),,Layla Powell,So.,"Fort Worth, Texas",University of the Ozarks,,5-3,F,1,https://www.gocentenary.com/sports/wbkb/2023-24/bios/powell_layla_gktx,2023-24
+125,Centenary (LA),,Amiyah Barrow,So.,"Baton Rouge, La.",St. Amant High School,,5-4,G,2,https://www.gocentenary.com/sports/wbkb/2023-24/bios/barrow_amiyah_79kn,2023-24
+125,Centenary (LA),,Madison Davis,So.,"Shreveport, La.",Captain Shreve High School,,5-4,G,3,https://www.gocentenary.com/sports/wbkb/2023-24/bios/davis_madison_rs01,2023-24
+125,Centenary (LA),,TaNyjah Plumber,So.,"Kinder, La.",Kinder HS,,5-3,G,4,https://www.gocentenary.com/sports/wbkb/2023-24/bios/plumber_tanyjah_k85v,2023-24
+125,Centenary (LA),,Mallory Dougharty,Fr.,"Evadale, Texas",Evadale HS,,5-6,G,5,https://www.gocentenary.com/sports/wbkb/2023-24/bios/dougharty_mallory_5kz4,2023-24
+125,Centenary (LA),,Alana Jones,Jr.,"Shreveport, La.",Woodlawn High School,,5-11,G,10,https://www.gocentenary.com/sports/wbkb/2023-24/bios/jones_alana_r0m6,2023-24
+125,Centenary (LA),,Kira Latson,Fr.,"Pearland, Texas",Glenda Dawson HS,,5-7,G,11,https://www.gocentenary.com/sports/wbkb/2023-24/bios/latson_kira_nuwa,2023-24
+125,Centenary (LA),,Blair Abshire,Sr.,"New Iberia, La.",Highland Baptist Christian School,,5-5,G,13,https://www.gocentenary.com/sports/wbkb/2023-24/bios/abshire_blair_jniu,2023-24
+125,Centenary (LA),,Lauren Castillo,So.,"Fort Worth, Texas",Timber Creek HS,,5-3,G,15,https://www.gocentenary.com/sports/wbkb/2023-24/bios/castillo_lauren_8tsp,2023-24
+125,Centenary (LA),,Kyra Stokes,So.,"Shreveport, La.",Captain Shreve HS,,5-11,F,21,https://www.gocentenary.com/sports/wbkb/2023-24/bios/stokes_kyra_92a4,2023-24
+125,Centenary (LA),,Amelia Bagwell,Sr.,"West Monroe, La.",D'Arbonne Woods Charter School,,5-9,F,24,https://www.gocentenary.com/sports/wbkb/2023-24/bios/bagwell_amelia_gxla,2023-24
+125,Centenary (LA),,Tamia Alexander,Sr.,"Breaux Bridge, La.",Brewton Parker College,,5-7,G,25,https://www.gocentenary.com/sports/wbkb/2023-24/bios/alexander_tamia_fv5w,2023-24
+125,Centenary (LA),,Makalyn Savoy,So.,"Opelousas, La.",Northwest High School,,5-9,F/C,42,https://www.gocentenary.com/sports/wbkb/2023-24/bios/savoy_makalyn_5rgd,2023-24
+30037,Trine,,Kearston Stout,Jr.,"Wabash, Ind.",Northfield,,5-9,G/F,0,https://www.trinethunder.com/sports/wbkb/2023-24/bios/stout_kearston_8xcy,2023-24
+30037,Trine,,Tiana Maat,Jr.,"Victoria, BC, Canada",Belmont Secondary,,5-7,G,1,https://www.trinethunder.com/sports/wbkb/2023-24/bios/maat_tiana_mfe1,2023-24
+30037,Trine,,Allie Walther,So.,"Schoolcraft, Mich.",Schoolcraft,,5-6,G,2,https://www.trinethunder.com/sports/wbkb/2023-24/bios/walther_allie_nl8y,2023-24
+30037,Trine,,Anna Grim,Fr.,"Dayton, Ohio",Centerville,,5-9,G,3,https://www.trinethunder.com/sports/wbkb/2023-24/bios/grim_anna_xn8w,2023-24
+30037,Trine,,Sierra Hinds,Jr.,"Carmel, Ind.",University,,5-8,G,4,https://www.trinethunder.com/sports/wbkb/2023-24/bios/hinds_sierra_zmsh,2023-24
+30037,Trine,,Jordan Walters,So.,"Sunbury, Ohio",Big Walnut,,5-8,G,5,https://www.trinethunder.com/sports/wbkb/2023-24/bios/walters_jordan_x2hi,2023-24
+30037,Trine,,Olivia Marks,Fr.,"Hanna, Ind.",South Central,,5-9,G/F,10,https://www.trinethunder.com/sports/wbkb/2023-24/bios/marks_olivia_rm2v,2023-24
+30037,Trine,,Katie Tate,Jr.,"Grand Rapids, Mich.",Grand Rapids Catholic Central,,5-9,G,11,https://www.trinethunder.com/sports/wbkb/2023-24/bios/tate_katie_7ba9,2023-24
+30037,Trine,,Alexis Snodgrass,So.,"Hartford, Mich.",Hartford,,6-0,F,12,https://www.trinethunder.com/sports/wbkb/2023-24/bios/snodgrass_alexis_3erj,2023-24
+30037,Trine,,Jada Rhonehouse,So.,"Fremont, Ind.",Fremont,,5-8,G,13,https://www.trinethunder.com/sports/wbkb/2023-24/bios/rhonehouse_jada_0i7k,2023-24
+30037,Trine,,Chelsi Giesige,Sr.,"Paulding, Ohio",Paulding,,5-8,G,14,https://www.trinethunder.com/sports/wbkb/2023-24/bios/giesige_chelsi_lyw8,2023-24
+30037,Trine,,Sidney Wagner,Jr.,"Warsaw, Ind.",Tippecanoe Valley,,5-6,G,15,https://www.trinethunder.com/sports/wbkb/2023-24/bios/wagner_sidney_22vk,2023-24
+30037,Trine,,Addison Hutson,So.,"Battle Creek, Mich.",Battle Creek Lakeview,,5-8,G,20,https://www.trinethunder.com/sports/wbkb/2023-24/bios/hutson_addison_0nqk,2023-24
+30037,Trine,,Erin Sherwood,So.,"Dansville, Mich.",Dansville,,5-11,G/F,21,https://www.trinethunder.com/sports/wbkb/2023-24/bios/sherwood_erin_ys9y,2023-24
+30037,Trine,,Angelina Tringali,Fr.,"Auburn Hills, Mich.",Oakland Christian,,5-9,G,22,https://www.trinethunder.com/sports/wbkb/2023-24/bios/tringali_angelina_4538,2023-24
+30037,Trine,,Sydney Horton,Fr.,"Indianapolis, Ind.",Roncalli,,5-7,G,23,https://www.trinethunder.com/sports/wbkb/2023-24/bios/horton_sydney_czni,2023-24
+30037,Trine,,Allison Capouch,Fr.,"Kouts, Ind.",Kouts,,5-11,G,24,https://www.trinethunder.com/sports/wbkb/2023-24/bios/capouch_allison_dry7,2023-24
+30037,Trine,,Abby Sanner,So.,"Warsaw, Ind.",Warsaw,,6-2,F,34,https://www.trinethunder.com/sports/wbkb/2023-24/bios/sanner_abby_jlcz,2023-24
+30037,Trine,,Ariel Page,So.,"Montpelier, Ohio",Montpelier,,6-0,F,44,https://www.trinethunder.com/sports/wbkb/2023-24/bios/page_ariel_vx76,2023-24
+30225,SUNY Delhi,,Rylee Falcone,Fr.,"Oneonta, NY",Worcester,,5'10,F,2,https://delhibroncos.com/sports/wbkb/2023-24/bios/falcone_rylee_1c35,2023-24
+30225,SUNY Delhi,,Kyra Richards,Fr.,"New York, NY",Pace,,5'2,G,4,https://delhibroncos.com/sports/wbkb/2023-24/bios/richards_kyra_yu3q,2023-24
+30225,SUNY Delhi,,Yasmeen Kablaoui,So.,"Kingston, NY",Oakwood Friends,,5'2,G,10,https://delhibroncos.com/sports/wbkb/2023-24/bios/kablaoui_yasmeen_nasf,2023-24
+30225,SUNY Delhi,,Afsah Diabate,Fr.,"Marcory, Abidjan",Descartes International,,5'5,G,11,https://delhibroncos.com/sports/wbkb/2023-24/bios/diabate_afsah_nllw,2023-24
+30225,SUNY Delhi,,Juana Severino,Jr.,"Bronx, NY",Careers in Sports,,5'9,F/C,13,https://delhibroncos.com/sports/wbkb/2023-24/bios/severino_juana_rmr2,2023-24
+30225,SUNY Delhi,,Myles Matthias,Sr.,"Brooklyn, NY",Institute for Collaborative Education,,5'5,F,14,https://delhibroncos.com/sports/wbkb/2023-24/bios/matthias_myles_qhnc,2023-24
+30225,SUNY Delhi,,Amber-Lyn Canfield,So.,"Newburgh, NY",Newburgh Free Academy,,5'11,F/C,20,https://delhibroncos.com/sports/wbkb/2023-24/bios/canfield_amber-lyn_hk70,2023-24
+30225,SUNY Delhi,,Jayda Allen,Sr.,"Brooklyn, NY",Sullivan CC,,5'11,F,21,https://delhibroncos.com/sports/wbkb/2023-24/bios/allen_jayda_gu3u,2023-24
+30225,SUNY Delhi,,Kayleigh Allen,Fr.,"Hermon, NY",Edwards-Knox Central,,5'4,G,22,https://delhibroncos.com/sports/wbkb/2023-24/bios/allen_kayleigh_0l5g,2023-24
+30225,SUNY Delhi,,Jennifer Roche Jimenez,Jr.,"Bronx, NY",AECI Charter,,5'1,G,33,https://delhibroncos.com/sports/wbkb/2023-24/bios/roche_jimenez_jennifer_32u0,2023-24
+30225,SUNY Delhi,,Xavia Evener,Fr.,"Auburn, NY",Union Springs,,5'8,F,34,https://delhibroncos.com/sports/wbkb/2023-24/bios/evener_xavia_a0zt,2023-24
+809,Worcester St.,,Lena Waldron,Fy.,"Quincy, MA",Quincy,,"5'7""",Guard/Forward,2,https://www.wsulancers.com/sports/wbkb/2023-24/bios/waldron_lena_new5,2023-24
+809,Worcester St.,,Hannah Manzaro,Fy.,"West Brookfield, MA",Quaboag Regional,,"5'8""",Guard/Forward,4,https://www.wsulancers.com/sports/wbkb/2023-24/bios/manzaro_hannah_2gm0,2023-24
+809,Worcester St.,,Abby St. Martin,Jr.,"Putnam, Conn.",Putnam,,"5'11""",Forward,5,https://www.wsulancers.com/sports/wbkb/2023-24/bios/st._martin_abby_b6dj,2023-24
+809,Worcester St.,,Katie Hurynowicz,Sr./Jr.,"Tyngsboro, Mass.",Tyngsboro,,"5'9""",Guard/Forward,10,https://www.wsulancers.com/sports/wbkb/2023-24/bios/hurynowicz_katie_mvdu,2023-24
+809,Worcester St.,,Nyah Thomas,Sr./Jr.,"Attleboro, Mass.",Attleboro,,"5'7""",Guard,11,https://www.wsulancers.com/sports/wbkb/2023-24/bios/thomas_nyah_xxjm,2023-24
+809,Worcester St.,,Alana Smith,Fy.,"Chicopee, MA",Chicopee,,"5'9""",Center,13,https://www.wsulancers.com/sports/wbkb/2023-24/bios/smith_alana_oo22,2023-24
+809,Worcester St.,,Cameron Watkins,So.,"Dracut, MA",Dracut,,"5'7""",Guard/Forward,15,https://www.wsulancers.com/sports/wbkb/2023-24/bios/watkins_cam_mygz,2023-24
+809,Worcester St.,,Siarra Francis,So.,"Marlborough, MA",Marlborough,,"5'3""",Guard,20,https://www.wsulancers.com/sports/wbkb/2023-24/bios/francis_siarra_8rvk,2023-24
+809,Worcester St.,,Chloe LaPierre,Sr./Jr.,"Plainfield, CT",Plainfield,,"5'4""",Guard,21,https://www.wsulancers.com/sports/wbkb/2023-24/bios/lapierre_chloe_sv31,2023-24
+809,Worcester St.,,Ava Lemanski,Fy.,"Clinton, MA",Clinton,,"5'5""",Guard,24,https://www.wsulancers.com/sports/wbkb/2023-24/bios/lemanski_ava_7szp,2023-24
+809,Worcester St.,,Mia Haynes,Fy.,"Worcester, MA",Burncoat,,"5'9""",Forward,25,https://www.wsulancers.com/sports/wbkb/2023-24/bios/haynes_mia_kx6o,2023-24
