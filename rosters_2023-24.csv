@@ -619,21 +619,21 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 450,Mount St. Mary's,7430,Jessica Tomasetti,Senior,"North Potomac, Md.",Our Lady of Good Counsel,,"5'5""",G,22,https://www.mountathletics.com/sports/womens-basketball/roster/jessica-tomasetti/7430,2023-24
 450,Mount St. Mary's,7428,McKenzie Matheny,Sophomore,"West Springfield, Va.",West Springfield,,"5'11""",F,33,https://www.mountathletics.com/sports/womens-basketball/roster/mckenzie-matheny/7428,2023-24
 450,Mount St. Mary's,7438,Jackie Christ,Graduate Student,"Sterling, Va.",Dominion,Radford,"6'3""",C,50,https://www.mountathletics.com/sports/womens-basketball/roster/jackie-christ/7438,2023-24
-419,Middle Tennessee,13200,Sifa Ineza,,"Musanze, Rwanda",,FIU,"5'11""",Guard,0,https://www.goblueraiders.com/sports/womens-basketball/roster/sifa-ineza/13200,2023-24
-419,Middle Tennessee,13037,Anastasiia Boldyreva,,"Moscow, Russia",,,"6'6""",Center,2,https://www.goblueraiders.com/sports/womens-basketball/roster/anastasiia-boldyreva/13037,2023-24
-419,Middle Tennessee,13038,Gracie Dodgen,,"Sparta, Tenn.",,,"5'10""",Guard,3,https://www.goblueraiders.com/sports/womens-basketball/roster/gracie-dodgen/13038,2023-24
-419,Middle Tennessee,13044,Savannah Wheeler,,"Catlettsburg, Ky.",,Marshall,"5'6""",Guard,4,https://www.goblueraiders.com/sports/womens-basketball/roster/savannah-wheeler/13044,2023-24
-419,Middle Tennessee,13201,Dora Van Rijs,,"Budapest, Hungary",,,"6'0""",Forward,9,https://www.goblueraiders.com/sports/womens-basketball/roster/dora-van-rijs/13201,2023-24
-419,Middle Tennessee,13040,Jalynn Gregory,,"Lafayette, Tenn.",,,"5'8""",Guard,10,https://www.goblueraiders.com/sports/womens-basketball/roster/jalynn-gregory/13040,2023-24
-419,Middle Tennessee,13041,Gracie Hamby,,"Murfreesboro, Tenn.",,,"5'8""",Guard,12,https://www.goblueraiders.com/sports/womens-basketball/roster/gracie-hamby/13041,2023-24
-419,Middle Tennessee,13043,Ta'Mia Scott,,"Clarksville, Tenn.",,,"6'0""",Guard,15,https://www.goblueraiders.com/sports/womens-basketball/roster/ta-mia-scott/13043,2023-24
-419,Middle Tennessee,13039,Jada Grannum,,"Mississauga, Ontario",,,"6'3""",Forward,22,https://www.goblueraiders.com/sports/womens-basketball/roster/jada-grannum/13039,2023-24
-419,Middle Tennessee,13204,Jada Harrison,,"Martin, Tenn.",,,"5'8""",Guard,23,https://www.goblueraiders.com/sports/womens-basketball/roster/jada-harrison/13204,2023-24
-419,Middle Tennessee,13199,Zahira Arizmendi Rubio,,"Madrid, Spain",,,"5'8""",Guard,31,https://www.goblueraiders.com/sports/womens-basketball/roster/zahira-arizmendi-rubio/13199,2023-24
-419,Middle Tennessee,13045,Courtney Whitson,,"Kingsport, Tenn.",,,"6'0""",Forward,33,https://www.goblueraiders.com/sports/womens-basketball/roster/courtney-whitson/13045,2023-24
-419,Middle Tennessee,13042,Meioshe Mason,,"Lebanon, Tenn.",,,"6'4""",Center,40,https://www.goblueraiders.com/sports/womens-basketball/roster/meioshe-mason/13042,2023-24
-419,Middle Tennessee,13202,Stanislava Kabernick,,"St. Petersburg, Russia",,,"6'1""",Forward,42,https://www.goblueraiders.com/sports/womens-basketball/roster/stanislava-kabernick/13202,2023-24
-419,Middle Tennessee,13203,Iullia Grabovskaia,,"Rostov-on-Don, Russia",,,"6'5""",Center,55,https://www.goblueraiders.com/sports/womens-basketball/roster/iullia-grabovskaia/13203,2023-24
+419,Middle Tennessee,13200,Sifa Ineza,SO,"Musanze, Rwanda",Greenforest Christian Academy,FIU,"5'11""",Guard,0,https://www.goblueraiders.com/sports/womens-basketball/roster/sifa-ineza/13200,2023-24
+419,Middle Tennessee,13037,Anastasiia Boldyreva,JR,"Moscow, Russia",Twice Named Hero of the Soviet Union,,"6'6""",Center,2,https://www.goblueraiders.com/sports/womens-basketball/roster/anastasiia-boldyreva/13037,2023-24
+419,Middle Tennessee,13038,Gracie Dodgen,r-SO,"Sparta, Tenn.",White County HS,,"5'10""",Guard,3,https://www.goblueraiders.com/sports/womens-basketball/roster/gracie-dodgen/13038,2023-24
+419,Middle Tennessee,13044,Savannah Wheeler,SR,"Catlettsburg, Ky.",Boyd County,Marshall,"5'6""",Guard,4,https://www.goblueraiders.com/sports/womens-basketball/roster/savannah-wheeler/13044,2023-24
+419,Middle Tennessee,13201,Dora Van Rijs,FR,"Budapest, Hungary",Obudai Arpad Gimnazium,,"6'0""",Forward,9,https://www.goblueraiders.com/sports/womens-basketball/roster/dora-van-rijs/13201,2023-24
+419,Middle Tennessee,13040,Jalynn Gregory,JR,"Lafayette, Tenn.",Macon County HS,,"5'8""",Guard,10,https://www.goblueraiders.com/sports/womens-basketball/roster/jalynn-gregory/13040,2023-24
+419,Middle Tennessee,13041,Gracie Hamby,r-FR,"Murfreesboro, Tenn.",Blackman HS,,"5'8""",Guard,12,https://www.goblueraiders.com/sports/womens-basketball/roster/gracie-hamby/13041,2023-24
+419,Middle Tennessee,13043,Ta'Mia Scott,SO,"Clarksville, Tenn.",Clarksville Northwest,,"6'0""",Guard,15,https://www.goblueraiders.com/sports/womens-basketball/roster/ta-mia-scott/13043,2023-24
+419,Middle Tennessee,13039,Jada Grannum,r-JR,"Mississauga, Ontario",Lincoln Prep,,"6'3""",Forward,22,https://www.goblueraiders.com/sports/womens-basketball/roster/jada-grannum/13039,2023-24
+419,Middle Tennessee,13204,Jada Harrison,FR,"Martin, Tenn.",Westview HS,,"5'8""",Guard,23,https://www.goblueraiders.com/sports/womens-basketball/roster/jada-harrison/13204,2023-24
+419,Middle Tennessee,13199,Zahira Arizmendi Rubio,FR,"Madrid, Spain",,,"5'8""",Guard,31,https://www.goblueraiders.com/sports/womens-basketball/roster/zahira-arizmendi-rubio/13199,2023-24
+419,Middle Tennessee,13045,Courtney Whitson,GR,"Kingsport, Tenn.",Dobyns-Bennett,,"6'0""",Forward,33,https://www.goblueraiders.com/sports/womens-basketball/roster/courtney-whitson/13045,2023-24
+419,Middle Tennessee,13042,Meioshe Mason,r-FR,"Lebanon, Tenn.",Lebanon HS,,"6'4""",Center,40,https://www.goblueraiders.com/sports/womens-basketball/roster/meioshe-mason/13042,2023-24
+419,Middle Tennessee,13202,Stanislava Kabernick,FR,"St. Petersburg, Russia",Olympic Reserve School Number 1,,"6'1""",Forward,42,https://www.goblueraiders.com/sports/womens-basketball/roster/stanislava-kabernick/13202,2023-24
+419,Middle Tennessee,13203,Iullia Grabovskaia,SO,"Rostov-on-Don, Russia",Rostov Regional School of Olympic Reserve,,"6'5""",Center,55,https://www.goblueraiders.com/sports/womens-basketball/roster/iullia-grabovskaia/13203,2023-24
 501,Northern Arizona,6225,Allie Cummins,Freshman,"Concord, Calif.",Carondelet,,"5'9""",F,1,https://www.nauathletics.com/sports/womens-basketball/roster/allie-cummins/6225,2023-24
 501,Northern Arizona,6217,Nyah Moran,Junior,"Riverside, Calif.",King High School,,"5'11""",G/F,2,https://www.nauathletics.com/sports/womens-basketball/roster/nyah-moran/6217,2023-24
 501,Northern Arizona,6222,Grace Beasley,Senior,"Melbourne, Australia",Caulfield,Montana State,"5'7""",G,3,https://www.nauathletics.com/sports/womens-basketball/roster/grace-beasley/6222,2023-24
