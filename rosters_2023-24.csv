@@ -1218,19 +1218,19 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 626,San Diego State,8526,Kim Villalobos,Senior,"Los Angeles, Calif.",Chaminade HS,,"6'0""",F,23,https://www.goaztecs.com/sports/womens-basketball/roster/kim-villalobos/8526,2023-24
 626,San Diego State,8524,Abby Prohaska,Senior,"Liberty Township, Ohio",Lakota West HS,Notre Dame,"5'9""",G,24,https://www.goaztecs.com/sports/womens-basketball/roster/abby-prohaska/8524,2023-24
 626,San Diego State,8525,Adryana Quezada,Senior,"Frisco, Texas",Lone Star HS,Utah State,"5'10""",F,32,https://www.goaztecs.com/sports/womens-basketball/roster/adryana-quezada/8525,2023-24
-47,Ball State,11111,Ally Becki,Junior,"Brownsburg, Ind.",Brownsburg,,"5'8""","5'8""",0,https://www.ballstatesports.com/sports/womens-basketball/roster/ally-becki/11111,2023-24
-47,Ball State,11125,Hana Mühl,Sophomore,Croatia,,,"5'8""","5'8""",1,https://www.ballstatesports.com/sports/womens-basketball/roster/hana-m-hl/11125,2023-24
-47,Ball State,11123,Sydney Bolden,Sophomore,"Loganville, Ga.",Loganville,,"5'8""","5'8""",3,https://www.ballstatesports.com/sports/womens-basketball/roster/sydney-bolden/11123,2023-24
-47,Ball State,11129,Sydney Shafer,Senior,"Jackson, Mich.",Northwest,,"5'8""","5'8""",4,https://www.ballstatesports.com/sports/womens-basketball/roster/sydney-shafer/11129,2023-24
-47,Ball State,11120,Ana Barreto,Sophomore,"Portugal, Europe",,,"5'9""","5'9""",10,https://www.ballstatesports.com/sports/womens-basketball/roster/ana-barreto/11120,2023-24
-47,Ball State,11133,Nyla Hampton,Junior,"Huber Heights, Ohio",Wayne,,"5'7""","5'7""",12,https://www.ballstatesports.com/sports/womens-basketball/roster/nyla-hampton/11133,2023-24
-47,Ball State,11114,Marie Kiefer,Junior,"Alexandria, Ky.",Bishop Brossart,,"6'2""","6'2""",14,https://www.ballstatesports.com/sports/womens-basketball/roster/marie-kiefer/11114,2023-24
-47,Ball State,11132,Ashlynn Brooke,Freshman,"Royal Center, Ind.",Pioneer High School),,"5'6""","5'6""",15,https://www.ballstatesports.com/sports/womens-basketball/roster/ashlynn-brooke/11132,2023-24
-47,Ball State,11118,Alex Richard,Junior,"Avon, Ind.",Avon,,"6'1""","6'1""",20,https://www.ballstatesports.com/sports/womens-basketball/roster/alex-richard/11118,2023-24
-47,Ball State,11116,Estel Puiggros,Senior,"Manresa, Spain",Segle XXI,,"5'9""","5'9""",22,https://www.ballstatesports.com/sports/womens-basketball/roster/estel-puiggros/11116,2023-24
-47,Ball State,11122,Madelyn Bischoff,Junior,"Indianapolis, Ind.",Roncalli,,"5'9""","5'9""",24,https://www.ballstatesports.com/sports/womens-basketball/roster/madelyn-bischoff/11122,2023-24
-47,Ball State,11131,Hailey Smith,Freshman,"Fishers, Ind.",Fishers,,"5'10""","5'10""",30,https://www.ballstatesports.com/sports/womens-basketball/roster/hailey-smith/11131,2023-24
-47,Ball State,11130,Olivia Smith,Freshman,"Fishers, Ind.",Fishers,,"5'10""","5'10""",31,https://www.ballstatesports.com/sports/womens-basketball/roster/olivia-smith/11130,2023-24
+47,Ball State,11111,Ally Becki,Junior,"Brownsburg, Ind.",Brownsburg,,"5'8""",,0,https://www.ballstatesports.com/sports/womens-basketball/roster/ally-becki/11111,2023-24
+47,Ball State,11125,Hana Mühl,Sophomore,Croatia,,,"5'8""",,1,https://www.ballstatesports.com/sports/womens-basketball/roster/hana-m-hl/11125,2023-24
+47,Ball State,11123,Sydney Bolden,Sophomore,"Loganville, Ga.",Loganville,,"5'8""",,3,https://www.ballstatesports.com/sports/womens-basketball/roster/sydney-bolden/11123,2023-24
+47,Ball State,11129,Sydney Shafer,Senior,"Jackson, Mich.",Northwest,,"5'8""",,4,https://www.ballstatesports.com/sports/womens-basketball/roster/sydney-shafer/11129,2023-24
+47,Ball State,11120,Ana Barreto,Sophomore,"Portugal, Europe",,,"5'9""",,10,https://www.ballstatesports.com/sports/womens-basketball/roster/ana-barreto/11120,2023-24
+47,Ball State,11133,Nyla Hampton,Junior,"Huber Heights, Ohio",Wayne,,"5'7""",,12,https://www.ballstatesports.com/sports/womens-basketball/roster/nyla-hampton/11133,2023-24
+47,Ball State,11114,Marie Kiefer,Junior,"Alexandria, Ky.",Bishop Brossart,,"6'2""",,14,https://www.ballstatesports.com/sports/womens-basketball/roster/marie-kiefer/11114,2023-24
+47,Ball State,11132,Ashlynn Brooke,Freshman,"Royal Center, Ind.",Pioneer High School),,"5'6""",,15,https://www.ballstatesports.com/sports/womens-basketball/roster/ashlynn-brooke/11132,2023-24
+47,Ball State,11118,Alex Richard,Junior,"Avon, Ind.",Avon,,"6'1""",,20,https://www.ballstatesports.com/sports/womens-basketball/roster/alex-richard/11118,2023-24
+47,Ball State,11116,Estel Puiggros,Senior,"Manresa, Spain",Segle XXI,,"5'9""",,22,https://www.ballstatesports.com/sports/womens-basketball/roster/estel-puiggros/11116,2023-24
+47,Ball State,11122,Madelyn Bischoff,Junior,"Indianapolis, Ind.",Roncalli,,"5'9""",,24,https://www.ballstatesports.com/sports/womens-basketball/roster/madelyn-bischoff/11122,2023-24
+47,Ball State,11131,Hailey Smith,Freshman,"Fishers, Ind.",Fishers,,"5'10""",,30,https://www.ballstatesports.com/sports/womens-basketball/roster/hailey-smith/11131,2023-24
+47,Ball State,11130,Olivia Smith,Freshman,"Fishers, Ind.",Fishers,,"5'10""",,31,https://www.ballstatesports.com/sports/womens-basketball/roster/olivia-smith/11130,2023-24
 47,Ball State,11127,Annie Rauch,Senior,"Hilliard, Ohio",Hilliard Darby,,"6'3""","6'3""",42,https://www.ballstatesports.com/sports/womens-basketball/roster/annie-rauch/11127,2023-24
 7,Alabama State,7656,Alyssa 		 Green-White,Sophomore,"Upper Marlboro, Md.",,Daytona State CC,"5'11""",F,0,https://www.bamastatesports.com/sports/womens-basketball/roster/alyssa-green-white/7656,2023-24
 7,Alabama State,7638,DonYeil Bolton,Sophomore,"Chicago, Ill",,Kenwood Career Academy,"6'4""",C,1,https://www.bamastatesports.com/sports/womens-basketball/roster/donyeil-bolton/7638,2023-24
@@ -3050,7 +3050,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 2678,Arkansas-Pine Bluff,4171,Demetria Shephard,Senior,"Pontotoc, MS.",,Itawamba Community College,"5'8""",GUARD,3,https://www.uapblionsroar.com/sports/womens-basketball/roster/demetria-shephard/4171,2023-2024
 2678,Arkansas-Pine Bluff,4168,Kourtney Rittenberry,Junior,"Loganville, Georgia",Grayson HS,,"6'1""",GUARD,4,https://www.uapblionsroar.com/sports/womens-basketball/roster/kourtney-rittenberry/4168,2023-2024
 2678,Arkansas-Pine Bluff,4167,Jelissa  Reese,Senior,"Cordele, GA.",,Troy University,"5'9""",GUARD,5,https://www.uapblionsroar.com/sports/womens-basketball/roster/jelissa-reese/4167,2023-2024
-2678,Arkansas-Pine Bluff,4190,Starr Jacobs,Senior,"Dallas, TX",,UT-Arlington,"6'2""","6'2""",7,https://www.uapblionsroar.com/sports/womens-basketball/roster/starr-jacobs/4190,2023-2024
+2678,Arkansas-Pine Bluff,4190,Starr Jacobs,Senior,"Dallas, TX",,UT-Arlington,"6'2""",,7,https://www.uapblionsroar.com/sports/womens-basketball/roster/starr-jacobs/4190,2023-2024
 2678,Arkansas-Pine Bluff,4170,Azaria  Robinson,Senior,"Anchorage, AK.",,University of Arkansas Little Rock/ University of New Mexico,"6'2""",FORWARD,10,https://www.uapblionsroar.com/sports/womens-basketball/roster/azaria-robinson/4170,2023-2024
 2678,Arkansas-Pine Bluff,4164,Tia Morgan,Senior,"Chicago, IL.",,Tyler Junior College,"5'8""",GUARD,11,https://www.uapblionsroar.com/sports/womens-basketball/roster/tia-morgan/4164,2023-2024
 2678,Arkansas-Pine Bluff,4169,Empress   Roberts,Sophomore,"Harker Heights, TX.",Harker Heights HS,,"5'7""",GUARD,12,https://www.uapblionsroar.com/sports/womens-basketball/roster/empress-roberts/4169,2023-2024
@@ -4249,42 +4249,42 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 117,Capital,7139,Rani Thigpen,Sophomore,"Cleveland, Ohio",Trinity,,"5'7""",F,32,https://www.capital.edu/sports/womens-basketball/roster/rani-thigpen/7139,2023-2024
 117,Capital,7133,Maddie Dougoud,Senior,"Cincinnati, Ohio",Mercy-McAuley,,"6'1""",F,34,https://www.capital.edu/sports/womens-basketball/roster/maddie-dougoud/7133,2023-2024
 117,Capital,7144,Olivia Rouser,Freshman,"Youngstown, Ohio",Cardinal Mooney,,,G,35,https://www.capital.edu/sports/womens-basketball/roster/olivia-rouser/7144,2023-2024
-1170,Lenoir-Rhyne,6882,Bella Sims,Sophomore,"East Moline, Ill.",DME Academy / Davenport North HS,,"5'6""","5'6""",0,https://www.lrbears.com/sports/womens-basketball/roster/bella-sims/6882,2023-2024
-1170,Lenoir-Rhyne,6883,Jazmine Major,Freshman,"Palm Bay, Fla.",Palm Bay Magnet HS,,"5'5""","5'5""",1,https://www.lrbears.com/sports/womens-basketball/roster/jazmine-major/6883,2023-2024
-1170,Lenoir-Rhyne,6884,Megan Landsiedel,Senior,"Stamford, Conn.",Western Kentucky University,,"6'0""","6'0""",2,https://www.lrbears.com/sports/womens-basketball/roster/megan-landsiedel/6884,2023-2024
-1170,Lenoir-Rhyne,6885,Abby Wrede,Junior,"Denver, Colo.",Hawaii Pacific / Cherry Creek HS,,"5'9""","5'9""",3,https://www.lrbears.com/sports/womens-basketball/roster/abby-wrede/6885,2023-2024
-1170,Lenoir-Rhyne,6886,Nevaeh Johnson,Sophomore,"Muskogee, Okla.",Hilldale HS,,"6'1""","6'1""",4,https://www.lrbears.com/sports/womens-basketball/roster/nevaeh-johnson/6886,2023-2024
-1170,Lenoir-Rhyne,6887,Destanee Trammell,Freshman,"Robbinsville, N.C.",Robbinsville HS,,"5'3""","5'3""",5,https://www.lrbears.com/sports/womens-basketball/roster/destanee-trammell/6887,2023-2024
-1170,Lenoir-Rhyne,6888,Tatum Bowen,Freshman,"Charlotte, N.C.",1 of 1 Prep Academy,,"5'11""","5'11""",10,https://www.lrbears.com/sports/womens-basketball/roster/tatum-bowen/6888,2023-2024
-1170,Lenoir-Rhyne,6889,Tilda Lindstrom,Junior,"Huskvarna, Sweden",Sandagymnasiet,,"6'0""","6'0""",11,https://www.lrbears.com/sports/womens-basketball/roster/tilda-lindstrom/6889,2023-2024
-1170,Lenoir-Rhyne,6890,Andrea Torres,Junior,"Miami, Fla.",Doral Academy,,"5'6""","5'6""",12,https://www.lrbears.com/sports/womens-basketball/roster/andrea-torres/6890,2023-2024
-1170,Lenoir-Rhyne,6891,Jayda Glass,Senior,"Denver, N.C.",Freedom HS,,"5'10""","5'10""",13,https://www.lrbears.com/sports/womens-basketball/roster/jayda-glass/6891,2023-2024
-1170,Lenoir-Rhyne,6892,Valerie Veauthier,Freshman,"Holly Springs, N.C.",Holly Springs HS,,"5'6""","5'6""",14,https://www.lrbears.com/sports/womens-basketball/roster/valerie-veauthier/6892,2023-2024
-1170,Lenoir-Rhyne,6893,Josie Hise,Senior,"Morganton, N.C.",Freedom HS,,"5'7""","5'7""",15,https://www.lrbears.com/sports/womens-basketball/roster/josie-hise/6893,2023-2024
-1170,Lenoir-Rhyne,6894,Emily Harman,Senior,"Chesapeake, Va.",Veritas Collegiate Academy,,"5'6""","5'6""",20,https://www.lrbears.com/sports/womens-basketball/roster/emily-harman/6894,2023-2024
-1170,Lenoir-Rhyne,6895,Mikeba Jones,Senior,"Fort Wayne, Ind.",Mississippi College / Southside HS,,"6'1""","6'1""",21,https://www.lrbears.com/sports/womens-basketball/roster/mikeba-jones/6895,2023-2024
-1170,Lenoir-Rhyne,6896,Maleiya Hill,Sophomore,Durham N.C.,Hillside HS,,"5'6""","5'6""",22,https://www.lrbears.com/sports/womens-basketball/roster/maleiya-hill/6896,2023-2024
-1170,Lenoir-Rhyne,6897,Alexandra Merceron,Freshman,"Orlando, Fla.",Bishop Moore Catholic HS,,"5'11""","5'11""",23,https://www.lrbears.com/sports/womens-basketball/roster/alexandra-merceron/6897,2023-2024
-1170,Lenoir-Rhyne,6898,Jalen Gathers,Graduate Student,"Richmond, Va.",Mary Baldwin University / Highland Springs HS,,"5'10""","5'10""",24,https://www.lrbears.com/sports/womens-basketball/roster/jalen-gathers/6898,2023-2024
-1170,Lenoir-Rhyne,6899,Amaria Jones,Freshman,"Spartanburg, S.C.",Dorman HS,,"5'5""","5'5""",25,https://www.lrbears.com/sports/womens-basketball/roster/amaria-jones/6899,2023-2024
-1170,Lenoir-Rhyne,6901,Blaikley Crooks,Senior,"Morganton, N.C.",Freedom HS,,"5'11""","5'11""",30,https://www.lrbears.com/sports/womens-basketball/roster/blaikley-crooks/6901,2023-2024
-1170,Lenoir-Rhyne,6902,Emma Pendleton,Freshman,"Lawsonville, N.C.",Reagan HS,,"6'2""","6'2""",44,https://www.lrbears.com/sports/womens-basketball/roster/emma-pendleton/6902,2023-2024
+1170,Lenoir-Rhyne,6882,Bella Sims,Sophomore,"East Moline, Ill.",DME Academy / Davenport North HS,,"5'6""",,0,https://www.lrbears.com/sports/womens-basketball/roster/bella-sims/6882,2023-2024
+1170,Lenoir-Rhyne,6883,Jazmine Major,Freshman,"Palm Bay, Fla.",Palm Bay Magnet HS,,"5'5""",,1,https://www.lrbears.com/sports/womens-basketball/roster/jazmine-major/6883,2023-2024
+1170,Lenoir-Rhyne,6884,Megan Landsiedel,Senior,"Stamford, Conn.",,Western Kentucky University, "6'0""",,2,https://www.lrbears.com/sports/womens-basketball/roster/megan-landsiedel/6884,2023-2024
+1170,Lenoir-Rhyne,6885,Abby Wrede,Junior,"Denver, Colo.",Cherry Creek HS,Hawaii Pacific,"5'9""",,3,https://www.lrbears.com/sports/womens-basketball/roster/abby-wrede/6885,2023-2024
+1170,Lenoir-Rhyne,6886,Nevaeh Johnson,Sophomore,"Muskogee, Okla.",Hilldale HS,,"6'1""",,4,https://www.lrbears.com/sports/womens-basketball/roster/nevaeh-johnson/6886,2023-2024
+1170,Lenoir-Rhyne,6887,Destanee Trammell,Freshman,"Robbinsville, N.C.",Robbinsville HS,,"5'3""",,5,https://www.lrbears.com/sports/womens-basketball/roster/destanee-trammell/6887,2023-2024
+1170,Lenoir-Rhyne,6888,Tatum Bowen,Freshman,"Charlotte, N.C.",1 of 1 Prep Academy,,"5'11""",,10,https://www.lrbears.com/sports/womens-basketball/roster/tatum-bowen/6888,2023-2024
+1170,Lenoir-Rhyne,6889,Tilda Lindstrom,Junior,"Huskvarna, Sweden",Sandagymnasiet,,"6'0""",,11,https://www.lrbears.com/sports/womens-basketball/roster/tilda-lindstrom/6889,2023-2024
+1170,Lenoir-Rhyne,6890,Andrea Torres,Junior,"Miami, Fla.",Doral Academy,,"5'6""",,12,https://www.lrbears.com/sports/womens-basketball/roster/andrea-torres/6890,2023-2024
+1170,Lenoir-Rhyne,6891,Jayda Glass,Senior,"Denver, N.C.",Freedom HS,,"5'10""",,13,https://www.lrbears.com/sports/womens-basketball/roster/jayda-glass/6891,2023-2024
+1170,Lenoir-Rhyne,6892,Valerie Veauthier,Freshman,"Holly Springs, N.C.",Holly Springs HS,,"5'6""",,14,https://www.lrbears.com/sports/womens-basketball/roster/valerie-veauthier/6892,2023-2024
+1170,Lenoir-Rhyne,6893,Josie Hise,Senior,"Morganton, N.C.",Freedom HS,,"5'7""",,15,https://www.lrbears.com/sports/womens-basketball/roster/josie-hise/6893,2023-2024
+1170,Lenoir-Rhyne,6894,Emily Harman,Senior,"Chesapeake, Va.",Veritas Collegiate Academy,,"5'6""",,20,https://www.lrbears.com/sports/womens-basketball/roster/emily-harman/6894,2023-2024
+1170,Lenoir-Rhyne,6895,Mikeba Jones,Senior,"Fort Wayne, Ind.",Southside HS,Mississippi College,"6'1""",,21,https://www.lrbears.com/sports/womens-basketball/roster/mikeba-jones/6895,2023-2024
+1170,Lenoir-Rhyne,6896,Maleiya Hill,Sophomore,Durham N.C.,Hillside HS,,"5'6""",,22,https://www.lrbears.com/sports/womens-basketball/roster/maleiya-hill/6896,2023-2024
+1170,Lenoir-Rhyne,6897,Alexandra Merceron,Freshman,"Orlando, Fla.",Bishop Moore Catholic HS,,"5'11""",,23,https://www.lrbears.com/sports/womens-basketball/roster/alexandra-merceron/6897,2023-2024
+1170,Lenoir-Rhyne,6898,Jalen Gathers,Graduate Student,"Richmond, Va.",Highland Springs HS,Mary Baldwin University,"5'10""",,24,https://www.lrbears.com/sports/womens-basketball/roster/jalen-gathers/6898,2023-2024
+1170,Lenoir-Rhyne,6899,Amaria Jones,Freshman,"Spartanburg, S.C.",Dorman HS,,"5'5""",,25,https://www.lrbears.com/sports/womens-basketball/roster/amaria-jones/6899,2023-2024
+1170,Lenoir-Rhyne,6901,Blaikley Crooks,Senior,"Morganton, N.C.",Freedom HS,,"5'11""",,30,https://www.lrbears.com/sports/womens-basketball/roster/blaikley-crooks/6901,2023-2024
+1170,Lenoir-Rhyne,6902,Emma Pendleton,Freshman,"Lawsonville, N.C.",Reagan HS,,"6'2""",,44,https://www.lrbears.com/sports/womens-basketball/roster/emma-pendleton/6902,2023-2024
 1174,Limestone,17282,Dior Shelton,Junior,"Bluffton, S.C.",,Claflin University,"6'0""",Small,0,https://www.golimestonesaints.com/sports/womens-basketball/roster/dior-shelton/17282,2023-2024
-1174,Limestone,17245,Brynn Tabeling,Junior,"Tuscola, Ill.",,Tuscola HS,"5'5""",Guard,1,https://www.golimestonesaints.com/sports/womens-basketball/roster/brynn-tabeling/17245,2023-2024
-1174,Limestone,17238,Madison Clark,Junior,"Kennesaw, Ga.",,Kennesaw Mountain HS,"6'1""",Center,2,https://www.golimestonesaints.com/sports/womens-basketball/roster/madison-clark/17238,2023-2024
+1174,Limestone,17245,Brynn Tabeling,Junior,"Tuscola, Ill.",Tuscola HS,,"5'5""",Guard,1,https://www.golimestonesaints.com/sports/womens-basketball/roster/brynn-tabeling/17245,2023-2024
+1174,Limestone,17238,Madison Clark,Junior,"Kennesaw, Ga.",Kennesaw Mountain HS,,"6'1""",Center,2,https://www.golimestonesaints.com/sports/womens-basketball/roster/madison-clark/17238,2023-2024
 1174,Limestone,17285,Ameera Thomas,Junior,"Atlanta, Ga.",,Florida State College of Jacksonville,"5'9""",Guard,3,https://www.golimestonesaints.com/sports/womens-basketball/roster/ameera-thomas/17285,2023-2024
-1174,Limestone,17283,Mikeala Washington,Freshman,"Beaufort, S.C.",,Beaufort Academy,"5'5""",Guard,4,https://www.golimestonesaints.com/sports/womens-basketball/roster/mikeala-washington/17283,2023-2024
+1174,Limestone,17283,Mikeala Washington,Freshman,"Beaufort, S.C.",Beaufort Academy,,"5'5""",Guard,4,https://www.golimestonesaints.com/sports/womens-basketball/roster/mikeala-washington/17283,2023-2024
 1174,Limestone,17239,Shariah Gaddy,Redshirt Senior,"Charlotte, N.C.",,Presbyterian College,"5'11""",Forward,5,https://www.golimestonesaints.com/sports/womens-basketball/roster/shariah-gaddy/17239,2023-2024
 1174,Limestone,17246,Megan Watson,Senior,"Tampa, Fla.",,St. Petersburg College,"5'8""",Guard,10,https://www.golimestonesaints.com/sports/womens-basketball/roster/megan-watson/17246,2023-2024
-1174,Limestone,17237,Kimbrie'l Barnes,Junior,"Marion, S.C.",,Marion HS,"5'8""",Guard,11,https://www.golimestonesaints.com/sports/womens-basketball/roster/kimbrie-l-barnes/17237,2023-2024
+1174,Limestone,17237,Kimbrie'l Barnes,Junior,"Marion, S.C.",Marion HS,,"5'8""",Guard,11,https://www.golimestonesaints.com/sports/womens-basketball/roster/kimbrie-l-barnes/17237,2023-2024
 1174,Limestone,17244,Amara Newsom,Senior,"Kennesaw, Ga.",,University of West Florida,"5'10""",Forward,12,https://www.golimestonesaints.com/sports/womens-basketball/roster/amara-newsom/17244,2023-2024
-1174,Limestone,17243,Reagan Kargo,Senior,"Summerfield, N.C.",,Northwest Guilford HS,"5'9""",Guard,15,https://www.golimestonesaints.com/sports/womens-basketball/roster/reagan-kargo/17243,2023-2024
-1174,Limestone,17241,Kalisha Hill,Junior,"Saluda, S.C.",,Saluda HS,"5'10""",Forward,20,https://www.golimestonesaints.com/sports/womens-basketball/roster/kalisha-hill/17241,2023-2024
+1174,Limestone,17243,Reagan Kargo,Senior,"Summerfield, N.C.",Northwest Guilford HS,,"5'9""",Guard,15,https://www.golimestonesaints.com/sports/womens-basketball/roster/reagan-kargo/17243,2023-2024
+1174,Limestone,17241,Kalisha Hill,Junior,"Saluda, S.C.",Saluda HS,,"5'10""",Forward,20,https://www.golimestonesaints.com/sports/womens-basketball/roster/kalisha-hill/17241,2023-2024
 1174,Limestone,17299,Neylan Vila Delicado,Junior,"Barcelona, Spain",,Eastern Wyoming College,"5'3""",Guard,21,https://www.golimestonesaints.com/sports/womens-basketball/roster/neylan-vila-delicado/17299,2023-2024
 1174,Limestone,17286,M'Kayla Patterson,Junior,"Altamonte Springs, Fla.",,Florida State College of Jacksonville,"5'6""",Guard,22,https://www.golimestonesaints.com/sports/womens-basketball/roster/m-kayla-patterson/17286,2023-2024
 1174,Limestone,17240,De'Jaria Guillory,Senior,"Kansas City, Mo.",,Kansas City Kansas Community College,"5'7""",Guard,23,https://www.golimestonesaints.com/sports/womens-basketball/roster/de-jaria-guillory/17240,2023-2024
-1174,Limestone,17284,Madison Cole,Freshman,"Gastonia, N.C.",,Ashebrook HS,"5'8""",Guard,24,https://www.golimestonesaints.com/sports/womens-basketball/roster/madison-cole/17284,2023-2024
-1174,Limestone,17242,Destiny Jackson,Senior,"Severn, Md.",,Meade HS,"5'9""",Guard,32,https://www.golimestonesaints.com/sports/womens-basketball/roster/destiny-jackson/17242,2023-2024
+1174,Limestone,17284,Madison Cole,Freshman,"Gastonia, N.C.",Ashebrook HS,,"5'8""",Guard,24,https://www.golimestonesaints.com/sports/womens-basketball/roster/madison-cole/17284,2023-2024
+1174,Limestone,17242,Destiny Jackson,Senior,"Severn, Md.",Meade HS,,"5'9""",Guard,32,https://www.golimestonesaints.com/sports/womens-basketball/roster/destiny-jackson/17242,2023-2024
 11740,West Florida,7495,Tyashia Bostick,Graduate Student,"Charleston, S.C.",Northwood Academy,Spring Hill,"5'9""",G/F,0,https://www.goargos.com/sports/womens-basketball/roster/tyashia-bostick/7495,2023-2024
 11740,West Florida,7496,Brooke Kane,Graduate Student,"Derry, N.H.",Pinkerton Academy,New Hampshire,"6'0""",F,2,https://www.goargos.com/sports/womens-basketball/roster/brooke-kane/7496,2023-2024
 11740,West Florida,7479,Shania Johnson,Redshirt Senior,"Munford, Tenn.",Munford HS,New Mexico Highlands,"5'10""",G,3,https://www.goargos.com/sports/womens-basketball/roster/shania-johnson/7479,2023-2024
@@ -4325,18 +4325,18 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 118,Carleton,2257,Margie Clauss,Senior,"Minneapolis, Minn.",Washburn,,"5'10""",F,20,https://www.carleton.edu/sports/womens-basketball/roster/margie-clauss/2257,2023-2024
 118,Carleton,2263,Grace Colburn,Sophomore,"Bainbridge Island, Wash.",Bainbridge,,,N/A,22,https://www.carleton.edu/sports/womens-basketball/roster/grace-colburn/2263,2023-2024
 118,Carleton,2264,Opal Burruss,Sophomore,"Deadwood, Ore.",Mapleton,,,N/A,30,https://www.carleton.edu/sports/womens-basketball/roster/opal-burruss/2264,2023-2024
-11839,Pitt.-Greensburg,2835,Malina Boord,Freshman,"McKeesport, PA",McKeesport,,"5'7""","5'7""",0,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/malina-boord/2835,2023-2024
-11839,Pitt.-Greensburg,2836,Melina Maietta,Junior,"North Huntingdon, PA",Greensburg Central Catholic,,"5'7""","5'7""",1,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/melina-maietta/2836,2023-2024
-11839,Pitt.-Greensburg,2837,Laura Vittone,Sophomore,"Bentleyville, PA",Bentworth,,"5'7""","5'7""",3,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/laura-vittone/2837,2023-2024
-11839,Pitt.-Greensburg,2838,Sarah Penrod,Freshman,"Murrysville, PA",Franklin Regional,,"5'6""","5'6""",4,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/sarah-penrod/2838,2023-2024
-11839,Pitt.-Greensburg,2839,Keira Coleman,Junior,"Pittsburgh, Pa",Taylor Allderdice,,"5'7""","5'7""",5,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/keira-coleman/2839,2023-2024
-11839,Pitt.-Greensburg,2840,Tori Carr,Freshman,"Duquesne, PA",West Mifflin,,"5'6""","5'6""",11,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/tori-carr/2840,2023-2024
-11839,Pitt.-Greensburg,2841,Tiana Moracco,Sophomore,"Derry, PA",Derry Area,,"5'10""","5'10""",13,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/tiana-moracco/2841,2023-2024
-11839,Pitt.-Greensburg,2842,Nicole Pawlowski,Sophomore,"McKeesport, PA",Serra Catholic,,"5'7""","5'7""",14,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/nicole-pawlowski/2842,2023-2024
-11839,Pitt.-Greensburg,2843,Anna Durbin,Sophomore,"Graysville, PA",West Greene,,"5'6""","5'6""",15,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/anna-durbin/2843,2023-2024
-11839,Pitt.-Greensburg,2844,Kaylee George,Senior,"New Castle, PA",Neshannock,,"5'8""","5'8""",21,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/kaylee-george/2844,2023-2024
-11839,Pitt.-Greensburg,2845,Madison Scalese,Sophomore,"Cherry Tree, PA",Purchase Line,,"5'7""","5'7""",22,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/madison-scalese/2845,2023-2024
-11839,Pitt.-Greensburg,2846,Chloe Lukondi,Sophomore,"North Huntingdon, PA",Norwin,,"5'7""","5'7""",23,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/chloe-lukondi/2846,2023-2024
+11839,Pitt.-Greensburg,2835,Malina Boord,Freshman,"McKeesport, PA",McKeesport,,"5'7""",,0,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/malina-boord/2835,2023-2024
+11839,Pitt.-Greensburg,2836,Melina Maietta,Junior,"North Huntingdon, PA",Greensburg Central Catholic,,"5'7""",,1,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/melina-maietta/2836,2023-2024
+11839,Pitt.-Greensburg,2837,Laura Vittone,Sophomore,"Bentleyville, PA",Bentworth,,"5'7""",,3,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/laura-vittone/2837,2023-2024
+11839,Pitt.-Greensburg,2838,Sarah Penrod,Freshman,"Murrysville, PA",Franklin Regional,,"5'6""",,4,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/sarah-penrod/2838,2023-2024
+11839,Pitt.-Greensburg,2839,Keira Coleman,Junior,"Pittsburgh, Pa",Taylor Allderdice,,"5'7""",,5,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/keira-coleman/2839,2023-2024
+11839,Pitt.-Greensburg,2840,Tori Carr,Freshman,"Duquesne, PA",West Mifflin,,"5'6""",,11,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/tori-carr/2840,2023-2024
+11839,Pitt.-Greensburg,2841,Tiana Moracco,Sophomore,"Derry, PA",Derry Area,,"5'10""",,13,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/tiana-moracco/2841,2023-2024
+11839,Pitt.-Greensburg,2842,Nicole Pawlowski,Sophomore,"McKeesport, PA",Serra Catholic,,"5'7""",,14,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/nicole-pawlowski/2842,2023-2024
+11839,Pitt.-Greensburg,2843,Anna Durbin,Sophomore,"Graysville, PA",West Greene,,"5'6""",,15,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/anna-durbin/2843,2023-2024
+11839,Pitt.-Greensburg,2844,Kaylee George,Senior,"New Castle, PA",Neshannock,,"5'8""",,21,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/kaylee-george/2844,2023-2024
+11839,Pitt.-Greensburg,2845,Madison Scalese,Sophomore,"Cherry Tree, PA",Purchase Line,,"5'7""",,22,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/madison-scalese/2845,2023-2024
+11839,Pitt.-Greensburg,2846,Chloe Lukondi,Sophomore,"North Huntingdon, PA",Norwin,,"5'7""",,23,https://www.pittgreensburgathletics.com/sports/womens-basketball/roster/chloe-lukondi/2846,2023-2024
 1196,Marian (WI),11122,Jayla Wehner,Senior,"Pittsburgh, Pa.",,Norwin HS,"5'5""",G,1,https://www.muknights.com/sports/womens-basketball/roster/jayla-wehner/11122,2023-2024
 1196,Marian (WI),11120,Tamia Perryman,Redshirt Junior,"Fishers, Ind.",,Fishers HS,"5'8""",F,2,https://www.muknights.com/sports/womens-basketball/roster/tamia-perryman/11120,2023-2024
 1196,Marian (WI),11113,Kenna Gray,Junior,"New Carlisle, Ohio",,Bethel HS,"5'6""",G,5,https://www.muknights.com/sports/womens-basketball/roster/kenna-gray/11113,2023-2024
@@ -5790,19 +5790,19 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 21323,Chestnut Hill,5971,Bri Rider,Junior,"Nottingham, Md.",St. Timothy's School,,"5'11""",Guard/Forward,34,https://www.griffinathletics.com/sports/womens-basketball/roster/bri-rider/5971,2023-2024
 21323,Chestnut Hill,5970,Lindsey Lane,Fifth Year,"Havertown, Pa.",Haverford,,"5'11""",Forward,42,https://www.griffinathletics.com/sports/womens-basketball/roster/lindsey-lane/5970,2023-2024
 214,Emerson,3123,Olivia Deslauriers,Senior,"West Hartford, Conn.",Hall High School,,,N/A,1,https://www.emersonlions.com/sports/womens-basketball/roster/olivia-deslauriers/3123,2023-2024
-214,Emerson,3130,Bri Frongillo,Sophomore,Hopedale MA,Hopedale High School,,"5'3""","5'3""",2,https://www.emersonlions.com/sports/womens-basketball/roster/bri-frongillo/3130,2023-2024
-214,Emerson,3131,Elise Arnold,Freshman,"Los Angeles, CA",Palisades Charter,,"5'10""","5'10""",4,https://www.emersonlions.com/sports/womens-basketball/roster/elise-arnold/3131,2023-2024
+214,Emerson,3130,Bri Frongillo,Sophomore,Hopedale MA,Hopedale High School,,"5'3""",,2,https://www.emersonlions.com/sports/womens-basketball/roster/bri-frongillo/3130,2023-2024
+214,Emerson,3131,Elise Arnold,Freshman,"Los Angeles, CA",Palisades Charter,,"5'10""",,4,https://www.emersonlions.com/sports/womens-basketball/roster/elise-arnold/3131,2023-2024
 214,Emerson,3124,Charlotte Levison,Senior,"Atherton, CA",Sacred Heart Prep/University of Denver,,,N/A,5,https://www.emersonlions.com/sports/womens-basketball/roster/charlotte-levison/3124,2023-2024
 214,Emerson,3127,Bianca Benson,Junior,"St. Paul, Minn.",Totino-Grace,,,N/A,10,https://www.emersonlions.com/sports/womens-basketball/roster/bianca-benson/3127,2023-2024
 214,Emerson,3122,Ella Bushee,Senior,"Walpole, N.H.",Vermont Academy,,,N/A,11,https://www.emersonlions.com/sports/womens-basketball/roster/ella-bushee/3122,2023-2024
 214,Emerson,3128,Mackenzie Bruno,Junior,"Howell, N.J.",Howell,,,N/A,12,https://www.emersonlions.com/sports/womens-basketball/roster/mackenzie-bruno/3128,2023-2024
 214,Emerson,3126,Ava Salti,Senior,"Melville, N.Y.",Half Hallows Hill HS East,,,N/A,13,https://www.emersonlions.com/sports/womens-basketball/roster/ava-salti/3126,2023-2024
-214,Emerson,3150,Kaylin O'Meara,Freshman,"Littleton, MA",Littleton High School,,"5'10""","5'10""",14,https://www.emersonlions.com/sports/womens-basketball/roster/kaylin-o-meara/3150,2023-2024
-214,Emerson,3134,Claire English,Freshman,"Winchester, MA",Winchester High School,,"5'11""","5'11""",15,https://www.emersonlions.com/sports/womens-basketball/roster/claire-english/3134,2023-2024
+214,Emerson,3150,Kaylin O'Meara,Freshman,"Littleton, MA",Littleton High School,,"5'10""",,14,https://www.emersonlions.com/sports/womens-basketball/roster/kaylin-o-meara/3150,2023-2024
+214,Emerson,3134,Claire English,Freshman,"Winchester, MA",Winchester High School,,"5'11""",,15,https://www.emersonlions.com/sports/womens-basketball/roster/claire-english/3134,2023-2024
 214,Emerson,3129,Sofia Canter,Freshman,"Los Angeles, CA",Palisades High School,,,N/A,21,https://www.emersonlions.com/sports/womens-basketball/roster/sofia-canter/3129,2023-2024
-214,Emerson,3132,Taylor Arnold,Freshman,"Los Angeles, CA",Palisades Charter,,"5'10""","5'10""",23,https://www.emersonlions.com/sports/womens-basketball/roster/taylor-arnold/3132,2023-2024
-214,Emerson,3133,Kendra Dodd,Freshman,"Tampa, FL",H.B. Plant High School,,"5'8""","5'8""",32,https://www.emersonlions.com/sports/womens-basketball/roster/kendra-dodd/3133,2023-2024
-214,Emerson,3135,Sydney Lyons,Freshman,"Medford, NJ",Shawnee High School,,"6'0""","6'0""",33,https://www.emersonlions.com/sports/womens-basketball/roster/sydney-lyons/3135,2023-2024
+214,Emerson,3132,Taylor Arnold,Freshman,"Los Angeles, CA",Palisades Charter,,"5'10""",,23,https://www.emersonlions.com/sports/womens-basketball/roster/taylor-arnold/3132,2023-2024
+214,Emerson,3133,Kendra Dodd,Freshman,"Tampa, FL",H.B. Plant High School,,"5'8""",,32,https://www.emersonlions.com/sports/womens-basketball/roster/kendra-dodd/3133,2023-2024
+214,Emerson,3135,Sydney Lyons,Freshman,"Medford, NJ",Shawnee High School,,"6'0""",,33,https://www.emersonlions.com/sports/womens-basketball/roster/sydney-lyons/3135,2023-2024
 214,Emerson,3125,Quinn O'Connor,Senior,"Bethlehem, Penn.",Moravian Academy,,,N/A,50,https://www.emersonlions.com/sports/womens-basketball/roster/quinn-o-connor/3125,2023-2024
 21830,Piedmont,5759,Laken Stiles,Senior,"Tiger, Ga",Rabun County,,"5'5""",Guard,0,https://www.piedmontlions.com/sports/womens-basketball/roster/laken-stiles/5759,2023-2024
 21830,Piedmont,5750,Brooklyn Begley,Sophomore,"Evans, Ga.",Greenbrier,,"5'7""",Guard,1,https://www.piedmontlions.com/sports/womens-basketball/roster/brooklyn-begley/5750,2023-2024
@@ -7072,7 +7072,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 30085,Lancaster Bible,3732,Gianna Hegler,Junior,"Mount Airy, Md.",Mount Airy Christian Academy,,"5'7""",Guard,25,https://www.lbcchargers.com/sports/womens-basketball/roster/gianna-hegler/3732,2023-2024
 30085,Lancaster Bible,3739,Chloe Stenberg,Freshman,"Tampa, Fla.",Blako,,"5'11""",Forward,33,https://www.lbcchargers.com/sports/womens-basketball/roster/chloe-stenberg/3739,2023-2024
 30085,Lancaster Bible,3730,Jenna Dombach,Senior,"Quarryville, Pa.",Solanco,,"5'6""",Guard,35,https://www.lbcchargers.com/sports/womens-basketball/roster/jenna-dombach/3730,2023-2024
-30088,Tex. Permian Basin,5199,Kamryn Lemon,Graduate Student,"Sumter, S.C.",Dreher,Long Beach State,"5'8""","5'8""",0,https://www.utpbfalcons.com/sports/womens-basketball/roster/kamryn-lemon/5199,2023-2024
+30088,Tex. Permian Basin,5199,Kamryn Lemon,Graduate Student,"Sumter, S.C.",Dreher,Long Beach State,"5'8""",,0,https://www.utpbfalcons.com/sports/womens-basketball/roster/kamryn-lemon/5199,2023-2024
 30088,Tex. Permian Basin,5193,Andreea Mancha,Senior,"Alvin, Texas",Alvin,Hill College,"5'5""",Guard,1,https://www.utpbfalcons.com/sports/womens-basketball/roster/andreea-mancha/5193,2023-2024
 30088,Tex. Permian Basin,5187,Tamia Flores,Redshirt Sophomore,"Dallas, Texas",Pinkston,,"5'8""",Guard,2,https://www.utpbfalcons.com/sports/womens-basketball/roster/tamia-flores/5187,2023-2024
 30088,Tex. Permian Basin,5189,Ariyel Gordon,Redshirt Freshman,"San Antonio, Texas",Harlan,,"5'7""",Guard,3,https://www.utpbfalcons.com/sports/womens-basketball/roster/ariyel-gordon/5189,2023-2024
@@ -7083,13 +7083,13 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 30088,Tex. Permian Basin,5186,Makala Bingley,Sophomore,"Tasmania, Australia",Kings Meadow,,"5'10""",Forward,12,https://www.utpbfalcons.com/sports/womens-basketball/roster/makala-bingley/5186,2023-2024
 30088,Tex. Permian Basin,5198,Diavian Spencer,Junior,"Arlington, Texas",Arlington Martin,,"5'6""",Guard,13,https://www.utpbfalcons.com/sports/womens-basketball/roster/diavian-spencer/5198,2023-2024
 30088,Tex. Permian Basin,5192,Holly Hemmeline,Senior,"Denver City, Texas",Denver City,,"5'7""",Guard,15,https://www.utpbfalcons.com/sports/womens-basketball/roster/holly-hemmeline/5192,2023-2024
-30088,Tex. Permian Basin,5202,Mikalah Buckley,Freshman,"Austin, Texas",Hendrickson,,"5'6""","5'6""",20,https://www.utpbfalcons.com/sports/womens-basketball/roster/mikalah-buckley/5202,2023-2024
+30088,Tex. Permian Basin,5202,Mikalah Buckley,Freshman,"Austin, Texas",Hendrickson,,"5'6""",,20,https://www.utpbfalcons.com/sports/womens-basketball/roster/mikalah-buckley/5202,2023-2024
 30088,Tex. Permian Basin,5190,Ally Haman,Junior,"Cypress, Texas",Cypress Creek,,"5'9""",Guard,21,https://www.utpbfalcons.com/sports/womens-basketball/roster/ally-haman/5190,2023-2024
 30088,Tex. Permian Basin,5188,Khiara Flugence,Sophomore,"San Antonio, Texas",Champion,,"6'0""",Forward,22,https://www.utpbfalcons.com/sports/womens-basketball/roster/khiara-flugence/5188,2023-2024
 30088,Tex. Permian Basin,5196,Alexus Quaadman,Graduate Student,"Las Vegas, Nevada",Spring Valley,,"6'1""",Post,23,https://www.utpbfalcons.com/sports/womens-basketball/roster/alexus-quaadman/5196,2023-2024
-30088,Tex. Permian Basin,5200,Laylah Davis,Junior,"Saginaw, Texas",Boswell,Clayton State,"5'8""","5'8""",24,https://www.utpbfalcons.com/sports/womens-basketball/roster/laylah-davis/5200,2023-2024
-30088,Tex. Permian Basin,5203,Chayse Goetz,Freshman,"New Braunfels, Texas",Canyon,,"5'11""","5'11""",32,https://www.utpbfalcons.com/sports/womens-basketball/roster/chayse-goetz/5203,2023-2024
-30088,Tex. Permian Basin,5204,Jayda Reece,Freshman,"Memphis, Tenn.",Samuel B. Clemens,,"5'7""","5'7""",33,https://www.utpbfalcons.com/sports/womens-basketball/roster/jayda-reece/5204,2023-2024
+30088,Tex. Permian Basin,5200,Laylah Davis,Junior,"Saginaw, Texas",Boswell,Clayton State,"5'8""",,24,https://www.utpbfalcons.com/sports/womens-basketball/roster/laylah-davis/5200,2023-2024
+30088,Tex. Permian Basin,5203,Chayse Goetz,Freshman,"New Braunfels, Texas",Canyon,,"5'11""",,32,https://www.utpbfalcons.com/sports/womens-basketball/roster/chayse-goetz/5203,2023-2024
+30088,Tex. Permian Basin,5204,Jayda Reece,Freshman,"Memphis, Tenn.",Samuel B. Clemens,,"5'7""",,33,https://www.utpbfalcons.com/sports/womens-basketball/roster/jayda-reece/5204,2023-2024
 30092,Flagler,9579,Aspen Weeks,Freshman,"Aurora, Ill.",,West Aurora HS,"5'7""",Guard,0,https://www.flaglerathletics.com/sports/womens-basketball/roster/aspen-weeks/9579,2023-2024
 30092,Flagler,9578,Lina Kouchis,Freshman,"St. Johns, Fla.",,Bartram Trail HS,"5'5""",Guard,1,https://www.flaglerathletics.com/sports/womens-basketball/roster/lina-kouchis/9578,2023-2024
 30092,Flagler,9850,Destiny McClendon,Junior,"Greensboro, Ga.",,University of Tennessee at Chattanooga,"5'10""",Guard,2,https://www.flaglerathletics.com/sports/womens-basketball/roster/destiny-mcclendon/9850,2023-2024
@@ -7396,23 +7396,23 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 30149,Point Loma,6727,Tavia Rowell,Junior,"Langley, B.C.",Walnut Grove / Hawaii Pacific,,"5'10""",Guard,30,https://www.plnusealions.com/sports/womens-basketball/roster/tavia-rowell/6727,2023-2024
 30149,Point Loma,6728,Katie Scott,Junior,"Carl Junction, Mo.",Carl Junction / Oral Roberts,,"6'3""",Center,33,https://www.plnusealions.com/sports/womens-basketball/roster/katie-scott/6728,2023-2024
 30149,Point Loma,6730,Annika Thayer,Junior,"Truckee, Calif.",Truckee,,"6'1""",Forward,45,https://www.plnusealions.com/sports/womens-basketball/roster/annika-thayer/6730,2023-2024
-30151,Shorter,8969,Ariyah Brooks,Junior,"Racine, WI",Garden City Comm. College,,"6'1""","6'1""",1,https://www.goshorterhawks.com/sports/womens-basketball/roster/ariyah-brooks/8969,2023-2024
-30151,Shorter,8970,Ahtiana Benway,Freshman,"Lincoln, RI",St. Mary Academy Bayview,,"5'6""","5'6""",3,https://www.goshorterhawks.com/sports/womens-basketball/roster/ahtiana-benway/8970,2023-2024
-30151,Shorter,8966,Rhyan Wilson,Sophomore,"Fairburn, GA",Westlake High School,,"5'11""","5'11""",4,https://www.goshorterhawks.com/sports/womens-basketball/roster/rhyan-wilson/8966,2023-2024
-30151,Shorter,8971,Morgan Wood,Freshman,"Rome, GA",Model High School,,"5'4""","5'4""",5,https://www.goshorterhawks.com/sports/womens-basketball/roster/morgan-wood/8971,2023-2024
-30151,Shorter,8961,Derrica McCall,Junior,"Hayneville, AL",Bishop State Community College,,"5'7""","5'7""",10,https://www.goshorterhawks.com/sports/womens-basketball/roster/derrica-mccall/8961,2023-2024
-30151,Shorter,8963,Amya Patterson,Sophomore,"Orlando, FL",Apopka High School,,"6'2""","6'2""",11,https://www.goshorterhawks.com/sports/womens-basketball/roster/amya-patterson/8963,2023-2024
-30151,Shorter,8959,Shaina Kriews,Sophomore,"Flowery Branch, GA",Flowery Branch High School,,"5'6""","5'6""",12,https://www.goshorterhawks.com/sports/womens-basketball/roster/shaina-kriews/8959,2023-2024
-30151,Shorter,8957,Lindsey Hardin,Graduate Student,"Spartanburg, SC",Converse College,,"5'10""","5'10""",14,https://www.goshorterhawks.com/sports/womens-basketball/roster/lindsey-hardin/8957,2023-2024
-30151,Shorter,8960,Tiara Lewis,Junior,"Marietta, GA",Osborne High School,,"6'0""","6'0""",15,https://www.goshorterhawks.com/sports/womens-basketball/roster/tiara-lewis/8960,2023-2024
-30151,Shorter,8973,Holley Turner,Freshman,"Powder Springs, GA",Harrison High School,,"5'8""","5'8""",21,https://www.goshorterhawks.com/sports/womens-basketball/roster/holley-turner/8973,2023-2024
-30151,Shorter,8972,Courtney Lumpkins,Junior,"St. Louis, MO",Kaskaskia College,,"5'6""","5'6""",22,https://www.goshorterhawks.com/sports/womens-basketball/roster/courtney-lumpkins/8972,2023-2024
-30151,Shorter,8974,Tori Smiley,Sophomore,"Indianapolis, IN",King University,,"5'6""","5'6""",23,https://www.goshorterhawks.com/sports/womens-basketball/roster/tori-smiley/8974,2023-2024
-30151,Shorter,8956,Ansley Barge,Graduate Student,"Carrollton, GA",University of Tennessee at Chattanooga,,"5'7""","5'7""",24,https://www.goshorterhawks.com/sports/womens-basketball/roster/ansley-barge/8956,2023-2024
-30151,Shorter,8958,Jordan Kierbow,Sophomore,"Carrollton, GA",Mount Zion High School,,"5'7""","5'7""",32,https://www.goshorterhawks.com/sports/womens-basketball/roster/jordan-kierbow/8958,2023-2024
-30151,Shorter,8964,Jordan Tanksley,Sophomore,"Evans, GA",Greenbrier High School,,"5'8""","5'8""",34,https://www.goshorterhawks.com/sports/womens-basketball/roster/jordan-tanksley/8964,2023-2024
-30151,Shorter,8968,Jayla Woods,Junior,Lake Mary Fl.,Covenant College,,"5'7""","5'7""",40,https://www.goshorterhawks.com/sports/womens-basketball/roster/jayla-woods/8968,2023-2024
-30151,Shorter,8967,Sarah Wisniowski,Sophomore,"Murfreesboro, TN",Middle Tennessee Christian School,,"6'1""","6'1""",50,https://www.goshorterhawks.com/sports/womens-basketball/roster/sarah-wisniowski/8967,2023-2024
+30151,Shorter,8969,Ariyah Brooks,Junior,"Racine, WI",Garden City Comm. College,,"6'1""",,1,https://www.goshorterhawks.com/sports/womens-basketball/roster/ariyah-brooks/8969,2023-2024
+30151,Shorter,8970,Ahtiana Benway,Freshman,"Lincoln, RI",St. Mary Academy Bayview,,"5'6""",,3,https://www.goshorterhawks.com/sports/womens-basketball/roster/ahtiana-benway/8970,2023-2024
+30151,Shorter,8966,Rhyan Wilson,Sophomore,"Fairburn, GA",Westlake High School,,"5'11""",,4,https://www.goshorterhawks.com/sports/womens-basketball/roster/rhyan-wilson/8966,2023-2024
+30151,Shorter,8971,Morgan Wood,Freshman,"Rome, GA",Model High School,,"5'4""",,5,https://www.goshorterhawks.com/sports/womens-basketball/roster/morgan-wood/8971,2023-2024
+30151,Shorter,8961,Derrica McCall,Junior,"Hayneville, AL",Bishop State Community College,,"5'7""",,10,https://www.goshorterhawks.com/sports/womens-basketball/roster/derrica-mccall/8961,2023-2024
+30151,Shorter,8963,Amya Patterson,Sophomore,"Orlando, FL",Apopka High School,,"6'2""",,11,https://www.goshorterhawks.com/sports/womens-basketball/roster/amya-patterson/8963,2023-2024
+30151,Shorter,8959,Shaina Kriews,Sophomore,"Flowery Branch, GA",Flowery Branch High School,,"5'6""",,12,https://www.goshorterhawks.com/sports/womens-basketball/roster/shaina-kriews/8959,2023-2024
+30151,Shorter,8957,Lindsey Hardin,Graduate Student,"Spartanburg, SC",Converse College,,"5'10""",,14,https://www.goshorterhawks.com/sports/womens-basketball/roster/lindsey-hardin/8957,2023-2024
+30151,Shorter,8960,Tiara Lewis,Junior,"Marietta, GA",Osborne High School,,"6'0""",,15,https://www.goshorterhawks.com/sports/womens-basketball/roster/tiara-lewis/8960,2023-2024
+30151,Shorter,8973,Holley Turner,Freshman,"Powder Springs, GA",Harrison High School,,"5'8""",,21,https://www.goshorterhawks.com/sports/womens-basketball/roster/holley-turner/8973,2023-2024
+30151,Shorter,8972,Courtney Lumpkins,Junior,"St. Louis, MO",Kaskaskia College,,"5'6""",,22,https://www.goshorterhawks.com/sports/womens-basketball/roster/courtney-lumpkins/8972,2023-2024
+30151,Shorter,8974,Tori Smiley,Sophomore,"Indianapolis, IN",King University,,"5'6""",,23,https://www.goshorterhawks.com/sports/womens-basketball/roster/tori-smiley/8974,2023-2024
+30151,Shorter,8956,Ansley Barge,Graduate Student,"Carrollton, GA",University of Tennessee at Chattanooga,,"5'7""",,24,https://www.goshorterhawks.com/sports/womens-basketball/roster/ansley-barge/8956,2023-2024
+30151,Shorter,8958,Jordan Kierbow,Sophomore,"Carrollton, GA",Mount Zion High School,,"5'7""",,32,https://www.goshorterhawks.com/sports/womens-basketball/roster/jordan-kierbow/8958,2023-2024
+30151,Shorter,8964,Jordan Tanksley,Sophomore,"Evans, GA",Greenbrier High School,,"5'8""",,34,https://www.goshorterhawks.com/sports/womens-basketball/roster/jordan-tanksley/8964,2023-2024
+30151,Shorter,8968,Jayla Woods,Junior,Lake Mary Fl.,Covenant College,,"5'7""",,40,https://www.goshorterhawks.com/sports/womens-basketball/roster/jayla-woods/8968,2023-2024
+30151,Shorter,8967,Sarah Wisniowski,Sophomore,"Murfreesboro, TN",Middle Tennessee Christian School,,"6'1""",,50,https://www.goshorterhawks.com/sports/womens-basketball/roster/sarah-wisniowski/8967,2023-2024
 30152,Southern Nazarene,8051,Umi Otsuka,Freshman,"Tokyo, Japan",Myojo Gakuen High School,,"5'5""",Guard,1,https://www.snuathletics.com/sports/womens-basketball/roster/umi-otsuka/8051,2023-2024
 30152,Southern Nazarene,7858,Carley Gasaway,Sophomore,"Choctaw, Okla.",Choctaw,,"5'7""",Guard,2,https://www.snuathletics.com/sports/womens-basketball/roster/carley-gasaway/7858,2023-2024
 30152,Southern Nazarene,7862,Lauryn Reither,Graduate Student,"Oklahoma City, Okla.",Putnam City,,"5'7""",Guard,4,https://www.snuathletics.com/sports/womens-basketball/roster/lauryn-reither/7862,2023-2024
@@ -7821,7 +7821,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 314,Jackson St.,2713,Taylor Woodhouse,Junior,"Southaven, Miss.",,,"5'7""",G,0,https://www.gojsutigers.com/sports/womens-basketball/roster/taylor-woodhouse/2713,2023-2024
 314,Jackson St.,2712,Ti'Ian Boler,Senior,"Meridian, Miss.",Meridian HS,,"6'1""",G,1,https://www.gojsutigers.com/sports/womens-basketball/roster/ti-ian-boler/2712,2023-2024
 314,Jackson St.,2714,Miya Crump,Graduate Student,"Houston, Texas",,,"6'1""",G,2,https://www.gojsutigers.com/sports/womens-basketball/roster/miya-crump/2714,2023-2024
-314,Jackson St.,2715,Mya Pratcher,Sophomore,"Memphis, Tenn.",,,"6'3""","6'3""",3,https://www.gojsutigers.com/sports/womens-basketball/roster/mya-pratcher/2715,2023-2024
+314,Jackson St.,2715,Mya Pratcher,Sophomore,"Memphis, Tenn.",,,"6'3""",,3,https://www.gojsutigers.com/sports/womens-basketball/roster/mya-pratcher/2715,2023-2024
 314,Jackson St.,2717,Laila Walker,Sophomore,"Gulfport, Miss.",Harrison Central HS,,"6'5""",C,5,https://www.gojsutigers.com/sports/womens-basketball/roster/laila-walker/2717,2023-2024
 314,Jackson St.,2718,Keshuna Luckett,Graduate Student,"Jackson, Miss.",Lanier HS,,"5'8""",G,10,https://www.gojsutigers.com/sports/womens-basketball/roster/keshuna-luckett/2718,2023-2024
 314,Jackson St.,2719,Madison Roshelle,Junior,"Cincinnati, Ohio",,,"5'9""",G,11,https://www.gojsutigers.com/sports/womens-basketball/roster/madison-roshelle/2719,2023-2024
@@ -7949,7 +7949,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 332,Kentucky St.,4778,Jeana Witherspoon,Graduate Student,"Columbus, Ohio",,,"5'10""",G,24,https://www.ksuthorobreds.com/sports/womens-basketball/roster/jeana-witherspoon/4778,2023-2024
 332,Kentucky St.,4775,Jayln Shelby,Freshman,"Evansville, Ind.",North HS,,"5'11""",F,25,https://www.ksuthorobreds.com/sports/womens-basketball/roster/jayln-shelby/4775,2023-2024
 332,Kentucky St.,4771,Kayla Thompson,Senior,"Louisville, Ky.",,,"6'3""",Forward,31,https://www.ksuthorobreds.com/sports/womens-basketball/roster/kayla-thompson/4771,2023-2024
-332,Kentucky St.,4779,Erica Jones,Graduate Student,"South Haven, Miss.",South Haven HS,,"6'1""","6'1""",34,https://www.ksuthorobreds.com/sports/womens-basketball/roster/erica-jones/4779,2023-2024
+332,Kentucky St.,4779,Erica Jones,Graduate Student,"South Haven, Miss.",South Haven HS,,"6'1""",,34,https://www.ksuthorobreds.com/sports/womens-basketball/roster/erica-jones/4779,2023-2024
 333,Ky. Wesleyan,6633,Hadley Lytton,Sophomore,"Santa Claus, Ind.",Heritage Hills,,"5'5""",Point,1,https://www.kwcpanthers.com/sports/womens-basketball/roster/hadley-lytton/6633,2023-2024
 333,Ky. Wesleyan,6634,Jordan Gillies,Freshman,"Silver Point, Tenn.",Cookeville,,"5'11""",Guard/Forward,2,https://www.kwcpanthers.com/sports/womens-basketball/roster/jordan-gillies/6634,2023-2024
 333,Ky. Wesleyan,6635,Sydnee Richetto,Junior,"Mount Juliet, Tenn.",Green Hill,Wofford,"5'8""",Guard,3,https://www.kwcpanthers.com/sports/womens-basketball/roster/sydnee-richetto/6635,2023-2024
@@ -8476,10 +8476,10 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 397,Marywood,7387,Maddie Neiderer,Sophomore,"Fairfield, Pa.",Fairfield,,"5'10""",Forward,30,https://www.marywoodpacers.com/sports/womens-basketball/roster/maddie-neiderer/7387,2023-2024
 397,Marywood,7389,Mia Blume,Sophomore,"Dunmore, Pa.",Dunmore,,,N/A,,https://www.marywoodpacers.com/sports/womens-basketball/roster/mia-blume/7389,2023-2024
 397,Marywood,7390,Shleby Boyko,Freshman,,,,,N/A,,https://www.marywoodpacers.com/sports/womens-basketball/roster/shleby-boyko/7390,2023-2024
-397,Marywood,7392,Kendel Card,Freshman,"East Stroudsburg, Pa.",Stroudsburg,,"5'7""","5'7""",,https://www.marywoodpacers.com/sports/womens-basketball/roster/kendel-card/7392,2023-2024
+397,Marywood,7392,Kendel Card,Freshman,"East Stroudsburg, Pa.",Stroudsburg,,"5'7""",,,https://www.marywoodpacers.com/sports/womens-basketball/roster/kendel-card/7392,2023-2024
 397,Marywood,7391,Gabrielle Carter,Freshman,"Sewell, N.J.",,,,N/A,,https://www.marywoodpacers.com/sports/womens-basketball/roster/gabrielle-carter/7391,2023-2024
-397,Marywood,7393,Allyson Griscavage,Freshman,"Catawissa, Pa.",Southern Columbia,,"6'1""","6'1""",,https://www.marywoodpacers.com/sports/womens-basketball/roster/allyson-griscavage/7393,2023-2024
-397,Marywood,7394,Lily Sherman,Junior,"Trappe, Pa.",Perkiomen Valley,,"5'9""","5'9""",,https://www.marywoodpacers.com/sports/womens-basketball/roster/lily-sherman/7394,2023-2024
+397,Marywood,7393,Allyson Griscavage,Freshman,"Catawissa, Pa.",Southern Columbia,,"6'1""",,,https://www.marywoodpacers.com/sports/womens-basketball/roster/allyson-griscavage/7393,2023-2024
+397,Marywood,7394,Lily Sherman,Junior,"Trappe, Pa.",Perkiomen Valley,,"5'9""",,,https://www.marywoodpacers.com/sports/womens-basketball/roster/lily-sherman/7394,2023-2024
 398,MIT,12107,Sydney Baller,First Year,"Littleton, Colo.",Valor Christian,,"5'10""",G/F,1,https://www.mitathletics.com/sports/womens-basketball/roster/sydney-baller/12107,2023-2024
 398,MIT,12105,Mariam Abdelbarr,First Year,"Durham, N.C.",N.C. School of Science and Mathematics,,"5'8""",G,2,https://www.mitathletics.com/sports/womens-basketball/roster/mariam-abdelbarr/12105,2023-2024
 398,MIT,12096,Sarah Berman,Junior,"York, Pa.",Central York,,"5'6""",G,3,https://www.mitathletics.com/sports/womens-basketball/roster/sarah-berman/12096,2023-2024
@@ -9322,7 +9322,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 530,Oswego St.,20916,Zoe Evans,Junior,"Rome, N.Y.",Rome,,"6'0""",Forward,44,https://www.oswegolakers.com/sports/womens-basketball/roster/zoe-evans/20916,2023-2024
 530,Oswego St.,20930,Giavanna White-Principio,Sophomore,"Waterloo, NY",Waterloo,,,N/A,52,https://www.oswegolakers.com/sports/womens-basketball/roster/giavanna-white-principio/20930,2023-2024
 530,Oswego St.,20914,Mya Brown,Freshman,"Hamburg, N.Y.",Frontier High School,,"5'10""",Guard,,https://www.oswegolakers.com/sports/womens-basketball/roster/mya-brown/20914,2023-2024
-530,Oswego St.,20925,Kayla McCraith,Freshman,"Fulton, N.Y.",Fulton High School,,"6'0""","6'0""",,https://www.oswegolakers.com/sports/womens-basketball/roster/kayla-mccraith/20925,2023-2024
+530,Oswego St.,20925,Kayla McCraith,Freshman,"Fulton, N.Y.",Fulton High School,,"6'0""",,,https://www.oswegolakers.com/sports/womens-basketball/roster/kayla-mccraith/20925,2023-2024
 531,Otterbein,9553,Jovie Studebaker,Sophomore,Troy,Troy,,"5'8""",Guard,00,https://www.otterbeincardinals.com/sports/womens-basketball/roster/jovie-studebaker/9553,2023-2024
 531,Otterbein,9552,Ally Carr,Freshman,Newark,Newark,,,Guard,1,https://www.otterbeincardinals.com/sports/womens-basketball/roster/ally-carr/9552,2023-2024
 531,Otterbein,9547,Abby Rawlings,Freshman,Cincinnati,Kings,,"5'2""",Guard,2,https://www.otterbeincardinals.com/sports/womens-basketball/roster/abby-rawlings/9547,2023-2024
@@ -9820,16 +9820,16 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 6,Alabama A&M,6140,Emajin McCallop,Sophomore,"Kansas City, Kan.",,Bishop Miege HS,"5'6""",Guard,24,https://www.aamusports.com/sports/womens-basketball/roster/emajin-mccallop/6140,2023-2024
 6,Alabama A&M,6138,Jayla Cody,Senior,"Valdosta, Ga.",,Central Arkansas,"6'1""",Center,34,https://www.aamusports.com/sports/womens-basketball/roster/jayla-cody/6138,2023-2024
 60,Bethel (MN),15397,Colette Duininck,Sophomore,"Prinsburg, Minn.",Central Minnesota Christian,,"5'5""",Guard,2,https://www.bethel.edu/sports/womens-basketball/roster/colette-duininck/15397,2023-2024
-60,Bethel (MN),15402,Cosette Henrikson,Freshman,"Fridley, Minn.",Fridley,,"5'9""","5'9""",4,https://www.bethel.edu/sports/womens-basketball/roster/cosette-henrikson/15402,2023-2024
+60,Bethel (MN),15402,Cosette Henrikson,Freshman,"Fridley, Minn.",Fridley,,"5'9""",,4,https://www.bethel.edu/sports/womens-basketball/roster/cosette-henrikson/15402,2023-2024
 60,Bethel (MN),15401,Elly Schmitz,Junior,"Hermantown, Minn.","Hermantown, Minn.",Sioux Falls,"6'0""",Guard/Forward,5,https://www.bethel.edu/sports/womens-basketball/roster/elly-schmitz/15401,2023-2024
-60,Bethel (MN),15403,Alli Born,Sophomore,"Rogers, Minn.",Rogers,,"6'0""","6'0""",10,https://www.bethel.edu/sports/womens-basketball/roster/alli-born/15403,2023-2024
-60,Bethel (MN),15404,Macey Littlefield,Freshman,"Lino Lakes, Minn.",Centennial,,"5'8""","5'8""",11,https://www.bethel.edu/sports/womens-basketball/roster/macey-littlefield/15404,2023-2024
-60,Bethel (MN),15405,Emily Erickson,Freshman,"Lindstrom, Minn.",Chisago Lakes,,"5'10""","5'10""",12,https://www.bethel.edu/sports/womens-basketball/roster/emily-erickson/15405,2023-2024
+60,Bethel (MN),15403,Alli Born,Sophomore,"Rogers, Minn.",Rogers,,"6'0""",,10,https://www.bethel.edu/sports/womens-basketball/roster/alli-born/15403,2023-2024
+60,Bethel (MN),15404,Macey Littlefield,Freshman,"Lino Lakes, Minn.",Centennial,,"5'8""",,11,https://www.bethel.edu/sports/womens-basketball/roster/macey-littlefield/15404,2023-2024
+60,Bethel (MN),15405,Emily Erickson,Freshman,"Lindstrom, Minn.",Chisago Lakes,,"5'10""",,12,https://www.bethel.edu/sports/womens-basketball/roster/emily-erickson/15405,2023-2024
 60,Bethel (MN),15398,Anna Garfield,Senior,"Ham Lake, Minn.",Blaine,,"5'9""",Guard,14,https://www.bethel.edu/sports/womens-basketball/roster/anna-garfield/15398,2023-2024
-60,Bethel (MN),15406,Elsie Broersma,Sophomore,"Hutchinson, Minn.",Hutchinson,,"5'9""","5'9""",21,https://www.bethel.edu/sports/womens-basketball/roster/elsie-broersma/15406,2023-2024
+60,Bethel (MN),15406,Elsie Broersma,Sophomore,"Hutchinson, Minn.",Hutchinson,,"5'9""",,21,https://www.bethel.edu/sports/womens-basketball/roster/elsie-broersma/15406,2023-2024
 60,Bethel (MN),15399,Lauren Johnson,Junior,"Belle Plaine, Minn.",Belle Plaine,,"5'8""",Guard/,23,https://www.bethel.edu/sports/womens-basketball/roster/lauren-johnson/15399,2023-2024
 60,Bethel (MN),15400,Rosalie Penke,Sophomore,"Ely, Minn.",Enumclaw (Wash.),,"5'9""",Guard/Forward,32,https://www.bethel.edu/sports/womens-basketball/roster/rosalie-penke/15400,2023-2024
-60,Bethel (MN),15407,Cally Peterson,Freshman,"Oak Grove, Minn.",St. Francis,,"6'0""","6'0""",33,https://www.bethel.edu/sports/womens-basketball/roster/cally-peterson/15407,2023-2024
+60,Bethel (MN),15407,Cally Peterson,Freshman,"Oak Grove, Minn.",St. Francis,,"6'0""",,33,https://www.bethel.edu/sports/womens-basketball/roster/cally-peterson/15407,2023-2024
 60,Bethel (MN),15396,Jaelin Boyd,Sophomore,"Farmington, Minn.",Farmington,,"5'9""",Forward,41,https://www.bethel.edu/sports/womens-basketball/roster/jaelin-boyd/15396,2023-2024
 601,St. John Fisher,12752,Kelly Moravec,Junior,Newfield,Newfield,,"5'6""",G,2,https://www.sjfc.edu/sports/womens-basketball/roster/kelly-moravec/12752,2023-2024
 601,St. John Fisher,12751,Katie Moravec,Junior,Newfield,Newfield,,"5'6""",G,3,https://www.sjfc.edu/sports/womens-basketball/roster/katie-moravec/12751,2023-2024
@@ -11248,12 +11248,12 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 84,Buena Vista,9944,Sidney Reimer,Sophomore,"Omaha, Neb.",Gretna,,"5'10""",F,5,https://www.bvuathletics.com/sports/womens-basketball/roster/sidney-reimer/9944,2023-2024
 84,Buena Vista,9936,McKenna Cone,Junior,"Greeley, Colo,",Northridge,,"5'5""",G,10,https://www.bvuathletics.com/sports/womens-basketball/roster/mckenna-cone/9936,2023-2024
 84,Buena Vista,9949,Annie Johnson,Freshman,"Independence, Iowa",Independence,,,N/A,11,https://www.bvuathletics.com/sports/womens-basketball/roster/annie-johnson/9949,2023-2024
-84,Buena Vista,9941,Brielle Korleski,Sophomore,"Rockwell City, Iowa",South Central Calhoun,,"5'7""","5'7""",12,https://www.bvuathletics.com/sports/womens-basketball/roster/brielle-korleski/9941,2023-2024
+84,Buena Vista,9941,Brielle Korleski,Sophomore,"Rockwell City, Iowa",South Central Calhoun,,"5'7""",,12,https://www.bvuathletics.com/sports/womens-basketball/roster/brielle-korleski/9941,2023-2024
 84,Buena Vista,9942,Abby Nagel,Sophomore,"Sedalia, Colo.",Castle View,,"5'8""",G,13,https://www.bvuathletics.com/sports/womens-basketball/roster/abby-nagel/9942,2023-2024
-84,Buena Vista,9951,CJ Long,Freshman,"Peyton, Colo.",Falcon,,"5'8""","5'8""",15,https://www.bvuathletics.com/sports/womens-basketball/roster/cj-long/9951,2023-2024
+84,Buena Vista,9951,CJ Long,Freshman,"Peyton, Colo.",Falcon,,"5'8""",,15,https://www.bvuathletics.com/sports/womens-basketball/roster/cj-long/9951,2023-2024
 84,Buena Vista,9946,Trisha Westphal,Junior,"Lockridge, Iowa",Fairfield,,"5'8""",G,21,https://www.bvuathletics.com/sports/womens-basketball/roster/trisha-westphal/9946,2023-2024
-84,Buena Vista,9948,Hayley Humphrey,Junior,"Snyder, Texas",Snyder,,"5'10""","5'10""",22,https://www.bvuathletics.com/sports/womens-basketball/roster/hayley-humphrey/9948,2023-2024
-84,Buena Vista,9950,Allie Leisher,Freshman,"Colorado Springs, Colo.",Coronado,,"6'0""","6'0""",33,https://www.bvuathletics.com/sports/womens-basketball/roster/allie-leisher/9950,2023-2024
+84,Buena Vista,9948,Hayley Humphrey,Junior,"Snyder, Texas",Snyder,,"5'10""",,22,https://www.bvuathletics.com/sports/womens-basketball/roster/hayley-humphrey/9948,2023-2024
+84,Buena Vista,9950,Allie Leisher,Freshman,"Colorado Springs, Colo.",Coronado,,"6'0""",,33,https://www.bvuathletics.com/sports/womens-basketball/roster/allie-leisher/9950,2023-2024
 84,Buena Vista,9939,Jenna Hallock,Sophomore,"Springview, Neb.",Keya Paha County,,"6'0""",F,34,https://www.bvuathletics.com/sports/womens-basketball/roster/jenna-hallock/9939,2023-2024
 8404,Hood,7387,Kaela Mitchell,Sophomore,"Salisbury, Md.",Delmarva Christian,,"5'3""",Guard,0,https://www.hoodathletics.com/sports/womens-basketball/roster/kaela-mitchell/7387,2023-2024
 8404,Hood,7388,Na'Vaye Quarles,Sophomore,"Glen Burnie, Md.",North County,,"5'4""",Guard,1,https://www.hoodathletics.com/sports/womens-basketball/roster/na-vaye-quarles/7388,2023-2024
@@ -11700,20 +11700,20 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 9754,UC-Colo. Springs,6270,Amyah Moore Allen,Junior,"Colorado Springs, Colo.",Harrison,Trinity Valley CC,"5'8""",Guard,23,https://www.gomountainlions.com/sports/womens-basketball/roster/amyah-moore-allen/6270,2023-2024
 9754,UC-Colo. Springs,6275,Maison White,Junior,"Grantsville, Utah",Grantsville,,"6'0""",Forward,24,https://www.gomountainlions.com/sports/womens-basketball/roster/maison-white/6275,2023-2024
 9754,UC-Colo. Springs,6457,Marissa Kalamaris,Freshman,"Saint Charles, Ill.",Saint Charles East,,"5'10""",Forward,25,https://www.gomountainlions.com/sports/womens-basketball/roster/marissa-kalamaris/6457,2023-2024
-98,Cal St. East Bay,4788,Josias Mickens,Sophomore,Baltimore,Forest Park HS,Garrett College,"5'7""","5'7""",0,https://www.eastbaypioneers.com/sports/womens-basketball/roster/josias-mickens/4788,2023-2024
-98,Cal St. East Bay,4796,Kelsey Valencia,Senior,Atwater,Atwater HS,Fresno City College,"5'8""","5'8""",1,https://www.eastbaypioneers.com/sports/womens-basketball/roster/kelsey-valencia/4796,2023-2024
-98,Cal St. East Bay,4786,Lailah Carey,Freshman,Novato,San Marin HS,,"5'5""","5'5""",2,https://www.eastbaypioneers.com/sports/womens-basketball/roster/lailah-carey/4786,2023-2024
-98,Cal St. East Bay,4783,Aloha Akaka,Junior,"Honolulu, Hawaii",Maryknoll HS,Shoreline CC,"5'9""","5'9""",3,https://www.eastbaypioneers.com/sports/womens-basketball/roster/aloha-akaka/4783,2023-2024
-98,Cal St. East Bay,4790,Jaela Richardson,Senior,"Saginaw, Mich.",Cherry Creek HS,Metro State,"5'10""","5'10""",4,https://www.eastbaypioneers.com/sports/womens-basketball/roster/jaela-richardson/4790,2023-2024
-98,Cal St. East Bay,4789,Christina Bacci,Junior,Santa Rosa,Cardinal Newman HS,,"5'9""","5'9""",11,https://www.eastbaypioneers.com/sports/womens-basketball/roster/christina-bacci/4789,2023-2024
-98,Cal St. East Bay,4795,Camryn Washington,Sophomore,Fairfield,Angelo Rodriguez HS,,"5'6""","5'6""",12,https://www.eastbaypioneers.com/sports/womens-basketball/roster/camryn-washington/4795,2023-2024
-98,Cal St. East Bay,4794,Taylor Linzie,Junior,Bakersfield,Bakersfield HS,,"5'7""","5'7""",13,https://www.eastbaypioneers.com/sports/womens-basketball/roster/taylor-linzie/4794,2023-2024
-98,Cal St. East Bay,4785,Sierra Morris,Freshman,Imperial,Imperial HS,,"5'10""","5'10""",15,https://www.eastbaypioneers.com/sports/womens-basketball/roster/sierra-morris/4785,2023-2024
-98,Cal St. East Bay,4792,Payton Sterk,Sophomore,"Colorado Springs, Colo.",Doherty HS,,"5'10""","5'10""",20,https://www.eastbaypioneers.com/sports/womens-basketball/roster/payton-sterk/4792,2023-2024
-98,Cal St. East Bay,4791,Kayla Rosemon,Sophomore,Oakland,Saint Mary's College HS,,"5'10""","5'10""",21,https://www.eastbaypioneers.com/sports/womens-basketball/roster/kayla-rosemon/4791,2023-2024
-98,Cal St. East Bay,4787,Myla Gibson,Freshman,Redlands,Redlands East Valley HS,,"6'0""","6'0""",23,https://www.eastbaypioneers.com/sports/womens-basketball/roster/myla-gibson/4787,2023-2024
-98,Cal St. East Bay,4784,Gwendilyn Aasland,Junior,"Snoqualmie, Wash.",Mt. Si HS,Bellvue College,"6'2""","6'2""",24,https://www.eastbaypioneers.com/sports/womens-basketball/roster/gwendilyn-aasland/4784,2023-2024
-98,Cal St. East Bay,4793,Abigail Cooper,Junior,"Portland, Ore.",Central Catholic HS,,"5'9""","5'9""",30,https://www.eastbaypioneers.com/sports/womens-basketball/roster/abigail-cooper/4793,2023-2024
+98,Cal St. East Bay,4788,Josias Mickens,Sophomore,Baltimore,Forest Park HS,Garrett College,"5'7""",,0,https://www.eastbaypioneers.com/sports/womens-basketball/roster/josias-mickens/4788,2023-2024
+98,Cal St. East Bay,4796,Kelsey Valencia,Senior,Atwater,Atwater HS,Fresno City College,"5'8""",,1,https://www.eastbaypioneers.com/sports/womens-basketball/roster/kelsey-valencia/4796,2023-2024
+98,Cal St. East Bay,4786,Lailah Carey,Freshman,Novato,San Marin HS,,"5'5""",,2,https://www.eastbaypioneers.com/sports/womens-basketball/roster/lailah-carey/4786,2023-2024
+98,Cal St. East Bay,4783,Aloha Akaka,Junior,"Honolulu, Hawaii",Maryknoll HS,Shoreline CC,"5'9""",,3,https://www.eastbaypioneers.com/sports/womens-basketball/roster/aloha-akaka/4783,2023-2024
+98,Cal St. East Bay,4790,Jaela Richardson,Senior,"Saginaw, Mich.",Cherry Creek HS,Metro State,"5'10""",,4,https://www.eastbaypioneers.com/sports/womens-basketball/roster/jaela-richardson/4790,2023-2024
+98,Cal St. East Bay,4789,Christina Bacci,Junior,Santa Rosa,Cardinal Newman HS,,"5'9""",,11,https://www.eastbaypioneers.com/sports/womens-basketball/roster/christina-bacci/4789,2023-2024
+98,Cal St. East Bay,4795,Camryn Washington,Sophomore,Fairfield,Angelo Rodriguez HS,,"5'6""",,12,https://www.eastbaypioneers.com/sports/womens-basketball/roster/camryn-washington/4795,2023-2024
+98,Cal St. East Bay,4794,Taylor Linzie,Junior,Bakersfield,Bakersfield HS,,"5'7""",,13,https://www.eastbaypioneers.com/sports/womens-basketball/roster/taylor-linzie/4794,2023-2024
+98,Cal St. East Bay,4785,Sierra Morris,Freshman,Imperial,Imperial HS,,"5'10""",,15,https://www.eastbaypioneers.com/sports/womens-basketball/roster/sierra-morris/4785,2023-2024
+98,Cal St. East Bay,4792,Payton Sterk,Sophomore,"Colorado Springs, Colo.",Doherty HS,,"5'10""",,20,https://www.eastbaypioneers.com/sports/womens-basketball/roster/payton-sterk/4792,2023-2024
+98,Cal St. East Bay,4791,Kayla Rosemon,Sophomore,Oakland,Saint Mary's College HS,,"5'10""",,21,https://www.eastbaypioneers.com/sports/womens-basketball/roster/kayla-rosemon/4791,2023-2024
+98,Cal St. East Bay,4787,Myla Gibson,Freshman,Redlands,Redlands East Valley HS,,"6'0""",,23,https://www.eastbaypioneers.com/sports/womens-basketball/roster/myla-gibson/4787,2023-2024
+98,Cal St. East Bay,4784,Gwendilyn Aasland,Junior,"Snoqualmie, Wash.",Mt. Si HS,Bellvue College,"6'2""",,24,https://www.eastbaypioneers.com/sports/womens-basketball/roster/gwendilyn-aasland/4784,2023-2024
+98,Cal St. East Bay,4793,Abigail Cooper,Junior,"Portland, Ore.",Central Catholic HS,,"5'9""",,30,https://www.eastbaypioneers.com/sports/womens-basketball/roster/abigail-cooper/4793,2023-2024
 985,Bluefield St.,1376,Azariah Binford,Sophomore,"Columbus, OH",Pickerington Central,,"5'4""",PG,1,https://www.gobstate.com/sports/womens-basketball/roster/azariah-binford/1376,2023-2024
 985,Bluefield St.,1379,Alexus Tucker,Redshirt Senior,"Raleigh, NC",Millbrook,,"5'8""",G,2,https://www.gobstate.com/sports/womens-basketball/roster/alexus-tucker/1379,2023-2024
 985,Bluefield St.,1381,Katrina Davis,Redshirt Sophomore,"Bellaire, OH",Bellaire,,"5'4""",G,4,https://www.gobstate.com/sports/womens-basketball/roster/katrina-davis/1381,2023-2024
