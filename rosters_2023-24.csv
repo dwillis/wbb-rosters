@@ -2956,7 +2956,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 678,Stetson,11900,Skylar Treadwell,Senior,"Martinsburg, WV",St. James School,,"6'1""",Forward,11,https://www.gohatters.com/sports/womens-basketball/roster/skylar-treadwell/11900,2023-2024
 678,Stetson,11895,Promise Keshi,Sophomore,"Rubano, Italy",Liceo Scientifico Manfredi Azzarita,,"5'9""",Guard,12,https://www.gohatters.com/sports/womens-basketball/roster/promise-keshi/11895,2023-2024
 678,Stetson,11906,Anna Kunzwiler,Freshman,"Leesburg, VA",Paul VI Catholic HS,,"5'9""",Guard,13,https://www.gohatters.com/sports/womens-basketball/roster/anna-kunzwiler/11906,2023-2024
-678,Stetson,11903,Diawna Carter-Hartley,Freshman,"Cincinnati, OH",Princeton High School,,"6'1""","6'1""",20,https://www.gohatters.com/sports/womens-basketball/roster/diawna-carter-hartley/11903,2023-2024
+678,Stetson,11903,Diawna Carter-Hartley,Freshman,"Cincinnati, OH",Princeton High School,,Forward,"6'1""",20,https://www.gohatters.com/sports/womens-basketball/roster/diawna-carter-hartley/11903,2023-2024
 678,Stetson,11896,Khamya McNeal,Redshirt Junior,"Milwaukee, Wisc.",Rufus King HS,,"5'8""",Guard,23,https://www.gohatters.com/sports/womens-basketball/roster/khamya-mcneal/11896,2023-2024
 678,Stetson,11907,Quentarra Mitchell,Fifth Year,"Nashville, TN",East Nashville High School,,"5'9""",Forward,25,https://www.gohatters.com/sports/womens-basketball/roster/quentarra-mitchell/11907,2023-2024
 678,Stetson,11908,Tyra Myers,Sophomore,"Columbia, S.C.",Hammond School,,"5'7""",Guard,30,https://www.gohatters.com/sports/womens-basketball/roster/tyra-myers/11908,2023-2024
@@ -3044,23 +3044,23 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 670,Texas State,10506,Timia Jefferson,Graduate Student,"Arlington, TX",Mansfield Timberview HS,Houston Christian,"5'9""",Guard,24,https://www.txstatebobcats.com/sports/womens-basketball/roster/timia-jefferson/10506,2023-2024
 670,Texas State,10522,Tiffany Tullis,Junior,"San Antonio, Texas",Cornerstone Christian HS,Blinn College,"5'11""",Forward,31,https://www.txstatebobcats.com/sports/womens-basketball/roster/tiffany-tullis/10522,2023-2024
 670,Texas State,10513,Nicole Leff,Senior,"Cedar Park, Texas",Cedar Park HS,,"6'1""",Forward,40,https://www.txstatebobcats.com/sports/womens-basketball/roster/nicole-leff/10513,2023-2024
-2678,Arkansas-Pine Bluff,4163,Zaay Green,Graduate Student,"Duncanville, Texas / Texas A&M",,,"6'2""",GUARD,00,https://www.uapblionsroar.com/sports/womens-basketball/roster/zaay-green/4163,2023-2024
-2678,Arkansas-Pine Bluff,4161,Corina  Carter,Junior,"San Antonio, TX. / University of Virginia/ University of New Mexico",,,"5'6""",GUARD,1,https://www.uapblionsroar.com/sports/womens-basketball/roster/corina-carter/4161,2023-2024
-2678,Arkansas-Pine Bluff,4159,Shayla Bouie,Senior,"Jacksonville, FL./ Daytona State College",,,"5'7""",GUARD,2,https://www.uapblionsroar.com/sports/womens-basketball/roster/shayla-bouie/4159,2023-2024
-2678,Arkansas-Pine Bluff,4171,Demetria Shephard,Senior,"Pontotoc, MS. / Itawamba Community College",,,"5'8""",GUARD,3,https://www.uapblionsroar.com/sports/womens-basketball/roster/demetria-shephard/4171,2023-2024
-2678,Arkansas-Pine Bluff,4168,Kourtney Rittenberry,Junior,"Loganville, Georgia / Grayson HS",,,"6'1""",GUARD,4,https://www.uapblionsroar.com/sports/womens-basketball/roster/kourtney-rittenberry/4168,2023-2024
-2678,Arkansas-Pine Bluff,4167,Jelissa  Reese,Senior,"Cordele, GA. /Troy University",,,"5'9""",GUARD,5,https://www.uapblionsroar.com/sports/womens-basketball/roster/jelissa-reese/4167,2023-2024
-2678,Arkansas-Pine Bluff,4190,Starr Jacobs,Senior,"Dallas, TX / UT-Arlington",,,"6'2""","6'2""",7,https://www.uapblionsroar.com/sports/womens-basketball/roster/starr-jacobs/4190,2023-2024
-2678,Arkansas-Pine Bluff,4170,Azaria  Robinson,Senior,"Anchorage, AK./ University of Arkansas Little Rock/ University of New Mexico",,,"6'2""",FORWARD,10,https://www.uapblionsroar.com/sports/womens-basketball/roster/azaria-robinson/4170,2023-2024
-2678,Arkansas-Pine Bluff,4164,Tia Morgan,Senior,"Chicago, IL. / Tyler Junior College",,,"5'8""",GUARD,11,https://www.uapblionsroar.com/sports/womens-basketball/roster/tia-morgan/4164,2023-2024
-2678,Arkansas-Pine Bluff,4169,Empress   Roberts,Sophomore,"Harker Heights, TX. /Harker Heights HS",,,"5'7""",GUARD,12,https://www.uapblionsroar.com/sports/womens-basketball/roster/empress-roberts/4169,2023-2024
-2678,Arkansas-Pine Bluff,4172,Uriah Jennings,Freshman,Mayfield Heights/ Cleveland Heights HS,,,"5'8""",GUARD,13,https://www.uapblionsroar.com/sports/womens-basketball/roster/uriah-jennings/4172,2023-2024
-2678,Arkansas-Pine Bluff,4158,Coriah Beck,Senior,"Memphis, TN./ University of Memphis",,,"5'11""",GUARD,15,https://www.uapblionsroar.com/sports/womens-basketball/roster/coriah-beck/4158,2023-2024
-2678,Arkansas-Pine Bluff,4162,Maori Davenport,Senior,"Troy, AL. / University of Georgia/ Rutgers",,,"6'5""",CENTER,23,https://www.uapblionsroar.com/sports/womens-basketball/roster/maori-davenport/4162,2023-2024
-2678,Arkansas-Pine Bluff,4173,Kalia Walker,Senior,"Alexander, AR/ Bryant HS",,,"5'5""",GUARD,25,https://www.uapblionsroar.com/sports/womens-basketball/roster/kalia-walker/4173,2023-2024
-2678,Arkansas-Pine Bluff,4165,Stephanie Okowi,Redshirt Junior,"Oakland, California / Oakland Tech HS",,,"6'0""",FORWARD,32,https://www.uapblionsroar.com/sports/womens-basketball/roster/stephanie-okowi/4165,2023-2024
-2678,Arkansas-Pine Bluff,4174,Crystianna Whitehead,Freshman,"Cordova, TN. / Memphis Business Academy",,,"5'11""",FORWARD,35,https://www.uapblionsroar.com/sports/womens-basketball/roster/crystianna-whitehead/4174,2023-2024
-2678,Arkansas-Pine Bluff,4166,Maya Peat,Senior,"Chandler, Arizona / Chandler HS",,,"6'6""",CENTER,54,https://www.uapblionsroar.com/sports/womens-basketball/roster/maya-peat/4166,2023-2024
+2678,Arkansas-Pine Bluff,4163,Zaay Green,Graduate Student,"Duncanville, Texas",,Texas A&M,"6'2""",GUARD,00,https://www.uapblionsroar.com/sports/womens-basketball/roster/zaay-green/4163,2023-2024
+2678,Arkansas-Pine Bluff,4161,Corina  Carter,Junior,"San Antonio, TX.",,University of Virginia/ University of New Mexico,"5'6""",GUARD,1,https://www.uapblionsroar.com/sports/womens-basketball/roster/corina-carter/4161,2023-2024
+2678,Arkansas-Pine Bluff,4159,Shayla Bouie,Senior,"Jacksonville, FL.",,Daytona State College,"5'7""",GUARD,2,https://www.uapblionsroar.com/sports/womens-basketball/roster/shayla-bouie/4159,2023-2024
+2678,Arkansas-Pine Bluff,4171,Demetria Shephard,Senior,"Pontotoc, MS.",,Itawamba Community College,"5'8""",GUARD,3,https://www.uapblionsroar.com/sports/womens-basketball/roster/demetria-shephard/4171,2023-2024
+2678,Arkansas-Pine Bluff,4168,Kourtney Rittenberry,Junior,"Loganville, Georgia",Grayson HS,,"6'1""",GUARD,4,https://www.uapblionsroar.com/sports/womens-basketball/roster/kourtney-rittenberry/4168,2023-2024
+2678,Arkansas-Pine Bluff,4167,Jelissa  Reese,Senior,"Cordele, GA.",,Troy University,"5'9""",GUARD,5,https://www.uapblionsroar.com/sports/womens-basketball/roster/jelissa-reese/4167,2023-2024
+2678,Arkansas-Pine Bluff,4190,Starr Jacobs,Senior,"Dallas, TX",,UT-Arlington,"6'2""","6'2""",7,https://www.uapblionsroar.com/sports/womens-basketball/roster/starr-jacobs/4190,2023-2024
+2678,Arkansas-Pine Bluff,4170,Azaria  Robinson,Senior,"Anchorage, AK.",,University of Arkansas Little Rock/ University of New Mexico,"6'2""",FORWARD,10,https://www.uapblionsroar.com/sports/womens-basketball/roster/azaria-robinson/4170,2023-2024
+2678,Arkansas-Pine Bluff,4164,Tia Morgan,Senior,"Chicago, IL.",,Tyler Junior College,"5'8""",GUARD,11,https://www.uapblionsroar.com/sports/womens-basketball/roster/tia-morgan/4164,2023-2024
+2678,Arkansas-Pine Bluff,4169,Empress   Roberts,Sophomore,"Harker Heights, TX.",Harker Heights HS,,"5'7""",GUARD,12,https://www.uapblionsroar.com/sports/womens-basketball/roster/empress-roberts/4169,2023-2024
+2678,Arkansas-Pine Bluff,4172,Uriah Jennings,Freshman,"Mayfield Heights, OH",Cleveland Heights HS,,"5'8""",GUARD,13,https://www.uapblionsroar.com/sports/womens-basketball/roster/uriah-jennings/4172,2023-2024
+2678,Arkansas-Pine Bluff,4158,Coriah Beck,Senior,"Memphis, TN.",,University of Memphis,"5'11""",GUARD,15,https://www.uapblionsroar.com/sports/womens-basketball/roster/coriah-beck/4158,2023-2024
+2678,Arkansas-Pine Bluff,4162,Maori Davenport,Senior,"Troy, AL.",,University of Georgia/ Rutgers,"6'5""",CENTER,23,https://www.uapblionsroar.com/sports/womens-basketball/roster/maori-davenport/4162,2023-2024
+2678,Arkansas-Pine Bluff,4173,Kalia Walker,Senior,"Alexander, AR",Bryant HS,,"5'5""",GUARD,25,https://www.uapblionsroar.com/sports/womens-basketball/roster/kalia-walker/4173,2023-2024
+2678,Arkansas-Pine Bluff,4165,Stephanie Okowi,Redshirt Junior,"Oakland, California",Oakland Tech HS,,"6'0""",FORWARD,32,https://www.uapblionsroar.com/sports/womens-basketball/roster/stephanie-okowi/4165,2023-2024
+2678,Arkansas-Pine Bluff,4174,Crystianna Whitehead,Freshman,"Cordova, TN.",Memphis Business Academy,,"5'11""",FORWARD,35,https://www.uapblionsroar.com/sports/womens-basketball/roster/crystianna-whitehead/4174,2023-2024
+2678,Arkansas-Pine Bluff,4166,Maya Peat,Senior,"Chandler, Arizona",Chandler HS,,"6'6""",CENTER,54,https://www.uapblionsroar.com/sports/womens-basketball/roster/maya-peat/4166,2023-2024
 1004,Central Arkansas,9095,Jade Upshaw,Junior,"Sapulpa, Okla.",Kellyville HS,Arkansas State,"5'7""",Guard,0,https://www.ucasports.com/sports/womens-basketball/roster/jade-upshaw/9095,2023-2024
 1004,Central Arkansas,8937,Kinley Fisher,Junior,"Greenwood, Ark.",Greenwood HS,Mercer,"5'7""",Guard,1,https://www.ucasports.com/sports/womens-basketball/roster/kinley-fisher/8937,2023-2024
 1004,Central Arkansas,9099,Fatime Seck,Freshman,"El Paso, Texas",Franklin HS,,"6'0""",Guard,2,https://www.ucasports.com/sports/womens-basketball/roster/fatime-seck/9099,2023-2024
