@@ -12727,7 +12727,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 241,Franklin Pierce,0,Colette Mulderig,Senior,"Scranton, Pa.",Scranton,,6-4,Forward/Center,44,https://www.fpuravens.com/sports/wbkb/2023-24/bios/mulderig_colette_iikv,2023-24
 280,Hillsdale,0,Payton Adkins,So,"Osceola, IN",Mishawaka Penn,,5-8,G,1,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/adkins_payton_y4rw,2023-24
 280,Hillsdale,0,Dani Hohlbein,Sr,"Adrian, MI",Lenawee Christian,,5-9,G,2,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/salenbien_dani_dv08,2023-24
-280,Hillsdale,0,Lauren McDonald,Jr.,"Chicago, IL",St. Ignatius/Air Force,,5-9,G,3,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/mcdonald_lauren_y27o,2023-24
+280,Hillsdale,0,Lauren McDonald,Jr.,"Chicago, IL",St. Ignatius,Air Force,5-9,G,3,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/mcdonald_lauren_y27o,2023-24
 280,Hillsdale,0,Sydney Mills,Sr,"DeWitt, MI",DeWitt,,5-11,F,5,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/mills_sydney_x6ax,2023-24
 280,Hillsdale,0,Carly Callahan,Jr,"Columbus, OH",Hilliard Bradley,,5-10,G/F,10,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/callahan_carly_cvul,2023-24
 280,Hillsdale,0,Sydney Pnacek,rFr,"Dexter, MI",Dexter,,5-10,F,11,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/pnacek_sydney_n3xo,2023-24
@@ -12737,7 +12737,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 280,Hillsdale,0,Annalise Pietrzyk,Fr,"Lockport, IL",Providence Catholic,,5-9,G,23,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/pietrzyk_annalise_nvzx,2023-24
 280,Hillsdale,0,Olivia Patch,Sr,"Fort Recovery, OH",Fort Recovery,,6-2,C,24,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/patch_olivia_z994,2023-24
 280,Hillsdale,0,Caitlin Splain,Jr,"Powell, OH",Olentangy Liberty,,5-9,G,30,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/splain_caitlin_stud,2023-24
-280,Hillsdale,0,Ashley Konkle,Sr,"Aurora, IL",Benet Academy/Western Michigan,,6-2,C,31,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/konkle_ashley_xpsv,2023-24
+280,Hillsdale,0,Ashley Konkle,Sr,"Aurora, IL",Benet Academy,Western Michigan,6-2,C,31,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/konkle_ashley_xpsv,2023-24
 280,Hillsdale,0,Emma Ruhlman,So,"Warren, PA",Warren,,5-10,G,40,https://www.hillsdalechargers.com/sports/wbkb/2023-24/bios/ruhlman_emma_k2if,2023-24
 417,Michigan Tech,0,Maggie Napont,Fr.,"Suttons Bay, Mich.",Traverse City St. Francis,,,G,1,https://www.michigantechhuskies.com/sports/wbkb/2023-24/bios/napont_maggie_8f8w,2023-24
 417,Michigan Tech,0,Alyssa Wypych,Fr.,"Rockford, Mich.",Rockford,,5-10,G,2,https://www.michigantechhuskies.com/sports/wbkb/2023-24/bios/wypych_alyssa_kzuv,2023-24
@@ -12761,7 +12761,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 510,Northwood,0,Emma Trombly,RFr.,"Port Huron, Mich.",Port Huron,,6-2,F,11,https://www.gonorthwood.com/sports/wbkb/2023-24/bios/trombly_emma_zkyk,2023-24
 510,Northwood,0,Ava Muschong,Jr.,"Romeo, Mich.",Romeo,,5-9,F/G,12,https://www.gonorthwood.com/sports/wbkb/2023-24/bios/muschong_ava_n5ct,2023-24
 510,Northwood,0,Maeve St. John,So.,"Howell, Mich.",Howell,,5-7,G,13,https://www.gonorthwood.com/sports/wbkb/2023-24/bios/st._john_maeve_o1o2,2023-24
-510,Northwood,0,Carly McCrum,RFr.,"Bay City, Mich.",John Glenn (Ferris State),,5-10,F,15,https://www.gonorthwood.com/sports/wbkb/2023-24/bios/mccrum_carly_fntj,2023-24
+510,Northwood,0,Carly McCrum,RFr.,"Bay City, Mich.",John Glenn,Ferris State,5-10,F,15,https://www.gonorthwood.com/sports/wbkb/2023-24/bios/mccrum_carly_fntj,2023-24
 510,Northwood,0,Mackenzie Bell,Fr.,"Sault Ste. Marie, Mich.",Sault Area,,5-8,G,20,https://www.gonorthwood.com/sports/wbkb/2023-24/bios/bell_mackenzie_dpzk,2023-24
 510,Northwood,0,Maizie Taylor,Sr.,"Midland, Mich.",Dow,,5-8,G,21,https://www.gonorthwood.com/sports/wbkb/2023-24/bios/taylor_maizie_cvos,2023-24
 510,Northwood,0,Ava DiMilia,Sr.,"New Boston, Mich.",Huron,,5-11,F,22,https://www.gonorthwood.com/sports/wbkb/2023-24/bios/dimilia_ava_11fl,2023-24
@@ -12776,7 +12776,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 591,Saginaw Valley,0,Emma Dziezgowski,So,"Bethel Park, PA",Bethel Park HS,,5-8,G,3,https://www.svsucardinals.com/sports/wbkb/2023-24/bios/dziezgowski_emma_fps3,2023-24
 591,Saginaw Valley,0,Megan McCalla,Fr,"Chelsea, Mich.",Chelsea HS,,6-0,F,4,https://www.svsucardinals.com/sports/wbkb/2023-24/bios/mccalla_megan_kb5m,2023-24
 591,Saginaw Valley,0,Emma Riley,Fr,"Fowler, Mich.",Fowler HS,,5-7,G,10,https://www.svsucardinals.com/sports/wbkb/2023-24/bios/riley_emma_dku8,2023-24
-591,Saginaw Valley,0,Aleshia Jones,Jr,"Leavenworth, Kan.",Iowa Western CC,,5-7,G,11,https://www.svsucardinals.com/sports/wbkb/2023-24/bios/jones_aleshia_exps,2023-24
+591,Saginaw Valley,0,Aleshia Jones,Jr,"Leavenworth, Kan.",,Iowa Western CC,5-7,G,11,https://www.svsucardinals.com/sports/wbkb/2023-24/bios/jones_aleshia_exps,2023-24
 591,Saginaw Valley,0,Lydia Meredith,So,"Portland, MI",Portland St. Patrick's HS,,5-8,G,20,https://www.svsucardinals.com/sports/wbkb/2023-24/bios/meredith_lydia_g9hd,2023-24
 591,Saginaw Valley,0,Mari Bink,Fr,"Escanaba, Mich.",Escanaba HS,,5-9,G,21,https://www.svsucardinals.com/sports/wbkb/2023-24/bios/bink_mari_4ws8,2023-24
 591,Saginaw Valley,0,Makayla Mau,Jr,"South Wayne, Wis.",Kirkwood CC,,6-2,F,22,https://www.svsucardinals.com/sports/wbkb/2023-24/bios/mau_makayla_31ct,2023-24
