@@ -1526,10 +1526,10 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 94,Cal State Bakersfield,7828,Nseije Ortiz,Sophomore,"Porterville, Calif.",Porterville HS,,"5'6""",Guard,,https://www.gorunners.com/sports/womens-basketball/roster/nseije-ortiz/7828,2023-2024
 94,Cal State Bakersfield,7835,Amourie Porter,Freshman,"Glen Burnie, Md.",Glen Burnie HS,,"5'9""",Guard,,https://www.gorunners.com/sports/womens-basketball/roster/amourie-porter/7835,2023-2024
 94,Cal State Bakersfield,7836,Jordan Olivares,Graduate Student,"Seaside, Calif.",Seaside HS,Sacramento State,"5'8""",Guard,,https://www.gorunners.com/sports/womens-basketball/roster/jordan-olivares/7836,2023-2024
-94,Cal State Bakersfield,7837,Ary Dizon,Junior,"Tampa, Fla.",,Vermont,"6'2""",Forward,,https://www.gorunners.com/sports/womens-basketball/roster/ary-dizon/7837,2023-2024
+94,Cal State Bakersfield,7837,Ary Dizon,Junior,"Tampa, Fla.",Carrollwood Day School,Vermont,"6'2""",Forward,,https://www.gorunners.com/sports/womens-basketball/roster/ary-dizon/7837,2023-2024
 94,Cal State Bakersfield,7826,Garrisen Freeman,Redshirt Sophomore,"Las Vegas, NV",Spring Valley HS,,"5'10""",Forward,,https://www.gorunners.com/sports/womens-basketball/roster/garrisen-freeman/7826,2023-2024
 94,Cal State Bakersfield,7829,Julia Riley,Sophomore,"Granite Bay, Calif.",Granite Bay HS,,"6'1""",Forward,,https://www.gorunners.com/sports/womens-basketball/roster/julia-riley/7829,2023-2024
-94,Cal State Bakersfield,7838,Jordan Brooks,Junior,"Apple Valley, Calif.",,Victor Valley CC,"6'3""",Center,,https://www.gorunners.com/sports/womens-basketball/roster/jordan-brooks/7838,2023-2024
+94,Cal State Bakersfield,7838,Jordan Brooks,Junior,"Apple Valley, Calif.",Oak Hills HS,Victor Valley CC,"6'3""",Center,,https://www.gorunners.com/sports/womens-basketball/roster/jordan-brooks/7838,2023-2024
 48,Charleston Southern,4649,Mya Dotson,Freshman,"Lewisville, TX",Lewisville HS,,"5'10""",Guard,0,https://www.csusports.com/sports/womens-basketball/roster/mya-dotson/4649,2023-2024
 48,Charleston Southern,4654,Catherine Alben,Sophomore,"Snellville, GA",Grayson HS,,"5'7""",Guard,1,https://www.csusports.com/sports/womens-basketball/roster/catherine-alben/4654,2023-2024
 48,Charleston Southern,4642,Caelan Ellis,Sophomore,"Powder Springs, GA",McEachern HS,Buffalo,"5'6""",Guard,4,https://www.csusports.com/sports/womens-basketball/roster/caelan-ellis/4642,2023-2024
@@ -2785,7 +2785,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 102,Sacramento State,8393,Ayanna Jackson,Freshman,"Chicago, Ill.",Example Academy,,"6'1""",Forward,0,https://www.hornetsports.com/sports/womens-basketball/roster/ayanna-jackson/8393,2023-2024
 102,Sacramento State,8321,Benthe Versteeg,Redshirt Sophomore,"Amsterdam Zuid, Netherlands",,,"5'9""",Guard,1,https://www.hornetsports.com/sports/womens-basketball/roster/benthe-versteeg/8321,2023-2024
 102,Sacramento State,8318,Kaylie Edge,Sophomore,"Richmond, Calif.",Salesian College Prep,,"5'10""",Guard,2,https://www.hornetsports.com/sports/womens-basketball/roster/kaylie-edge/8318,2023-2024
-102,Sacramento State,8316,Solape Amusan,Senior,"Woodbury, Minn.",,Illinois,"6'2""",Forward,3,https://www.hornetsports.com/sports/womens-basketball/roster/solape-amusan/8316,2023-2024
+102,Sacramento State,8316,Solape Amusan,Senior,"Woodbury, Minn.",Woodbury HS,Illinois,"6'2""",Forward,3,https://www.hornetsports.com/sports/womens-basketball/roster/solape-amusan/8316,2023-2024
 102,Sacramento State,8386,Paula Haw,Freshman,"Munich, Germany",Deutschhaus Gymnasium,,"6'5""",Center,4,https://www.hornetsports.com/sports/womens-basketball/roster/paula-haw/8386,2023-2024
 102,Sacramento State,8394,J'yana Salton,Freshman,"Charlotte, N.C.",Porter Ridge HS,,"5'9""",Guard,5,https://www.hornetsports.com/sports/womens-basketball/roster/j-yana-salton/8394,2023-2024
 102,Sacramento State,8317,Madison Butcher,Sophomore,"Loomis, Calif.",Del Oro HS,,"5'10""",Guard/Forward,10,https://www.hornetsports.com/sports/womens-basketball/roster/madison-butcher/8317,2023-2024
@@ -5048,7 +5048,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 1448,Western Wash.,8200,Aspen Garrison,Junior,"Bellingham, WA",Sehome,Saint Mary's College,"6'3""",Forward,33,https://www.wwuvikings.com/sports/womens-basketball/roster/aspen-garrison/8200,2023-2024
 1448,Western Wash.,8445,CC Size,Freshman,"Missoula, MT",Sentinel,,"5'7""",Guard,35,https://www.wwuvikings.com/sports/womens-basketball/roster/cc-size/8445,2023-2024
 145,Clark (MA),5009,Catherine Antwi,Freshman,"Lowell, Mass.",Lowell Catholic,,,G,1,https://www.clarkathletics.com/sports/womens-basketball/roster/catherine-antwi/5009,2023-2024
-145,Clark (MA),5016,Kumi Tamura,Junior,"Whittier, Calif.",,,,G,3,https://www.clarkathletics.com/sports/womens-basketball/roster/kumi-tamura/5016,2023-2024
+145,Clark (MA),5016,Kumi Tamura,Junior,"Whittier, Calif.",Marlborough School,Sarah Lawrence,5-7,G,3,https://www.clarkathletics.com/sports/womens-basketball/roster/kumi-tamura/5016,2023-2024
 145,Clark (MA),5013,Kailey Rios,Freshman,"Hesperia, Calif.",Oak Hills HS,,,G,5,https://www.clarkathletics.com/sports/womens-basketball/roster/kailey-rios/5013,2023-2024
 145,Clark (MA),5014,Alexis Ross,Senior,"Buena Park, Calif.",,,,G,11,https://www.clarkathletics.com/sports/womens-basketball/roster/alexis-ross/5014,2023-2024
 145,Clark (MA),5003,Sam Golden,Sophomore,"South China, Me.",Erskine Academy,,"5'6""",G,12,https://www.clarkathletics.com/sports/womens-basketball/roster/sam-golden/5003,2023-2024
@@ -11551,7 +11551,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 93,Cal St. San Bernardino,4122,Jaida Jackson,Redshirt Junior,"Moreno Valley, CA",Valley View HS,,"5'5""",Guard,1,https://www.csusbathletics.com/sports/womens-basketball/roster/jaida-jackson/4122,2023-2024
 93,Cal St. San Bernardino,4126,Citlali Salazar,Freshman,"Los Angeles, CA",Crenshaw HS,,"5'6""",Point,2,https://www.csusbathletics.com/sports/womens-basketball/roster/citlali-salazar/4126,2023-2024
 93,Cal St. San Bernardino,4127,Isabel Arango,Junior,"Lawndale, CA",Leuzinger HS,East Los Angeles College,"5'9""",Forward,3,https://www.csusbathletics.com/sports/womens-basketball/roster/isabel-arango/4127,2023-2024
-93,Cal St. San Bernardino,4125,Kennedy Lindsey,Redshirt Junior,"Ontario, CA",,Sacramento State,"5'9""",Guard,5,https://www.csusbathletics.com/sports/womens-basketball/roster/kennedy-lindsey/4125,2023-2024
+93,Cal St. San Bernardino,4125,Kennedy Lindsey,Redshirt Junior,"Ontario, CA",Diamond Ranch HS,Sacramento State,"5'9""",Guard,5,https://www.csusbathletics.com/sports/womens-basketball/roster/kennedy-lindsey/4125,2023-2024
 93,Cal St. San Bernardino,4128,Auren Isaacson,Senior,"Chula Vista, CA",Mission Hills HS,Cal State Dominguez Hills,"5'10""",Point,11,https://www.csusbathletics.com/sports/womens-basketball/roster/auren-isaacson/4128,2023-2024
 93,Cal St. San Bernardino,4129,Maxine Najera,Junior,"Riverside, CA",Hillcrest HS,Riverside CC,"5'10""",Forward,12,https://www.csusbathletics.com/sports/womens-basketball/roster/maxine-najera/4129,2023-2024
 93,Cal St. San Bernardino,4118,Mia Dufresne,Redshirt Junior,"Torrance, CA",Narbonne HS,,"6'1""",Forward,13,https://www.csusbathletics.com/sports/womens-basketball/roster/mia-dufresne/4118,2023-2024
