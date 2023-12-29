@@ -9168,8 +9168,8 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 50,Bates,15767,Ava James,SO,"Bethesda, Md.",Walt Whitman,,"5'10""",G,20,https://www.gobatesbobcats.com/sports/womens-basketball/roster/ava-james/15767,2023-24
 50,Bates,15766,Elsa Daulerio,SO,"Harpswell, Maine",Mt. Ararat,,"6'3""",C/F,22,https://www.gobatesbobcats.com/sports/womens-basketball/roster/elsa-daulerio/15766,2023-24
 50,Bates,15765,Danielle Adams,SO,"Southborough, Mass.",Algonquin Regional,,"6'0""",F,23,https://www.gobatesbobcats.com/sports/womens-basketball/roster/danielle-adams/15765,2023-24
-500,Northeastern,8249,Jaelyn Batts,Fifth Year,"South Riding, Va.",Freedom,,"6'0""",Guard,0,https://www.nuhuskies.com/sports/womens-basketball/roster/jaelyn-batts/8249,2023-24
-500,Northeastern,8252,Derin Erdogan,Senior,"Istanbul, Turkey",Istanbul Universitesi SK,,"5'7""",Guard,1,https://www.nuhuskies.com/sports/womens-basketball/roster/derin-erdogan/8252,2023-24
+500,Northeastern,8249,Jaelyn Batts,Fifth Year,"South Riding, Va.",Freedom,Boston College,"6'0""",Guard,0,https://www.nuhuskies.com/sports/womens-basketball/roster/jaelyn-batts/8249,2023-24
+500,Northeastern,8252,Derin Erdogan,Senior,"Istanbul, Turkey",Istanbul Universitesi SK,Arizona,"5'7""",Guard,1,https://www.nuhuskies.com/sports/womens-basketball/roster/derin-erdogan/8252,2023-24
 500,Northeastern,8254,Oralye Kiefer,Sophomore,"Wayland, MA.",Beaver Country Day School,,"6'3""",Forward,11,https://www.nuhuskies.com/sports/womens-basketball/roster/oralye-kiefer/8254,2023-24
 500,Northeastern,8251,Camille Clement,Junior,"Cumberland, Maine",Greely,,"5'8""",Guard,12,https://www.nuhuskies.com/sports/womens-basketball/roster/camille-clement/8251,2023-24
 500,Northeastern,8258,Amyrah Sapenter,Senior,"Newtown, Conn.",Newtown,,"5'8""",Guard,14,https://www.nuhuskies.com/sports/womens-basketball/roster/amyrah-sapenter/8258,2023-24
@@ -9179,9 +9179,9 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 500,Northeastern,8260,Maddie Vizza,Senior,"Southampton, Pa.",Germantown Academy,,"5'6""",Guard,22,https://www.nuhuskies.com/sports/womens-basketball/roster/maddie-vizza/8260,2023-24
 500,Northeastern,8256,Gemima Motema,Junior,"Portland, Maine",Portland,,"5'9""",Guard,23,https://www.nuhuskies.com/sports/womens-basketball/roster/gemima-motema/8256,2023-24
 500,Northeastern,8257,Asha Parker,Junior,"Milford, CT",Northfield Mount Hermon,,"6'2""",Forward,24,https://www.nuhuskies.com/sports/womens-basketball/roster/asha-parker/8257,2023-24
-500,Northeastern,8250,Deja Bristol,Senior,"Upper Marlboro, MD.",New Hope Academy,,"6'1""",Forward,31,https://www.nuhuskies.com/sports/womens-basketball/roster/deja-bristol/8250,2023-24
+500,Northeastern,8250,Deja Bristol,Senior,"Upper Marlboro, MD.",New Hope Academy,Virginia,"6'1""",Forward,31,https://www.nuhuskies.com/sports/womens-basketball/roster/deja-bristol/8250,2023-24
 500,Northeastern,8259,Marian Turnbull,Sophomore,"Pittsburgh, PA.",Chartiers Valley,,"5'7""",Guard,32,https://www.nuhuskies.com/sports/womens-basketball/roster/marian-turnbull/8259,2023-24
-500,Northeastern,8253,Halle Idowu,Senior,"Calumet Park, Ill.",Harold L. Richards,,"5'11""",Guard/Forward,35,https://www.nuhuskies.com/sports/womens-basketball/roster/halle-idowu/8253,2023-24
+500,Northeastern,8253,Halle Idowu,Senior,"Calumet Park, Ill.",Harold L. Richards,Toledo,"5'11""",Guard/Forward,35,https://www.nuhuskies.com/sports/womens-basketball/roster/halle-idowu/8253,2023-24
 506,Northern Michigan,6348,CJ Romero,Redshirt Sophomore,"Brookfield, Wis.",Brookfield Central,,"5'4""",G,1,https://www.nmuwildcats.com/sports/womens-basketball/roster/cj-romero/6348,2023-24
 506,Northern Michigan,6341,Mackenzie Holzwart,Junior,"Howards Grove, Wis.",Howards Grove,,"5'8""",G,3,https://www.nmuwildcats.com/sports/womens-basketball/roster/mackenzie-holzwart/6341,2023-24
 506,Northern Michigan,6340,Abi Fraaza,Junior,"Birnamwood, Wis.",Wittenberg-Birnamwood,Minnesota Crookston,"6'1""",F,4,https://www.nmuwildcats.com/sports/womens-basketball/roster/abi-fraaza/6340,2023-24
@@ -9268,7 +9268,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 519,Ohio,4248,Jaya McClure,Sophomore,"Louisville, Ky.",School-Christian Academy,,"5'6""",Guard,0,https://www.ohiobobcats.com/sports/wbball/roster/jaya-mcclure/4248,2023-24
 519,Ohio,4249,Laylay Fantroy,Freshman,"Palestine, Texas",Palestine,,"5'11""",Guard,2,https://www.ohiobobcats.com/sports/wbball/roster/laylay-fantroy/4249,2023-24
 519,Ohio,4247,Madi Mace,Redshirt Junior,"Parkersburg, W. Va.",Parkersburg,,"5'11""",Guard,3,https://www.ohiobobcats.com/sports/wbball/roster/madi-mace/4247,2023-24
-519,Ohio,4250,Kennedi Watkins,Junior,"Ballwin, Mo.",Marquette,,"5'10""",Guard,5,https://www.ohiobobcats.com/sports/wbball/roster/kennedi-watkins/4250,2023-24
+519,Ohio,4250,Kennedi Watkins,Junior,"Ballwin, Mo.",Marquette,Southeast Missouri State,"5'10""",Guard,5,https://www.ohiobobcats.com/sports/wbball/roster/kennedi-watkins/4250,2023-24
 519,Ohio,4245,Kailah Johnson,Senior,"Holland, Ohio",Notre Dame Academy,,"5'8""",Guard,10,https://www.ohiobobcats.com/sports/wbball/roster/kailah-johnson/4245,2023-24
 519,Ohio,4244,Peyton Guice,Senior,"Westerville, Ohio",Westerville South,,"5'11""",Guard,11,https://www.ohiobobcats.com/sports/wbball/roster/peyton-guice/4244,2023-24
 519,Ohio,4251,Monica Williams,Freshman,"Indianapolis, Ind.",Lawrence North,,"5'9""",G,13,https://www.ohiobobcats.com/sports/wbball/roster/monica-williams/4251,2023-24
@@ -9276,7 +9276,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 519,Ohio,4252,Bailey Tabeling,Freshman,"Seymour, Ind.",Trinity Lutheran,,"5'10""",Guard,21,https://www.ohiobobcats.com/sports/wbball/roster/bailey-tabeling/4252,2023-24
 519,Ohio,4253,Asiah Baxter,Freshman,"Indianapolis, Ind.",Warren Central,,"5'11""",Guard,22,https://www.ohiobobcats.com/sports/wbball/roster/asiah-baxter/4253,2023-24
 519,Ohio,4242,Aja Austin,Junior,"Westerville, Ohio",Westerville South,,"6'1""",Forward,24,https://www.ohiobobcats.com/sports/wbball/roster/aja-austin/4242,2023-24
-519,Ohio,4255,Bengisu Alper,Senior,"Istanbul, Turkey",Doga Anataolian,,"5'11""",Guard,33,https://www.ohiobobcats.com/sports/wbball/roster/bengisu-alper/4255,2023-24
+519,Ohio,4255,Bengisu Alper,Senior,"Istanbul, Turkey",Doga Anataolian,Northwestern State,"5'11""",Guard,33,https://www.ohiobobcats.com/sports/wbball/roster/bengisu-alper/4255,2023-24
 519,Ohio,4254,Emma Barnett,Freshman,"Mount Washington, Ky.",Mercy Academy,,"6'1""",Forward,34,https://www.ohiobobcats.com/sports/wbball/roster/emma-barnett/4254,2023-24
 519,Ohio,4246,Cassidy Lafler,Sophomore,"Dublin, Ohio",Dublin Coffman,,"5'11""",Forward,41,https://www.ohiobobcats.com/sports/wbball/roster/cassidy-lafler/4246,2023-24
 526,SUNY Oneonta,13885,Caitlin Mullin,Senior,"Rockaway Beach, NY",Xaverian,,"5'7""",Guard,0,https://www.oneontaathletics.com/sports/womens-basketball/roster/caitlin-mullin/13885,2023-24
@@ -12352,30 +12352,30 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 509,Northwestern,0,Jasmine McWilliams,Sr.,"Indianapolis, Indiana",North Central,,5' 11'',G,23,https://nusports.com/sports/womens-basketball/roster/jasmine-mcwilliams/11044,2023-24
 509,Northwestern,0,Lauren Trumpy,So.,"Camp Hill, Pennsylvania",Trinity High School,,6' 5'',F,25,https://nusports.com/sports/womens-basketball/roster/lauren-trumpy/11046,2023-24
 509,Northwestern,0,Crystal Fuqu Wang,Fy.,"Beijing, China",Sierra Canyon (California),,6' 2'',F,31,https://nusports.com/sports/womens-basketball/roster/crystal%20fuqu-wang/11053,2023-24
-521,Oklahoma State,0,Quincy Noble,Gr.,"McKinney, Texas",McKinney,,5' 10'',Guard,0,https://okstate.com/sports/womens-basketball/roster/quincy-noble/11128,2023-24
-521,Oklahoma State,0,Ale’jah Douglas,Sr.,"Omaha, Nebraska",Northwest,,5' 6'',Guard,1,https://okstate.com/sports/womens-basketball/roster/ale%E2%80%99jah%20-douglas/11121,2023-24
-521,Oklahoma State,0,Kennedy Fauntleroy,So.,"Upper Marlboro, Maryland",New Hope Academy,,5' 7'',Guard,2,https://okstate.com/sports/womens-basketball/roster/kennedy-fauntleroy/11122,2023-24
-521,Oklahoma State,0,Anna Gret Asi,Jr.,"Tartu, Estonia",Tartu University,,5' 8'',Guard,4,https://okstate.com/sports/womens-basketball/roster/anna%20gret-asi/11114,2023-24
-521,Oklahoma State,0,Chandler Prater,Sr.,"Kansas City, Missouri",North Kansas City,,5' 11'',Guard,5,https://okstate.com/sports/womens-basketball/roster/chandler%20-prater/11129,2023-24
-521,Oklahoma State,0,Rylee Langerman,Sr.,"Norman, Oklahoma",Christian Heritage,,5' 9'',Guard,11,https://okstate.com/sports/womens-basketball/roster/rylee-langerman/11127,2023-24
-521,Oklahoma State,0,Lior Garzon,Sr.,"Ra'anana, Israel",Hof HaSharon,,6' 1'',Forward,12,https://okstate.com/sports/womens-basketball/roster/lior-garzon/11116,2023-24
+521,Oklahoma State,0,Quincy Noble,Gr.,"McKinney, Texas",McKinney,North Texas,5' 10'',Guard,0,https://okstate.com/sports/womens-basketball/roster/quincy-noble/11128,2023-24
+521,Oklahoma State,0,Ale’jah Douglas,Sr.,"Omaha, Nebraska",Northwest,Western Nebraska CC,5' 6'',Guard,1,https://okstate.com/sports/womens-basketball/roster/ale%E2%80%99jah%20-douglas/11121,2023-24
+521,Oklahoma State,0,Kennedy Fauntleroy,So.,"Upper Marlboro, Maryland",New Hope Academy,Georgetown,5' 7'',Guard,2,https://okstate.com/sports/womens-basketball/roster/kennedy-fauntleroy/11122,2023-24
+521,Oklahoma State,0,Anna Gret Asi,Jr.,"Tartu, Estonia",Tartu University,Arizona,5' 8'',Guard,4,https://okstate.com/sports/womens-basketball/roster/anna%20gret-asi/11114,2023-24
+521,Oklahoma State,0,Chandler Prater,Sr.,"Kansas City, Missouri",North Kansas City,Kansas,5' 11'',Guard,5,https://okstate.com/sports/womens-basketball/roster/chandler%20-prater/11129,2023-24
+521,Oklahoma State,0,Rylee Langerman,Sr.,"Norman, Oklahoma",Christian Heritage,Arkansas,5' 9'',Guard,11,https://okstate.com/sports/womens-basketball/roster/rylee-langerman/11127,2023-24
+521,Oklahoma State,0,Lior Garzon,Sr.,"Ra'anana, Israel",Hof HaSharon,Villanova,6' 1'',Forward,12,https://okstate.com/sports/womens-basketball/roster/lior-garzon/11116,2023-24
 521,Oklahoma State,0,Brenna Butler,Fr.,"Gruver, Texas",Gruver,,5' 6'',Guard,15,https://okstate.com/sports/womens-basketball/roster/brenna-butler/11119,2023-24
-521,Oklahoma State,0,Hannah Gusters,Sr.,"Dallas, Texas",MacArthur,,6' 5'',Center,21,https://okstate.com/sports/womens-basketball/roster/hannah%20-gusters/11117,2023-24
+521,Oklahoma State,0,Hannah Gusters,Sr.,"Dallas, Texas",MacArthur,LSU,6' 5'',Center,21,https://okstate.com/sports/womens-basketball/roster/hannah%20-gusters/11117,2023-24
 521,Oklahoma State,0,Mia Galbraith,Fr.,"Sunshine Coast, Australia",Lake Travis,,5' 9'',Guard,22,https://okstate.com/sports/womens-basketball/roster/mia-galbraith/11123,2023-24
-521,Oklahoma State,0,Brianna Jackson,Sr.,"Virginia Beach, Virginia",Princess Anne,,6' 3'',Forward,23,https://okstate.com/sports/womens-basketball/roster/brianna-jackson/11665,2023-24
+521,Oklahoma State,0,Brianna Jackson,Sr.,"Virginia Beach, Virginia",Princess Anne,Old Dominion,6' 3'',Forward,23,https://okstate.com/sports/womens-basketball/roster/brianna-jackson/11665,2023-24
 521,Oklahoma State,0,Praise Egharevba,R-Fr.,"Papenburg, Germany",Nottingham Academy,,6' 3'',Forward,24,https://okstate.com/sports/womens-basketball/roster/praise-egharevba/11115,2023-24
 521,Oklahoma State,0,Stailee Heard,Fr.,"Sapulpa, Oklahoma",Sapulpa,,5' 11'',Guard,32,https://okstate.com/sports/womens-basketball/roster/stailee-heard/11126,2023-24
-521,Oklahoma State,0,Landry Williams,Jr.,"Tulsa, Oklahoma",Metro Christian Academy,,5' 9'',Guard,34,https://okstate.com/sports/womens-basketball/roster/landry-williams/11118,2023-24
+521,Oklahoma State,0,Landry Williams,Jr.,"Tulsa, Oklahoma",Metro Christian Academy,Kansas City,5' 9'',Guard,34,https://okstate.com/sports/womens-basketball/roster/landry-williams/11118,2023-24
 522,Oklahoma,0,Beatrice Culliton,So.,"Overland Park, Kan.",St. Thomas Aquinas,,6' 3'',C,0,https://soonersports.com/sports/womens-basketball/roster/beatrice-culliton/16214,2023-24
 522,Oklahoma,0,Nevaeh Tot,Sr.,"Columbus, Ohio",John Paul II (Texas),,5' 3'',G,1,https://soonersports.com/sports/womens-basketball/roster/nevaeh%20-tot/16220,2023-24
 522,Oklahoma,0,Reyna Scott,So.,"New York City, N.Y.",Nazareth HS,,5' 10'',G,2,https://soonersports.com/sports/womens-basketball/roster/reyna-scott/16219,2023-24
-522,Oklahoma,0,Kennady Tucker,R-Sr.,"Little Rock, Ark.",North Little Rock,,5' 10'',G,4,https://soonersports.com/sports/womens-basketball/roster/kennady-tucker/16221,2023-24
+522,Oklahoma,0,Kennady Tucker,R-Sr.,"Little Rock, Ark.",North Little Rock,North Carolina,5' 10'',G,4,https://soonersports.com/sports/womens-basketball/roster/kennady-tucker/16221,2023-24
 522,Oklahoma,0,Kiersten Johnson,So.,"Duncanville, Texas",Duncanville HS,,6' 4'',F,5,https://soonersports.com/sports/womens-basketball/roster/kiersten-johnson/16216,2023-24
 522,Oklahoma,0,Kayla Cooper,So.,"Plano, Texas",Plano East HS,,5' 9'',G,11,https://soonersports.com/sports/womens-basketball/roster/kayla-cooper/16213,2023-24
-522,Oklahoma,0,Payton Verhulst,Jr.,"De Soto, Kan.",Bishop Miege HS,,6' 1'',G,12,https://soonersports.com/sports/womens-basketball/roster/payton-verhulst/16223,2023-24
-522,Oklahoma,0,Jordan Moser,R-Sr.,"Norman, Okla.",Loyola Academy,,6' 1'',F,13,https://soonersports.com/sports/womens-basketball/roster/jordan-moser/16217,2023-24
-522,Oklahoma,0,Lexy Keys,Sr.,"Tahlequah, Okla.",Sequoyah HS,,5' 7'',G,15,https://soonersports.com/sports/womens-basketball/roster/lexy-keys/16228,2023-24
-522,Oklahoma,0,Aubrey Joens,Sr.,"Iowa City, Iowa",Iowa City HS,,5' 9'',G,20,https://soonersports.com/sports/womens-basketball/roster/aubrey-joens/16215,2023-24
+522,Oklahoma,0,Payton Verhulst,Jr.,"De Soto, Kan.",Bishop Miege HS,Louisville,6' 1'',G,12,https://soonersports.com/sports/womens-basketball/roster/payton-verhulst/16223,2023-24
+522,Oklahoma,0,Jordan Moser,R-Sr.,"Norman, Okla.",Loyola Academy,Loyola Chicago,6' 1'',F,13,https://soonersports.com/sports/womens-basketball/roster/jordan-moser/16217,2023-24
+522,Oklahoma,0,Lexy Keys,Sr.,"Tahlequah, Okla.",Sequoyah HS,Oklahoma State,5' 7'',G,15,https://soonersports.com/sports/womens-basketball/roster/lexy-keys/16228,2023-24
+522,Oklahoma,0,Aubrey Joens,Sr.,"Iowa City, Iowa",Iowa City HS,Iowa State,5' 9'',G,20,https://soonersports.com/sports/womens-basketball/roster/aubrey-joens/16215,2023-24
 522,Oklahoma,0,Skylar Vann,Sr.,"Edmond, Okla.",Deer Creek,,6' 0'',F,24,https://soonersports.com/sports/womens-basketball/roster/skylar%20-vann/16222,2023-24
 522,Oklahoma,0,Landry Allen,Fr.,"Tuttle, Okla.",Tuttle HS,,6' 3'',C,25,https://soonersports.com/sports/womens-basketball/roster/landry-allen/16227,2023-24
 522,Oklahoma,0,Sahara Williams,Fr.,"Waterloo, Iowa",West HS,,5' 10'',F,32,https://soonersports.com/sports/womens-basketball/roster/sahara-williams/16226,2023-24
