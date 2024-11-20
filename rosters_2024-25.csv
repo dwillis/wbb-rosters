@@ -1185,7 +1185,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 81,Bryant,14785,Gabrielle Sweeney,Freshman,"Hopewell Junction, N.Y.",John Jay Senior,NA,"6'1""",G/F,10,https://www.bryantbulldogs.com/sports/womens-basketball/roster/gabrielle-sweeney/14785,2024-25
 81,Bryant,15251,Olivia Fernandez,Freshman,"Harrison, N.Y.",Harrison,NA,"5'9""",G,11,https://www.bryantbulldogs.com/sports/womens-basketball/roster/olivia-fernandez/15251,2024-25
 81,Bryant,12924,Jessica Berens,Redshirt Junior,"Durham, Conn.",Coginchaug Regional,NA,"6'4""",C,13,https://www.bryantbulldogs.com/sports/womens-basketball/roster/jessica-berens/12924,2024-25
-81,Bryant,12927,Silvia Gonzalez,Sophomore,"Sant Adrià del Besòs, Catalunya",INS Joaquim Blume,NA,"6'2""",F,14,https://www.bryantbulldogs.com/sports/womens-basketball/roster/silvia-gonzalez/12927,2024-25
+81,Bryant,12927,Silvia Gonzalez,Sophomore,"Sant Adrià del Besòs, Spain,INS Joaquim Blume,NA,"6'2""",F,14,https://www.bryantbulldogs.com/sports/womens-basketball/roster/silvia-gonzalez/12927,2024-25
 81,Bryant,14500,Brielle Williams,Junior,"Canton, Ohio",GlenOak,New Hampshire,"5'5""",Guard,15,https://www.bryantbulldogs.com/sports/womens-basketball/roster/brielle-williams/14500,2024-25
 81,Bryant,14502,Maranda Nyborg,Graduate Student,"Bethel, Conn.",Bethel,Fordham,"6'3""",Forward,24,https://www.bryantbulldogs.com/sports/womens-basketball/roster/maranda-nyborg/14502,2024-25
 81,Bryant,12926,Alejandra Ferreirós,Junior,"Madrid, Spain",Colegio Estudiantes,NA,"6'1""",F,31,https://www.bryantbulldogs.com/sports/womens-basketball/roster/alejandra-ferreir-oacute-s/12926,2024-25
@@ -5127,7 +5127,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 21,Alma,9703,Molly Deurloo,Sophomore,"Howell, Mich.",Howell,NA,"5'9""",G,12,https://www.almascots.com/sports/womens-basketball/roster/molly-deurloo/9703,2024-2025
 21,Alma,10149,Anna Waterstredt,Freshman,"Royal Oak, Mich.",Royal Oak,NA,"5'9""",G,13,https://www.almascots.com/sports/womens-basketball/roster/anna-waterstredt/10149,2024-2025
 21,Alma,9687,Emmerson Goodin,Junior,"Newaygo, Mich.",Newaygo,NA,"5'10""",F,14,https://www.almascots.com/sports/womens-basketball/roster/emmerson-goodin/9687,2024-2025
-21,Alma,10335,Abby Hicks,Freshman,,,,,N/A,15,https://www.almascots.com/sports/womens-basketball/roster/abby-hicks/10335,2024-2025
+21,Alma,10335,Abby Hicks,Freshman,"Hart, Mich.",Hart,,,G,15,https://www.almascots.com/sports/womens-basketball/roster/abby-hicks/10335,2024-2025
 21,Alma,9695,Reagan Thorr,Senior,"Frankfort, Mich.",Frankfort,NA,"5'10""",G,20,https://www.almascots.com/sports/womens-basketball/roster/reagan-thorr/9695,2024-2025
 21,Alma,9693,Kerri Miller,Senior,"St. John's, Mich.",St. John's,NA,"5'10""",F,21,https://www.almascots.com/sports/womens-basketball/roster/kerri-miller/9693,2024-2025
 21,Alma,9697,Madelyn Weber,Sophomore,"Hopkins, Mich.",Hopkins,NA,"5'11""",G/F,22,https://www.almascots.com/sports/womens-basketball/roster/madelyn-weber/9697,2024-2025
@@ -13813,7 +13813,7 @@ ncaa_id,team,player_id,name,year,hometown,high_school,previous_school,height,pos
 15882,Rosemont,4683,Lakay Holloway,Jr.,"Upper Darby, PA",Sankofa Freedom Academy Charter School,,,NA,11,https://rosemont-ravens.com/sports/womens-basketball/roster/lakay-holloway/4683,2024-25
 15882,Rosemont,4687,Bella Goodrich,Sr.,"Green Lane, PA",Upper Perkiomen High School,NA,4-10,NA,12,https://rosemont-ravens.com/sports/womens-basketball/roster/bella-goodrich/4687,2024-25
 15882,Rosemont,4695,Aniya McDaniel,Fr.,"Philadelphia, PA",Central Bucks West,NA,5-6,NA,13,https://rosemont-ravens.com/sports/womens-basketball/roster/aniya-mcdaniel/4695,2024-25
-15882,Rosemont,4694,MaLayna Blanco,Fr.,,,NA,,,14,https://rosemont-ravens.com/sports/womens-basketball/roster/malayna-blanco/4694,2024-25
+15882,Rosemont,4694,MaLayna Blanco,Fr.,"Georgetown, DE",Sussex Central,NA,,,14,https://rosemont-ravens.com/sports/womens-basketball/roster/malayna-blanco/4694,2024-25
 15882,Rosemont,4693,Yanae Edwards,Sr.,"Philadelphia, PA",Freire Charter School,NA,5-9,NA,21,https://rosemont-ravens.com/sports/womens-basketball/roster/yanae-edwards/4693,2024-25
 15882,Rosemont,4690,Kylee Kubitschek,Sr.,"Deer Trail, CO",Willow Canyon High School,NA,5-6,NA,22,https://rosemont-ravens.com/sports/womens-basketball/roster/kylee-kubitschek/4690,2024-25
 15882,Rosemont,4689,Olivia Hamme,Sr.,"Mechanicsburg, PA",Cumberland Valley High School,NA,5-9,NA,24,https://rosemont-ravens.com/sports/womens-basketball/roster/olivia-hamme/4689,2024-25
