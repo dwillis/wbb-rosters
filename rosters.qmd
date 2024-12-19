@@ -4,21 +4,47 @@ library(tidyverse)
 
 ```{r}
 teams <- read_csv("teams.csv")
-rosters2021 <- read_csv("rosters_2020-21.csv")
-rosters2122 <- read_csv("rosters_2021-22.csv")
-rosters2223 <- read_csv("rosters_2022-23.csv")
-rosters2324 <- read_csv("rosters_2023-24.csv")
+#rosters1819 <- read_csv("rosters_2018-19.csv") |> select(-player_id)
+#rosters1920 <- read_csv("rosters_2019-20.csv") |> select(-player_id)
+rosters2021 <- read_csv("rosters_2020-21.csv") |> select(-player_id)
+rosters2122 <- read_csv("rosters_2021-22.csv") |> select(-player_id)
+rosters2223 <- read_csv("rosters_2022-23.csv") |> select(-player_id)
+rosters2324 <- read_csv("rosters_2023-24.csv") |> select(-player_id)
+rosters2425 <- read_csv("rosters_2024-25.csv") |> select(-player_id)
+
+combined_rosters <- bind_rows(rosters2021, rosters2122, rosters2223, rosters2324, rosters2425)
+
+players <- read_csv("players_with_ncaa_id.csv") 
+
 ```
 
+
 ```{r}
-teams2324 <- rosters2324 %>% distinct(ncaa_id, team)
-need_rosters <- teams %>% anti_join(teams2324, by='ncaa_id')
+players |> 
+  group_by(master_id) |> 
+  summarize(teams = n()) |> 
+  arrange(desc(teams))
+```
 
-roster_adds <- need_rosters %>% inner_join(oldrosters2122, by=c("ncaa_id", "team")) %>% select(-twitter, -stats_name, -private, -team_state, -conference, -division, -url.x, -url.y)
 
-rosters2122_with_adds <- bind_rows(rosters2122, roster_adds)
 
-write_csv(rosters2122_with_adds,"rosters_2021-22.csv")
+```{r}
+
+rosters2425 <- read_csv("rosters_2024-25.csv")
+teams2425 <- rosters2425 %>% distinct(ncaa_id, team)
+need_rosters <- teams %>% anti_join(teams2425, by='ncaa_id')
+
+rosters2425 <- rosters2425 |> mutate(player_id = as.character(player_id))
+
+roster_adds <- read_csv("adds.csv")
+
+
+roster_adds <- roster_adds |> mutate(player_id = as.character(player_id), jersey = as.character(jersey))
+
+rosters2425_with_adds <- bind_rows(rosters2425, roster_adds)
+
+
+write_csv(rosters2425_with_adds,"rosters_2024-25.csv")
 
 ```
 
@@ -26,10 +52,10 @@ write_csv(rosters2122_with_adds,"rosters_2021-22.csv")
 # Find missing values
 
 ```{r}
-rosters2122 %>% filter(is.na(high_school))
-rosters2122 %>% filter(is.na(position))
-rosters2122 %>% filter(is.na(year))
-rosters2122 %>% filter(is.na(height))
+rosters2425 %>% filter(is.na(high_school))
+rosters2425 %>% filter(is.na(position))
+rosters2425 %>% filter(is.na(year))
+rosters2425 %>% filter(is.na(height))
 ```
 
 
@@ -73,4 +99,30 @@ rosters2122 <- rosters2122 %>% left_join(common_players_22, join_by(url == url.x
 
 ```
 
+
+### NCAA IDs
+
+```{r}
+teams_with_ids <- read_csv("~/code/wbb/ncaa/stats/teams/teams_with_id_master.csv")
+all_teams <- read_csv("~/code/wbb/ncaa/stats/ncaa_womens_basketball_teams.csv")
+
+missing_team_stats <- all_teams |> anti_join(teams_with_ids, join_by(team_id==ncaa_id, season, url))
+
+combined_teams <- all_teams |> inner_join(teams_with_ids, join_by(team_id==ncaa_id, season, url))
+
+players_with_team_ids <- players |> inner_join(teams_with_ids, join_by(team_id == ncaa_id, season == season))
+players |> anti_join(teams_with_ids, join_by(team_id == ncaa_id, season == season))
+
+players_with_team_ids2 <- players |> inner_join(all_teams, join_by(season, team_id))
+
+players |> anti_join(all_teams, join_by(season, team_id)) 
+
+
+players25 <- players_with_team_ids |> filter(season == 2025)
+
+
+
+rosters25_with_ids <- rosters2425 |> left_join(players25, join_by(ncaa_id == master_team_id, name == player_name))
+
+```
 
