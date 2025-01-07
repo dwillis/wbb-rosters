@@ -110,6 +110,8 @@ missing_team_stats <- all_teams |> anti_join(teams_with_ids, join_by(team_id==nc
 
 combined_teams <- all_teams |> inner_join(teams_with_ids, join_by(team_id==ncaa_id, season, url))
 
+write_csv(combined_teams, "combined_teams.csv")
+
 players_with_team_ids <- players |> inner_join(teams_with_ids, join_by(team_id == ncaa_id, season == season))
 players |> anti_join(teams_with_ids, join_by(team_id == ncaa_id, season == season))
 
@@ -123,6 +125,8 @@ players25 <- players_with_team_ids |> filter(season == 2025)
 
 
 rosters25_with_ids <- rosters2425 |> left_join(players25, join_by(ncaa_id == master_team_id, name == player_name))
+
+unmatched_players25 <- rosters25_with_ids |> filter(is.na(season.y))
 
 ```
 
